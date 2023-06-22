@@ -110,7 +110,7 @@ Partial Class Mainform
         ' 
         Guna2CirclePictureBox1.BackColor = Color.Transparent
         Guna2CirclePictureBox1.BackgroundImageLayout = ImageLayout.Zoom
-        Guna2CirclePictureBox1.Image = logo2
+        Guna2CirclePictureBox1.Image = Resources.logo2
         Guna2CirclePictureBox1.ImageRotate = 0F
         Guna2CirclePictureBox1.Location = New Point(59, 55)
         Guna2CirclePictureBox1.Name = "Guna2CirclePictureBox1"
