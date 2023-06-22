@@ -1,0 +1,98 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <StartupObject>HRMSI.Mainform</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <ImportedNamespaces>Guna.UI2.AnimatorNS=False,Guna.UI2.Designer=False,Guna.UI2.Material.Animation=False,Guna.UI2.Native=False,Guna.UI2.WinForms=False,Guna.UI2.WinForms.Enums=False,Guna.UI2.WinForms.Helpers=False,Guna.UI2.WinForms.Interfaces=False,Guna.UI2.WinForms.Internal=False,Guna.UI2.WinForms.Suite=False,HRMSI.My=False,HRMSI.My.Resources=False,LiveCharts=False,LiveCharts.Charts=False,LiveCharts.Configurations=False,LiveCharts.Defaults=False,LiveCharts.Definitions.Charts=False,LiveCharts.Definitions.Points=False,LiveCharts.Definitions.Series=False,LiveCharts.Dtos=False,LiveCharts.Events=False,LiveCharts.Helpers=False,LiveCharts.Maps=False,LiveCharts.SeriesAlgorithms=False,LiveCharts.WinForms=False,LiveCharts.Wpf=False,MySql.Data.MySqlClient=False,System.Data=False,System.Data.SqlClient=False,System.Drawing=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,HRMSI=True</ImportedNamespaces>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="Guna.UI2.AnimatorNS" />
+    <Import Include="Guna.UI2.Designer" />
+    <Import Include="Guna.UI2.Material.Animation" />
+    <Import Include="Guna.UI2.Native" />
+    <Import Include="Guna.UI2.WinForms" />
+    <Import Include="Guna.UI2.WinForms.Enums" />
+    <Import Include="Guna.UI2.WinForms.Helpers" />
+    <Import Include="Guna.UI2.WinForms.Interfaces" />
+    <Import Include="Guna.UI2.WinForms.Internal" />
+    <Import Include="Guna.UI2.WinForms.Suite" />
+    <Import Include="HRMSI.My" />
+    <Import Include="HRMSI.My.Resources" />
+    <Import Include="LiveCharts" />
+    <Import Include="LiveCharts.Charts" />
+    <Import Include="LiveCharts.Configurations" />
+    <Import Include="LiveCharts.Defaults" />
+    <Import Include="LiveCharts.Definitions.Charts" />
+    <Import Include="LiveCharts.Definitions.Points" />
+    <Import Include="LiveCharts.Definitions.Series" />
+    <Import Include="LiveCharts.Dtos" />
+    <Import Include="LiveCharts.Events" />
+    <Import Include="LiveCharts.Helpers" />
+    <Import Include="LiveCharts.Maps" />
+    <Import Include="LiveCharts.SeriesAlgorithms" />
+    <Import Include="LiveCharts.WinForms" />
+    <Import Include="LiveCharts.Wpf" />
+    <Import Include="MySql.Data.MySqlClient" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.4" />
+    <PackageReference Include="LiveCharts.WinForms" Version="0.9.7.1" />
+    <PackageReference Include="LiveCharts.WinForms.NetCore3" Version="0.9.7" />
+    <PackageReference Include="MySql.Data" Version="8.0.33" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.0.33.1\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Settings.Designer.vb">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Update="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
