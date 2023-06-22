@@ -183,7 +183,8 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2vSeparator2
         ' 
-        Guna2vSeparator2.FillColor = Color.White
+        Guna2vSeparator2.FillColor = Color.Gray
+        Guna2vSeparator2.FillThickness = 2
         Guna2vSeparator2.Location = New Point(90, 12)
         Guna2vSeparator2.Name = "Guna2vSeparator2"
         Guna2vSeparator2.Size = New Size(12, 34)
@@ -258,7 +259,8 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2vSeparator1
         ' 
-        Guna2vSeparator1.FillColor = Color.White
+        Guna2vSeparator1.FillColor = Color.Gray
+        Guna2vSeparator1.FillThickness = 2
         Guna2vSeparator1.Location = New Point(46, 12)
         Guna2vSeparator1.Name = "Guna2vSeparator1"
         Guna2vSeparator1.Size = New Size(12, 34)
