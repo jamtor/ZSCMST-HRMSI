@@ -67,14 +67,7 @@ Partial Class EmployeeManagement
         Guna2TabControl2 = New Guna2TabControl()
         TabPage11 = New TabPage()
         Guna2DataGridView1 = New Guna2DataGridView()
-        Column1 = New DataGridViewTextBoxColumn()
-        Column2 = New DataGridViewTextBoxColumn()
-        Column3 = New DataGridViewTextBoxColumn()
-        Column4 = New DataGridViewTextBoxColumn()
-        Column5 = New DataGridViewTextBoxColumn()
-        Column6 = New DataGridViewTextBoxColumn()
-        Column7 = New DataGridViewTextBoxColumn()
-        BindingSourceBindingSource = New BindingSource(components)
+        bsEmp = New BindingSource(components)
         TabPage12 = New TabPage()
         Guna2Panel3 = New Guna2Panel()
         Guna2vSeparator2 = New Guna2VSeparator()
@@ -83,10 +76,17 @@ Partial Class EmployeeManagement
         Guna2Button1 = New Guna2Button()
         Guna2vSeparator1 = New Guna2VSeparator()
         Guna2Button2 = New Guna2Button()
+        BindingSourceBindingSource = New BindingSource(components)
         Guna2TabControl1 = New Guna2TabControl()
         Guna2AnimateWindow1 = New Guna2AnimateWindow(components)
-        bsEmp = New BindingSource(components)
         BindingSource1 = New BindingSource(components)
+        Column1 = New DataGridViewTextBoxColumn()
+        Column2 = New DataGridViewTextBoxColumn()
+        Column3 = New DataGridViewTextBoxColumn()
+        Column4 = New DataGridViewTextBoxColumn()
+        Column5 = New DataGridViewTextBoxColumn()
+        Column6 = New DataGridViewTextBoxColumn()
+        Column7 = New DataGridViewTextBoxColumn()
         TabPage1.SuspendLayout()
         Guna2TabControl3.SuspendLayout()
         TabPage13.SuspendLayout()
@@ -95,10 +95,10 @@ Partial Class EmployeeManagement
         Guna2TabControl2.SuspendLayout()
         TabPage11.SuspendLayout()
         CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
-        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).BeginInit()
-        Guna2Panel3.SuspendLayout()
-        Guna2TabControl1.SuspendLayout()
         CType(bsEmp, ComponentModel.ISupportInitialize).BeginInit()
+        Guna2Panel3.SuspendLayout()
+        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).BeginInit()
+        Guna2TabControl1.SuspendLayout()
         CType(BindingSource1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -215,17 +215,17 @@ Partial Class EmployeeManagement
         Guna2TabControl3.Size = New Size(680, 700)
         Guna2TabControl3.TabButtonHoverState.BorderColor = Color.Empty
         Guna2TabControl3.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
-        Guna2TabControl3.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl3.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl3.TabButtonHoverState.ForeColor = Color.White
         Guna2TabControl3.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl3.TabButtonIdleState.BorderColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl3.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
-        Guna2TabControl3.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl3.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl3.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
         Guna2TabControl3.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
         Guna2TabControl3.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl3.TabButtonSelectedState.FillColor = Color.LightSteelBlue
-        Guna2TabControl3.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl3.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl3.TabButtonSelectedState.ForeColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl3.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl3.TabButtonSize = New Size(95, 40)
@@ -260,17 +260,17 @@ Partial Class EmployeeManagement
         Guna2TabControl4.Size = New Size(666, 646)
         Guna2TabControl4.TabButtonHoverState.BorderColor = Color.Empty
         Guna2TabControl4.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
-        Guna2TabControl4.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl4.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl4.TabButtonHoverState.ForeColor = Color.White
         Guna2TabControl4.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl4.TabButtonIdleState.BorderColor = Color.Empty
         Guna2TabControl4.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
-        Guna2TabControl4.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl4.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl4.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(156), CByte(160), CByte(167))
         Guna2TabControl4.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl4.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl4.TabButtonSelectedState.FillColor = Color.FromArgb(CByte(29), CByte(37), CByte(49))
-        Guna2TabControl4.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl4.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl4.TabButtonSelectedState.ForeColor = Color.White
         Guna2TabControl4.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl4.TabButtonSize = New Size(180, 40)
@@ -355,7 +355,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage18
         ' 
-        TabPage18.Font = New Font("Arial Narrow", 6.0F, FontStyle.Regular, GraphicsUnit.Point)
+        TabPage18.Font = New Font("Arial Narrow", 6F, FontStyle.Regular, GraphicsUnit.Point)
         TabPage18.Location = New Point(4, 44)
         TabPage18.Name = "TabPage18"
         TabPage18.Size = New Size(672, 652)
@@ -400,17 +400,17 @@ Partial Class EmployeeManagement
         Guna2TabControl2.Size = New Size(906, 700)
         Guna2TabControl2.TabButtonHoverState.BorderColor = Color.Empty
         Guna2TabControl2.TabButtonHoverState.FillColor = Color.SteelBlue
-        Guna2TabControl2.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl2.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl2.TabButtonHoverState.ForeColor = Color.White
         Guna2TabControl2.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(192), CByte(255), CByte(255))
         Guna2TabControl2.TabButtonIdleState.BorderColor = Color.Empty
         Guna2TabControl2.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
-        Guna2TabControl2.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl2.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl2.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
         Guna2TabControl2.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl2.TabButtonSelectedState.FillColor = Color.LightSteelBlue
-        Guna2TabControl2.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl2.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl2.TabButtonSelectedState.ForeColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabButtonSelectedState.InnerColor = Color.MidnightBlue
         Guna2TabControl2.TabButtonSize = New Size(180, 40)
@@ -438,7 +438,7 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.BackgroundColor = Color.WhiteSmoke
         DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
-        DataGridViewCellStyle2.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle2.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle2.ForeColor = Color.White
         DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
         DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
@@ -447,10 +447,10 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.ColumnHeadersHeight = 44
         Guna2DataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
         Guna2DataGridView1.Columns.AddRange(New DataGridViewColumn() {Column1, Column2, Column3, Column4, Column5, Column6, Column7})
-        Guna2DataGridView1.DataSource = BindingSourceBindingSource
+        Guna2DataGridView1.DataSource = bsEmp
         DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle3.BackColor = Color.White
-        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle3.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
@@ -473,57 +473,18 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         Guna2DataGridView1.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
-        Guna2DataGridView1.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView1.ThemeStyle.HeaderStyle.ForeColor = Color.White
         Guna2DataGridView1.ThemeStyle.HeaderStyle.HeaightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
         Guna2DataGridView1.ThemeStyle.HeaderStyle.Height = 44
         Guna2DataGridView1.ThemeStyle.ReadOnly = False
         Guna2DataGridView1.ThemeStyle.RowsStyle.BackColor = Color.White
         Guna2DataGridView1.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
-        Guna2DataGridView1.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         Guna2DataGridView1.ThemeStyle.RowsStyle.Height = 25
         Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
-        ' 
-        ' Column1
-        ' 
-        Column1.HeaderText = "Employee ID"
-        Column1.Name = "Column1"
-        ' 
-        ' Column2
-        ' 
-        Column2.HeaderText = "Name"
-        Column2.Name = "Column2"
-        ' 
-        ' Column3
-        ' 
-        Column3.HeaderText = "Office"
-        Column3.Name = "Column3"
-        ' 
-        ' Column4
-        ' 
-        Column4.HeaderText = "Position"
-        Column4.Name = "Column4"
-        ' 
-        ' Column5
-        ' 
-        Column5.HeaderText = "Education Degree"
-        Column5.Name = "Column5"
-        ' 
-        ' Column6
-        ' 
-        Column6.HeaderText = "Date Hired"
-        Column6.Name = "Column6"
-        ' 
-        ' Column7
-        ' 
-        Column7.HeaderText = "Status"
-        Column7.Name = "Column7"
-        ' 
-        ' BindingSourceBindingSource
-        ' 
-        BindingSourceBindingSource.DataSource = GetType(BindingSource)
         ' 
         ' TabPage12
         ' 
@@ -572,7 +533,7 @@ Partial Class EmployeeManagement
         Guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         Guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         Guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox1.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TextBox1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox1.IconLeft = search
         Guna2TextBox1.Location = New Point(1373, 10)
@@ -595,7 +556,7 @@ Partial Class EmployeeManagement
         Guna2Button3.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button3.FillColor = Color.Transparent
         Guna2Button3.FocusedColor = Color.Transparent
-        Guna2Button3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button3.ForeColor = Color.White
         Guna2Button3.Image = trash
         Guna2Button3.Location = New Point(64, 11)
@@ -615,7 +576,7 @@ Partial Class EmployeeManagement
         Guna2Button1.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button1.FillColor = Color.Transparent
         Guna2Button1.FocusedColor = Color.Transparent
-        Guna2Button1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button1.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button1.ForeColor = Color.White
         Guna2Button1.HoverState.BorderColor = Color.Transparent
         Guna2Button1.HoverState.CustomBorderColor = Color.Transparent
@@ -648,7 +609,7 @@ Partial Class EmployeeManagement
         Guna2Button2.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button2.FillColor = Color.Transparent
         Guna2Button2.FocusedColor = Color.Transparent
-        Guna2Button2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button2.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button2.ForeColor = Color.White
         Guna2Button2.Image = pencil__1_
         Guna2Button2.Location = New Point(108, 11)
@@ -656,6 +617,10 @@ Partial Class EmployeeManagement
         Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges12
         Guna2Button2.Size = New Size(26, 36)
         Guna2Button2.TabIndex = 3
+        ' 
+        ' BindingSourceBindingSource
+        ' 
+        BindingSourceBindingSource.DataSource = GetType(BindingSource)
         ' 
         ' Guna2TabControl1
         ' 
@@ -678,18 +643,18 @@ Partial Class EmployeeManagement
         Guna2TabControl1.Size = New Size(1800, 771)
         Guna2TabControl1.TabButtonHoverState.BorderColor = Color.Empty
         Guna2TabControl1.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
-        Guna2TabControl1.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl1.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl1.TabButtonHoverState.ForeColor = Color.White
         Guna2TabControl1.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl1.TabButtonIdleState.BorderColor = Color.Empty
         Guna2TabControl1.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
-        Guna2TabControl1.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl1.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl1.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(156), CByte(160), CByte(167))
         Guna2TabControl1.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl1.TabButtonImageAlign = HorizontalAlignment.Left
         Guna2TabControl1.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl1.TabButtonSelectedState.FillColor = Color.FromArgb(CByte(29), CByte(37), CByte(49))
-        Guna2TabControl1.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TabControl1.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl1.TabButtonSelectedState.ForeColor = Color.White
         Guna2TabControl1.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl1.TabButtonSize = New Size(200, 40)
@@ -697,9 +662,46 @@ Partial Class EmployeeManagement
         Guna2TabControl1.TabIndex = 0
         Guna2TabControl1.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         ' 
+        ' Column1
+        ' 
+        Column1.DataPropertyName = "id"
+        Column1.HeaderText = "Employee ID"
+        Column1.Name = "Column1"
+        ' 
+        ' Column2
+        ' 
+        Column2.DataPropertyName = "firstName"
+        Column2.HeaderText = "Name"
+        Column2.Name = "Column2"
+        ' 
+        ' Column3
+        ' 
+        Column3.HeaderText = "Office"
+        Column3.Name = "Column3"
+        ' 
+        ' Column4
+        ' 
+        Column4.HeaderText = "Position"
+        Column4.Name = "Column4"
+        ' 
+        ' Column5
+        ' 
+        Column5.HeaderText = "Education Degree"
+        Column5.Name = "Column5"
+        ' 
+        ' Column6
+        ' 
+        Column6.HeaderText = "Date Hired"
+        Column6.Name = "Column6"
+        ' 
+        ' Column7
+        ' 
+        Column7.HeaderText = "Status"
+        Column7.Name = "Column7"
+        ' 
         ' EmployeeManagement
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         Controls.Add(Guna2TabControl1)
         Name = "EmployeeManagement"
@@ -713,10 +715,10 @@ Partial Class EmployeeManagement
         Guna2TabControl2.ResumeLayout(False)
         TabPage11.ResumeLayout(False)
         CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).EndInit()
-        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).EndInit()
-        Guna2Panel3.ResumeLayout(False)
-        Guna2TabControl1.ResumeLayout(False)
         CType(bsEmp, ComponentModel.ISupportInitialize).EndInit()
+        Guna2Panel3.ResumeLayout(False)
+        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).EndInit()
+        Guna2TabControl1.ResumeLayout(False)
         CType(BindingSource1, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
@@ -746,13 +748,6 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2vSeparator1 As Guna2VSeparator
     Friend WithEvents Guna2Panel3 As Guna2Panel
     Friend WithEvents Guna2DataGridView1 As Guna2DataGridView
-    Friend WithEvents Column1 As DataGridViewTextBoxColumn
-    Friend WithEvents Column2 As DataGridViewTextBoxColumn
-    Friend WithEvents Column3 As DataGridViewTextBoxColumn
-    Friend WithEvents Column4 As DataGridViewTextBoxColumn
-    Friend WithEvents Column5 As DataGridViewTextBoxColumn
-    Friend WithEvents Column6 As DataGridViewTextBoxColumn
-    Friend WithEvents Column7 As DataGridViewTextBoxColumn
     Friend WithEvents bsEmp As BindingSource
     Friend WithEvents BindingSourceBindingSource As BindingSource
     Friend WithEvents BindingSource1 As BindingSource
@@ -768,4 +763,11 @@ Partial Class EmployeeManagement
     Friend WithEvents TabPage20 As TabPage
     Friend WithEvents TabPage21 As TabPage
     Friend WithEvents TabPage22 As TabPage
+    Friend WithEvents Column1 As DataGridViewTextBoxColumn
+    Friend WithEvents Column2 As DataGridViewTextBoxColumn
+    Friend WithEvents Column3 As DataGridViewTextBoxColumn
+    Friend WithEvents Column4 As DataGridViewTextBoxColumn
+    Friend WithEvents Column5 As DataGridViewTextBoxColumn
+    Friend WithEvents Column6 As DataGridViewTextBoxColumn
+    Friend WithEvents Column7 As DataGridViewTextBoxColumn
 End Class
