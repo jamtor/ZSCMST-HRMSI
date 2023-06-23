@@ -57,8 +57,8 @@ Namespace My
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=localhost;Initial Catalog=hrmis;Persist Security Info=True;User ID=sa"& _ 
-            ";Password=9375")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=172.16.5.46;Initial Catalog=hrmis;Persist Security Info=True;User ID="& _ 
+            "sa;Password=9375")>  _
         Public ReadOnly Property mssqlCon() As String
             Get
                 Return CType(Me("mssqlCon"),String)
