@@ -27,6 +27,9 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges2 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges3 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges4 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges13 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges14 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges5 As CustomizableEdges = New CustomizableEdges()
@@ -51,6 +54,14 @@ Partial Class EmployeeManagement
         Guna2Panel2 = New Guna2Panel()
         Guna2TabControl2 = New Guna2TabControl()
         TabPage11 = New TabPage()
+        Guna2DataGridView1 = New Guna2DataGridView()
+        Column1 = New DataGridViewTextBoxColumn()
+        Column2 = New DataGridViewTextBoxColumn()
+        Column3 = New DataGridViewTextBoxColumn()
+        Column4 = New DataGridViewTextBoxColumn()
+        Column5 = New DataGridViewTextBoxColumn()
+        Column6 = New DataGridViewTextBoxColumn()
+        Column7 = New DataGridViewTextBoxColumn()
         TabPage12 = New TabPage()
         Guna2Panel3 = New Guna2Panel()
         Guna2vSeparator2 = New Guna2VSeparator()
@@ -61,11 +72,19 @@ Partial Class EmployeeManagement
         Guna2Button2 = New Guna2Button()
         Guna2TabControl1 = New Guna2TabControl()
         Guna2AnimateWindow1 = New Guna2AnimateWindow(components)
+        bsEmp = New BindingSource(components)
+        BindingSource1 = New BindingSource(components)
+        BindingSourceBindingSource = New BindingSource(components)
         TabPage1.SuspendLayout()
         Guna2Panel2.SuspendLayout()
         Guna2TabControl2.SuspendLayout()
+        TabPage11.SuspendLayout()
+        CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
         Guna2Panel3.SuspendLayout()
         Guna2TabControl1.SuspendLayout()
+        CType(bsEmp, ComponentModel.ISupportInitialize).BeginInit()
+        CType(BindingSource1, ComponentModel.ISupportInitialize).BeginInit()
+        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' TabPage10
@@ -220,6 +239,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage11
         ' 
+        TabPage11.Controls.Add(Guna2DataGridView1)
         TabPage11.ForeColor = SystemColors.ControlText
         TabPage11.Location = New Point(4, 44)
         TabPage11.Name = "TabPage11"
@@ -229,12 +249,102 @@ Partial Class EmployeeManagement
         TabPage11.Text = "Plantilla Positions"
         TabPage11.UseVisualStyleBackColor = True
         ' 
+        ' Guna2DataGridView1
+        ' 
+        DataGridViewCellStyle1.BackColor = Color.White
+        Guna2DataGridView1.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
+        Guna2DataGridView1.AutoGenerateColumns = False
+        DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
+        DataGridViewCellStyle2.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle2.ForeColor = Color.White
+        DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle2.WrapMode = DataGridViewTriState.True
+        Guna2DataGridView1.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle2
+        Guna2DataGridView1.ColumnHeadersHeight = 44
+        Guna2DataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
+        Guna2DataGridView1.Columns.AddRange(New DataGridViewColumn() {Column1, Column2, Column3, Column4, Column5, Column6, Column7})
+        Guna2DataGridView1.DataSource = BindingSourceBindingSource
+        DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle3.BackColor = Color.White
+        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle3.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle3.WrapMode = DataGridViewTriState.False
+        Guna2DataGridView1.DefaultCellStyle = DataGridViewCellStyle3
+        Guna2DataGridView1.Dock = DockStyle.Fill
+        Guna2DataGridView1.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.Location = New Point(3, 3)
+        Guna2DataGridView1.Name = "Guna2DataGridView1"
+        Guna2DataGridView1.RowHeadersVisible = False
+        Guna2DataGridView1.RowTemplate.Height = 25
+        Guna2DataGridView1.Size = New Size(892, 646)
+        Guna2DataGridView1.TabIndex = 0
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = Nothing
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.ForeColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.ForeColor = Color.White
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.HeaightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.Height = 44
+        Guna2DataGridView1.ThemeStyle.ReadOnly = False
+        Guna2DataGridView1.ThemeStyle.RowsStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
+        Guna2DataGridView1.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        Guna2DataGridView1.ThemeStyle.RowsStyle.Height = 25
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        ' 
+        ' Column1
+        ' 
+        Column1.HeaderText = "Employee ID"
+        Column1.Name = "Column1"
+        ' 
+        ' Column2
+        ' 
+        Column2.HeaderText = "Name"
+        Column2.Name = "Column2"
+        ' 
+        ' Column3
+        ' 
+        Column3.HeaderText = "Office"
+        Column3.Name = "Column3"
+        ' 
+        ' Column4
+        ' 
+        Column4.HeaderText = "Position"
+        Column4.Name = "Column4"
+        ' 
+        ' Column5
+        ' 
+        Column5.HeaderText = "Education Degree"
+        Column5.Name = "Column5"
+        ' 
+        ' Column6
+        ' 
+        Column6.HeaderText = "Date Hired"
+        Column6.Name = "Column6"
+        ' 
+        ' Column7
+        ' 
+        Column7.HeaderText = "Status"
+        Column7.Name = "Column7"
+        ' 
         ' TabPage12
         ' 
-        TabPage12.Location = New Point(4, 84)
+        TabPage12.Location = New Point(4, 44)
         TabPage12.Name = "TabPage12"
         TabPage12.Padding = New Padding(3)
-        TabPage12.Size = New Size(0, 612)
+        TabPage12.Size = New Size(898, 652)
         TabPage12.TabIndex = 1
         TabPage12.Text = "Non-Plantilla Positions"
         TabPage12.UseVisualStyleBackColor = True
@@ -401,6 +511,10 @@ Partial Class EmployeeManagement
         Guna2TabControl1.TabIndex = 0
         Guna2TabControl1.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         ' 
+        ' BindingSourceBindingSource
+        ' 
+        BindingSourceBindingSource.DataSource = GetType(BindingSource)
+        ' 
         ' EmployeeManagement
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -412,8 +526,13 @@ Partial Class EmployeeManagement
         TabPage1.PerformLayout()
         Guna2Panel2.ResumeLayout(False)
         Guna2TabControl2.ResumeLayout(False)
+        TabPage11.ResumeLayout(False)
+        CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).EndInit()
         Guna2Panel3.ResumeLayout(False)
         Guna2TabControl1.ResumeLayout(False)
+        CType(bsEmp, ComponentModel.ISupportInitialize).EndInit()
+        CType(BindingSource1, ComponentModel.ISupportInitialize).EndInit()
+        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -441,4 +560,15 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2vSeparator2 As Guna2VSeparator
     Friend WithEvents Guna2vSeparator1 As Guna2VSeparator
     Friend WithEvents Guna2Panel3 As Guna2Panel
+    Friend WithEvents Guna2DataGridView1 As Guna2DataGridView
+    Friend WithEvents Column1 As DataGridViewTextBoxColumn
+    Friend WithEvents Column2 As DataGridViewTextBoxColumn
+    Friend WithEvents Column3 As DataGridViewTextBoxColumn
+    Friend WithEvents Column4 As DataGridViewTextBoxColumn
+    Friend WithEvents Column5 As DataGridViewTextBoxColumn
+    Friend WithEvents Column6 As DataGridViewTextBoxColumn
+    Friend WithEvents Column7 As DataGridViewTextBoxColumn
+    Friend WithEvents bsEmp As BindingSource
+    Friend WithEvents BindingSourceBindingSource As BindingSource
+    Friend WithEvents BindingSource1 As BindingSource
 End Class
