@@ -4,14 +4,14 @@ Public Class EmployeeManagement
     Dim dataTbl As New DataTable
 
     Private Sub loadEmployeMngt()
-        Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
-            dataTbl.Clear() : sql.Fill(dataTbl)
-            bsEmp.DataSource = dataTbl
-        End Using
+        'Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
+        'dataTbl.Clear() : sql.Fill(dataTbl)
+        'bsEmp.DataSource = dataTbl
+        'End Using
     End Sub
 
     Private Sub EmployeeManagement_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        loadEmployeMngt()
+        'loadEmployeMngt()
     End Sub
 
     Private Sub bsEmp_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsEmp.CurrentItemChanged
@@ -64,4 +64,7 @@ Public Class EmployeeManagement
         dgView.Enabled = False
     End Sub
 
+    Private Sub Guna2HtmlLabel72_Click(sender As Object, e As EventArgs)
+
+    End Sub
 End Class

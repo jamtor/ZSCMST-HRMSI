@@ -24,6 +24,8 @@ Partial Class Mainform
     Private Sub InitializeComponent()
         Dim CustomizableEdges10 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges11 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges3 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges4 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges1 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges2 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges5 As CustomizableEdges = New CustomizableEdges()
@@ -41,9 +43,8 @@ Partial Class Mainform
         Dim CustomizableEdges17 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges18 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges19 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges3 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges4 As CustomizableEdges = New CustomizableEdges()
         MainTabs = New Guna2GradientPanel()
+        Guna2GradientPanel3 = New Guna2GradientPanel()
         Guna2Button1 = New Guna2Button()
         Guna2HtmlLabel2 = New Guna2HtmlLabel()
         Guna2CirclePictureBox1 = New Guna2CirclePictureBox()
@@ -55,19 +56,18 @@ Partial Class Mainform
         Guna2GradientPanel1 = New Guna2GradientPanel()
         Guna2HtmlLabel1 = New Guna2HtmlLabel()
         Guna2GradientTileButton1 = New Guna2GradientTileButton()
-        Guna2GradientPanel3 = New Guna2GradientPanel()
         MainTabs.SuspendLayout()
+        Guna2GradientPanel3.SuspendLayout()
         CType(Guna2CirclePictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(Guna2PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         Guna2GradientPanel2.SuspendLayout()
         Guna2GradientPanel1.SuspendLayout()
-        Guna2GradientPanel3.SuspendLayout()
         SuspendLayout()
         ' 
         ' MainTabs
         ' 
         MainTabs.AutoSize = True
-        MainTabs.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
+        MainTabs.BackColor = Color.FromArgb(CByte(29), CByte(45), CByte(80))
         MainTabs.Controls.Add(Guna2GradientPanel3)
         MainTabs.Controls.Add(Guna2HtmlLabel2)
         MainTabs.Controls.Add(Guna2CirclePictureBox1)
@@ -80,6 +80,17 @@ Partial Class Mainform
         MainTabs.ShadowDecoration.CustomizableEdges = CustomizableEdges11
         MainTabs.Size = New Size(233, 651)
         MainTabs.TabIndex = 0
+        ' 
+        ' Guna2GradientPanel3
+        ' 
+        Guna2GradientPanel3.Controls.Add(Guna2Button1)
+        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges3
+        Guna2GradientPanel3.Dock = DockStyle.Bottom
+        Guna2GradientPanel3.Location = New Point(0, 579)
+        Guna2GradientPanel3.Name = "Guna2GradientPanel3"
+        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        Guna2GradientPanel3.Size = New Size(233, 72)
+        Guna2GradientPanel3.TabIndex = 6
         ' 
         ' Guna2Button1
         ' 
@@ -165,7 +176,7 @@ Partial Class Mainform
         Guna2TileButton1.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2TileButton1.FillColor = Color.Empty
         Guna2TileButton1.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Guna2TileButton1.ForeColor = Color.FromArgb(CByte(18), CByte(166), CByte(209))
+        Guna2TileButton1.ForeColor = Color.White
         Guna2TileButton1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TileButton1.HoverState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TileButton1.HoverState.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
@@ -181,7 +192,7 @@ Partial Class Mainform
         ' 
         ' MainPanel
         ' 
-        MainPanel.BackColor = Color.GhostWhite
+        MainPanel.BackColor = Color.FromArgb(CByte(241), CByte(246), CByte(249))
         MainPanel.CustomizableEdges = CustomizableEdges12
         MainPanel.Dock = DockStyle.Fill
         MainPanel.Location = New Point(233, 55)
@@ -257,17 +268,6 @@ Partial Class Mainform
         Guna2GradientTileButton1.Size = New Size(33, 27)
         Guna2GradientTileButton1.TabIndex = 0
         ' 
-        ' Guna2GradientPanel3
-        ' 
-        Guna2GradientPanel3.Controls.Add(Guna2Button1)
-        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges3
-        Guna2GradientPanel3.Dock = DockStyle.Bottom
-        Guna2GradientPanel3.Location = New Point(0, 579)
-        Guna2GradientPanel3.Name = "Guna2GradientPanel3"
-        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges4
-        Guna2GradientPanel3.Size = New Size(233, 72)
-        Guna2GradientPanel3.TabIndex = 6
-        ' 
         ' Mainform
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -283,12 +283,12 @@ Partial Class Mainform
         WindowState = FormWindowState.Maximized
         MainTabs.ResumeLayout(False)
         MainTabs.PerformLayout()
+        Guna2GradientPanel3.ResumeLayout(False)
         CType(Guna2CirclePictureBox1, ComponentModel.ISupportInitialize).EndInit()
         CType(Guna2PictureBox1, ComponentModel.ISupportInitialize).EndInit()
         Guna2GradientPanel2.ResumeLayout(False)
         Guna2GradientPanel1.ResumeLayout(False)
         Guna2GradientPanel1.PerformLayout()
-        Guna2GradientPanel3.ResumeLayout(False)
         ResumeLayout(False)
         PerformLayout()
     End Sub
