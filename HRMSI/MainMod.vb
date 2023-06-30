@@ -11,13 +11,13 @@
     Public Function NullText(ByVal x As Object) As Object
         On Error GoTo errhanler
         If IsDBNull(x) Then
-            NullText = ""
+            NullText = " "
         Else
             NullText = x
         End If
 errhanler:
         If Err.Number > 0 Then
-            NullText = ""
+            NullText = " "
         End If
     End Function
 
