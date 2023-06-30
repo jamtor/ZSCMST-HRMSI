@@ -46,4 +46,8 @@ Public Class EmployeeManagement
 
     Private Sub Guna2DateTimePicker2_ValueChanged(sender As Object, e As EventArgs) Handles Guna2DateTimePicker2.ValueChanged
     End Sub
+
+    Private Sub Guna2Panel5_Paint(sender As Object, e As PaintEventArgs) Handles Guna2Panel5.Paint
+
+    End Sub
 End Class
