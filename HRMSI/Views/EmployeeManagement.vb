@@ -1,12 +1,12 @@
 ﻿Imports System.Management
 
 Public Class EmployeeManagement
-    Dim dt As New DataTable
+    Dim dataTbl As New DataTable
 
     Private Sub loadEmployeMngt()
         Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
-            dt.Clear() : sql.Fill(dt)
-            bsEmp.DataSource = dt
+            dataTbl.Clear() : sql.Fill(dataTbl)
+            bsEmp.DataSource = dataTbl
         End Using
     End Sub
 
@@ -51,22 +51,17 @@ Public Class EmployeeManagement
     End Sub
 
 
-    Private Sub Guna2Separator1_Click(sender As Object, e As EventArgs) Handles Guna2Separator1.Click
-
+    Private Sub btnEdit_Click(sender As Object, e As EventArgs) Handles btnEdit.Click
+        textBoxEnabled()
+    End Sub
+    Private Sub textBoxEnabled()
+        For i = 1 To 31
+            Dim tb = Me.Controls.Find("tbt" & i, True)
+            If tb.Length > 0 Then
+                tb(0).Enabled = True
+            End If
+        Next
+        dgView.Enabled = False
     End Sub
 
-    Private Sub TabPage21_Click(sender As Object, e As EventArgs) Handles TabPage21.Click
-
-    End Sub
-
-    Private Sub Guna2HtmlLabel62_Click(sender As Object, e As EventArgs) Handles Guna2HtmlLabel62.Click
-
-    End Sub
-
-    Private Sub Guna2DateTimePicker2_ValueChanged(sender As Object, e As EventArgs) Handles Guna2DateTimePicker2.ValueChanged
-    End Sub
-
-    Private Sub Guna2Panel5_Paint(sender As Object, e As PaintEventArgs) Handles Guna2Panel5.Paint
-
-    End Sub
 End Class
