@@ -32,4 +32,18 @@ Public Class EmployeeManagement
         End If
     End Sub
 
+    Private Sub Guna2Separator1_Click(sender As Object, e As EventArgs) Handles Guna2Separator1.Click
+
+    End Sub
+
+    Private Sub TabPage21_Click(sender As Object, e As EventArgs) Handles TabPage21.Click
+
+    End Sub
+
+    Private Sub Guna2HtmlLabel62_Click(sender As Object, e As EventArgs) Handles Guna2HtmlLabel62.Click
+
+    End Sub
+
+    Private Sub Guna2DateTimePicker2_ValueChanged(sender As Object, e As EventArgs) Handles Guna2DateTimePicker2.ValueChanged
+    End Sub
 End Class
