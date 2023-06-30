@@ -4,8 +4,7 @@ Public Class EmployeeManagement
     Dim dt As New DataTable
 
     Private Sub loadEmployeMngt()
-        Using sql As New SqlDataAdapter("SELECT *, A.id, A.firstName + ' ' + A.lastName AS Name, FORMAT(A.dateHired, 'MMM dd, yyyy') AS dateH, B.description
-                                        FROM CI_EMP AS A LEFT JOIN CI_EMP_STATUS AS B ON A.emp_status = B.emp_status", msCon)
+        Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
             dt.Clear() : sql.Fill(dt)
             bsEmp.DataSource = dt
         End Using
@@ -15,7 +14,7 @@ Public Class EmployeeManagement
         loadEmployeMngt()
     End Sub
 
-    Private Sub bsEmp_CurrentChanged(sender As Object, e As EventArgs) Handles bsEmp.CurrentChanged
+    Private Sub bsEmp_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsEmp.CurrentItemChanged
         If bsEmp.Count > 0 Then
             tbt1.Text = NullText(bsEmp.Current("cs_no"))
             tbt2.Text = bsEmp.Current("lastName")
@@ -29,8 +28,28 @@ Public Class EmployeeManagement
             tbt10.Value = NullNum(bsEmp.Current("height"))
             tbt11.Value = NullNum(bsEmp.Current("weight"))
             tbt12.Text = NullText(bsEmp.Current("blood_type"))
+            tbt13.Text = NullText(bsEmp.Current("gsisId"))
+            tbt14.Text = NullText(bsEmp.Current("pagibigId"))
+            tbt15.Text = NullText(bsEmp.Current("philhealthId"))
+            tbt16.Text = NullText(bsEmp.Current("sssId"))
+            tbt17.Text = NullText(bsEmp.Current("tinId"))
+            tbt18.Text = NullText(bsEmp.Current("present_house_no"))
+            tbt19.Text = NullText(bsEmp.Current("present_street"))
+            tbt20.Text = NullText(bsEmp.Current("present_subdivision"))
+            tbt21.Text = NullText(bsEmp.Current("present_barangay"))
+            tbt22.Text = NullText(bsEmp.Current("present_city"))
+            tbt23.Text = NullText(bsEmp.Current("present_province"))
+            tbt24.Text = NullText(bsEmp.Current("present_zip"))
+            tbt25.Text = NullText(bsEmp.Current("permanent_house_no"))
+            tbt26.Text = NullText(bsEmp.Current("permanent_street"))
+            tbt27.Text = NullText(bsEmp.Current("permanent_subdivision"))
+            tbt28.Text = NullText(bsEmp.Current("permanent_barangay"))
+            tbt29.Text = NullText(bsEmp.Current("permanent_city"))
+            tbt30.Text = NullText(bsEmp.Current("permanent_province"))
+            tbt31.Text = NullText(bsEmp.Current("permanent_zip"))
         End If
     End Sub
+
 
     Private Sub Guna2Separator1_Click(sender As Object, e As EventArgs) Handles Guna2Separator1.Click
 
