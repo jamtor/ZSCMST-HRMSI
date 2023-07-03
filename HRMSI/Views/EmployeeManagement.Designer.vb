@@ -252,40 +252,46 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges212 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges213 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges214 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges233 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges234 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges235 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges236 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle16 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle17 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle18 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim CustomizableEdges245 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges246 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges237 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges238 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges239 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges240 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges241 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges242 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle16 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle17 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle18 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges251 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges252 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges243 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges244 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges223 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges224 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges225 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges226 As CustomizableEdges = New CustomizableEdges()
-        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(EmployeeManagement))
-        Dim CustomizableEdges227 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges228 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges245 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges246 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges247 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges248 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges249 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges250 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges229 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges230 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges231 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges232 As CustomizableEdges = New CustomizableEdges()
+        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(EmployeeManagement))
+        Dim CustomizableEdges233 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges234 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges235 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges236 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges237 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges238 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges227 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges228 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges225 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges226 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges223 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges224 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges221 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges222 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges219 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges220 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges217 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges218 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges219 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges220 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges215 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges216 As CustomizableEdges = New CustomizableEdges()
         TabPage10 = New TabPage()
@@ -614,11 +620,27 @@ Partial Class EmployeeManagement
         Qcb38bNo = New Guna2CheckBox()
         Qcb38bYes = New Guna2CheckBox()
         Guna2HtmlLabel83 = New Guna2HtmlLabel()
-        Guna2TextBox3 = New Guna2TextBox()
+        Qtbt39 = New Guna2TextBox()
         Guna2HtmlLabel82 = New Guna2HtmlLabel()
-        Guna2CheckBox1 = New Guna2CheckBox()
-        Guna2CheckBox2 = New Guna2CheckBox()
+        Qcb39No = New Guna2CheckBox()
+        Qcb39Yes = New Guna2CheckBox()
         Guna2HtmlLabel84 = New Guna2HtmlLabel()
+        Guna2HtmlLabel86 = New Guna2HtmlLabel()
+        Guna2HtmlLabel88 = New Guna2HtmlLabel()
+        Guna2CheckBox4 = New Guna2CheckBox()
+        Guna2CheckBox5 = New Guna2CheckBox()
+        Qtbt40b = New Guna2TextBox()
+        Guna2HtmlLabel89 = New Guna2HtmlLabel()
+        Qtbt39a = New Guna2TextBox()
+        Guna2CheckBox2 = New Guna2CheckBox()
+        Guna2CheckBox1 = New Guna2CheckBox()
+        Guna2HtmlLabel87 = New Guna2HtmlLabel()
+        Guna2HtmlLabel85 = New Guna2HtmlLabel()
+        Guna2HtmlLabel90 = New Guna2HtmlLabel()
+        Guna2CheckBox6 = New Guna2CheckBox()
+        Guna2CheckBox7 = New Guna2CheckBox()
+        Qtbt40c = New Guna2TextBox()
+        Guna2HtmlLabel91 = New Guna2HtmlLabel()
         TabPage2.SuspendLayout()
         Guna2GradientPanel7.SuspendLayout()
         Guna2GradientPanel9.SuspendLayout()
@@ -4484,11 +4506,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel1.AutoSize = True
         Guna2Panel1.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
-        Guna2Panel1.CustomizableEdges = CustomizableEdges233
+        Guna2Panel1.CustomizableEdges = CustomizableEdges239
         Guna2Panel1.Dock = DockStyle.Right
         Guna2Panel1.Location = New Point(1589, 60)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges234
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges240
         Guna2Panel1.Size = New Size(0, 929)
         Guna2Panel1.TabIndex = 2
         ' 
@@ -4496,11 +4518,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel2.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
         Guna2Panel2.Controls.Add(Guna2TabControl2)
-        Guna2Panel2.CustomizableEdges = CustomizableEdges235
+        Guna2Panel2.CustomizableEdges = CustomizableEdges241
         Guna2Panel2.Dock = DockStyle.Left
         Guna2Panel2.Location = New Point(3, 60)
         Guna2Panel2.Name = "Guna2Panel2"
-        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges236
+        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges242
         Guna2Panel2.Size = New Size(790, 929)
         Guna2Panel2.TabIndex = 3
         ' 
@@ -4658,11 +4680,11 @@ Partial Class EmployeeManagement
         Guna2Panel3.Controls.Add(Guna2Button3)
         Guna2Panel3.Controls.Add(Guna2Button1)
         Guna2Panel3.Controls.Add(btnEdit)
-        Guna2Panel3.CustomizableEdges = CustomizableEdges245
+        Guna2Panel3.CustomizableEdges = CustomizableEdges251
         Guna2Panel3.Dock = DockStyle.Top
         Guna2Panel3.Location = New Point(3, 3)
         Guna2Panel3.Name = "Guna2Panel3"
-        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges246
+        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges252
         Guna2Panel3.Size = New Size(1586, 57)
         Guna2Panel3.TabIndex = 4
         ' 
@@ -4670,7 +4692,7 @@ Partial Class EmployeeManagement
         ' 
         tbtSearch.BackgroundImageLayout = ImageLayout.Center
         tbtSearch.BorderRadius = 3
-        tbtSearch.CustomizableEdges = CustomizableEdges237
+        tbtSearch.CustomizableEdges = CustomizableEdges243
         tbtSearch.DefaultText = ""
         tbtSearch.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbtSearch.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4685,7 +4707,7 @@ Partial Class EmployeeManagement
         tbtSearch.PasswordChar = ChrW(0)
         tbtSearch.PlaceholderText = ""
         tbtSearch.SelectedText = ""
-        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges238
+        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges244
         tbtSearch.Size = New Size(197, 29)
         tbtSearch.TabIndex = 5
         ' 
@@ -4693,7 +4715,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button3.BorderColor = Color.Transparent
         Guna2Button3.CustomBorderColor = Color.Transparent
-        Guna2Button3.CustomizableEdges = CustomizableEdges239
+        Guna2Button3.CustomizableEdges = CustomizableEdges245
         Guna2Button3.DisabledState.BorderColor = Color.DarkGray
         Guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray
         Guna2Button3.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -4705,7 +4727,7 @@ Partial Class EmployeeManagement
         Guna2Button3.Image = Resources.trash
         Guna2Button3.Location = New Point(1010, 7)
         Guna2Button3.Name = "Guna2Button3"
-        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges240
+        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges246
         Guna2Button3.Size = New Size(20, 36)
         Guna2Button3.TabIndex = 4
         ' 
@@ -4713,7 +4735,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button1.BorderColor = Color.Transparent
         Guna2Button1.CustomBorderColor = Color.Transparent
-        Guna2Button1.CustomizableEdges = CustomizableEdges241
+        Guna2Button1.CustomizableEdges = CustomizableEdges247
         Guna2Button1.DisabledState.BorderColor = Color.DarkGray
         Guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray
         Guna2Button1.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -4729,7 +4751,7 @@ Partial Class EmployeeManagement
         Guna2Button1.Image = Resources.add__1_
         Guna2Button1.Location = New Point(914, 17)
         Guna2Button1.Name = "Guna2Button1"
-        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges242
+        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges248
         Guna2Button1.Size = New Size(23, 28)
         Guna2Button1.TabIndex = 2
         ' 
@@ -4737,7 +4759,7 @@ Partial Class EmployeeManagement
         ' 
         btnEdit.BorderColor = Color.Transparent
         btnEdit.CustomBorderColor = Color.Transparent
-        btnEdit.CustomizableEdges = CustomizableEdges243
+        btnEdit.CustomizableEdges = CustomizableEdges249
         btnEdit.DisabledState.BorderColor = Color.DarkGray
         btnEdit.DisabledState.CustomBorderColor = Color.DarkGray
         btnEdit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -4749,7 +4771,7 @@ Partial Class EmployeeManagement
         btnEdit.Image = Resources.pencil__1_
         btnEdit.Location = New Point(108, 11)
         btnEdit.Name = "btnEdit"
-        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges244
+        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges250
         btnEdit.Size = New Size(26, 36)
         btnEdit.TabIndex = 3
         ' 
@@ -4855,10 +4877,26 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage22
         ' 
-        TabPage22.Controls.Add(Guna2TextBox3)
-        TabPage22.Controls.Add(Guna2HtmlLabel82)
+        TabPage22.Controls.Add(Guna2HtmlLabel90)
+        TabPage22.Controls.Add(Guna2CheckBox6)
+        TabPage22.Controls.Add(Guna2CheckBox7)
+        TabPage22.Controls.Add(Qtbt40c)
+        TabPage22.Controls.Add(Guna2HtmlLabel91)
+        TabPage22.Controls.Add(Guna2HtmlLabel88)
+        TabPage22.Controls.Add(Guna2CheckBox4)
+        TabPage22.Controls.Add(Guna2CheckBox5)
+        TabPage22.Controls.Add(Qtbt40b)
+        TabPage22.Controls.Add(Guna2HtmlLabel89)
+        TabPage22.Controls.Add(Guna2HtmlLabel87)
         TabPage22.Controls.Add(Guna2CheckBox1)
         TabPage22.Controls.Add(Guna2CheckBox2)
+        TabPage22.Controls.Add(Qtbt39a)
+        TabPage22.Controls.Add(Guna2HtmlLabel85)
+        TabPage22.Controls.Add(Guna2HtmlLabel86)
+        TabPage22.Controls.Add(Qtbt39)
+        TabPage22.Controls.Add(Guna2HtmlLabel82)
+        TabPage22.Controls.Add(Qcb39No)
+        TabPage22.Controls.Add(Qcb39Yes)
         TabPage22.Controls.Add(Guna2HtmlLabel84)
         TabPage22.Controls.Add(Qtbt38b)
         TabPage22.Controls.Add(Guna2HtmlLabel81)
@@ -4922,7 +4960,7 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt38a
         ' 
-        Qtbt38a.CustomizableEdges = CustomizableEdges223
+        Qtbt38a.CustomizableEdges = CustomizableEdges229
         Qtbt38a.DefaultText = ""
         Qtbt38a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt38a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4931,13 +4969,13 @@ Partial Class EmployeeManagement
         Qtbt38a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38a.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt38a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt38a.Location = New Point(157, 563)
+        Qtbt38a.Location = New Point(158, 495)
         Qtbt38a.Multiline = True
         Qtbt38a.Name = "Qtbt38a"
         Qtbt38a.PasswordChar = ChrW(0)
         Qtbt38a.PlaceholderText = ""
         Qtbt38a.SelectedText = ""
-        Qtbt38a.ShadowDecoration.CustomizableEdges = CustomizableEdges224
+        Qtbt38a.ShadowDecoration.CustomizableEdges = CustomizableEdges230
         Qtbt38a.Size = New Size(592, 40)
         Qtbt38a.TabIndex = 67
         ' 
@@ -4945,7 +4983,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel77.AutoSize = False
         Guna2HtmlLabel77.BackColor = Color.Transparent
-        Guna2HtmlLabel77.Location = New Point(46, 563)
+        Guna2HtmlLabel77.Location = New Point(47, 495)
         Guna2HtmlLabel77.Name = "Guna2HtmlLabel77"
         Guna2HtmlLabel77.Size = New Size(105, 18)
         Guna2HtmlLabel77.TabIndex = 66
@@ -4958,7 +4996,7 @@ Partial Class EmployeeManagement
         Qcb38aNo.CheckedState.BorderRadius = 0
         Qcb38aNo.CheckedState.BorderThickness = 0
         Qcb38aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb38aNo.Location = New Point(591, 526)
+        Qcb38aNo.Location = New Point(592, 458)
         Qcb38aNo.Name = "Qcb38aNo"
         Qcb38aNo.Size = New Size(42, 19)
         Qcb38aNo.TabIndex = 65
@@ -4975,7 +5013,7 @@ Partial Class EmployeeManagement
         Qcb38aYes.CheckedState.BorderRadius = 0
         Qcb38aYes.CheckedState.BorderThickness = 0
         Qcb38aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb38aYes.Location = New Point(530, 526)
+        Qcb38aYes.Location = New Point(531, 458)
         Qcb38aYes.Name = "Qcb38aYes"
         Qcb38aYes.Size = New Size(43, 19)
         Qcb38aYes.TabIndex = 64
@@ -4989,7 +5027,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel78.AutoSize = False
         Guna2HtmlLabel78.BackColor = Color.Transparent
-        Guna2HtmlLabel78.Location = New Point(23, 526)
+        Guna2HtmlLabel78.Location = New Point(24, 458)
         Guna2HtmlLabel78.Name = "Guna2HtmlLabel78"
         Guna2HtmlLabel78.Size = New Size(501, 36)
         Guna2HtmlLabel78.TabIndex = 63
@@ -4997,7 +5035,7 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt37
         ' 
-        Qtbt37.CustomizableEdges = CustomizableEdges225
+        Qtbt37.CustomizableEdges = CustomizableEdges231
         Qtbt37.DefaultText = ""
         Qtbt37.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt37.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5006,13 +5044,13 @@ Partial Class EmployeeManagement
         Qtbt37.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt37.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt37.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt37.Location = New Point(157, 470)
+        Qtbt37.Location = New Point(158, 412)
         Qtbt37.Multiline = True
         Qtbt37.Name = "Qtbt37"
         Qtbt37.PasswordChar = ChrW(0)
         Qtbt37.PlaceholderText = ""
         Qtbt37.SelectedText = ""
-        Qtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges226
+        Qtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges232
         Qtbt37.Size = New Size(592, 40)
         Qtbt37.TabIndex = 62
         ' 
@@ -5020,7 +5058,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel75.AutoSize = False
         Guna2HtmlLabel75.BackColor = Color.Transparent
-        Guna2HtmlLabel75.Location = New Point(46, 470)
+        Guna2HtmlLabel75.Location = New Point(47, 412)
         Guna2HtmlLabel75.Name = "Guna2HtmlLabel75"
         Guna2HtmlLabel75.Size = New Size(124, 18)
         Guna2HtmlLabel75.TabIndex = 61
@@ -5033,7 +5071,7 @@ Partial Class EmployeeManagement
         Guna2CheckBox3.CheckedState.BorderRadius = 0
         Guna2CheckBox3.CheckedState.BorderThickness = 0
         Guna2CheckBox3.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2CheckBox3.Location = New Point(591, 413)
+        Guna2CheckBox3.Location = New Point(592, 361)
         Guna2CheckBox3.Name = "Guna2CheckBox3"
         Guna2CheckBox3.Size = New Size(42, 19)
         Guna2CheckBox3.TabIndex = 60
@@ -5050,7 +5088,7 @@ Partial Class EmployeeManagement
         Qcb37Yes.CheckedState.BorderRadius = 0
         Qcb37Yes.CheckedState.BorderThickness = 0
         Qcb37Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb37Yes.Location = New Point(530, 413)
+        Qcb37Yes.Location = New Point(531, 361)
         Qcb37Yes.Name = "Qcb37Yes"
         Qcb37Yes.Size = New Size(43, 19)
         Qcb37Yes.TabIndex = 59
@@ -5064,7 +5102,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel76.AutoSize = False
         Guna2HtmlLabel76.BackColor = Color.Transparent
-        Guna2HtmlLabel76.Location = New Point(23, 413)
+        Guna2HtmlLabel76.Location = New Point(24, 361)
         Guna2HtmlLabel76.Name = "Guna2HtmlLabel76"
         Guna2HtmlLabel76.Size = New Size(487, 51)
         Guna2HtmlLabel76.TabIndex = 58
@@ -5072,7 +5110,7 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt36
         ' 
-        Qtbt36.CustomizableEdges = CustomizableEdges227
+        Qtbt36.CustomizableEdges = CustomizableEdges233
         Qtbt36.DefaultText = ""
         Qtbt36.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt36.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5081,13 +5119,13 @@ Partial Class EmployeeManagement
         Qtbt36.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt36.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt36.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt36.Location = New Point(157, 362)
+        Qtbt36.Location = New Point(158, 309)
         Qtbt36.Multiline = True
         Qtbt36.Name = "Qtbt36"
         Qtbt36.PasswordChar = ChrW(0)
         Qtbt36.PlaceholderText = ""
         Qtbt36.SelectedText = ""
-        Qtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges228
+        Qtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges234
         Qtbt36.Size = New Size(592, 40)
         Qtbt36.TabIndex = 57
         ' 
@@ -5095,7 +5133,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel73.AutoSize = False
         Guna2HtmlLabel73.BackColor = Color.Transparent
-        Guna2HtmlLabel73.Location = New Point(46, 362)
+        Guna2HtmlLabel73.Location = New Point(47, 309)
         Guna2HtmlLabel73.Name = "Guna2HtmlLabel73"
         Guna2HtmlLabel73.Size = New Size(105, 18)
         Guna2HtmlLabel73.TabIndex = 56
@@ -5108,7 +5146,7 @@ Partial Class EmployeeManagement
         Qcb36No.CheckedState.BorderRadius = 0
         Qcb36No.CheckedState.BorderThickness = 0
         Qcb36No.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb36No.Location = New Point(591, 319)
+        Qcb36No.Location = New Point(592, 274)
         Qcb36No.Name = "Qcb36No"
         Qcb36No.Size = New Size(42, 19)
         Qcb36No.TabIndex = 55
@@ -5125,7 +5163,7 @@ Partial Class EmployeeManagement
         Qcb36Yes.CheckedState.BorderRadius = 0
         Qcb36Yes.CheckedState.BorderThickness = 0
         Qcb36Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb36Yes.Location = New Point(530, 319)
+        Qcb36Yes.Location = New Point(531, 274)
         Qcb36Yes.Name = "Qcb36Yes"
         Qcb36Yes.Size = New Size(43, 19)
         Qcb36Yes.TabIndex = 54
@@ -5139,9 +5177,9 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel74.AutoSize = False
         Guna2HtmlLabel74.BackColor = Color.Transparent
-        Guna2HtmlLabel74.Location = New Point(23, 319)
+        Guna2HtmlLabel74.Location = New Point(24, 274)
         Guna2HtmlLabel74.Name = "Guna2HtmlLabel74"
-        Guna2HtmlLabel74.Size = New Size(487, 37)
+        Guna2HtmlLabel74.Size = New Size(487, 36)
         Guna2HtmlLabel74.TabIndex = 53
         Guna2HtmlLabel74.Text = "36. Have you ever been convicted of any crime or violation of any law, decree, ordinance or " & vbTab & "regulation by any court or tribunal?"
         ' 
@@ -5149,7 +5187,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel72.AutoSize = False
         Guna2HtmlLabel72.BackColor = Color.Transparent
-        Guna2HtmlLabel72.Location = New Point(343, 242)
+        Guna2HtmlLabel72.Location = New Point(344, 214)
         Guna2HtmlLabel72.Name = "Guna2HtmlLabel72"
         Guna2HtmlLabel72.Size = New Size(124, 18)
         Guna2HtmlLabel72.TabIndex = 51
@@ -5162,7 +5200,7 @@ Partial Class EmployeeManagement
         Qcb35bNo.CheckedState.BorderRadius = 0
         Qcb35bNo.CheckedState.BorderThickness = 0
         Qcb35bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb35bNo.Location = New Point(591, 242)
+        Qcb35bNo.Location = New Point(592, 214)
         Qcb35bNo.Name = "Qcb35bNo"
         Qcb35bNo.Size = New Size(42, 19)
         Qcb35bNo.TabIndex = 50
@@ -5179,7 +5217,7 @@ Partial Class EmployeeManagement
         Qcb35bYes.CheckedState.BorderRadius = 0
         Qcb35bYes.CheckedState.BorderThickness = 0
         Qcb35bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb35bYes.Location = New Point(530, 242)
+        Qcb35bYes.Location = New Point(531, 214)
         Qcb35bYes.Name = "Qcb35bYes"
         Qcb35bYes.Size = New Size(43, 19)
         Qcb35bYes.TabIndex = 49
@@ -5191,7 +5229,7 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt35a
         ' 
-        Qtbt35a.CustomizableEdges = CustomizableEdges229
+        Qtbt35a.CustomizableEdges = CustomizableEdges235
         Qtbt35a.DefaultText = ""
         Qtbt35a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt35a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5200,13 +5238,13 @@ Partial Class EmployeeManagement
         Qtbt35a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt35a.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt35a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt35a.Location = New Point(157, 194)
+        Qtbt35a.Location = New Point(158, 171)
         Qtbt35a.Multiline = True
         Qtbt35a.Name = "Qtbt35a"
         Qtbt35a.PasswordChar = ChrW(0)
         Qtbt35a.PlaceholderText = ""
         Qtbt35a.SelectedText = ""
-        Qtbt35a.ShadowDecoration.CustomizableEdges = CustomizableEdges230
+        Qtbt35a.ShadowDecoration.CustomizableEdges = CustomizableEdges236
         Qtbt35a.Size = New Size(592, 40)
         Qtbt35a.TabIndex = 48
         ' 
@@ -5214,7 +5252,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel69.AutoSize = False
         Guna2HtmlLabel69.BackColor = Color.Transparent
-        Guna2HtmlLabel69.Location = New Point(46, 194)
+        Guna2HtmlLabel69.Location = New Point(47, 171)
         Guna2HtmlLabel69.Name = "Guna2HtmlLabel69"
         Guna2HtmlLabel69.Size = New Size(105, 18)
         Guna2HtmlLabel69.TabIndex = 47
@@ -5227,7 +5265,7 @@ Partial Class EmployeeManagement
         Qcb35aNo.CheckedState.BorderRadius = 0
         Qcb35aNo.CheckedState.BorderThickness = 0
         Qcb35aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb35aNo.Location = New Point(591, 169)
+        Qcb35aNo.Location = New Point(592, 151)
         Qcb35aNo.Name = "Qcb35aNo"
         Qcb35aNo.Size = New Size(42, 19)
         Qcb35aNo.TabIndex = 46
@@ -5244,7 +5282,7 @@ Partial Class EmployeeManagement
         Qcb35aYes.CheckedState.BorderRadius = 0
         Qcb35aYes.CheckedState.BorderThickness = 0
         Qcb35aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb35aYes.Location = New Point(530, 169)
+        Qcb35aYes.Location = New Point(531, 151)
         Qcb35aYes.Name = "Qcb35aYes"
         Qcb35aYes.Size = New Size(43, 19)
         Qcb35aYes.TabIndex = 45
@@ -5258,9 +5296,9 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel70.AutoSize = False
         Guna2HtmlLabel70.BackColor = Color.Transparent
-        Guna2HtmlLabel70.Location = New Point(40, 242)
+        Guna2HtmlLabel70.Location = New Point(41, 214)
         Guna2HtmlLabel70.Name = "Guna2HtmlLabel70"
-        Guna2HtmlLabel70.Size = New Size(309, 25)
+        Guna2HtmlLabel70.Size = New Size(297, 19)
         Guna2HtmlLabel70.TabIndex = 44
         Guna2HtmlLabel70.Text = "b. Have you been criminally charged before any court?"
         ' 
@@ -5268,15 +5306,15 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel71.AutoSize = False
         Guna2HtmlLabel71.BackColor = Color.Transparent
-        Guna2HtmlLabel71.Location = New Point(23, 169)
+        Guna2HtmlLabel71.Location = New Point(24, 151)
         Guna2HtmlLabel71.Name = "Guna2HtmlLabel71"
-        Guna2HtmlLabel71.Size = New Size(391, 26)
+        Guna2HtmlLabel71.Size = New Size(391, 19)
         Guna2HtmlLabel71.TabIndex = 43
         Guna2HtmlLabel71.Text = "35  a. Have you ever been found guilty of any administrative offense?"
         ' 
         ' Qtbt34
         ' 
-        Qtbt34.CustomizableEdges = CustomizableEdges231
+        Qtbt34.CustomizableEdges = CustomizableEdges237
         Qtbt34.DefaultText = ""
         Qtbt34.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt34.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5285,13 +5323,13 @@ Partial Class EmployeeManagement
         Qtbt34.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt34.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt34.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt34.Location = New Point(157, 120)
+        Qtbt34.Location = New Point(158, 100)
         Qtbt34.Multiline = True
         Qtbt34.Name = "Qtbt34"
         Qtbt34.PasswordChar = ChrW(0)
         Qtbt34.PlaceholderText = ""
         Qtbt34.SelectedText = ""
-        Qtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges232
+        Qtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges238
         Qtbt34.Size = New Size(592, 40)
         Qtbt34.TabIndex = 42
         ' 
@@ -5299,7 +5337,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel68.AutoSize = False
         Guna2HtmlLabel68.BackColor = Color.Transparent
-        Guna2HtmlLabel68.Location = New Point(46, 120)
+        Guna2HtmlLabel68.Location = New Point(47, 100)
         Guna2HtmlLabel68.Name = "Guna2HtmlLabel68"
         Guna2HtmlLabel68.Size = New Size(105, 22)
         Guna2HtmlLabel68.TabIndex = 41
@@ -5312,7 +5350,7 @@ Partial Class EmployeeManagement
         Qcb34bNo.CheckedState.BorderRadius = 0
         Qcb34bNo.CheckedState.BorderThickness = 0
         Qcb34bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb34bNo.Location = New Point(591, 95)
+        Qcb34bNo.Location = New Point(592, 80)
         Qcb34bNo.Name = "Qcb34bNo"
         Qcb34bNo.Size = New Size(42, 19)
         Qcb34bNo.TabIndex = 40
@@ -5329,7 +5367,7 @@ Partial Class EmployeeManagement
         Qcb34bYes.CheckedState.BorderRadius = 0
         Qcb34bYes.CheckedState.BorderThickness = 0
         Qcb34bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb34bYes.Location = New Point(530, 95)
+        Qcb34bYes.Location = New Point(531, 80)
         Qcb34bYes.Name = "Qcb34bYes"
         Qcb34bYes.Size = New Size(43, 19)
         Qcb34bYes.TabIndex = 39
@@ -5346,7 +5384,7 @@ Partial Class EmployeeManagement
         Qcb34aNo.CheckedState.BorderRadius = 0
         Qcb34aNo.CheckedState.BorderThickness = 0
         Qcb34aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb34aNo.Location = New Point(591, 64)
+        Qcb34aNo.Location = New Point(592, 60)
         Qcb34aNo.Name = "Qcb34aNo"
         Qcb34aNo.Size = New Size(42, 19)
         Qcb34aNo.TabIndex = 38
@@ -5363,7 +5401,7 @@ Partial Class EmployeeManagement
         Qcb34aYes.CheckedState.BorderRadius = 0
         Qcb34aYes.CheckedState.BorderThickness = 0
         Qcb34aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb34aYes.Location = New Point(530, 64)
+        Qcb34aYes.Location = New Point(531, 60)
         Qcb34aYes.Name = "Qcb34aYes"
         Qcb34aYes.Size = New Size(43, 19)
         Qcb34aYes.TabIndex = 37
@@ -5377,9 +5415,9 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel67.AutoSize = False
         Guna2HtmlLabel67.BackColor = Color.Transparent
-        Guna2HtmlLabel67.Location = New Point(46, 95)
+        Guna2HtmlLabel67.Location = New Point(47, 80)
         Guna2HtmlLabel67.Name = "Guna2HtmlLabel67"
-        Guna2HtmlLabel67.Size = New Size(421, 28)
+        Guna2HtmlLabel67.Size = New Size(421, 19)
         Guna2HtmlLabel67.TabIndex = 36
         Guna2HtmlLabel67.Text = vbTab & "b. within the fourth degree (for Local Government Unit - Career Employees)?"
         ' 
@@ -5387,7 +5425,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel66.AutoSize = False
         Guna2HtmlLabel66.BackColor = Color.Transparent
-        Guna2HtmlLabel66.Location = New Point(46, 64)
+        Guna2HtmlLabel66.Location = New Point(47, 60)
         Guna2HtmlLabel66.Name = "Guna2HtmlLabel66"
         Guna2HtmlLabel66.Size = New Size(178, 25)
         Guna2HtmlLabel66.TabIndex = 35
@@ -5397,7 +5435,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel57.AutoSize = False
         Guna2HtmlLabel57.BackColor = Color.Transparent
-        Guna2HtmlLabel57.Location = New Point(23, 17)
+        Guna2HtmlLabel57.Location = New Point(24, 29)
         Guna2HtmlLabel57.Name = "Guna2HtmlLabel57"
         Guna2HtmlLabel57.Size = New Size(737, 41)
         Guna2HtmlLabel57.TabIndex = 34
@@ -5405,7 +5443,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox2
         ' 
-        Guna2TextBox2.CustomizableEdges = CustomizableEdges221
+        Guna2TextBox2.CustomizableEdges = CustomizableEdges227
         Guna2TextBox2.DefaultText = ""
         Guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5414,29 +5452,29 @@ Partial Class EmployeeManagement
         Guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox2.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TextBox2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox2.Location = New Point(492, 266)
+        Guna2TextBox2.Location = New Point(423, 238)
         Guna2TextBox2.Multiline = True
         Guna2TextBox2.Name = "Guna2TextBox2"
         Guna2TextBox2.PasswordChar = ChrW(0)
         Guna2TextBox2.PlaceholderText = ""
         Guna2TextBox2.SelectedText = ""
-        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges222
-        Guna2TextBox2.Size = New Size(257, 40)
+        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges228
+        Guna2TextBox2.Size = New Size(327, 30)
         Guna2TextBox2.TabIndex = 68
         ' 
         ' Guna2DateTimePicker1
         ' 
         Guna2DateTimePicker1.Checked = True
         Guna2DateTimePicker1.CustomFormat = "MMM dd, yyyy"
-        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges219
+        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges225
         Guna2DateTimePicker1.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker1.Format = DateTimePickerFormat.Custom
-        Guna2DateTimePicker1.Location = New Point(157, 266)
+        Guna2DateTimePicker1.Location = New Point(158, 238)
         Guna2DateTimePicker1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker1.Name = "Guna2DateTimePicker1"
-        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges220
-        Guna2DateTimePicker1.Size = New Size(200, 36)
+        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges226
+        Guna2DateTimePicker1.Size = New Size(144, 30)
         Guna2DateTimePicker1.TabIndex = 69
         Guna2DateTimePicker1.Value = New Date(2023, 7, 3, 17, 0, 20, 413)
         ' 
@@ -5444,7 +5482,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel79.AutoSize = False
         Guna2HtmlLabel79.BackColor = Color.Transparent
-        Guna2HtmlLabel79.Location = New Point(79, 276)
+        Guna2HtmlLabel79.Location = New Point(80, 245)
         Guna2HtmlLabel79.Name = "Guna2HtmlLabel79"
         Guna2HtmlLabel79.Size = New Size(72, 18)
         Guna2HtmlLabel79.TabIndex = 70
@@ -5454,7 +5492,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel80.AutoSize = False
         Guna2HtmlLabel80.BackColor = Color.Transparent
-        Guna2HtmlLabel80.Location = New Point(387, 277)
+        Guna2HtmlLabel80.Location = New Point(318, 245)
         Guna2HtmlLabel80.Name = "Guna2HtmlLabel80"
         Guna2HtmlLabel80.Size = New Size(99, 18)
         Guna2HtmlLabel80.TabIndex = 71
@@ -5462,7 +5500,7 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt38b
         ' 
-        Qtbt38b.CustomizableEdges = CustomizableEdges217
+        Qtbt38b.CustomizableEdges = CustomizableEdges223
         Qtbt38b.DefaultText = ""
         Qtbt38b.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Qtbt38b.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5471,13 +5509,13 @@ Partial Class EmployeeManagement
         Qtbt38b.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38b.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Qtbt38b.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qtbt38b.Location = New Point(157, 652)
+        Qtbt38b.Location = New Point(158, 575)
         Qtbt38b.Multiline = True
         Qtbt38b.Name = "Qtbt38b"
         Qtbt38b.PasswordChar = ChrW(0)
         Qtbt38b.PlaceholderText = ""
         Qtbt38b.SelectedText = ""
-        Qtbt38b.ShadowDecoration.CustomizableEdges = CustomizableEdges218
+        Qtbt38b.ShadowDecoration.CustomizableEdges = CustomizableEdges224
         Qtbt38b.Size = New Size(592, 40)
         Qtbt38b.TabIndex = 77
         ' 
@@ -5485,7 +5523,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel81.AutoSize = False
         Guna2HtmlLabel81.BackColor = Color.Transparent
-        Guna2HtmlLabel81.Location = New Point(46, 652)
+        Guna2HtmlLabel81.Location = New Point(47, 575)
         Guna2HtmlLabel81.Name = "Guna2HtmlLabel81"
         Guna2HtmlLabel81.Size = New Size(105, 18)
         Guna2HtmlLabel81.TabIndex = 76
@@ -5498,7 +5536,7 @@ Partial Class EmployeeManagement
         Qcb38bNo.CheckedState.BorderRadius = 0
         Qcb38bNo.CheckedState.BorderThickness = 0
         Qcb38bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb38bNo.Location = New Point(591, 614)
+        Qcb38bNo.Location = New Point(592, 537)
         Qcb38bNo.Name = "Qcb38bNo"
         Qcb38bNo.Size = New Size(42, 19)
         Qcb38bNo.TabIndex = 74
@@ -5515,7 +5553,7 @@ Partial Class EmployeeManagement
         Qcb38bYes.CheckedState.BorderRadius = 0
         Qcb38bYes.CheckedState.BorderThickness = 0
         Qcb38bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Qcb38bYes.Location = New Point(530, 614)
+        Qcb38bYes.Location = New Point(531, 537)
         Qcb38bYes.Name = "Qcb38bYes"
         Qcb38bYes.Size = New Size(43, 19)
         Qcb38bYes.TabIndex = 73
@@ -5529,59 +5567,192 @@ Partial Class EmployeeManagement
         ' 
         Guna2HtmlLabel83.AutoSize = False
         Guna2HtmlLabel83.BackColor = Color.Transparent
-        Guna2HtmlLabel83.Location = New Point(40, 614)
+        Guna2HtmlLabel83.Location = New Point(41, 537)
         Guna2HtmlLabel83.Name = "Guna2HtmlLabel83"
         Guna2HtmlLabel83.Size = New Size(470, 37)
         Guna2HtmlLabel83.TabIndex = 72
         Guna2HtmlLabel83.Text = "b. Have you resigned from the government service during the three (3)-month period before the " & vbTab & "last election to promote/actively campaign for a national or local candidate?"
         ' 
-        ' Guna2TextBox3
+        ' Qtbt39
         ' 
-        Guna2TextBox3.CustomizableEdges = CustomizableEdges215
-        Guna2TextBox3.DefaultText = ""
-        Guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
-        Guna2TextBox3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
-        Guna2TextBox3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
-        Guna2TextBox3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
-        Guna2TextBox3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2TextBox3.Location = New Point(141, 745)
-        Guna2TextBox3.Multiline = True
-        Guna2TextBox3.Name = "Guna2TextBox3"
-        Guna2TextBox3.PasswordChar = ChrW(0)
-        Guna2TextBox3.PlaceholderText = ""
-        Guna2TextBox3.SelectedText = ""
-        Guna2TextBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges216
-        Guna2TextBox3.Size = New Size(592, 40)
-        Guna2TextBox3.TabIndex = 82
+        Qtbt39.CustomizableEdges = CustomizableEdges221
+        Qtbt39.DefaultText = ""
+        Qtbt39.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt39.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt39.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt39.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Qtbt39.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt39.Location = New Point(158, 642)
+        Qtbt39.Multiline = True
+        Qtbt39.Name = "Qtbt39"
+        Qtbt39.PasswordChar = ChrW(0)
+        Qtbt39.PlaceholderText = ""
+        Qtbt39.SelectedText = ""
+        Qtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges222
+        Qtbt39.Size = New Size(592, 40)
+        Qtbt39.TabIndex = 82
         ' 
         ' Guna2HtmlLabel82
         ' 
         Guna2HtmlLabel82.AutoSize = False
         Guna2HtmlLabel82.BackColor = Color.Transparent
-        Guna2HtmlLabel82.Location = New Point(30, 745)
+        Guna2HtmlLabel82.Location = New Point(47, 642)
         Guna2HtmlLabel82.Name = "Guna2HtmlLabel82"
         Guna2HtmlLabel82.Size = New Size(105, 18)
         Guna2HtmlLabel82.TabIndex = 81
         Guna2HtmlLabel82.Text = "If YES, give details:"
         ' 
-        ' Guna2CheckBox1
+        ' Qcb39No
         ' 
-        Guna2CheckBox1.AutoSize = True
-        Guna2CheckBox1.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2CheckBox1.CheckedState.BorderRadius = 0
-        Guna2CheckBox1.CheckedState.BorderThickness = 0
-        Guna2CheckBox1.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2CheckBox1.Location = New Point(575, 702)
-        Guna2CheckBox1.Name = "Guna2CheckBox1"
-        Guna2CheckBox1.Size = New Size(42, 19)
-        Guna2CheckBox1.TabIndex = 80
-        Guna2CheckBox1.Text = "No"
-        Guna2CheckBox1.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
-        Guna2CheckBox1.UncheckedState.BorderRadius = 0
-        Guna2CheckBox1.UncheckedState.BorderThickness = 0
-        Guna2CheckBox1.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Qcb39No.AutoSize = True
+        Qcb39No.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qcb39No.CheckedState.BorderRadius = 0
+        Qcb39No.CheckedState.BorderThickness = 0
+        Qcb39No.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qcb39No.Location = New Point(592, 617)
+        Qcb39No.Name = "Qcb39No"
+        Qcb39No.Size = New Size(42, 19)
+        Qcb39No.TabIndex = 80
+        Qcb39No.Text = "No"
+        Qcb39No.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Qcb39No.UncheckedState.BorderRadius = 0
+        Qcb39No.UncheckedState.BorderThickness = 0
+        Qcb39No.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Qcb39Yes
+        ' 
+        Qcb39Yes.AutoSize = True
+        Qcb39Yes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qcb39Yes.CheckedState.BorderRadius = 0
+        Qcb39Yes.CheckedState.BorderThickness = 0
+        Qcb39Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qcb39Yes.Location = New Point(531, 617)
+        Qcb39Yes.Name = "Qcb39Yes"
+        Qcb39Yes.Size = New Size(43, 19)
+        Qcb39Yes.TabIndex = 79
+        Qcb39Yes.Text = "Yes"
+        Qcb39Yes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Qcb39Yes.UncheckedState.BorderRadius = 0
+        Qcb39Yes.UncheckedState.BorderThickness = 0
+        Qcb39Yes.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Guna2HtmlLabel84
+        ' 
+        Guna2HtmlLabel84.AutoSize = False
+        Guna2HtmlLabel84.BackColor = Color.Transparent
+        Guna2HtmlLabel84.Location = New Point(24, 617)
+        Guna2HtmlLabel84.Name = "Guna2HtmlLabel84"
+        Guna2HtmlLabel84.Size = New Size(501, 19)
+        Guna2HtmlLabel84.TabIndex = 78
+        Guna2HtmlLabel84.Text = "39. Have you acquired the status of an immigrant or permanent resident of another country?"
+        ' 
+        ' Guna2HtmlLabel86
+        ' 
+        Guna2HtmlLabel86.AutoSize = False
+        Guna2HtmlLabel86.BackColor = Color.Transparent
+        Guna2HtmlLabel86.Location = New Point(24, 688)
+        Guna2HtmlLabel86.Name = "Guna2HtmlLabel86"
+        Guna2HtmlLabel86.Size = New Size(501, 19)
+        Guna2HtmlLabel86.TabIndex = 83
+        Guna2HtmlLabel86.Text = "40. Have you acquired the status of an immigrant or permanent resident of another country?"
+        ' 
+        ' Guna2HtmlLabel88
+        ' 
+        Guna2HtmlLabel88.AutoSize = False
+        Guna2HtmlLabel88.BackColor = Color.Transparent
+        Guna2HtmlLabel88.Location = New Point(373, 733)
+        Guna2HtmlLabel88.Name = "Guna2HtmlLabel88"
+        Guna2HtmlLabel88.Size = New Size(114, 33)
+        Guna2HtmlLabel88.TabIndex = 93
+        Guna2HtmlLabel88.Text = "If YES, please specify ID No :"
+        ' 
+        ' Guna2CheckBox4
+        ' 
+        Guna2CheckBox4.AutoSize = True
+        Guna2CheckBox4.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox4.CheckedState.BorderRadius = 0
+        Guna2CheckBox4.CheckedState.BorderThickness = 0
+        Guna2CheckBox4.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox4.Location = New Point(434, 713)
+        Guna2CheckBox4.Name = "Guna2CheckBox4"
+        Guna2CheckBox4.Size = New Size(42, 19)
+        Guna2CheckBox4.TabIndex = 92
+        Guna2CheckBox4.Text = "No"
+        Guna2CheckBox4.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Guna2CheckBox4.UncheckedState.BorderRadius = 0
+        Guna2CheckBox4.UncheckedState.BorderThickness = 0
+        Guna2CheckBox4.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Guna2CheckBox5
+        ' 
+        Guna2CheckBox5.AutoSize = True
+        Guna2CheckBox5.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox5.CheckedState.BorderRadius = 0
+        Guna2CheckBox5.CheckedState.BorderThickness = 0
+        Guna2CheckBox5.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox5.Location = New Point(373, 713)
+        Guna2CheckBox5.Name = "Guna2CheckBox5"
+        Guna2CheckBox5.Size = New Size(43, 19)
+        Guna2CheckBox5.TabIndex = 91
+        Guna2CheckBox5.Text = "Yes"
+        Guna2CheckBox5.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Guna2CheckBox5.UncheckedState.BorderRadius = 0
+        Guna2CheckBox5.UncheckedState.BorderThickness = 0
+        Guna2CheckBox5.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Qtbt40b
+        ' 
+        Qtbt40b.CustomizableEdges = CustomizableEdges217
+        Qtbt40b.DefaultText = ""
+        Qtbt40b.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt40b.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt40b.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40b.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40b.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt40b.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Qtbt40b.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt40b.Location = New Point(373, 766)
+        Qtbt40b.Multiline = True
+        Qtbt40b.Name = "Qtbt40b"
+        Qtbt40b.PasswordChar = ChrW(0)
+        Qtbt40b.PlaceholderText = ""
+        Qtbt40b.SelectedText = ""
+        Qtbt40b.ShadowDecoration.CustomizableEdges = CustomizableEdges218
+        Qtbt40b.Size = New Size(128, 30)
+        Qtbt40b.TabIndex = 90
+        ' 
+        ' Guna2HtmlLabel89
+        ' 
+        Guna2HtmlLabel89.AutoSize = False
+        Guna2HtmlLabel89.BackColor = Color.Transparent
+        Guna2HtmlLabel89.Location = New Point(291, 712)
+        Guna2HtmlLabel89.Name = "Guna2HtmlLabel89"
+        Guna2HtmlLabel89.Size = New Size(76, 52)
+        Guna2HtmlLabel89.TabIndex = 89
+        Guna2HtmlLabel89.Text = "b. Are you a person with disability?"
+        ' 
+        ' Qtbt39a
+        ' 
+        Qtbt39a.CustomizableEdges = CustomizableEdges219
+        Qtbt39a.DefaultText = ""
+        Qtbt39a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt39a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt39a.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39a.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt39a.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Qtbt39a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt39a.Location = New Point(135, 766)
+        Qtbt39a.Multiline = True
+        Qtbt39a.Name = "Qtbt39a"
+        Qtbt39a.PasswordChar = ChrW(0)
+        Qtbt39a.PlaceholderText = ""
+        Qtbt39a.SelectedText = ""
+        Qtbt39a.ShadowDecoration.CustomizableEdges = CustomizableEdges220
+        Qtbt39a.Size = New Size(128, 30)
+        Qtbt39a.TabIndex = 85
         ' 
         ' Guna2CheckBox2
         ' 
@@ -5590,25 +5761,127 @@ Partial Class EmployeeManagement
         Guna2CheckBox2.CheckedState.BorderRadius = 0
         Guna2CheckBox2.CheckedState.BorderThickness = 0
         Guna2CheckBox2.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        Guna2CheckBox2.Location = New Point(514, 702)
+        Guna2CheckBox2.Location = New Point(135, 713)
         Guna2CheckBox2.Name = "Guna2CheckBox2"
         Guna2CheckBox2.Size = New Size(43, 19)
-        Guna2CheckBox2.TabIndex = 79
+        Guna2CheckBox2.TabIndex = 86
         Guna2CheckBox2.Text = "Yes"
         Guna2CheckBox2.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Guna2CheckBox2.UncheckedState.BorderRadius = 0
         Guna2CheckBox2.UncheckedState.BorderThickness = 0
         Guna2CheckBox2.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         ' 
-        ' Guna2HtmlLabel84
+        ' Guna2CheckBox1
         ' 
-        Guna2HtmlLabel84.AutoSize = False
-        Guna2HtmlLabel84.BackColor = Color.Transparent
-        Guna2HtmlLabel84.Location = New Point(7, 702)
-        Guna2HtmlLabel84.Name = "Guna2HtmlLabel84"
-        Guna2HtmlLabel84.Size = New Size(487, 37)
-        Guna2HtmlLabel84.TabIndex = 78
-        Guna2HtmlLabel84.Text = "36. Have you ever been convicted of any crime or violation of any law, decree, ordinance or " & vbTab & "regulation by any court or tribunal?"
+        Guna2CheckBox1.AutoSize = True
+        Guna2CheckBox1.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox1.CheckedState.BorderRadius = 0
+        Guna2CheckBox1.CheckedState.BorderThickness = 0
+        Guna2CheckBox1.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox1.Location = New Point(196, 713)
+        Guna2CheckBox1.Name = "Guna2CheckBox1"
+        Guna2CheckBox1.Size = New Size(42, 19)
+        Guna2CheckBox1.TabIndex = 87
+        Guna2CheckBox1.Text = "No"
+        Guna2CheckBox1.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Guna2CheckBox1.UncheckedState.BorderRadius = 0
+        Guna2CheckBox1.UncheckedState.BorderThickness = 0
+        Guna2CheckBox1.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Guna2HtmlLabel87
+        ' 
+        Guna2HtmlLabel87.AutoSize = False
+        Guna2HtmlLabel87.BackColor = Color.Transparent
+        Guna2HtmlLabel87.Location = New Point(135, 745)
+        Guna2HtmlLabel87.Name = "Guna2HtmlLabel87"
+        Guna2HtmlLabel87.Size = New Size(128, 19)
+        Guna2HtmlLabel87.TabIndex = 88
+        Guna2HtmlLabel87.Text = "If YES, please specify :"
+        ' 
+        ' Guna2HtmlLabel85
+        ' 
+        Guna2HtmlLabel85.AutoSize = False
+        Guna2HtmlLabel85.BackColor = Color.Transparent
+        Guna2HtmlLabel85.Location = New Point(24, 713)
+        Guna2HtmlLabel85.Name = "Guna2HtmlLabel85"
+        Guna2HtmlLabel85.Size = New Size(105, 52)
+        Guna2HtmlLabel85.TabIndex = 84
+        Guna2HtmlLabel85.Text = vbTab & "a. Are you a member of any indigenous group?"
+        ' 
+        ' Guna2HtmlLabel90
+        ' 
+        Guna2HtmlLabel90.AutoSize = False
+        Guna2HtmlLabel90.BackColor = Color.Transparent
+        Guna2HtmlLabel90.Location = New Point(617, 733)
+        Guna2HtmlLabel90.Name = "Guna2HtmlLabel90"
+        Guna2HtmlLabel90.Size = New Size(114, 33)
+        Guna2HtmlLabel90.TabIndex = 98
+        Guna2HtmlLabel90.Text = "If YES, please specify ID No :"
+        ' 
+        ' Guna2CheckBox6
+        ' 
+        Guna2CheckBox6.AutoSize = True
+        Guna2CheckBox6.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox6.CheckedState.BorderRadius = 0
+        Guna2CheckBox6.CheckedState.BorderThickness = 0
+        Guna2CheckBox6.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox6.Location = New Point(677, 710)
+        Guna2CheckBox6.Name = "Guna2CheckBox6"
+        Guna2CheckBox6.Size = New Size(42, 19)
+        Guna2CheckBox6.TabIndex = 97
+        Guna2CheckBox6.Text = "No"
+        Guna2CheckBox6.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Guna2CheckBox6.UncheckedState.BorderRadius = 0
+        Guna2CheckBox6.UncheckedState.BorderThickness = 0
+        Guna2CheckBox6.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Guna2CheckBox7
+        ' 
+        Guna2CheckBox7.AutoSize = True
+        Guna2CheckBox7.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox7.CheckedState.BorderRadius = 0
+        Guna2CheckBox7.CheckedState.BorderThickness = 0
+        Guna2CheckBox7.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2CheckBox7.Location = New Point(617, 713)
+        Guna2CheckBox7.Name = "Guna2CheckBox7"
+        Guna2CheckBox7.Size = New Size(43, 19)
+        Guna2CheckBox7.TabIndex = 96
+        Guna2CheckBox7.Text = "Yes"
+        Guna2CheckBox7.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        Guna2CheckBox7.UncheckedState.BorderRadius = 0
+        Guna2CheckBox7.UncheckedState.BorderThickness = 0
+        Guna2CheckBox7.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
+        ' 
+        ' Qtbt40c
+        ' 
+        Qtbt40c.CustomizableEdges = CustomizableEdges215
+        Qtbt40c.DefaultText = ""
+        Qtbt40c.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt40c.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt40c.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40c.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40c.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt40c.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Qtbt40c.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Qtbt40c.Location = New Point(617, 766)
+        Qtbt40c.Multiline = True
+        Qtbt40c.Name = "Qtbt40c"
+        Qtbt40c.PasswordChar = ChrW(0)
+        Qtbt40c.PlaceholderText = ""
+        Qtbt40c.SelectedText = ""
+        Qtbt40c.ShadowDecoration.CustomizableEdges = CustomizableEdges216
+        Qtbt40c.Size = New Size(128, 30)
+        Qtbt40c.TabIndex = 95
+        ' 
+        ' Guna2HtmlLabel91
+        ' 
+        Guna2HtmlLabel91.AutoSize = False
+        Guna2HtmlLabel91.BackColor = Color.Transparent
+        Guna2HtmlLabel91.Location = New Point(521, 713)
+        Guna2HtmlLabel91.Name = "Guna2HtmlLabel91"
+        Guna2HtmlLabel91.Size = New Size(90, 52)
+        Guna2HtmlLabel91.TabIndex = 94
+        Guna2HtmlLabel91.Text = vbTab & "c. Are you a solo parent?"
         ' 
         ' EmployeeManagement
         ' 
@@ -6002,9 +6275,25 @@ Partial Class EmployeeManagement
     Friend WithEvents Qcb38bNo As Guna2CheckBox
     Friend WithEvents Qcb38bYes As Guna2CheckBox
     Friend WithEvents Guna2HtmlLabel83 As Guna2HtmlLabel
-    Friend WithEvents Guna2TextBox3 As Guna2TextBox
+    Friend WithEvents Qtbt39 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel82 As Guna2HtmlLabel
+    Friend WithEvents Qcb39No As Guna2CheckBox
+    Friend WithEvents Qcb39Yes As Guna2CheckBox
+    Friend WithEvents Guna2HtmlLabel84 As Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel86 As Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel90 As Guna2HtmlLabel
+    Friend WithEvents Guna2CheckBox6 As Guna2CheckBox
+    Friend WithEvents Guna2CheckBox7 As Guna2CheckBox
+    Friend WithEvents Qtbt40c As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel91 As Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel88 As Guna2HtmlLabel
+    Friend WithEvents Guna2CheckBox4 As Guna2CheckBox
+    Friend WithEvents Guna2CheckBox5 As Guna2CheckBox
+    Friend WithEvents Qtbt40b As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel89 As Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel87 As Guna2HtmlLabel
     Friend WithEvents Guna2CheckBox1 As Guna2CheckBox
     Friend WithEvents Guna2CheckBox2 As Guna2CheckBox
-    Friend WithEvents Guna2HtmlLabel84 As Guna2HtmlLabel
+    Friend WithEvents Qtbt39a As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel85 As Guna2HtmlLabel
 End Class

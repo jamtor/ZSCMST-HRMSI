@@ -70,4 +70,8 @@ Public Class EmployeeManagement
     Private Sub Guna2GradientPanel9_Paint_1(sender As Object, e As PaintEventArgs) Handles Guna2GradientPanel9.Paint
 
     End Sub
+
+    Private Sub TabPage22_Click(sender As Object, e As EventArgs) Handles TabPage22.Click
+
+    End Sub
 End Class
