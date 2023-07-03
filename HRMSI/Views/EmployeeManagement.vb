@@ -50,7 +50,6 @@ Public Class EmployeeManagement
         End If
     End Sub
 
-
     Private Sub btnEdit_Click(sender As Object, e As EventArgs) Handles btnEdit.Click
         textBoxEnabled()
     End Sub
@@ -64,4 +63,11 @@ Public Class EmployeeManagement
         dgView.Enabled = False
     End Sub
 
+    Private Sub Guna2GradientPanel9_Paint(sender As Object, e As PaintEventArgs)
+
+    End Sub
+
+    Private Sub Guna2GradientPanel9_Paint_1(sender As Object, e As PaintEventArgs) Handles Guna2GradientPanel9.Paint
+
+    End Sub
 End Class

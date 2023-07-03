@@ -23,12 +23,10 @@ Partial Class EmployeeManagement
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         components = New ComponentModel.Container()
-        Dim CustomizableEdges75 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges76 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges35 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges36 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges17 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges18 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges13 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges14 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges1 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges2 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges3 As CustomizableEdges = New CustomizableEdges()
@@ -41,12 +39,13 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges10 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges11 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges12 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges13 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges14 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges15 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges16 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges33 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges34 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges27 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges28 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges19 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges20 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges21 As CustomizableEdges = New CustomizableEdges()
@@ -55,14 +54,20 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges24 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges25 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges26 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges27 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges28 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges103 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges104 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges63 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges64 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges45 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges46 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges29 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges30 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges31 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges32 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges61 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges62 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges33 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges34 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges35 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges36 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges37 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges38 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges39 As CustomizableEdges = New CustomizableEdges()
@@ -71,8 +76,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges42 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges43 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges44 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges45 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges46 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges61 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges62 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges47 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges48 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges49 As CustomizableEdges = New CustomizableEdges()
@@ -87,10 +92,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges58 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges59 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges60 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges73 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges74 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges63 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges64 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges89 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges90 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges65 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges66 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges67 As CustomizableEdges = New CustomizableEdges()
@@ -99,6 +102,10 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges70 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges71 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges72 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges73 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges74 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges75 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges76 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges77 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges78 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges79 As CustomizableEdges = New CustomizableEdges()
@@ -111,8 +118,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges86 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges87 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges88 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges89 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges90 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges101 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges102 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges91 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges92 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges93 As CustomizableEdges = New CustomizableEdges()
@@ -123,10 +130,6 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges98 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges99 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges100 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges101 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges102 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges103 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges104 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges105 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges106 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges107 As CustomizableEdges = New CustomizableEdges()
@@ -273,11 +276,39 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges248 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges249 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges250 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges251 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges252 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges253 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges254 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges255 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges256 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges257 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges258 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges259 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges260 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges261 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges262 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges263 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges264 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges265 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges266 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges267 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges268 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges269 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges270 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges271 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges272 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges273 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges274 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges275 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges276 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges277 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges278 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges279 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges280 As CustomizableEdges = New CustomizableEdges()
         TabPage10 = New TabPage()
         TabPage9 = New TabPage()
         TabPage8 = New TabPage()
@@ -287,6 +318,33 @@ Partial Class EmployeeManagement
         TabPage4 = New TabPage()
         TabPage3 = New TabPage()
         TabPage2 = New TabPage()
+        Guna2GradientPanel7 = New Guna2GradientPanel()
+        Guna2GradientPanel9 = New Guna2GradientPanel()
+        Guna2HtmlLabel177 = New Guna2HtmlLabel()
+        Guna2TextBox82 = New Guna2TextBox()
+        Guna2HtmlLabel176 = New Guna2HtmlLabel()
+        Guna2DateTimePicker29 = New Guna2DateTimePicker()
+        Guna2HtmlLabel175 = New Guna2HtmlLabel()
+        Guna2TextBox79 = New Guna2TextBox()
+        Guna2ComboBox16 = New Guna2ComboBox()
+        Guna2HtmlLabel174 = New Guna2HtmlLabel()
+        Guna2TextBox81 = New Guna2TextBox()
+        Guna2HtmlLabel173 = New Guna2HtmlLabel()
+        Guna2TextBox80 = New Guna2TextBox()
+        Guna2HtmlLabel172 = New Guna2HtmlLabel()
+        Guna2HtmlLabel170 = New Guna2HtmlLabel()
+        Guna2HtmlLabel171 = New Guna2HtmlLabel()
+        Guna2GradientPanel8 = New Guna2GradientPanel()
+        Guna2DataGridView1 = New Guna2DataGridView()
+        Column3 = New DataGridViewTextBoxColumn()
+        Column4 = New DataGridViewTextBoxColumn()
+        Column5 = New DataGridViewTextBoxColumn()
+        bsBankInfo = New BindingSource(components)
+        Guna2Panel9 = New Guna2Panel()
+        Guna2TextBox78 = New Guna2TextBox()
+        Guna2Button2 = New Guna2Button()
+        Guna2Button4 = New Guna2Button()
+        Guna2Button5 = New Guna2Button()
         TabPage1 = New TabPage()
         Guna2TabControl3 = New Guna2TabControl()
         TabPage13 = New TabPage()
@@ -658,7 +716,13 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel6 = New Guna2HtmlLabel()
         Guna2HtmlLabel7 = New Guna2HtmlLabel()
         Guna2HtmlLabel8 = New Guna2HtmlLabel()
-        BindingSourceBindingSource = New BindingSource(components)
+        TabPage2.SuspendLayout()
+        Guna2GradientPanel7.SuspendLayout()
+        Guna2GradientPanel9.SuspendLayout()
+        Guna2GradientPanel8.SuspendLayout()
+        CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
+        CType(bsBankInfo, ComponentModel.ISupportInitialize).BeginInit()
+        Guna2Panel9.SuspendLayout()
         TabPage1.SuspendLayout()
         Guna2TabControl3.SuspendLayout()
         TabPage13.SuspendLayout()
@@ -689,7 +753,6 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).BeginInit()
         Guna2Panel3.SuspendLayout()
         Guna2TabControl1.SuspendLayout()
-        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' TabPage10
@@ -768,12 +831,432 @@ Partial Class EmployeeManagement
         ' TabPage2
         ' 
         TabPage2.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
+        TabPage2.Controls.Add(Guna2GradientPanel7)
+        TabPage2.Controls.Add(Guna2Panel9)
         TabPage2.Location = New Point(204, 4)
         TabPage2.Name = "TabPage2"
         TabPage2.Padding = New Padding(3)
         TabPage2.Size = New Size(1592, 992)
         TabPage2.TabIndex = 1
         TabPage2.Text = "Bank Account Information"
+        ' 
+        ' Guna2GradientPanel7
+        ' 
+        Guna2GradientPanel7.Controls.Add(Guna2GradientPanel9)
+        Guna2GradientPanel7.Controls.Add(Guna2GradientPanel8)
+        Guna2GradientPanel7.CustomizableEdges = CustomizableEdges17
+        Guna2GradientPanel7.Dock = DockStyle.Fill
+        Guna2GradientPanel7.Location = New Point(3, 60)
+        Guna2GradientPanel7.Name = "Guna2GradientPanel7"
+        Guna2GradientPanel7.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2GradientPanel7.Size = New Size(1586, 929)
+        Guna2GradientPanel7.TabIndex = 6
+        ' 
+        ' Guna2GradientPanel9
+        ' 
+        Guna2GradientPanel9.BackColor = Color.White
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel177)
+        Guna2GradientPanel9.Controls.Add(Guna2TextBox82)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel176)
+        Guna2GradientPanel9.Controls.Add(Guna2DateTimePicker29)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel175)
+        Guna2GradientPanel9.Controls.Add(Guna2TextBox79)
+        Guna2GradientPanel9.Controls.Add(Guna2ComboBox16)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel174)
+        Guna2GradientPanel9.Controls.Add(Guna2TextBox81)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel173)
+        Guna2GradientPanel9.Controls.Add(Guna2TextBox80)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel172)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel170)
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel171)
+        Guna2GradientPanel9.CustomizableEdges = CustomizableEdges13
+        Guna2GradientPanel9.Dock = DockStyle.Fill
+        Guna2GradientPanel9.Location = New Point(783, 0)
+        Guna2GradientPanel9.Name = "Guna2GradientPanel9"
+        Guna2GradientPanel9.ShadowDecoration.CustomizableEdges = CustomizableEdges14
+        Guna2GradientPanel9.Size = New Size(803, 929)
+        Guna2GradientPanel9.TabIndex = 1
+        ' 
+        ' Guna2HtmlLabel177
+        ' 
+        Guna2HtmlLabel177.BackColor = Color.Transparent
+        Guna2HtmlLabel177.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel177.Location = New Point(450, 287)
+        Guna2HtmlLabel177.Name = "Guna2HtmlLabel177"
+        Guna2HtmlLabel177.Size = New Size(55, 19)
+        Guna2HtmlLabel177.TabIndex = 24
+        Guna2HtmlLabel177.Text = "Remarks"
+        ' 
+        ' Guna2TextBox82
+        ' 
+        Guna2TextBox82.CustomizableEdges = CustomizableEdges1
+        Guna2TextBox82.DefaultText = ""
+        Guna2TextBox82.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox82.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox82.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox82.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox82.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox82.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox82.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox82.Location = New Point(450, 312)
+        Guna2TextBox82.Multiline = True
+        Guna2TextBox82.Name = "Guna2TextBox82"
+        Guna2TextBox82.PasswordChar = ChrW(0)
+        Guna2TextBox82.PlaceholderText = ""
+        Guna2TextBox82.SelectedText = ""
+        Guna2TextBox82.ShadowDecoration.CustomizableEdges = CustomizableEdges2
+        Guna2TextBox82.Size = New Size(321, 76)
+        Guna2TextBox82.TabIndex = 23
+        ' 
+        ' Guna2HtmlLabel176
+        ' 
+        Guna2HtmlLabel176.BackColor = Color.Transparent
+        Guna2HtmlLabel176.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel176.Location = New Point(85, 287)
+        Guna2HtmlLabel176.Name = "Guna2HtmlLabel176"
+        Guna2HtmlLabel176.Size = New Size(31, 19)
+        Guna2HtmlLabel176.TabIndex = 22
+        Guna2HtmlLabel176.Text = "Date"
+        ' 
+        ' Guna2DateTimePicker29
+        ' 
+        Guna2DateTimePicker29.Checked = True
+        Guna2DateTimePicker29.CustomFormat = "MMM dd, yyyy"
+        Guna2DateTimePicker29.CustomizableEdges = CustomizableEdges3
+        Guna2DateTimePicker29.Enabled = False
+        Guna2DateTimePicker29.FillColor = Color.White
+        Guna2DateTimePicker29.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DateTimePicker29.Format = DateTimePickerFormat.Custom
+        Guna2DateTimePicker29.Location = New Point(85, 312)
+        Guna2DateTimePicker29.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Guna2DateTimePicker29.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Guna2DateTimePicker29.Name = "Guna2DateTimePicker29"
+        Guna2DateTimePicker29.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        Guna2DateTimePicker29.Size = New Size(264, 30)
+        Guna2DateTimePicker29.TabIndex = 21
+        Guna2DateTimePicker29.Value = New Date(2023, 6, 26, 10, 5, 25, 914)
+        ' 
+        ' Guna2HtmlLabel175
+        ' 
+        Guna2HtmlLabel175.BackColor = Color.Transparent
+        Guna2HtmlLabel175.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel175.Location = New Point(450, 188)
+        Guna2HtmlLabel175.Name = "Guna2HtmlLabel175"
+        Guna2HtmlLabel175.Size = New Size(45, 19)
+        Guna2HtmlLabel175.TabIndex = 20
+        Guna2HtmlLabel175.Text = " Branch"
+        ' 
+        ' Guna2TextBox79
+        ' 
+        Guna2TextBox79.CustomizableEdges = CustomizableEdges5
+        Guna2TextBox79.DefaultText = ""
+        Guna2TextBox79.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox79.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox79.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox79.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox79.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox79.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox79.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox79.Location = New Point(450, 213)
+        Guna2TextBox79.Name = "Guna2TextBox79"
+        Guna2TextBox79.PasswordChar = ChrW(0)
+        Guna2TextBox79.PlaceholderText = ""
+        Guna2TextBox79.SelectedText = ""
+        Guna2TextBox79.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        Guna2TextBox79.Size = New Size(321, 30)
+        Guna2TextBox79.TabIndex = 19
+        ' 
+        ' Guna2ComboBox16
+        ' 
+        Guna2ComboBox16.BackColor = Color.Transparent
+        Guna2ComboBox16.CustomizableEdges = CustomizableEdges7
+        Guna2ComboBox16.DrawMode = DrawMode.OwnerDrawFixed
+        Guna2ComboBox16.DropDownStyle = ComboBoxStyle.DropDownList
+        Guna2ComboBox16.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2ComboBox16.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2ComboBox16.Font = New Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2ComboBox16.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
+        Guna2ComboBox16.ItemHeight = 24
+        Guna2ComboBox16.Items.AddRange(New Object() {"Development Bank of the Philippines"})
+        Guna2ComboBox16.Location = New Point(85, 115)
+        Guna2ComboBox16.Name = "Guna2ComboBox16"
+        Guna2ComboBox16.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        Guna2ComboBox16.Size = New Size(264, 30)
+        Guna2ComboBox16.TabIndex = 18
+        ' 
+        ' Guna2HtmlLabel174
+        ' 
+        Guna2HtmlLabel174.BackColor = Color.Transparent
+        Guna2HtmlLabel174.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel174.Location = New Point(85, 188)
+        Guna2HtmlLabel174.Name = "Guna2HtmlLabel174"
+        Guna2HtmlLabel174.Size = New Size(107, 19)
+        Guna2HtmlLabel174.TabIndex = 17
+        Guna2HtmlLabel174.Text = "Account Number"
+        ' 
+        ' Guna2TextBox81
+        ' 
+        Guna2TextBox81.CustomizableEdges = CustomizableEdges9
+        Guna2TextBox81.DefaultText = ""
+        Guna2TextBox81.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox81.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox81.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox81.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox81.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox81.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox81.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox81.Location = New Point(85, 213)
+        Guna2TextBox81.Name = "Guna2TextBox81"
+        Guna2TextBox81.PasswordChar = ChrW(0)
+        Guna2TextBox81.PlaceholderText = ""
+        Guna2TextBox81.SelectedText = ""
+        Guna2TextBox81.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        Guna2TextBox81.Size = New Size(264, 30)
+        Guna2TextBox81.TabIndex = 16
+        ' 
+        ' Guna2HtmlLabel173
+        ' 
+        Guna2HtmlLabel173.BackColor = Color.Transparent
+        Guna2HtmlLabel173.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel173.Location = New Point(450, 90)
+        Guna2HtmlLabel173.Name = "Guna2HtmlLabel173"
+        Guna2HtmlLabel173.Size = New Size(93, 19)
+        Guna2HtmlLabel173.TabIndex = 15
+        Guna2HtmlLabel173.Text = "Account Name"
+        ' 
+        ' Guna2TextBox80
+        ' 
+        Guna2TextBox80.CustomizableEdges = CustomizableEdges11
+        Guna2TextBox80.DefaultText = ""
+        Guna2TextBox80.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox80.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox80.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox80.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox80.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox80.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox80.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox80.Location = New Point(450, 115)
+        Guna2TextBox80.Name = "Guna2TextBox80"
+        Guna2TextBox80.PasswordChar = ChrW(0)
+        Guna2TextBox80.PlaceholderText = ""
+        Guna2TextBox80.SelectedText = ""
+        Guna2TextBox80.ShadowDecoration.CustomizableEdges = CustomizableEdges12
+        Guna2TextBox80.Size = New Size(321, 30)
+        Guna2TextBox80.TabIndex = 14
+        ' 
+        ' Guna2HtmlLabel172
+        ' 
+        Guna2HtmlLabel172.BackColor = Color.Transparent
+        Guna2HtmlLabel172.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel172.Location = New Point(85, 90)
+        Guna2HtmlLabel172.Name = "Guna2HtmlLabel172"
+        Guna2HtmlLabel172.Size = New Size(73, 19)
+        Guna2HtmlLabel172.TabIndex = 13
+        Guna2HtmlLabel172.Text = "Bank Name"
+        ' 
+        ' Guna2HtmlLabel170
+        ' 
+        Guna2HtmlLabel170.BackColor = Color.Transparent
+        Guna2HtmlLabel170.Font = New Font("Segoe UI Semibold", 11.25F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel170.Location = New Point(114, 19)
+        Guna2HtmlLabel170.Name = "Guna2HtmlLabel170"
+        Guna2HtmlLabel170.Size = New Size(115, 22)
+        Guna2HtmlLabel170.TabIndex = 12
+        Guna2HtmlLabel170.Text = "Employee Name"
+        ' 
+        ' Guna2HtmlLabel171
+        ' 
+        Guna2HtmlLabel171.BackColor = Color.Transparent
+        Guna2HtmlLabel171.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel171.Location = New Point(502, 19)
+        Guna2HtmlLabel171.Name = "Guna2HtmlLabel171"
+        Guna2HtmlLabel171.Size = New Size(79, 19)
+        Guna2HtmlLabel171.TabIndex = 11
+        Guna2HtmlLabel171.Text = "Employee ID"
+        ' 
+        ' Guna2GradientPanel8
+        ' 
+        Guna2GradientPanel8.Controls.Add(Guna2DataGridView1)
+        Guna2GradientPanel8.CustomizableEdges = CustomizableEdges15
+        Guna2GradientPanel8.Dock = DockStyle.Left
+        Guna2GradientPanel8.Location = New Point(0, 0)
+        Guna2GradientPanel8.Name = "Guna2GradientPanel8"
+        Guna2GradientPanel8.ShadowDecoration.CustomizableEdges = CustomizableEdges16
+        Guna2GradientPanel8.Size = New Size(783, 929)
+        Guna2GradientPanel8.TabIndex = 0
+        ' 
+        ' Guna2DataGridView1
+        ' 
+        DataGridViewCellStyle1.BackColor = Color.White
+        Guna2DataGridView1.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
+        Guna2DataGridView1.AutoGenerateColumns = False
+        DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
+        DataGridViewCellStyle2.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle2.ForeColor = Color.White
+        DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle2.WrapMode = DataGridViewTriState.True
+        Guna2DataGridView1.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle2
+        Guna2DataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
+        Guna2DataGridView1.Columns.AddRange(New DataGridViewColumn() {Column3, Column4, Column5})
+        Guna2DataGridView1.DataSource = bsBankInfo
+        DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle3.BackColor = Color.White
+        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle3.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle3.WrapMode = DataGridViewTriState.False
+        Guna2DataGridView1.DefaultCellStyle = DataGridViewCellStyle3
+        Guna2DataGridView1.Dock = DockStyle.Fill
+        Guna2DataGridView1.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.Location = New Point(0, 0)
+        Guna2DataGridView1.Name = "Guna2DataGridView1"
+        Guna2DataGridView1.RowHeadersVisible = False
+        Guna2DataGridView1.RowTemplate.Height = 25
+        Guna2DataGridView1.Size = New Size(783, 929)
+        Guna2DataGridView1.TabIndex = 0
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = Nothing
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.ForeColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
+        Guna2DataGridView1.ThemeStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.ForeColor = Color.White
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.HeaightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.Height = 23
+        Guna2DataGridView1.ThemeStyle.ReadOnly = False
+        Guna2DataGridView1.ThemeStyle.RowsStyle.BackColor = Color.White
+        Guna2DataGridView1.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
+        Guna2DataGridView1.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        Guna2DataGridView1.ThemeStyle.RowsStyle.Height = 25
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        ' 
+        ' Column3
+        ' 
+        Column3.HeaderText = "Employee Name"
+        Column3.Name = "Column3"
+        ' 
+        ' Column4
+        ' 
+        Column4.FillWeight = 40F
+        Column4.HeaderText = "Bank"
+        Column4.Name = "Column4"
+        ' 
+        ' Column5
+        ' 
+        Column5.FillWeight = 60F
+        Column5.HeaderText = "Account Number"
+        Column5.Name = "Column5"
+        ' 
+        ' Guna2Panel9
+        ' 
+        Guna2Panel9.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
+        Guna2Panel9.Controls.Add(Guna2TextBox78)
+        Guna2Panel9.Controls.Add(Guna2Button2)
+        Guna2Panel9.Controls.Add(Guna2Button4)
+        Guna2Panel9.Controls.Add(Guna2Button5)
+        Guna2Panel9.CustomizableEdges = CustomizableEdges27
+        Guna2Panel9.Dock = DockStyle.Top
+        Guna2Panel9.Location = New Point(3, 3)
+        Guna2Panel9.Name = "Guna2Panel9"
+        Guna2Panel9.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        Guna2Panel9.Size = New Size(1586, 57)
+        Guna2Panel9.TabIndex = 5
+        ' 
+        ' Guna2TextBox78
+        ' 
+        Guna2TextBox78.BackgroundImageLayout = ImageLayout.Center
+        Guna2TextBox78.BorderRadius = 3
+        Guna2TextBox78.CustomizableEdges = CustomizableEdges19
+        Guna2TextBox78.DefaultText = ""
+        Guna2TextBox78.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox78.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox78.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox78.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox78.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox78.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox78.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox78.IconLeft = search
+        Guna2TextBox78.Location = New Point(586, 17)
+        Guna2TextBox78.Name = "Guna2TextBox78"
+        Guna2TextBox78.PasswordChar = ChrW(0)
+        Guna2TextBox78.PlaceholderText = ""
+        Guna2TextBox78.SelectedText = ""
+        Guna2TextBox78.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        Guna2TextBox78.Size = New Size(197, 29)
+        Guna2TextBox78.TabIndex = 5
+        ' 
+        ' Guna2Button2
+        ' 
+        Guna2Button2.BorderColor = Color.Transparent
+        Guna2Button2.CustomBorderColor = Color.Transparent
+        Guna2Button2.CustomizableEdges = CustomizableEdges21
+        Guna2Button2.DisabledState.BorderColor = Color.DarkGray
+        Guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray
+        Guna2Button2.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button2.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        Guna2Button2.FillColor = Color.Transparent
+        Guna2Button2.FocusedColor = Color.Transparent
+        Guna2Button2.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button2.ForeColor = Color.White
+        Guna2Button2.Image = trash
+        Guna2Button2.Location = New Point(1010, 7)
+        Guna2Button2.Name = "Guna2Button2"
+        Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        Guna2Button2.Size = New Size(20, 36)
+        Guna2Button2.TabIndex = 4
+        ' 
+        ' Guna2Button4
+        ' 
+        Guna2Button4.BorderColor = Color.Transparent
+        Guna2Button4.CustomBorderColor = Color.Transparent
+        Guna2Button4.CustomizableEdges = CustomizableEdges23
+        Guna2Button4.DisabledState.BorderColor = Color.DarkGray
+        Guna2Button4.DisabledState.CustomBorderColor = Color.DarkGray
+        Guna2Button4.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button4.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        Guna2Button4.FillColor = Color.Transparent
+        Guna2Button4.FocusedColor = Color.Transparent
+        Guna2Button4.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button4.ForeColor = Color.White
+        Guna2Button4.HoverState.BorderColor = Color.Transparent
+        Guna2Button4.HoverState.CustomBorderColor = Color.Transparent
+        Guna2Button4.HoverState.FillColor = Color.Transparent
+        Guna2Button4.HoverState.ForeColor = Color.Transparent
+        Guna2Button4.Image = add__1_
+        Guna2Button4.Location = New Point(914, 17)
+        Guna2Button4.Name = "Guna2Button4"
+        Guna2Button4.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        Guna2Button4.Size = New Size(23, 28)
+        Guna2Button4.TabIndex = 2
+        ' 
+        ' Guna2Button5
+        ' 
+        Guna2Button5.BorderColor = Color.Transparent
+        Guna2Button5.CustomBorderColor = Color.Transparent
+        Guna2Button5.CustomizableEdges = CustomizableEdges25
+        Guna2Button5.DisabledState.BorderColor = Color.DarkGray
+        Guna2Button5.DisabledState.CustomBorderColor = Color.DarkGray
+        Guna2Button5.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button5.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        Guna2Button5.FillColor = Color.Transparent
+        Guna2Button5.FocusedColor = Color.Transparent
+        Guna2Button5.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2Button5.ForeColor = Color.White
+        Guna2Button5.Image = pencil__1_
+        Guna2Button5.Location = New Point(108, 11)
+        Guna2Button5.Name = "Guna2Button5"
+        Guna2Button5.ShadowDecoration.CustomizableEdges = CustomizableEdges26
+        Guna2Button5.Size = New Size(26, 36)
+        Guna2Button5.TabIndex = 3
         ' 
         ' TabPage1
         ' 
@@ -885,11 +1368,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel4)
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel3)
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel2)
-        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges75
+        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges103
         Guna2GradientPanel1.Dock = DockStyle.Fill
         Guna2GradientPanel1.Location = New Point(3, 3)
         Guna2GradientPanel1.Name = "Guna2GradientPanel1"
-        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges76
+        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges104
         Guna2GradientPanel1.Size = New Size(768, 821)
         Guna2GradientPanel1.TabIndex = 15
         ' 
@@ -897,11 +1380,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2GradientPanel4.Controls.Add(Guna2GradientPanel6)
         Guna2GradientPanel4.Controls.Add(Guna2GradientPanel5)
-        Guna2GradientPanel4.CustomizableEdges = CustomizableEdges35
+        Guna2GradientPanel4.CustomizableEdges = CustomizableEdges63
         Guna2GradientPanel4.Dock = DockStyle.Top
         Guna2GradientPanel4.Location = New Point(0, 509)
         Guna2GradientPanel4.Name = "Guna2GradientPanel4"
-        Guna2GradientPanel4.ShadowDecoration.CustomizableEdges = CustomizableEdges36
+        Guna2GradientPanel4.ShadowDecoration.CustomizableEdges = CustomizableEdges64
         Guna2GradientPanel4.Size = New Size(768, 312)
         Guna2GradientPanel4.TabIndex = 2
         ' 
@@ -924,11 +1407,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel6.Controls.Add(Guna2HtmlLabel33)
         Guna2GradientPanel6.Controls.Add(tbt25)
         Guna2GradientPanel6.Controls.Add(Guna2HtmlLabel34)
-        Guna2GradientPanel6.CustomizableEdges = CustomizableEdges17
+        Guna2GradientPanel6.CustomizableEdges = CustomizableEdges45
         Guna2GradientPanel6.Dock = DockStyle.Left
         Guna2GradientPanel6.Location = New Point(390, 0)
         Guna2GradientPanel6.Name = "Guna2GradientPanel6"
-        Guna2GradientPanel6.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2GradientPanel6.ShadowDecoration.CustomizableEdges = CustomizableEdges46
         Guna2GradientPanel6.Size = New Size(378, 312)
         Guna2GradientPanel6.TabIndex = 1
         ' 
@@ -938,11 +1421,11 @@ Partial Class EmployeeManagement
         tbt32.CheckedState.BorderRadius = 2
         tbt32.CheckedState.BorderThickness = 0
         tbt32.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        tbt32.CustomizableEdges = CustomizableEdges1
+        tbt32.CustomizableEdges = CustomizableEdges29
         tbt32.Enabled = False
         tbt32.Location = New Point(296, 6)
         tbt32.Name = "tbt32"
-        tbt32.ShadowDecoration.CustomizableEdges = CustomizableEdges2
+        tbt32.ShadowDecoration.CustomizableEdges = CustomizableEdges30
         tbt32.Size = New Size(20, 20)
         tbt32.TabIndex = 62
         tbt32.Text = "Guna2CustomCheckBox1"
@@ -983,7 +1466,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt30
         ' 
-        tbt30.CustomizableEdges = CustomizableEdges3
+        tbt30.CustomizableEdges = CustomizableEdges31
         tbt30.DefaultText = ""
         tbt30.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt30.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -998,13 +1481,13 @@ Partial Class EmployeeManagement
         tbt30.PasswordChar = ChrW(0)
         tbt30.PlaceholderText = ""
         tbt30.SelectedText = ""
-        tbt30.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        tbt30.ShadowDecoration.CustomizableEdges = CustomizableEdges32
         tbt30.Size = New Size(93, 30)
         tbt30.TabIndex = 58
         ' 
         ' tbt31
         ' 
-        tbt31.CustomizableEdges = CustomizableEdges5
+        tbt31.CustomizableEdges = CustomizableEdges33
         tbt31.DefaultText = ""
         tbt31.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt31.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1019,7 +1502,7 @@ Partial Class EmployeeManagement
         tbt31.PasswordChar = ChrW(0)
         tbt31.PlaceholderText = ""
         tbt31.SelectedText = ""
-        tbt31.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        tbt31.ShadowDecoration.CustomizableEdges = CustomizableEdges34
         tbt31.Size = New Size(348, 30)
         tbt31.TabIndex = 57
         ' 
@@ -1035,7 +1518,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt29
         ' 
-        tbt29.CustomizableEdges = CustomizableEdges7
+        tbt29.CustomizableEdges = CustomizableEdges35
         tbt29.DefaultText = ""
         tbt29.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt29.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1050,7 +1533,7 @@ Partial Class EmployeeManagement
         tbt29.PasswordChar = ChrW(0)
         tbt29.PlaceholderText = ""
         tbt29.SelectedText = ""
-        tbt29.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        tbt29.ShadowDecoration.CustomizableEdges = CustomizableEdges36
         tbt29.Size = New Size(237, 30)
         tbt29.TabIndex = 55
         ' 
@@ -1066,7 +1549,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt28
         ' 
-        tbt28.CustomizableEdges = CustomizableEdges9
+        tbt28.CustomizableEdges = CustomizableEdges37
         tbt28.DefaultText = ""
         tbt28.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt28.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1081,7 +1564,7 @@ Partial Class EmployeeManagement
         tbt28.PasswordChar = ChrW(0)
         tbt28.PlaceholderText = ""
         tbt28.SelectedText = ""
-        tbt28.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        tbt28.ShadowDecoration.CustomizableEdges = CustomizableEdges38
         tbt28.Size = New Size(150, 30)
         tbt28.TabIndex = 53
         ' 
@@ -1097,7 +1580,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt27
         ' 
-        tbt27.CustomizableEdges = CustomizableEdges11
+        tbt27.CustomizableEdges = CustomizableEdges39
         tbt27.DefaultText = ""
         tbt27.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt27.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1112,7 +1595,7 @@ Partial Class EmployeeManagement
         tbt27.PasswordChar = ChrW(0)
         tbt27.PlaceholderText = ""
         tbt27.SelectedText = ""
-        tbt27.ShadowDecoration.CustomizableEdges = CustomizableEdges12
+        tbt27.ShadowDecoration.CustomizableEdges = CustomizableEdges40
         tbt27.Size = New Size(150, 30)
         tbt27.TabIndex = 51
         ' 
@@ -1128,7 +1611,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt26
         ' 
-        tbt26.CustomizableEdges = CustomizableEdges13
+        tbt26.CustomizableEdges = CustomizableEdges41
         tbt26.DefaultText = ""
         tbt26.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt26.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1143,7 +1626,7 @@ Partial Class EmployeeManagement
         tbt26.PasswordChar = ChrW(0)
         tbt26.PlaceholderText = ""
         tbt26.SelectedText = ""
-        tbt26.ShadowDecoration.CustomizableEdges = CustomizableEdges14
+        tbt26.ShadowDecoration.CustomizableEdges = CustomizableEdges42
         tbt26.Size = New Size(150, 30)
         tbt26.TabIndex = 49
         ' 
@@ -1159,7 +1642,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt25
         ' 
-        tbt25.CustomizableEdges = CustomizableEdges15
+        tbt25.CustomizableEdges = CustomizableEdges43
         tbt25.DefaultText = ""
         tbt25.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt25.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1174,7 +1657,7 @@ Partial Class EmployeeManagement
         tbt25.PasswordChar = ChrW(0)
         tbt25.PlaceholderText = ""
         tbt25.SelectedText = ""
-        tbt25.ShadowDecoration.CustomizableEdges = CustomizableEdges16
+        tbt25.ShadowDecoration.CustomizableEdges = CustomizableEdges44
         tbt25.Size = New Size(150, 30)
         tbt25.TabIndex = 47
         ' 
@@ -1205,11 +1688,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel5.Controls.Add(Guna2HtmlLabel22)
         Guna2GradientPanel5.Controls.Add(tbt18)
         Guna2GradientPanel5.Controls.Add(Guna2HtmlLabel21)
-        Guna2GradientPanel5.CustomizableEdges = CustomizableEdges33
+        Guna2GradientPanel5.CustomizableEdges = CustomizableEdges61
         Guna2GradientPanel5.Dock = DockStyle.Left
         Guna2GradientPanel5.Location = New Point(0, 0)
         Guna2GradientPanel5.Name = "Guna2GradientPanel5"
-        Guna2GradientPanel5.ShadowDecoration.CustomizableEdges = CustomizableEdges34
+        Guna2GradientPanel5.ShadowDecoration.CustomizableEdges = CustomizableEdges62
         Guna2GradientPanel5.Size = New Size(390, 312)
         Guna2GradientPanel5.TabIndex = 0
         ' 
@@ -1235,7 +1718,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt23
         ' 
-        tbt23.CustomizableEdges = CustomizableEdges19
+        tbt23.CustomizableEdges = CustomizableEdges47
         tbt23.DefaultText = ""
         tbt23.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt23.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1250,13 +1733,13 @@ Partial Class EmployeeManagement
         tbt23.PasswordChar = ChrW(0)
         tbt23.PlaceholderText = ""
         tbt23.SelectedText = ""
-        tbt23.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        tbt23.ShadowDecoration.CustomizableEdges = CustomizableEdges48
         tbt23.Size = New Size(93, 30)
         tbt23.TabIndex = 44
         ' 
         ' tbt24
         ' 
-        tbt24.CustomizableEdges = CustomizableEdges21
+        tbt24.CustomizableEdges = CustomizableEdges49
         tbt24.DefaultText = ""
         tbt24.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt24.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1271,7 +1754,7 @@ Partial Class EmployeeManagement
         tbt24.PasswordChar = ChrW(0)
         tbt24.PlaceholderText = ""
         tbt24.SelectedText = ""
-        tbt24.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        tbt24.ShadowDecoration.CustomizableEdges = CustomizableEdges50
         tbt24.Size = New Size(348, 30)
         tbt24.TabIndex = 43
         ' 
@@ -1287,7 +1770,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt22
         ' 
-        tbt22.CustomizableEdges = CustomizableEdges23
+        tbt22.CustomizableEdges = CustomizableEdges51
         tbt22.DefaultText = ""
         tbt22.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt22.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1302,7 +1785,7 @@ Partial Class EmployeeManagement
         tbt22.PasswordChar = ChrW(0)
         tbt22.PlaceholderText = ""
         tbt22.SelectedText = ""
-        tbt22.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        tbt22.ShadowDecoration.CustomizableEdges = CustomizableEdges52
         tbt22.Size = New Size(237, 30)
         tbt22.TabIndex = 41
         ' 
@@ -1318,7 +1801,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt21
         ' 
-        tbt21.CustomizableEdges = CustomizableEdges25
+        tbt21.CustomizableEdges = CustomizableEdges53
         tbt21.DefaultText = ""
         tbt21.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt21.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1333,7 +1816,7 @@ Partial Class EmployeeManagement
         tbt21.PasswordChar = ChrW(0)
         tbt21.PlaceholderText = ""
         tbt21.SelectedText = ""
-        tbt21.ShadowDecoration.CustomizableEdges = CustomizableEdges26
+        tbt21.ShadowDecoration.CustomizableEdges = CustomizableEdges54
         tbt21.Size = New Size(150, 30)
         tbt21.TabIndex = 39
         ' 
@@ -1349,7 +1832,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt20
         ' 
-        tbt20.CustomizableEdges = CustomizableEdges27
+        tbt20.CustomizableEdges = CustomizableEdges55
         tbt20.DefaultText = ""
         tbt20.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt20.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1364,7 +1847,7 @@ Partial Class EmployeeManagement
         tbt20.PasswordChar = ChrW(0)
         tbt20.PlaceholderText = ""
         tbt20.SelectedText = ""
-        tbt20.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        tbt20.ShadowDecoration.CustomizableEdges = CustomizableEdges56
         tbt20.Size = New Size(150, 30)
         tbt20.TabIndex = 37
         ' 
@@ -1380,7 +1863,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt19
         ' 
-        tbt19.CustomizableEdges = CustomizableEdges29
+        tbt19.CustomizableEdges = CustomizableEdges57
         tbt19.DefaultText = ""
         tbt19.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt19.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1395,7 +1878,7 @@ Partial Class EmployeeManagement
         tbt19.PasswordChar = ChrW(0)
         tbt19.PlaceholderText = ""
         tbt19.SelectedText = ""
-        tbt19.ShadowDecoration.CustomizableEdges = CustomizableEdges30
+        tbt19.ShadowDecoration.CustomizableEdges = CustomizableEdges58
         tbt19.Size = New Size(150, 30)
         tbt19.TabIndex = 35
         ' 
@@ -1411,7 +1894,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt18
         ' 
-        tbt18.CustomizableEdges = CustomizableEdges31
+        tbt18.CustomizableEdges = CustomizableEdges59
         tbt18.DefaultText = ""
         tbt18.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt18.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1426,7 +1909,7 @@ Partial Class EmployeeManagement
         tbt18.PasswordChar = ChrW(0)
         tbt18.PlaceholderText = ""
         tbt18.SelectedText = ""
-        tbt18.ShadowDecoration.CustomizableEdges = CustomizableEdges32
+        tbt18.ShadowDecoration.CustomizableEdges = CustomizableEdges60
         tbt18.Size = New Size(150, 30)
         tbt18.TabIndex = 33
         ' 
@@ -1467,11 +1950,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel3.Controls.Add(tbt7)
         Guna2GradientPanel3.Controls.Add(tbt6)
         Guna2GradientPanel3.Controls.Add(Guna2HtmlLabel9)
-        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges61
+        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges89
         Guna2GradientPanel3.Dock = DockStyle.Top
         Guna2GradientPanel3.Location = New Point(0, 229)
         Guna2GradientPanel3.Name = "Guna2GradientPanel3"
-        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges62
+        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges90
         Guna2GradientPanel3.Size = New Size(768, 280)
         Guna2GradientPanel3.TabIndex = 1
         ' 
@@ -1487,7 +1970,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt17
         ' 
-        tbt17.CustomizableEdges = CustomizableEdges37
+        tbt17.CustomizableEdges = CustomizableEdges65
         tbt17.DefaultText = ""
         tbt17.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt17.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1502,7 +1985,7 @@ Partial Class EmployeeManagement
         tbt17.PasswordChar = ChrW(0)
         tbt17.PlaceholderText = ""
         tbt17.SelectedText = ""
-        tbt17.ShadowDecoration.CustomizableEdges = CustomizableEdges38
+        tbt17.ShadowDecoration.CustomizableEdges = CustomizableEdges66
         tbt17.Size = New Size(200, 30)
         tbt17.TabIndex = 34
         ' 
@@ -1518,7 +2001,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt16
         ' 
-        tbt16.CustomizableEdges = CustomizableEdges39
+        tbt16.CustomizableEdges = CustomizableEdges67
         tbt16.DefaultText = ""
         tbt16.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt16.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1533,7 +2016,7 @@ Partial Class EmployeeManagement
         tbt16.PasswordChar = ChrW(0)
         tbt16.PlaceholderText = ""
         tbt16.SelectedText = ""
-        tbt16.ShadowDecoration.CustomizableEdges = CustomizableEdges40
+        tbt16.ShadowDecoration.CustomizableEdges = CustomizableEdges68
         tbt16.Size = New Size(200, 30)
         tbt16.TabIndex = 32
         ' 
@@ -1549,7 +2032,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt15
         ' 
-        tbt15.CustomizableEdges = CustomizableEdges41
+        tbt15.CustomizableEdges = CustomizableEdges69
         tbt15.DefaultText = ""
         tbt15.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt15.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1564,7 +2047,7 @@ Partial Class EmployeeManagement
         tbt15.PasswordChar = ChrW(0)
         tbt15.PlaceholderText = ""
         tbt15.SelectedText = ""
-        tbt15.ShadowDecoration.CustomizableEdges = CustomizableEdges42
+        tbt15.ShadowDecoration.CustomizableEdges = CustomizableEdges70
         tbt15.Size = New Size(200, 30)
         tbt15.TabIndex = 30
         ' 
@@ -1580,7 +2063,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt14
         ' 
-        tbt14.CustomizableEdges = CustomizableEdges43
+        tbt14.CustomizableEdges = CustomizableEdges71
         tbt14.DefaultText = ""
         tbt14.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt14.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1595,7 +2078,7 @@ Partial Class EmployeeManagement
         tbt14.PasswordChar = ChrW(0)
         tbt14.PlaceholderText = ""
         tbt14.SelectedText = ""
-        tbt14.ShadowDecoration.CustomizableEdges = CustomizableEdges44
+        tbt14.ShadowDecoration.CustomizableEdges = CustomizableEdges72
         tbt14.Size = New Size(200, 30)
         tbt14.TabIndex = 28
         ' 
@@ -1611,7 +2094,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt13
         ' 
-        tbt13.CustomizableEdges = CustomizableEdges45
+        tbt13.CustomizableEdges = CustomizableEdges73
         tbt13.DefaultText = ""
         tbt13.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt13.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1626,7 +2109,7 @@ Partial Class EmployeeManagement
         tbt13.PasswordChar = ChrW(0)
         tbt13.PlaceholderText = ""
         tbt13.SelectedText = ""
-        tbt13.ShadowDecoration.CustomizableEdges = CustomizableEdges46
+        tbt13.ShadowDecoration.CustomizableEdges = CustomizableEdges74
         tbt13.Size = New Size(200, 30)
         tbt13.TabIndex = 26
         ' 
@@ -1643,7 +2126,7 @@ Partial Class EmployeeManagement
         ' tbt12
         ' 
         tbt12.BackColor = Color.Transparent
-        tbt12.CustomizableEdges = CustomizableEdges47
+        tbt12.CustomizableEdges = CustomizableEdges75
         tbt12.DrawMode = DrawMode.OwnerDrawFixed
         tbt12.DropDownStyle = ComboBoxStyle.DropDownList
         tbt12.Enabled = False
@@ -1655,21 +2138,21 @@ Partial Class EmployeeManagement
         tbt12.Items.AddRange(New Object() {"N/A", "A+", "B+", "O+", "AB+", "A-", "B-", "O-", "AB-"})
         tbt12.Location = New Point(605, 103)
         tbt12.Name = "tbt12"
-        tbt12.ShadowDecoration.CustomizableEdges = CustomizableEdges48
+        tbt12.ShadowDecoration.CustomizableEdges = CustomizableEdges76
         tbt12.Size = New Size(140, 30)
         tbt12.TabIndex = 12
         ' 
         ' tbt11
         ' 
         tbt11.BackColor = Color.Transparent
-        tbt11.CustomizableEdges = CustomizableEdges49
+        tbt11.CustomizableEdges = CustomizableEdges77
         tbt11.DecimalPlaces = 2
         tbt11.Enabled = False
         tbt11.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         tbt11.Location = New Point(428, 103)
         tbt11.Maximum = New Decimal(New Integer() {150, 0, 0, 0})
         tbt11.Name = "tbt11"
-        tbt11.ShadowDecoration.CustomizableEdges = CustomizableEdges50
+        tbt11.ShadowDecoration.CustomizableEdges = CustomizableEdges78
         tbt11.Size = New Size(150, 30)
         tbt11.TabIndex = 11
         ' 
@@ -1686,7 +2169,7 @@ Partial Class EmployeeManagement
         ' tbt10
         ' 
         tbt10.BackColor = Color.Transparent
-        tbt10.CustomizableEdges = CustomizableEdges51
+        tbt10.CustomizableEdges = CustomizableEdges79
         tbt10.DecimalPlaces = 2
         tbt10.Enabled = False
         tbt10.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
@@ -1694,7 +2177,7 @@ Partial Class EmployeeManagement
         tbt10.Location = New Point(240, 103)
         tbt10.Maximum = New Decimal(New Integer() {10, 0, 0, 0})
         tbt10.Name = "tbt10"
-        tbt10.ShadowDecoration.CustomizableEdges = CustomizableEdges52
+        tbt10.ShadowDecoration.CustomizableEdges = CustomizableEdges80
         tbt10.Size = New Size(150, 30)
         tbt10.TabIndex = 10
         ' 
@@ -1721,7 +2204,7 @@ Partial Class EmployeeManagement
         ' tbt9
         ' 
         tbt9.BackColor = Color.Transparent
-        tbt9.CustomizableEdges = CustomizableEdges53
+        tbt9.CustomizableEdges = CustomizableEdges81
         tbt9.DrawMode = DrawMode.OwnerDrawFixed
         tbt9.DropDownStyle = ComboBoxStyle.DropDownList
         tbt9.Enabled = False
@@ -1733,7 +2216,7 @@ Partial Class EmployeeManagement
         tbt9.Items.AddRange(New Object() {"N/A", "Single", "Married", "Widowed", "Separated"})
         tbt9.Location = New Point(32, 103)
         tbt9.Name = "tbt9"
-        tbt9.ShadowDecoration.CustomizableEdges = CustomizableEdges54
+        tbt9.ShadowDecoration.CustomizableEdges = CustomizableEdges82
         tbt9.Size = New Size(180, 30)
         tbt9.TabIndex = 9
         ' 
@@ -1750,7 +2233,7 @@ Partial Class EmployeeManagement
         ' tbt8
         ' 
         tbt8.BackColor = Color.Transparent
-        tbt8.CustomizableEdges = CustomizableEdges55
+        tbt8.CustomizableEdges = CustomizableEdges83
         tbt8.DrawMode = DrawMode.OwnerDrawFixed
         tbt8.DropDownStyle = ComboBoxStyle.DropDownList
         tbt8.Enabled = False
@@ -1762,7 +2245,7 @@ Partial Class EmployeeManagement
         tbt8.Items.AddRange(New Object() {"Male", "Female"})
         tbt8.Location = New Point(605, 31)
         tbt8.Name = "tbt8"
-        tbt8.ShadowDecoration.CustomizableEdges = CustomizableEdges56
+        tbt8.ShadowDecoration.CustomizableEdges = CustomizableEdges84
         tbt8.Size = New Size(140, 30)
         tbt8.TabIndex = 8
         ' 
@@ -1778,7 +2261,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt7
         ' 
-        tbt7.CustomizableEdges = CustomizableEdges57
+        tbt7.CustomizableEdges = CustomizableEdges85
         tbt7.DefaultText = ""
         tbt7.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt7.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1793,7 +2276,7 @@ Partial Class EmployeeManagement
         tbt7.PasswordChar = ChrW(0)
         tbt7.PlaceholderText = ""
         tbt7.SelectedText = ""
-        tbt7.ShadowDecoration.CustomizableEdges = CustomizableEdges58
+        tbt7.ShadowDecoration.CustomizableEdges = CustomizableEdges86
         tbt7.Size = New Size(340, 30)
         tbt7.TabIndex = 7
         ' 
@@ -1801,7 +2284,7 @@ Partial Class EmployeeManagement
         ' 
         tbt6.Checked = True
         tbt6.CustomFormat = "MMM dd, yyyy"
-        tbt6.CustomizableEdges = CustomizableEdges59
+        tbt6.CustomizableEdges = CustomizableEdges87
         tbt6.Enabled = False
         tbt6.FillColor = Color.White
         tbt6.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
@@ -1810,7 +2293,7 @@ Partial Class EmployeeManagement
         tbt6.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         tbt6.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         tbt6.Name = "tbt6"
-        tbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges60
+        tbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges88
         tbt6.Size = New Size(180, 30)
         tbt6.TabIndex = 6
         tbt6.Value = New Date(2023, 6, 26, 10, 5, 25, 914)
@@ -1837,11 +2320,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel2.Controls.Add(Guna2HtmlLabel3)
         Guna2GradientPanel2.Controls.Add(tbt1)
         Guna2GradientPanel2.Controls.Add(tbt4)
-        Guna2GradientPanel2.CustomizableEdges = CustomizableEdges73
+        Guna2GradientPanel2.CustomizableEdges = CustomizableEdges101
         Guna2GradientPanel2.Dock = DockStyle.Top
         Guna2GradientPanel2.Location = New Point(0, 0)
         Guna2GradientPanel2.Name = "Guna2GradientPanel2"
-        Guna2GradientPanel2.ShadowDecoration.CustomizableEdges = CustomizableEdges74
+        Guna2GradientPanel2.ShadowDecoration.CustomizableEdges = CustomizableEdges102
         Guna2GradientPanel2.Size = New Size(768, 229)
         Guna2GradientPanel2.TabIndex = 0
         ' 
@@ -1867,7 +2350,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt5
         ' 
-        tbt5.CustomizableEdges = CustomizableEdges63
+        tbt5.CustomizableEdges = CustomizableEdges91
         tbt5.DefaultText = ""
         tbt5.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt5.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1882,7 +2365,7 @@ Partial Class EmployeeManagement
         tbt5.PasswordChar = ChrW(0)
         tbt5.PlaceholderText = ""
         tbt5.SelectedText = ""
-        tbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges64
+        tbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges92
         tbt5.Size = New Size(348, 30)
         tbt5.TabIndex = 5
         ' 
@@ -1898,7 +2381,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt2
         ' 
-        tbt2.CustomizableEdges = CustomizableEdges65
+        tbt2.CustomizableEdges = CustomizableEdges93
         tbt2.DefaultText = ""
         tbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1913,7 +2396,7 @@ Partial Class EmployeeManagement
         tbt2.PasswordChar = ChrW(0)
         tbt2.PlaceholderText = ""
         tbt2.SelectedText = ""
-        tbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges66
+        tbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges94
         tbt2.Size = New Size(348, 30)
         tbt2.TabIndex = 2
         ' 
@@ -1929,7 +2412,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt3
         ' 
-        tbt3.CustomizableEdges = CustomizableEdges67
+        tbt3.CustomizableEdges = CustomizableEdges95
         tbt3.DefaultText = ""
         tbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1944,7 +2427,7 @@ Partial Class EmployeeManagement
         tbt3.PasswordChar = ChrW(0)
         tbt3.PlaceholderText = ""
         tbt3.SelectedText = ""
-        tbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges68
+        tbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges96
         tbt3.Size = New Size(348, 30)
         tbt3.TabIndex = 3
         ' 
@@ -1960,7 +2443,7 @@ Partial Class EmployeeManagement
         ' 
         ' tbt1
         ' 
-        tbt1.CustomizableEdges = CustomizableEdges69
+        tbt1.CustomizableEdges = CustomizableEdges97
         tbt1.DefaultText = ""
         tbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1975,13 +2458,13 @@ Partial Class EmployeeManagement
         tbt1.PasswordChar = ChrW(0)
         tbt1.PlaceholderText = ""
         tbt1.SelectedText = ""
-        tbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges70
+        tbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges98
         tbt1.Size = New Size(200, 36)
         tbt1.TabIndex = 1
         ' 
         ' tbt4
         ' 
-        tbt4.CustomizableEdges = CustomizableEdges71
+        tbt4.CustomizableEdges = CustomizableEdges99
         tbt4.DefaultText = ""
         tbt4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbt4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -1996,7 +2479,7 @@ Partial Class EmployeeManagement
         tbt4.PasswordChar = ChrW(0)
         tbt4.PlaceholderText = ""
         tbt4.SelectedText = ""
-        tbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges72
+        tbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges100
         tbt4.Size = New Size(275, 30)
         tbt4.TabIndex = 4
         ' 
@@ -2057,10 +2540,10 @@ Partial Class EmployeeManagement
         Guna2Panel4.Controls.Add(Guna2HtmlLabel39)
         Guna2Panel4.Controls.Add(Guna2TextBox2)
         Guna2Panel4.Controls.Add(Guna2HtmlLabel38)
-        Guna2Panel4.CustomizableEdges = CustomizableEdges31
+        Guna2Panel4.CustomizableEdges = CustomizableEdges59
         Guna2Panel4.Location = New Point(6, 3)
         Guna2Panel4.Name = "Guna2Panel4"
-        Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges32
+        Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges60
         Guna2Panel4.Size = New Size(765, 818)
         Guna2Panel4.TabIndex = 0
         ' 
@@ -2090,7 +2573,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox22
         ' 
-        Guna2TextBox22.CustomizableEdges = CustomizableEdges77
+        Guna2TextBox22.CustomizableEdges = CustomizableEdges105
         Guna2TextBox22.DefaultText = ""
         Guna2TextBox22.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox22.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2104,7 +2587,7 @@ Partial Class EmployeeManagement
         Guna2TextBox22.PasswordChar = ChrW(0)
         Guna2TextBox22.PlaceholderText = ""
         Guna2TextBox22.SelectedText = ""
-        Guna2TextBox22.ShadowDecoration.CustomizableEdges = CustomizableEdges78
+        Guna2TextBox22.ShadowDecoration.CustomizableEdges = CustomizableEdges106
         Guna2TextBox22.Size = New Size(60, 36)
         Guna2TextBox22.TabIndex = 54
         ' 
@@ -2140,7 +2623,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox21
         ' 
-        Guna2TextBox21.CustomizableEdges = CustomizableEdges79
+        Guna2TextBox21.CustomizableEdges = CustomizableEdges107
         Guna2TextBox21.DefaultText = ""
         Guna2TextBox21.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox21.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2154,13 +2637,13 @@ Partial Class EmployeeManagement
         Guna2TextBox21.PasswordChar = ChrW(0)
         Guna2TextBox21.PlaceholderText = ""
         Guna2TextBox21.SelectedText = ""
-        Guna2TextBox21.ShadowDecoration.CustomizableEdges = CustomizableEdges80
+        Guna2TextBox21.ShadowDecoration.CustomizableEdges = CustomizableEdges108
         Guna2TextBox21.Size = New Size(198, 36)
         Guna2TextBox21.TabIndex = 50
         ' 
         ' Guna2TextBox20
         ' 
-        Guna2TextBox20.CustomizableEdges = CustomizableEdges81
+        Guna2TextBox20.CustomizableEdges = CustomizableEdges109
         Guna2TextBox20.DefaultText = ""
         Guna2TextBox20.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox20.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2174,13 +2657,13 @@ Partial Class EmployeeManagement
         Guna2TextBox20.PasswordChar = ChrW(0)
         Guna2TextBox20.PlaceholderText = ""
         Guna2TextBox20.SelectedText = ""
-        Guna2TextBox20.ShadowDecoration.CustomizableEdges = CustomizableEdges82
+        Guna2TextBox20.ShadowDecoration.CustomizableEdges = CustomizableEdges110
         Guna2TextBox20.Size = New Size(226, 36)
         Guna2TextBox20.TabIndex = 49
         ' 
         ' Guna2TextBox19
         ' 
-        Guna2TextBox19.CustomizableEdges = CustomizableEdges83
+        Guna2TextBox19.CustomizableEdges = CustomizableEdges111
         Guna2TextBox19.DefaultText = ""
         Guna2TextBox19.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox19.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2194,7 +2677,7 @@ Partial Class EmployeeManagement
         Guna2TextBox19.PasswordChar = ChrW(0)
         Guna2TextBox19.PlaceholderText = ""
         Guna2TextBox19.SelectedText = ""
-        Guna2TextBox19.ShadowDecoration.CustomizableEdges = CustomizableEdges84
+        Guna2TextBox19.ShadowDecoration.CustomizableEdges = CustomizableEdges112
         Guna2TextBox19.Size = New Size(221, 36)
         Guna2TextBox19.TabIndex = 48
         ' 
@@ -2220,7 +2703,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox18
         ' 
-        Guna2TextBox18.CustomizableEdges = CustomizableEdges85
+        Guna2TextBox18.CustomizableEdges = CustomizableEdges113
         Guna2TextBox18.DefaultText = ""
         Guna2TextBox18.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox18.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2234,7 +2717,7 @@ Partial Class EmployeeManagement
         Guna2TextBox18.PasswordChar = ChrW(0)
         Guna2TextBox18.PlaceholderText = ""
         Guna2TextBox18.SelectedText = ""
-        Guna2TextBox18.ShadowDecoration.CustomizableEdges = CustomizableEdges86
+        Guna2TextBox18.ShadowDecoration.CustomizableEdges = CustomizableEdges114
         Guna2TextBox18.Size = New Size(60, 36)
         Guna2TextBox18.TabIndex = 45
         ' 
@@ -2250,7 +2733,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox17
         ' 
-        Guna2TextBox17.CustomizableEdges = CustomizableEdges87
+        Guna2TextBox17.CustomizableEdges = CustomizableEdges115
         Guna2TextBox17.DefaultText = ""
         Guna2TextBox17.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox17.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2264,7 +2747,7 @@ Partial Class EmployeeManagement
         Guna2TextBox17.PasswordChar = ChrW(0)
         Guna2TextBox17.PlaceholderText = ""
         Guna2TextBox17.SelectedText = ""
-        Guna2TextBox17.ShadowDecoration.CustomizableEdges = CustomizableEdges88
+        Guna2TextBox17.ShadowDecoration.CustomizableEdges = CustomizableEdges116
         Guna2TextBox17.Size = New Size(198, 36)
         Guna2TextBox17.TabIndex = 43
         ' 
@@ -2290,7 +2773,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox13
         ' 
-        Guna2TextBox13.CustomizableEdges = CustomizableEdges89
+        Guna2TextBox13.CustomizableEdges = CustomizableEdges117
         Guna2TextBox13.DefaultText = ""
         Guna2TextBox13.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox13.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2304,7 +2787,7 @@ Partial Class EmployeeManagement
         Guna2TextBox13.PasswordChar = ChrW(0)
         Guna2TextBox13.PlaceholderText = ""
         Guna2TextBox13.SelectedText = ""
-        Guna2TextBox13.ShadowDecoration.CustomizableEdges = CustomizableEdges90
+        Guna2TextBox13.ShadowDecoration.CustomizableEdges = CustomizableEdges118
         Guna2TextBox13.Size = New Size(226, 36)
         Guna2TextBox13.TabIndex = 40
         ' 
@@ -2320,7 +2803,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox12
         ' 
-        Guna2TextBox12.CustomizableEdges = CustomizableEdges1
+        Guna2TextBox12.CustomizableEdges = CustomizableEdges29
         Guna2TextBox12.DefaultText = ""
         Guna2TextBox12.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox12.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2334,7 +2817,7 @@ Partial Class EmployeeManagement
         Guna2TextBox12.PasswordChar = ChrW(0)
         Guna2TextBox12.PlaceholderText = ""
         Guna2TextBox12.SelectedText = ""
-        Guna2TextBox12.ShadowDecoration.CustomizableEdges = CustomizableEdges2
+        Guna2TextBox12.ShadowDecoration.CustomizableEdges = CustomizableEdges30
         Guna2TextBox12.Size = New Size(221, 36)
         Guna2TextBox12.TabIndex = 38
         ' 
@@ -2350,7 +2833,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox16
         ' 
-        Guna2TextBox16.CustomizableEdges = CustomizableEdges3
+        Guna2TextBox16.CustomizableEdges = CustomizableEdges31
         Guna2TextBox16.DefaultText = ""
         Guna2TextBox16.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox16.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2364,13 +2847,13 @@ Partial Class EmployeeManagement
         Guna2TextBox16.PasswordChar = ChrW(0)
         Guna2TextBox16.PlaceholderText = ""
         Guna2TextBox16.SelectedText = ""
-        Guna2TextBox16.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        Guna2TextBox16.ShadowDecoration.CustomizableEdges = CustomizableEdges32
         Guna2TextBox16.Size = New Size(357, 36)
         Guna2TextBox16.TabIndex = 22
         ' 
         ' Guna2TextBox15
         ' 
-        Guna2TextBox15.CustomizableEdges = CustomizableEdges5
+        Guna2TextBox15.CustomizableEdges = CustomizableEdges33
         Guna2TextBox15.DefaultText = ""
         Guna2TextBox15.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox15.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2384,13 +2867,13 @@ Partial Class EmployeeManagement
         Guna2TextBox15.PasswordChar = ChrW(0)
         Guna2TextBox15.PlaceholderText = ""
         Guna2TextBox15.SelectedText = ""
-        Guna2TextBox15.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        Guna2TextBox15.ShadowDecoration.CustomizableEdges = CustomizableEdges34
         Guna2TextBox15.Size = New Size(357, 36)
         Guna2TextBox15.TabIndex = 21
         ' 
         ' Guna2TextBox14
         ' 
-        Guna2TextBox14.CustomizableEdges = CustomizableEdges7
+        Guna2TextBox14.CustomizableEdges = CustomizableEdges35
         Guna2TextBox14.DefaultText = ""
         Guna2TextBox14.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox14.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2404,13 +2887,13 @@ Partial Class EmployeeManagement
         Guna2TextBox14.PasswordChar = ChrW(0)
         Guna2TextBox14.PlaceholderText = ""
         Guna2TextBox14.SelectedText = ""
-        Guna2TextBox14.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        Guna2TextBox14.ShadowDecoration.CustomizableEdges = CustomizableEdges36
         Guna2TextBox14.Size = New Size(357, 36)
         Guna2TextBox14.TabIndex = 20
         ' 
         ' Guna2TextBox11
         ' 
-        Guna2TextBox11.CustomizableEdges = CustomizableEdges9
+        Guna2TextBox11.CustomizableEdges = CustomizableEdges37
         Guna2TextBox11.DefaultText = ""
         Guna2TextBox11.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox11.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2424,13 +2907,13 @@ Partial Class EmployeeManagement
         Guna2TextBox11.PasswordChar = ChrW(0)
         Guna2TextBox11.PlaceholderText = ""
         Guna2TextBox11.SelectedText = ""
-        Guna2TextBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        Guna2TextBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges38
         Guna2TextBox11.Size = New Size(355, 36)
         Guna2TextBox11.TabIndex = 19
         ' 
         ' Guna2TextBox10
         ' 
-        Guna2TextBox10.CustomizableEdges = CustomizableEdges11
+        Guna2TextBox10.CustomizableEdges = CustomizableEdges39
         Guna2TextBox10.DefaultText = ""
         Guna2TextBox10.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox10.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2444,13 +2927,13 @@ Partial Class EmployeeManagement
         Guna2TextBox10.PasswordChar = ChrW(0)
         Guna2TextBox10.PlaceholderText = ""
         Guna2TextBox10.SelectedText = ""
-        Guna2TextBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges12
+        Guna2TextBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges40
         Guna2TextBox10.Size = New Size(355, 36)
         Guna2TextBox10.TabIndex = 18
         ' 
         ' Guna2TextBox9
         ' 
-        Guna2TextBox9.CustomizableEdges = CustomizableEdges13
+        Guna2TextBox9.CustomizableEdges = CustomizableEdges41
         Guna2TextBox9.DefaultText = ""
         Guna2TextBox9.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox9.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2464,7 +2947,7 @@ Partial Class EmployeeManagement
         Guna2TextBox9.PasswordChar = ChrW(0)
         Guna2TextBox9.PlaceholderText = ""
         Guna2TextBox9.SelectedText = ""
-        Guna2TextBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges14
+        Guna2TextBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges42
         Guna2TextBox9.Size = New Size(355, 36)
         Guna2TextBox9.TabIndex = 17
         ' 
@@ -2490,7 +2973,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox8
         ' 
-        Guna2TextBox8.CustomizableEdges = CustomizableEdges15
+        Guna2TextBox8.CustomizableEdges = CustomizableEdges43
         Guna2TextBox8.DefaultText = ""
         Guna2TextBox8.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox8.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2504,13 +2987,13 @@ Partial Class EmployeeManagement
         Guna2TextBox8.PasswordChar = ChrW(0)
         Guna2TextBox8.PlaceholderText = ""
         Guna2TextBox8.SelectedText = ""
-        Guna2TextBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges16
+        Guna2TextBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges44
         Guna2TextBox8.Size = New Size(357, 36)
         Guna2TextBox8.TabIndex = 14
         ' 
         ' Guna2TextBox7
         ' 
-        Guna2TextBox7.CustomizableEdges = CustomizableEdges17
+        Guna2TextBox7.CustomizableEdges = CustomizableEdges45
         Guna2TextBox7.DefaultText = ""
         Guna2TextBox7.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox7.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2524,7 +3007,7 @@ Partial Class EmployeeManagement
         Guna2TextBox7.PasswordChar = ChrW(0)
         Guna2TextBox7.PlaceholderText = ""
         Guna2TextBox7.SelectedText = ""
-        Guna2TextBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2TextBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges46
         Guna2TextBox7.Size = New Size(355, 36)
         Guna2TextBox7.TabIndex = 13
         ' 
@@ -2540,7 +3023,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox6
         ' 
-        Guna2TextBox6.CustomizableEdges = CustomizableEdges19
+        Guna2TextBox6.CustomizableEdges = CustomizableEdges47
         Guna2TextBox6.DefaultText = ""
         Guna2TextBox6.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox6.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2554,7 +3037,7 @@ Partial Class EmployeeManagement
         Guna2TextBox6.PasswordChar = ChrW(0)
         Guna2TextBox6.PlaceholderText = ""
         Guna2TextBox6.SelectedText = ""
-        Guna2TextBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        Guna2TextBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges48
         Guna2TextBox6.Size = New Size(435, 36)
         Guna2TextBox6.TabIndex = 11
         ' 
@@ -2570,7 +3053,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox5
         ' 
-        Guna2TextBox5.CustomizableEdges = CustomizableEdges21
+        Guna2TextBox5.CustomizableEdges = CustomizableEdges49
         Guna2TextBox5.DefaultText = ""
         Guna2TextBox5.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox5.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2584,7 +3067,7 @@ Partial Class EmployeeManagement
         Guna2TextBox5.PasswordChar = ChrW(0)
         Guna2TextBox5.PlaceholderText = ""
         Guna2TextBox5.SelectedText = ""
-        Guna2TextBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        Guna2TextBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges50
         Guna2TextBox5.Size = New Size(277, 36)
         Guna2TextBox5.TabIndex = 9
         ' 
@@ -2600,7 +3083,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox4
         ' 
-        Guna2TextBox4.CustomizableEdges = CustomizableEdges23
+        Guna2TextBox4.CustomizableEdges = CustomizableEdges51
         Guna2TextBox4.DefaultText = ""
         Guna2TextBox4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2614,7 +3097,7 @@ Partial Class EmployeeManagement
         Guna2TextBox4.PasswordChar = ChrW(0)
         Guna2TextBox4.PlaceholderText = ""
         Guna2TextBox4.SelectedText = ""
-        Guna2TextBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        Guna2TextBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges52
         Guna2TextBox4.Size = New Size(100, 36)
         Guna2TextBox4.TabIndex = 7
         ' 
@@ -2632,7 +3115,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2TextBox1.BackgroundImageLayout = ImageLayout.Center
         Guna2TextBox1.BorderRadius = 3
-        Guna2TextBox1.CustomizableEdges = CustomizableEdges91
+        Guna2TextBox1.CustomizableEdges = CustomizableEdges119
         Guna2TextBox1.DefaultText = ""
         Guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2647,7 +3130,7 @@ Partial Class EmployeeManagement
         Guna2TextBox1.PasswordChar = ChrW(0)
         Guna2TextBox1.PlaceholderText = ""
         Guna2TextBox1.SelectedText = ""
-        Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges92
+        Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges120
         Guna2TextBox1.Size = New Size(197, 29)
         Guna2TextBox1.TabIndex = 5
         ' 
@@ -2663,7 +3146,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox3
         ' 
-        Guna2TextBox3.CustomizableEdges = CustomizableEdges27
+        Guna2TextBox3.CustomizableEdges = CustomizableEdges55
         Guna2TextBox3.DefaultText = ""
         Guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2677,7 +3160,7 @@ Partial Class EmployeeManagement
         Guna2TextBox3.PasswordChar = ChrW(0)
         Guna2TextBox3.PlaceholderText = ""
         Guna2TextBox3.SelectedText = ""
-        Guna2TextBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        Guna2TextBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges56
         Guna2TextBox3.Size = New Size(200, 36)
         Guna2TextBox3.TabIndex = 3
         ' 
@@ -2693,7 +3176,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox2
         ' 
-        Guna2TextBox2.CustomizableEdges = CustomizableEdges29
+        Guna2TextBox2.CustomizableEdges = CustomizableEdges57
         Guna2TextBox2.DefaultText = ""
         Guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2707,7 +3190,7 @@ Partial Class EmployeeManagement
         Guna2TextBox2.PasswordChar = ChrW(0)
         Guna2TextBox2.PlaceholderText = ""
         Guna2TextBox2.SelectedText = ""
-        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges30
+        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges58
         Guna2TextBox2.Size = New Size(200, 36)
         Guna2TextBox2.TabIndex = 1
         ' 
@@ -2775,16 +3258,16 @@ Partial Class EmployeeManagement
         ' Guna2Panel8
         ' 
         Guna2Panel8.BackColor = Color.Silver
-        Guna2Panel8.CustomizableEdges = CustomizableEdges33
+        Guna2Panel8.CustomizableEdges = CustomizableEdges61
         Guna2Panel8.Location = New Point(-1, 331)
         Guna2Panel8.Name = "Guna2Panel8"
-        Guna2Panel8.ShadowDecoration.CustomizableEdges = CustomizableEdges34
+        Guna2Panel8.ShadowDecoration.CustomizableEdges = CustomizableEdges62
         Guna2Panel8.Size = New Size(772, 21)
         Guna2Panel8.TabIndex = 32
         ' 
         ' Guna2TextBox28
         ' 
-        Guna2TextBox28.CustomizableEdges = CustomizableEdges35
+        Guna2TextBox28.CustomizableEdges = CustomizableEdges63
         Guna2TextBox28.DefaultText = ""
         Guna2TextBox28.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox28.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2798,7 +3281,7 @@ Partial Class EmployeeManagement
         Guna2TextBox28.PasswordChar = ChrW(0)
         Guna2TextBox28.PlaceholderText = ""
         Guna2TextBox28.SelectedText = ""
-        Guna2TextBox28.ShadowDecoration.CustomizableEdges = CustomizableEdges36
+        Guna2TextBox28.ShadowDecoration.CustomizableEdges = CustomizableEdges64
         Guna2TextBox28.Size = New Size(630, 27)
         Guna2TextBox28.TabIndex = 31
         ' 
@@ -2813,7 +3296,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox29
         ' 
-        Guna2TextBox29.CustomizableEdges = CustomizableEdges37
+        Guna2TextBox29.CustomizableEdges = CustomizableEdges65
         Guna2TextBox29.DefaultText = ""
         Guna2TextBox29.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox29.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2827,7 +3310,7 @@ Partial Class EmployeeManagement
         Guna2TextBox29.PasswordChar = ChrW(0)
         Guna2TextBox29.PlaceholderText = ""
         Guna2TextBox29.SelectedText = ""
-        Guna2TextBox29.ShadowDecoration.CustomizableEdges = CustomizableEdges38
+        Guna2TextBox29.ShadowDecoration.CustomizableEdges = CustomizableEdges66
         Guna2TextBox29.Size = New Size(630, 27)
         Guna2TextBox29.TabIndex = 29
         ' 
@@ -2842,7 +3325,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox30
         ' 
-        Guna2TextBox30.CustomizableEdges = CustomizableEdges39
+        Guna2TextBox30.CustomizableEdges = CustomizableEdges67
         Guna2TextBox30.DefaultText = ""
         Guna2TextBox30.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox30.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2856,7 +3339,7 @@ Partial Class EmployeeManagement
         Guna2TextBox30.PasswordChar = ChrW(0)
         Guna2TextBox30.PlaceholderText = ""
         Guna2TextBox30.SelectedText = ""
-        Guna2TextBox30.ShadowDecoration.CustomizableEdges = CustomizableEdges40
+        Guna2TextBox30.ShadowDecoration.CustomizableEdges = CustomizableEdges68
         Guna2TextBox30.Size = New Size(630, 27)
         Guna2TextBox30.TabIndex = 27
         ' 
@@ -2917,14 +3400,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker3
         ' 
         Guna2DateTimePicker3.Checked = True
-        Guna2DateTimePicker3.CustomizableEdges = CustomizableEdges41
+        Guna2DateTimePicker3.CustomizableEdges = CustomizableEdges69
         Guna2DateTimePicker3.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker3.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker3.Location = New Point(537, 431)
         Guna2DateTimePicker3.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker3.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker3.Name = "Guna2DateTimePicker3"
-        Guna2DateTimePicker3.ShadowDecoration.CustomizableEdges = CustomizableEdges42
+        Guna2DateTimePicker3.ShadowDecoration.CustomizableEdges = CustomizableEdges70
         Guna2DateTimePicker3.Size = New Size(182, 36)
         Guna2DateTimePicker3.TabIndex = 20
         Guna2DateTimePicker3.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -2932,21 +3415,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker4
         ' 
         Guna2DateTimePicker4.Checked = True
-        Guna2DateTimePicker4.CustomizableEdges = CustomizableEdges43
+        Guna2DateTimePicker4.CustomizableEdges = CustomizableEdges71
         Guna2DateTimePicker4.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker4.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker4.Location = New Point(330, 431)
         Guna2DateTimePicker4.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker4.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker4.Name = "Guna2DateTimePicker4"
-        Guna2DateTimePicker4.ShadowDecoration.CustomizableEdges = CustomizableEdges44
+        Guna2DateTimePicker4.ShadowDecoration.CustomizableEdges = CustomizableEdges72
         Guna2DateTimePicker4.Size = New Size(179, 36)
         Guna2DateTimePicker4.TabIndex = 19
         Guna2DateTimePicker4.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox31
         ' 
-        Guna2TextBox31.CustomizableEdges = CustomizableEdges45
+        Guna2TextBox31.CustomizableEdges = CustomizableEdges73
         Guna2TextBox31.DefaultText = ""
         Guna2TextBox31.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox31.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2960,13 +3443,13 @@ Partial Class EmployeeManagement
         Guna2TextBox31.PasswordChar = ChrW(0)
         Guna2TextBox31.PlaceholderText = ""
         Guna2TextBox31.SelectedText = ""
-        Guna2TextBox31.ShadowDecoration.CustomizableEdges = CustomizableEdges46
+        Guna2TextBox31.ShadowDecoration.CustomizableEdges = CustomizableEdges74
         Guna2TextBox31.Size = New Size(191, 27)
         Guna2TextBox31.TabIndex = 18
         ' 
         ' Guna2TextBox32
         ' 
-        Guna2TextBox32.CustomizableEdges = CustomizableEdges47
+        Guna2TextBox32.CustomizableEdges = CustomizableEdges75
         Guna2TextBox32.DefaultText = ""
         Guna2TextBox32.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox32.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -2980,13 +3463,13 @@ Partial Class EmployeeManagement
         Guna2TextBox32.PasswordChar = ChrW(0)
         Guna2TextBox32.PlaceholderText = ""
         Guna2TextBox32.SelectedText = ""
-        Guna2TextBox32.ShadowDecoration.CustomizableEdges = CustomizableEdges48
+        Guna2TextBox32.ShadowDecoration.CustomizableEdges = CustomizableEdges76
         Guna2TextBox32.Size = New Size(630, 27)
         Guna2TextBox32.TabIndex = 17
         ' 
         ' Guna2TextBox27
         ' 
-        Guna2TextBox27.CustomizableEdges = CustomizableEdges49
+        Guna2TextBox27.CustomizableEdges = CustomizableEdges77
         Guna2TextBox27.DefaultText = ""
         Guna2TextBox27.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox27.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3000,7 +3483,7 @@ Partial Class EmployeeManagement
         Guna2TextBox27.PasswordChar = ChrW(0)
         Guna2TextBox27.PlaceholderText = ""
         Guna2TextBox27.SelectedText = ""
-        Guna2TextBox27.ShadowDecoration.CustomizableEdges = CustomizableEdges50
+        Guna2TextBox27.ShadowDecoration.CustomizableEdges = CustomizableEdges78
         Guna2TextBox27.Size = New Size(630, 27)
         Guna2TextBox27.TabIndex = 15
         ' 
@@ -3015,7 +3498,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox26
         ' 
-        Guna2TextBox26.CustomizableEdges = CustomizableEdges51
+        Guna2TextBox26.CustomizableEdges = CustomizableEdges79
         Guna2TextBox26.DefaultText = ""
         Guna2TextBox26.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox26.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3029,7 +3512,7 @@ Partial Class EmployeeManagement
         Guna2TextBox26.PasswordChar = ChrW(0)
         Guna2TextBox26.PlaceholderText = ""
         Guna2TextBox26.SelectedText = ""
-        Guna2TextBox26.ShadowDecoration.CustomizableEdges = CustomizableEdges52
+        Guna2TextBox26.ShadowDecoration.CustomizableEdges = CustomizableEdges80
         Guna2TextBox26.Size = New Size(630, 27)
         Guna2TextBox26.TabIndex = 13
         ' 
@@ -3044,7 +3527,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox25
         ' 
-        Guna2TextBox25.CustomizableEdges = CustomizableEdges53
+        Guna2TextBox25.CustomizableEdges = CustomizableEdges81
         Guna2TextBox25.DefaultText = ""
         Guna2TextBox25.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox25.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3058,7 +3541,7 @@ Partial Class EmployeeManagement
         Guna2TextBox25.PasswordChar = ChrW(0)
         Guna2TextBox25.PlaceholderText = ""
         Guna2TextBox25.SelectedText = ""
-        Guna2TextBox25.ShadowDecoration.CustomizableEdges = CustomizableEdges54
+        Guna2TextBox25.ShadowDecoration.CustomizableEdges = CustomizableEdges82
         Guna2TextBox25.Size = New Size(630, 27)
         Guna2TextBox25.TabIndex = 11
         ' 
@@ -3119,14 +3602,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker2
         ' 
         Guna2DateTimePicker2.Checked = True
-        Guna2DateTimePicker2.CustomizableEdges = CustomizableEdges55
+        Guna2DateTimePicker2.CustomizableEdges = CustomizableEdges83
         Guna2DateTimePicker2.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker2.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker2.Location = New Point(537, 104)
         Guna2DateTimePicker2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker2.Name = "Guna2DateTimePicker2"
-        Guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = CustomizableEdges56
+        Guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = CustomizableEdges84
         Guna2DateTimePicker2.Size = New Size(182, 36)
         Guna2DateTimePicker2.TabIndex = 4
         Guna2DateTimePicker2.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -3134,21 +3617,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker1
         ' 
         Guna2DateTimePicker1.Checked = True
-        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges57
+        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges85
         Guna2DateTimePicker1.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker1.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker1.Location = New Point(330, 104)
         Guna2DateTimePicker1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker1.Name = "Guna2DateTimePicker1"
-        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges58
+        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges86
         Guna2DateTimePicker1.Size = New Size(179, 36)
         Guna2DateTimePicker1.TabIndex = 3
         Guna2DateTimePicker1.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox24
         ' 
-        Guna2TextBox24.CustomizableEdges = CustomizableEdges59
+        Guna2TextBox24.CustomizableEdges = CustomizableEdges87
         Guna2TextBox24.DefaultText = ""
         Guna2TextBox24.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox24.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3162,13 +3645,13 @@ Partial Class EmployeeManagement
         Guna2TextBox24.PasswordChar = ChrW(0)
         Guna2TextBox24.PlaceholderText = ""
         Guna2TextBox24.SelectedText = ""
-        Guna2TextBox24.ShadowDecoration.CustomizableEdges = CustomizableEdges60
+        Guna2TextBox24.ShadowDecoration.CustomizableEdges = CustomizableEdges88
         Guna2TextBox24.Size = New Size(191, 27)
         Guna2TextBox24.TabIndex = 2
         ' 
         ' Guna2TextBox23
         ' 
-        Guna2TextBox23.CustomizableEdges = CustomizableEdges61
+        Guna2TextBox23.CustomizableEdges = CustomizableEdges89
         Guna2TextBox23.DefaultText = ""
         Guna2TextBox23.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox23.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3182,7 +3665,7 @@ Partial Class EmployeeManagement
         Guna2TextBox23.PasswordChar = ChrW(0)
         Guna2TextBox23.PlaceholderText = ""
         Guna2TextBox23.SelectedText = ""
-        Guna2TextBox23.ShadowDecoration.CustomizableEdges = CustomizableEdges62
+        Guna2TextBox23.ShadowDecoration.CustomizableEdges = CustomizableEdges90
         Guna2TextBox23.Size = New Size(630, 27)
         Guna2TextBox23.TabIndex = 1
         ' 
@@ -3238,7 +3721,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox38
         ' 
-        Guna2TextBox38.CustomizableEdges = CustomizableEdges63
+        Guna2TextBox38.CustomizableEdges = CustomizableEdges91
         Guna2TextBox38.DefaultText = ""
         Guna2TextBox38.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox38.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3252,7 +3735,7 @@ Partial Class EmployeeManagement
         Guna2TextBox38.PasswordChar = ChrW(0)
         Guna2TextBox38.PlaceholderText = ""
         Guna2TextBox38.SelectedText = ""
-        Guna2TextBox38.ShadowDecoration.CustomizableEdges = CustomizableEdges64
+        Guna2TextBox38.ShadowDecoration.CustomizableEdges = CustomizableEdges92
         Guna2TextBox38.Size = New Size(630, 27)
         Guna2TextBox38.TabIndex = 47
         ' 
@@ -3267,7 +3750,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox39
         ' 
-        Guna2TextBox39.CustomizableEdges = CustomizableEdges65
+        Guna2TextBox39.CustomizableEdges = CustomizableEdges93
         Guna2TextBox39.DefaultText = ""
         Guna2TextBox39.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox39.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3281,7 +3764,7 @@ Partial Class EmployeeManagement
         Guna2TextBox39.PasswordChar = ChrW(0)
         Guna2TextBox39.PlaceholderText = ""
         Guna2TextBox39.SelectedText = ""
-        Guna2TextBox39.ShadowDecoration.CustomizableEdges = CustomizableEdges66
+        Guna2TextBox39.ShadowDecoration.CustomizableEdges = CustomizableEdges94
         Guna2TextBox39.Size = New Size(630, 27)
         Guna2TextBox39.TabIndex = 45
         ' 
@@ -3296,7 +3779,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox40
         ' 
-        Guna2TextBox40.CustomizableEdges = CustomizableEdges67
+        Guna2TextBox40.CustomizableEdges = CustomizableEdges95
         Guna2TextBox40.DefaultText = ""
         Guna2TextBox40.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox40.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3310,7 +3793,7 @@ Partial Class EmployeeManagement
         Guna2TextBox40.PasswordChar = ChrW(0)
         Guna2TextBox40.PlaceholderText = ""
         Guna2TextBox40.SelectedText = ""
-        Guna2TextBox40.ShadowDecoration.CustomizableEdges = CustomizableEdges68
+        Guna2TextBox40.ShadowDecoration.CustomizableEdges = CustomizableEdges96
         Guna2TextBox40.Size = New Size(630, 27)
         Guna2TextBox40.TabIndex = 43
         ' 
@@ -3371,14 +3854,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker7
         ' 
         Guna2DateTimePicker7.Checked = True
-        Guna2DateTimePicker7.CustomizableEdges = CustomizableEdges69
+        Guna2DateTimePicker7.CustomizableEdges = CustomizableEdges97
         Guna2DateTimePicker7.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker7.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker7.Location = New Point(525, 443)
         Guna2DateTimePicker7.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker7.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker7.Name = "Guna2DateTimePicker7"
-        Guna2DateTimePicker7.ShadowDecoration.CustomizableEdges = CustomizableEdges70
+        Guna2DateTimePicker7.ShadowDecoration.CustomizableEdges = CustomizableEdges98
         Guna2DateTimePicker7.Size = New Size(182, 36)
         Guna2DateTimePicker7.TabIndex = 36
         Guna2DateTimePicker7.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -3386,21 +3869,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker8
         ' 
         Guna2DateTimePicker8.Checked = True
-        Guna2DateTimePicker8.CustomizableEdges = CustomizableEdges71
+        Guna2DateTimePicker8.CustomizableEdges = CustomizableEdges99
         Guna2DateTimePicker8.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker8.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker8.Location = New Point(318, 443)
         Guna2DateTimePicker8.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker8.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker8.Name = "Guna2DateTimePicker8"
-        Guna2DateTimePicker8.ShadowDecoration.CustomizableEdges = CustomizableEdges72
+        Guna2DateTimePicker8.ShadowDecoration.CustomizableEdges = CustomizableEdges100
         Guna2DateTimePicker8.Size = New Size(179, 36)
         Guna2DateTimePicker8.TabIndex = 35
         Guna2DateTimePicker8.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox41
         ' 
-        Guna2TextBox41.CustomizableEdges = CustomizableEdges73
+        Guna2TextBox41.CustomizableEdges = CustomizableEdges101
         Guna2TextBox41.DefaultText = ""
         Guna2TextBox41.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox41.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3414,13 +3897,13 @@ Partial Class EmployeeManagement
         Guna2TextBox41.PasswordChar = ChrW(0)
         Guna2TextBox41.PlaceholderText = ""
         Guna2TextBox41.SelectedText = ""
-        Guna2TextBox41.ShadowDecoration.CustomizableEdges = CustomizableEdges74
+        Guna2TextBox41.ShadowDecoration.CustomizableEdges = CustomizableEdges102
         Guna2TextBox41.Size = New Size(191, 27)
         Guna2TextBox41.TabIndex = 34
         ' 
         ' Guna2TextBox42
         ' 
-        Guna2TextBox42.CustomizableEdges = CustomizableEdges75
+        Guna2TextBox42.CustomizableEdges = CustomizableEdges103
         Guna2TextBox42.DefaultText = ""
         Guna2TextBox42.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox42.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3434,7 +3917,7 @@ Partial Class EmployeeManagement
         Guna2TextBox42.PasswordChar = ChrW(0)
         Guna2TextBox42.PlaceholderText = ""
         Guna2TextBox42.SelectedText = ""
-        Guna2TextBox42.ShadowDecoration.CustomizableEdges = CustomizableEdges76
+        Guna2TextBox42.ShadowDecoration.CustomizableEdges = CustomizableEdges104
         Guna2TextBox42.Size = New Size(630, 27)
         Guna2TextBox42.TabIndex = 33
         ' 
@@ -3449,7 +3932,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox33
         ' 
-        Guna2TextBox33.CustomizableEdges = CustomizableEdges93
+        Guna2TextBox33.CustomizableEdges = CustomizableEdges121
         Guna2TextBox33.DefaultText = ""
         Guna2TextBox33.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox33.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3463,7 +3946,7 @@ Partial Class EmployeeManagement
         Guna2TextBox33.PasswordChar = ChrW(0)
         Guna2TextBox33.PlaceholderText = ""
         Guna2TextBox33.SelectedText = ""
-        Guna2TextBox33.ShadowDecoration.CustomizableEdges = CustomizableEdges94
+        Guna2TextBox33.ShadowDecoration.CustomizableEdges = CustomizableEdges122
         Guna2TextBox33.Size = New Size(630, 27)
         Guna2TextBox33.TabIndex = 31
         ' 
@@ -3478,7 +3961,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox34
         ' 
-        Guna2TextBox34.CustomizableEdges = CustomizableEdges95
+        Guna2TextBox34.CustomizableEdges = CustomizableEdges123
         Guna2TextBox34.DefaultText = ""
         Guna2TextBox34.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox34.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3492,7 +3975,7 @@ Partial Class EmployeeManagement
         Guna2TextBox34.PasswordChar = ChrW(0)
         Guna2TextBox34.PlaceholderText = ""
         Guna2TextBox34.SelectedText = ""
-        Guna2TextBox34.ShadowDecoration.CustomizableEdges = CustomizableEdges96
+        Guna2TextBox34.ShadowDecoration.CustomizableEdges = CustomizableEdges124
         Guna2TextBox34.Size = New Size(630, 27)
         Guna2TextBox34.TabIndex = 29
         ' 
@@ -3507,7 +3990,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox35
         ' 
-        Guna2TextBox35.CustomizableEdges = CustomizableEdges91
+        Guna2TextBox35.CustomizableEdges = CustomizableEdges119
         Guna2TextBox35.DefaultText = ""
         Guna2TextBox35.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox35.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3521,7 +4004,7 @@ Partial Class EmployeeManagement
         Guna2TextBox35.PasswordChar = ChrW(0)
         Guna2TextBox35.PlaceholderText = ""
         Guna2TextBox35.SelectedText = ""
-        Guna2TextBox35.ShadowDecoration.CustomizableEdges = CustomizableEdges92
+        Guna2TextBox35.ShadowDecoration.CustomizableEdges = CustomizableEdges120
         Guna2TextBox35.Size = New Size(630, 27)
         Guna2TextBox35.TabIndex = 27
         ' 
@@ -3582,14 +4065,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker5
         ' 
         Guna2DateTimePicker5.Checked = True
-        Guna2DateTimePicker5.CustomizableEdges = CustomizableEdges97
+        Guna2DateTimePicker5.CustomizableEdges = CustomizableEdges125
         Guna2DateTimePicker5.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker5.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker5.Location = New Point(535, 108)
         Guna2DateTimePicker5.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker5.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker5.Name = "Guna2DateTimePicker5"
-        Guna2DateTimePicker5.ShadowDecoration.CustomizableEdges = CustomizableEdges98
+        Guna2DateTimePicker5.ShadowDecoration.CustomizableEdges = CustomizableEdges126
         Guna2DateTimePicker5.Size = New Size(182, 36)
         Guna2DateTimePicker5.TabIndex = 20
         Guna2DateTimePicker5.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -3597,21 +4080,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker6
         ' 
         Guna2DateTimePicker6.Checked = True
-        Guna2DateTimePicker6.CustomizableEdges = CustomizableEdges99
+        Guna2DateTimePicker6.CustomizableEdges = CustomizableEdges127
         Guna2DateTimePicker6.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker6.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker6.Location = New Point(328, 108)
         Guna2DateTimePicker6.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker6.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker6.Name = "Guna2DateTimePicker6"
-        Guna2DateTimePicker6.ShadowDecoration.CustomizableEdges = CustomizableEdges100
+        Guna2DateTimePicker6.ShadowDecoration.CustomizableEdges = CustomizableEdges128
         Guna2DateTimePicker6.Size = New Size(179, 36)
         Guna2DateTimePicker6.TabIndex = 19
         Guna2DateTimePicker6.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox36
         ' 
-        Guna2TextBox36.CustomizableEdges = CustomizableEdges101
+        Guna2TextBox36.CustomizableEdges = CustomizableEdges129
         Guna2TextBox36.DefaultText = ""
         Guna2TextBox36.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox36.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3625,13 +4108,13 @@ Partial Class EmployeeManagement
         Guna2TextBox36.PasswordChar = ChrW(0)
         Guna2TextBox36.PlaceholderText = ""
         Guna2TextBox36.SelectedText = ""
-        Guna2TextBox36.ShadowDecoration.CustomizableEdges = CustomizableEdges102
+        Guna2TextBox36.ShadowDecoration.CustomizableEdges = CustomizableEdges130
         Guna2TextBox36.Size = New Size(191, 27)
         Guna2TextBox36.TabIndex = 18
         ' 
         ' Guna2TextBox37
         ' 
-        Guna2TextBox37.CustomizableEdges = CustomizableEdges103
+        Guna2TextBox37.CustomizableEdges = CustomizableEdges131
         Guna2TextBox37.DefaultText = ""
         Guna2TextBox37.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox37.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3645,7 +4128,7 @@ Partial Class EmployeeManagement
         Guna2TextBox37.PasswordChar = ChrW(0)
         Guna2TextBox37.PlaceholderText = ""
         Guna2TextBox37.SelectedText = ""
-        Guna2TextBox37.ShadowDecoration.CustomizableEdges = CustomizableEdges104
+        Guna2TextBox37.ShadowDecoration.CustomizableEdges = CustomizableEdges132
         Guna2TextBox37.Size = New Size(630, 27)
         Guna2TextBox37.TabIndex = 17
         ' 
@@ -3701,7 +4184,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox48
         ' 
-        Guna2TextBox48.CustomizableEdges = CustomizableEdges105
+        Guna2TextBox48.CustomizableEdges = CustomizableEdges133
         Guna2TextBox48.DefaultText = ""
         Guna2TextBox48.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox48.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3715,7 +4198,7 @@ Partial Class EmployeeManagement
         Guna2TextBox48.PasswordChar = ChrW(0)
         Guna2TextBox48.PlaceholderText = ""
         Guna2TextBox48.SelectedText = ""
-        Guna2TextBox48.ShadowDecoration.CustomizableEdges = CustomizableEdges106
+        Guna2TextBox48.ShadowDecoration.CustomizableEdges = CustomizableEdges134
         Guna2TextBox48.Size = New Size(630, 27)
         Guna2TextBox48.TabIndex = 63
         ' 
@@ -3730,7 +4213,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox49
         ' 
-        Guna2TextBox49.CustomizableEdges = CustomizableEdges107
+        Guna2TextBox49.CustomizableEdges = CustomizableEdges135
         Guna2TextBox49.DefaultText = ""
         Guna2TextBox49.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox49.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3744,7 +4227,7 @@ Partial Class EmployeeManagement
         Guna2TextBox49.PasswordChar = ChrW(0)
         Guna2TextBox49.PlaceholderText = ""
         Guna2TextBox49.SelectedText = ""
-        Guna2TextBox49.ShadowDecoration.CustomizableEdges = CustomizableEdges108
+        Guna2TextBox49.ShadowDecoration.CustomizableEdges = CustomizableEdges136
         Guna2TextBox49.Size = New Size(630, 27)
         Guna2TextBox49.TabIndex = 61
         ' 
@@ -3759,7 +4242,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox50
         ' 
-        Guna2TextBox50.CustomizableEdges = CustomizableEdges109
+        Guna2TextBox50.CustomizableEdges = CustomizableEdges137
         Guna2TextBox50.DefaultText = ""
         Guna2TextBox50.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox50.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3773,7 +4256,7 @@ Partial Class EmployeeManagement
         Guna2TextBox50.PasswordChar = ChrW(0)
         Guna2TextBox50.PlaceholderText = ""
         Guna2TextBox50.SelectedText = ""
-        Guna2TextBox50.ShadowDecoration.CustomizableEdges = CustomizableEdges110
+        Guna2TextBox50.ShadowDecoration.CustomizableEdges = CustomizableEdges138
         Guna2TextBox50.Size = New Size(630, 27)
         Guna2TextBox50.TabIndex = 59
         ' 
@@ -3834,14 +4317,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker11
         ' 
         Guna2DateTimePicker11.Checked = True
-        Guna2DateTimePicker11.CustomizableEdges = CustomizableEdges111
+        Guna2DateTimePicker11.CustomizableEdges = CustomizableEdges139
         Guna2DateTimePicker11.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker11.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker11.Location = New Point(543, 485)
         Guna2DateTimePicker11.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker11.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker11.Name = "Guna2DateTimePicker11"
-        Guna2DateTimePicker11.ShadowDecoration.CustomizableEdges = CustomizableEdges112
+        Guna2DateTimePicker11.ShadowDecoration.CustomizableEdges = CustomizableEdges140
         Guna2DateTimePicker11.Size = New Size(182, 36)
         Guna2DateTimePicker11.TabIndex = 52
         Guna2DateTimePicker11.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -3849,21 +4332,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker12
         ' 
         Guna2DateTimePicker12.Checked = True
-        Guna2DateTimePicker12.CustomizableEdges = CustomizableEdges113
+        Guna2DateTimePicker12.CustomizableEdges = CustomizableEdges141
         Guna2DateTimePicker12.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker12.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker12.Location = New Point(336, 485)
         Guna2DateTimePicker12.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker12.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker12.Name = "Guna2DateTimePicker12"
-        Guna2DateTimePicker12.ShadowDecoration.CustomizableEdges = CustomizableEdges114
+        Guna2DateTimePicker12.ShadowDecoration.CustomizableEdges = CustomizableEdges142
         Guna2DateTimePicker12.Size = New Size(179, 36)
         Guna2DateTimePicker12.TabIndex = 51
         Guna2DateTimePicker12.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox51
         ' 
-        Guna2TextBox51.CustomizableEdges = CustomizableEdges115
+        Guna2TextBox51.CustomizableEdges = CustomizableEdges143
         Guna2TextBox51.DefaultText = ""
         Guna2TextBox51.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox51.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3877,13 +4360,13 @@ Partial Class EmployeeManagement
         Guna2TextBox51.PasswordChar = ChrW(0)
         Guna2TextBox51.PlaceholderText = ""
         Guna2TextBox51.SelectedText = ""
-        Guna2TextBox51.ShadowDecoration.CustomizableEdges = CustomizableEdges116
+        Guna2TextBox51.ShadowDecoration.CustomizableEdges = CustomizableEdges144
         Guna2TextBox51.Size = New Size(191, 27)
         Guna2TextBox51.TabIndex = 50
         ' 
         ' Guna2TextBox52
         ' 
-        Guna2TextBox52.CustomizableEdges = CustomizableEdges117
+        Guna2TextBox52.CustomizableEdges = CustomizableEdges145
         Guna2TextBox52.DefaultText = ""
         Guna2TextBox52.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox52.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3897,7 +4380,7 @@ Partial Class EmployeeManagement
         Guna2TextBox52.PasswordChar = ChrW(0)
         Guna2TextBox52.PlaceholderText = ""
         Guna2TextBox52.SelectedText = ""
-        Guna2TextBox52.ShadowDecoration.CustomizableEdges = CustomizableEdges118
+        Guna2TextBox52.ShadowDecoration.CustomizableEdges = CustomizableEdges146
         Guna2TextBox52.Size = New Size(630, 27)
         Guna2TextBox52.TabIndex = 49
         ' 
@@ -3912,7 +4395,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox43
         ' 
-        Guna2TextBox43.CustomizableEdges = CustomizableEdges119
+        Guna2TextBox43.CustomizableEdges = CustomizableEdges147
         Guna2TextBox43.DefaultText = ""
         Guna2TextBox43.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox43.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3926,7 +4409,7 @@ Partial Class EmployeeManagement
         Guna2TextBox43.PasswordChar = ChrW(0)
         Guna2TextBox43.PlaceholderText = ""
         Guna2TextBox43.SelectedText = ""
-        Guna2TextBox43.ShadowDecoration.CustomizableEdges = CustomizableEdges120
+        Guna2TextBox43.ShadowDecoration.CustomizableEdges = CustomizableEdges148
         Guna2TextBox43.Size = New Size(630, 27)
         Guna2TextBox43.TabIndex = 47
         ' 
@@ -3941,7 +4424,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox44
         ' 
-        Guna2TextBox44.CustomizableEdges = CustomizableEdges121
+        Guna2TextBox44.CustomizableEdges = CustomizableEdges149
         Guna2TextBox44.DefaultText = ""
         Guna2TextBox44.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox44.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3955,7 +4438,7 @@ Partial Class EmployeeManagement
         Guna2TextBox44.PasswordChar = ChrW(0)
         Guna2TextBox44.PlaceholderText = ""
         Guna2TextBox44.SelectedText = ""
-        Guna2TextBox44.ShadowDecoration.CustomizableEdges = CustomizableEdges122
+        Guna2TextBox44.ShadowDecoration.CustomizableEdges = CustomizableEdges150
         Guna2TextBox44.Size = New Size(630, 27)
         Guna2TextBox44.TabIndex = 45
         ' 
@@ -3970,7 +4453,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox45
         ' 
-        Guna2TextBox45.CustomizableEdges = CustomizableEdges123
+        Guna2TextBox45.CustomizableEdges = CustomizableEdges151
         Guna2TextBox45.DefaultText = ""
         Guna2TextBox45.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox45.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -3984,7 +4467,7 @@ Partial Class EmployeeManagement
         Guna2TextBox45.PasswordChar = ChrW(0)
         Guna2TextBox45.PlaceholderText = ""
         Guna2TextBox45.SelectedText = ""
-        Guna2TextBox45.ShadowDecoration.CustomizableEdges = CustomizableEdges124
+        Guna2TextBox45.ShadowDecoration.CustomizableEdges = CustomizableEdges152
         Guna2TextBox45.Size = New Size(630, 27)
         Guna2TextBox45.TabIndex = 43
         ' 
@@ -4045,14 +4528,14 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker9
         ' 
         Guna2DateTimePicker9.Checked = True
-        Guna2DateTimePicker9.CustomizableEdges = CustomizableEdges125
+        Guna2DateTimePicker9.CustomizableEdges = CustomizableEdges153
         Guna2DateTimePicker9.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker9.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker9.Location = New Point(529, 143)
         Guna2DateTimePicker9.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker9.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker9.Name = "Guna2DateTimePicker9"
-        Guna2DateTimePicker9.ShadowDecoration.CustomizableEdges = CustomizableEdges126
+        Guna2DateTimePicker9.ShadowDecoration.CustomizableEdges = CustomizableEdges154
         Guna2DateTimePicker9.Size = New Size(182, 36)
         Guna2DateTimePicker9.TabIndex = 36
         Guna2DateTimePicker9.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -4060,21 +4543,21 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker10
         ' 
         Guna2DateTimePicker10.Checked = True
-        Guna2DateTimePicker10.CustomizableEdges = CustomizableEdges127
+        Guna2DateTimePicker10.CustomizableEdges = CustomizableEdges155
         Guna2DateTimePicker10.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker10.Format = DateTimePickerFormat.Long
         Guna2DateTimePicker10.Location = New Point(322, 143)
         Guna2DateTimePicker10.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker10.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker10.Name = "Guna2DateTimePicker10"
-        Guna2DateTimePicker10.ShadowDecoration.CustomizableEdges = CustomizableEdges128
+        Guna2DateTimePicker10.ShadowDecoration.CustomizableEdges = CustomizableEdges156
         Guna2DateTimePicker10.Size = New Size(179, 36)
         Guna2DateTimePicker10.TabIndex = 35
         Guna2DateTimePicker10.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' Guna2TextBox46
         ' 
-        Guna2TextBox46.CustomizableEdges = CustomizableEdges129
+        Guna2TextBox46.CustomizableEdges = CustomizableEdges157
         Guna2TextBox46.DefaultText = ""
         Guna2TextBox46.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox46.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4088,13 +4571,13 @@ Partial Class EmployeeManagement
         Guna2TextBox46.PasswordChar = ChrW(0)
         Guna2TextBox46.PlaceholderText = ""
         Guna2TextBox46.SelectedText = ""
-        Guna2TextBox46.ShadowDecoration.CustomizableEdges = CustomizableEdges130
+        Guna2TextBox46.ShadowDecoration.CustomizableEdges = CustomizableEdges158
         Guna2TextBox46.Size = New Size(191, 27)
         Guna2TextBox46.TabIndex = 34
         ' 
         ' Guna2TextBox47
         ' 
-        Guna2TextBox47.CustomizableEdges = CustomizableEdges131
+        Guna2TextBox47.CustomizableEdges = CustomizableEdges159
         Guna2TextBox47.DefaultText = ""
         Guna2TextBox47.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox47.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4108,7 +4591,7 @@ Partial Class EmployeeManagement
         Guna2TextBox47.PasswordChar = ChrW(0)
         Guna2TextBox47.PlaceholderText = ""
         Guna2TextBox47.SelectedText = ""
-        Guna2TextBox47.ShadowDecoration.CustomizableEdges = CustomizableEdges132
+        Guna2TextBox47.ShadowDecoration.CustomizableEdges = CustomizableEdges160
         Guna2TextBox47.Size = New Size(630, 27)
         Guna2TextBox47.TabIndex = 33
         ' 
@@ -4232,7 +4715,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox13
         ' 
         Guna2ComboBox13.BackColor = Color.Transparent
-        Guna2ComboBox13.CustomizableEdges = CustomizableEdges133
+        Guna2ComboBox13.CustomizableEdges = CustomizableEdges161
         Guna2ComboBox13.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox13.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox13.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4243,7 +4726,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox13.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox13.Location = New Point(642, 832)
         Guna2ComboBox13.Name = "Guna2ComboBox13"
-        Guna2ComboBox13.ShadowDecoration.CustomizableEdges = CustomizableEdges134
+        Guna2ComboBox13.ShadowDecoration.CustomizableEdges = CustomizableEdges162
         Guna2ComboBox13.Size = New Size(123, 36)
         Guna2ComboBox13.TabIndex = 124
         ' 
@@ -4259,7 +4742,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox14
         ' 
         Guna2ComboBox14.BackColor = Color.Transparent
-        Guna2ComboBox14.CustomizableEdges = CustomizableEdges135
+        Guna2ComboBox14.CustomizableEdges = CustomizableEdges163
         Guna2ComboBox14.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox14.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox14.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4270,14 +4753,14 @@ Partial Class EmployeeManagement
         Guna2ComboBox14.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Guna2ComboBox14.Location = New Point(384, 830)
         Guna2ComboBox14.Name = "Guna2ComboBox14"
-        Guna2ComboBox14.ShadowDecoration.CustomizableEdges = CustomizableEdges136
+        Guna2ComboBox14.ShadowDecoration.CustomizableEdges = CustomizableEdges164
         Guna2ComboBox14.Size = New Size(85, 36)
         Guna2ComboBox14.TabIndex = 122
         ' 
         ' Guna2ComboBox15
         ' 
         Guna2ComboBox15.BackColor = Color.Transparent
-        Guna2ComboBox15.CustomizableEdges = CustomizableEdges137
+        Guna2ComboBox15.CustomizableEdges = CustomizableEdges165
         Guna2ComboBox15.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox15.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox15.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4288,7 +4771,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox15.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox15.Location = New Point(475, 830)
         Guna2ComboBox15.Name = "Guna2ComboBox15"
-        Guna2ComboBox15.ShadowDecoration.CustomizableEdges = CustomizableEdges138
+        Guna2ComboBox15.ShadowDecoration.CustomizableEdges = CustomizableEdges166
         Guna2ComboBox15.Size = New Size(161, 36)
         Guna2ComboBox15.TabIndex = 121
         ' 
@@ -4322,7 +4805,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox70
         ' 
-        Guna2TextBox70.CustomizableEdges = CustomizableEdges139
+        Guna2TextBox70.CustomizableEdges = CustomizableEdges167
         Guna2TextBox70.DefaultText = ""
         Guna2TextBox70.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox70.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4336,14 +4819,14 @@ Partial Class EmployeeManagement
         Guna2TextBox70.PasswordChar = ChrW(0)
         Guna2TextBox70.PlaceholderText = ""
         Guna2TextBox70.SelectedText = ""
-        Guna2TextBox70.ShadowDecoration.CustomizableEdges = CustomizableEdges140
+        Guna2TextBox70.ShadowDecoration.CustomizableEdges = CustomizableEdges168
         Guna2TextBox70.Size = New Size(359, 36)
         Guna2TextBox70.TabIndex = 117
         ' 
         ' Guna2ComboBox9
         ' 
         Guna2ComboBox9.BackColor = Color.Transparent
-        Guna2ComboBox9.CustomizableEdges = CustomizableEdges141
+        Guna2ComboBox9.CustomizableEdges = CustomizableEdges169
         Guna2ComboBox9.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox9.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox9.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4354,7 +4837,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox9.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox9.Location = New Point(642, 698)
         Guna2ComboBox9.Name = "Guna2ComboBox9"
-        Guna2ComboBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges142
+        Guna2ComboBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges170
         Guna2ComboBox9.Size = New Size(123, 36)
         Guna2ComboBox9.TabIndex = 116
         ' 
@@ -4370,7 +4853,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox10
         ' 
         Guna2ComboBox10.BackColor = Color.Transparent
-        Guna2ComboBox10.CustomizableEdges = CustomizableEdges143
+        Guna2ComboBox10.CustomizableEdges = CustomizableEdges171
         Guna2ComboBox10.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox10.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox10.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4381,14 +4864,14 @@ Partial Class EmployeeManagement
         Guna2ComboBox10.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Guna2ComboBox10.Location = New Point(384, 696)
         Guna2ComboBox10.Name = "Guna2ComboBox10"
-        Guna2ComboBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges144
+        Guna2ComboBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges172
         Guna2ComboBox10.Size = New Size(85, 36)
         Guna2ComboBox10.TabIndex = 114
         ' 
         ' Guna2ComboBox12
         ' 
         Guna2ComboBox12.BackColor = Color.Transparent
-        Guna2ComboBox12.CustomizableEdges = CustomizableEdges145
+        Guna2ComboBox12.CustomizableEdges = CustomizableEdges173
         Guna2ComboBox12.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox12.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox12.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4399,7 +4882,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox12.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox12.Location = New Point(475, 696)
         Guna2ComboBox12.Name = "Guna2ComboBox12"
-        Guna2ComboBox12.ShadowDecoration.CustomizableEdges = CustomizableEdges146
+        Guna2ComboBox12.ShadowDecoration.CustomizableEdges = CustomizableEdges174
         Guna2ComboBox12.Size = New Size(161, 36)
         Guna2ComboBox12.TabIndex = 113
         ' 
@@ -4433,7 +4916,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox67
         ' 
-        Guna2TextBox67.CustomizableEdges = CustomizableEdges147
+        Guna2TextBox67.CustomizableEdges = CustomizableEdges175
         Guna2TextBox67.DefaultText = ""
         Guna2TextBox67.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox67.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4447,14 +4930,14 @@ Partial Class EmployeeManagement
         Guna2TextBox67.PasswordChar = ChrW(0)
         Guna2TextBox67.PlaceholderText = ""
         Guna2TextBox67.SelectedText = ""
-        Guna2TextBox67.ShadowDecoration.CustomizableEdges = CustomizableEdges148
+        Guna2TextBox67.ShadowDecoration.CustomizableEdges = CustomizableEdges176
         Guna2TextBox67.Size = New Size(359, 36)
         Guna2TextBox67.TabIndex = 109
         ' 
         ' Guna2ComboBox6
         ' 
         Guna2ComboBox6.BackColor = Color.Transparent
-        Guna2ComboBox6.CustomizableEdges = CustomizableEdges149
+        Guna2ComboBox6.CustomizableEdges = CustomizableEdges177
         Guna2ComboBox6.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox6.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox6.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4465,7 +4948,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox6.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox6.Location = New Point(642, 562)
         Guna2ComboBox6.Name = "Guna2ComboBox6"
-        Guna2ComboBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges150
+        Guna2ComboBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges178
         Guna2ComboBox6.Size = New Size(123, 36)
         Guna2ComboBox6.TabIndex = 108
         ' 
@@ -4481,7 +4964,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox7
         ' 
         Guna2ComboBox7.BackColor = Color.Transparent
-        Guna2ComboBox7.CustomizableEdges = CustomizableEdges151
+        Guna2ComboBox7.CustomizableEdges = CustomizableEdges179
         Guna2ComboBox7.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox7.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox7.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4492,14 +4975,14 @@ Partial Class EmployeeManagement
         Guna2ComboBox7.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Guna2ComboBox7.Location = New Point(384, 560)
         Guna2ComboBox7.Name = "Guna2ComboBox7"
-        Guna2ComboBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges152
+        Guna2ComboBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges180
         Guna2ComboBox7.Size = New Size(85, 36)
         Guna2ComboBox7.TabIndex = 106
         ' 
         ' Guna2ComboBox8
         ' 
         Guna2ComboBox8.BackColor = Color.Transparent
-        Guna2ComboBox8.CustomizableEdges = CustomizableEdges153
+        Guna2ComboBox8.CustomizableEdges = CustomizableEdges181
         Guna2ComboBox8.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox8.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox8.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4510,7 +4993,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox8.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox8.Location = New Point(475, 560)
         Guna2ComboBox8.Name = "Guna2ComboBox8"
-        Guna2ComboBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges154
+        Guna2ComboBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges182
         Guna2ComboBox8.Size = New Size(161, 36)
         Guna2ComboBox8.TabIndex = 105
         ' 
@@ -4544,7 +5027,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox64
         ' 
-        Guna2TextBox64.CustomizableEdges = CustomizableEdges155
+        Guna2TextBox64.CustomizableEdges = CustomizableEdges183
         Guna2TextBox64.DefaultText = ""
         Guna2TextBox64.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox64.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4558,14 +5041,14 @@ Partial Class EmployeeManagement
         Guna2TextBox64.PasswordChar = ChrW(0)
         Guna2TextBox64.PlaceholderText = ""
         Guna2TextBox64.SelectedText = ""
-        Guna2TextBox64.ShadowDecoration.CustomizableEdges = CustomizableEdges156
+        Guna2TextBox64.ShadowDecoration.CustomizableEdges = CustomizableEdges184
         Guna2TextBox64.Size = New Size(359, 36)
         Guna2TextBox64.TabIndex = 101
         ' 
         ' Guna2ComboBox3
         ' 
         Guna2ComboBox3.BackColor = Color.Transparent
-        Guna2ComboBox3.CustomizableEdges = CustomizableEdges157
+        Guna2ComboBox3.CustomizableEdges = CustomizableEdges185
         Guna2ComboBox3.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox3.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox3.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4576,7 +5059,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox3.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox3.Location = New Point(642, 432)
         Guna2ComboBox3.Name = "Guna2ComboBox3"
-        Guna2ComboBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges158
+        Guna2ComboBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges186
         Guna2ComboBox3.Size = New Size(123, 36)
         Guna2ComboBox3.TabIndex = 100
         ' 
@@ -4592,7 +5075,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox4
         ' 
         Guna2ComboBox4.BackColor = Color.Transparent
-        Guna2ComboBox4.CustomizableEdges = CustomizableEdges159
+        Guna2ComboBox4.CustomizableEdges = CustomizableEdges187
         Guna2ComboBox4.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox4.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox4.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4603,14 +5086,14 @@ Partial Class EmployeeManagement
         Guna2ComboBox4.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Guna2ComboBox4.Location = New Point(384, 430)
         Guna2ComboBox4.Name = "Guna2ComboBox4"
-        Guna2ComboBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges160
+        Guna2ComboBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges188
         Guna2ComboBox4.Size = New Size(85, 36)
         Guna2ComboBox4.TabIndex = 98
         ' 
         ' Guna2ComboBox5
         ' 
         Guna2ComboBox5.BackColor = Color.Transparent
-        Guna2ComboBox5.CustomizableEdges = CustomizableEdges161
+        Guna2ComboBox5.CustomizableEdges = CustomizableEdges189
         Guna2ComboBox5.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox5.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox5.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4621,7 +5104,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox5.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox5.Location = New Point(475, 430)
         Guna2ComboBox5.Name = "Guna2ComboBox5"
-        Guna2ComboBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges162
+        Guna2ComboBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges190
         Guna2ComboBox5.Size = New Size(161, 36)
         Guna2ComboBox5.TabIndex = 97
         ' 
@@ -4655,7 +5138,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox61
         ' 
-        Guna2TextBox61.CustomizableEdges = CustomizableEdges163
+        Guna2TextBox61.CustomizableEdges = CustomizableEdges191
         Guna2TextBox61.DefaultText = ""
         Guna2TextBox61.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox61.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4669,14 +5152,14 @@ Partial Class EmployeeManagement
         Guna2TextBox61.PasswordChar = ChrW(0)
         Guna2TextBox61.PlaceholderText = ""
         Guna2TextBox61.SelectedText = ""
-        Guna2TextBox61.ShadowDecoration.CustomizableEdges = CustomizableEdges164
+        Guna2TextBox61.ShadowDecoration.CustomizableEdges = CustomizableEdges192
         Guna2TextBox61.Size = New Size(359, 36)
         Guna2TextBox61.TabIndex = 93
         ' 
         ' Guna2ComboBox11
         ' 
         Guna2ComboBox11.BackColor = Color.Transparent
-        Guna2ComboBox11.CustomizableEdges = CustomizableEdges165
+        Guna2ComboBox11.CustomizableEdges = CustomizableEdges193
         Guna2ComboBox11.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox11.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox11.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -4687,7 +5170,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox11.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox11.Location = New Point(642, 303)
         Guna2ComboBox11.Name = "Guna2ComboBox11"
-        Guna2ComboBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges166
+        Guna2ComboBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges194
         Guna2ComboBox11.Size = New Size(123, 36)
         Guna2ComboBox11.TabIndex = 92
         ' 
@@ -4718,7 +5201,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox69
         ' 
-        Guna2TextBox69.CustomizableEdges = CustomizableEdges167
+        Guna2TextBox69.CustomizableEdges = CustomizableEdges195
         Guna2TextBox69.DefaultText = ""
         Guna2TextBox69.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox69.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4732,7 +5215,7 @@ Partial Class EmployeeManagement
         Guna2TextBox69.PasswordChar = ChrW(0)
         Guna2TextBox69.PlaceholderText = ""
         Guna2TextBox69.SelectedText = ""
-        Guna2TextBox69.ShadowDecoration.CustomizableEdges = CustomizableEdges168
+        Guna2TextBox69.ShadowDecoration.CustomizableEdges = CustomizableEdges196
         Guna2TextBox69.Size = New Size(186, 36)
         Guna2TextBox69.TabIndex = 84
         ' 
@@ -4747,7 +5230,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox71
         ' 
-        Guna2TextBox71.CustomizableEdges = CustomizableEdges169
+        Guna2TextBox71.CustomizableEdges = CustomizableEdges197
         Guna2TextBox71.DefaultText = ""
         Guna2TextBox71.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox71.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4761,7 +5244,7 @@ Partial Class EmployeeManagement
         Guna2TextBox71.PasswordChar = ChrW(0)
         Guna2TextBox71.PlaceholderText = ""
         Guna2TextBox71.SelectedText = ""
-        Guna2TextBox71.ShadowDecoration.CustomizableEdges = CustomizableEdges170
+        Guna2TextBox71.ShadowDecoration.CustomizableEdges = CustomizableEdges198
         Guna2TextBox71.Size = New Size(212, 36)
         Guna2TextBox71.TabIndex = 80
         ' 
@@ -4786,7 +5269,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker23
         ' 
         Guna2DateTimePicker23.Checked = True
-        Guna2DateTimePicker23.CustomizableEdges = CustomizableEdges171
+        Guna2DateTimePicker23.CustomizableEdges = CustomizableEdges199
         Guna2DateTimePicker23.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker23.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker23.Format = DateTimePickerFormat.Long
@@ -4794,7 +5277,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker23.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker23.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker23.Name = "Guna2DateTimePicker23"
-        Guna2DateTimePicker23.ShadowDecoration.CustomizableEdges = CustomizableEdges172
+        Guna2DateTimePicker23.ShadowDecoration.CustomizableEdges = CustomizableEdges200
         Guna2DateTimePicker23.Size = New Size(167, 36)
         Guna2DateTimePicker23.TabIndex = 77
         Guna2DateTimePicker23.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4802,7 +5285,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker24
         ' 
         Guna2DateTimePicker24.Checked = True
-        Guna2DateTimePicker24.CustomizableEdges = CustomizableEdges173
+        Guna2DateTimePicker24.CustomizableEdges = CustomizableEdges201
         Guna2DateTimePicker24.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker24.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker24.Format = DateTimePickerFormat.Long
@@ -4810,7 +5293,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker24.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker24.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker24.Name = "Guna2DateTimePicker24"
-        Guna2DateTimePicker24.ShadowDecoration.CustomizableEdges = CustomizableEdges174
+        Guna2DateTimePicker24.ShadowDecoration.CustomizableEdges = CustomizableEdges202
         Guna2DateTimePicker24.Size = New Size(168, 36)
         Guna2DateTimePicker24.TabIndex = 76
         Guna2DateTimePicker24.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4847,7 +5330,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox66
         ' 
-        Guna2TextBox66.CustomizableEdges = CustomizableEdges175
+        Guna2TextBox66.CustomizableEdges = CustomizableEdges203
         Guna2TextBox66.DefaultText = ""
         Guna2TextBox66.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox66.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4861,7 +5344,7 @@ Partial Class EmployeeManagement
         Guna2TextBox66.PasswordChar = ChrW(0)
         Guna2TextBox66.PlaceholderText = ""
         Guna2TextBox66.SelectedText = ""
-        Guna2TextBox66.ShadowDecoration.CustomizableEdges = CustomizableEdges176
+        Guna2TextBox66.ShadowDecoration.CustomizableEdges = CustomizableEdges204
         Guna2TextBox66.Size = New Size(186, 36)
         Guna2TextBox66.TabIndex = 67
         ' 
@@ -4876,7 +5359,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox68
         ' 
-        Guna2TextBox68.CustomizableEdges = CustomizableEdges177
+        Guna2TextBox68.CustomizableEdges = CustomizableEdges205
         Guna2TextBox68.DefaultText = ""
         Guna2TextBox68.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox68.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4890,7 +5373,7 @@ Partial Class EmployeeManagement
         Guna2TextBox68.PasswordChar = ChrW(0)
         Guna2TextBox68.PlaceholderText = ""
         Guna2TextBox68.SelectedText = ""
-        Guna2TextBox68.ShadowDecoration.CustomizableEdges = CustomizableEdges178
+        Guna2TextBox68.ShadowDecoration.CustomizableEdges = CustomizableEdges206
         Guna2TextBox68.Size = New Size(212, 36)
         Guna2TextBox68.TabIndex = 63
         ' 
@@ -4915,7 +5398,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker21
         ' 
         Guna2DateTimePicker21.Checked = True
-        Guna2DateTimePicker21.CustomizableEdges = CustomizableEdges179
+        Guna2DateTimePicker21.CustomizableEdges = CustomizableEdges207
         Guna2DateTimePicker21.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker21.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker21.Format = DateTimePickerFormat.Long
@@ -4923,7 +5406,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker21.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker21.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker21.Name = "Guna2DateTimePicker21"
-        Guna2DateTimePicker21.ShadowDecoration.CustomizableEdges = CustomizableEdges180
+        Guna2DateTimePicker21.ShadowDecoration.CustomizableEdges = CustomizableEdges208
         Guna2DateTimePicker21.Size = New Size(167, 36)
         Guna2DateTimePicker21.TabIndex = 60
         Guna2DateTimePicker21.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4931,7 +5414,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker22
         ' 
         Guna2DateTimePicker22.Checked = True
-        Guna2DateTimePicker22.CustomizableEdges = CustomizableEdges181
+        Guna2DateTimePicker22.CustomizableEdges = CustomizableEdges209
         Guna2DateTimePicker22.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker22.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker22.Format = DateTimePickerFormat.Long
@@ -4939,7 +5422,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker22.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker22.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker22.Name = "Guna2DateTimePicker22"
-        Guna2DateTimePicker22.ShadowDecoration.CustomizableEdges = CustomizableEdges182
+        Guna2DateTimePicker22.ShadowDecoration.CustomizableEdges = CustomizableEdges210
         Guna2DateTimePicker22.Size = New Size(168, 36)
         Guna2DateTimePicker22.TabIndex = 59
         Guna2DateTimePicker22.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4955,7 +5438,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox63
         ' 
-        Guna2TextBox63.CustomizableEdges = CustomizableEdges183
+        Guna2TextBox63.CustomizableEdges = CustomizableEdges211
         Guna2TextBox63.DefaultText = ""
         Guna2TextBox63.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox63.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4969,7 +5452,7 @@ Partial Class EmployeeManagement
         Guna2TextBox63.PasswordChar = ChrW(0)
         Guna2TextBox63.PlaceholderText = ""
         Guna2TextBox63.SelectedText = ""
-        Guna2TextBox63.ShadowDecoration.CustomizableEdges = CustomizableEdges184
+        Guna2TextBox63.ShadowDecoration.CustomizableEdges = CustomizableEdges212
         Guna2TextBox63.Size = New Size(186, 36)
         Guna2TextBox63.TabIndex = 53
         ' 
@@ -4984,7 +5467,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox65
         ' 
-        Guna2TextBox65.CustomizableEdges = CustomizableEdges185
+        Guna2TextBox65.CustomizableEdges = CustomizableEdges213
         Guna2TextBox65.DefaultText = ""
         Guna2TextBox65.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox65.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -4998,7 +5481,7 @@ Partial Class EmployeeManagement
         Guna2TextBox65.PasswordChar = ChrW(0)
         Guna2TextBox65.PlaceholderText = ""
         Guna2TextBox65.SelectedText = ""
-        Guna2TextBox65.ShadowDecoration.CustomizableEdges = CustomizableEdges186
+        Guna2TextBox65.ShadowDecoration.CustomizableEdges = CustomizableEdges214
         Guna2TextBox65.Size = New Size(212, 36)
         Guna2TextBox65.TabIndex = 49
         ' 
@@ -5023,7 +5506,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker19
         ' 
         Guna2DateTimePicker19.Checked = True
-        Guna2DateTimePicker19.CustomizableEdges = CustomizableEdges187
+        Guna2DateTimePicker19.CustomizableEdges = CustomizableEdges215
         Guna2DateTimePicker19.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker19.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker19.Format = DateTimePickerFormat.Long
@@ -5031,7 +5514,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker19.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker19.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker19.Name = "Guna2DateTimePicker19"
-        Guna2DateTimePicker19.ShadowDecoration.CustomizableEdges = CustomizableEdges188
+        Guna2DateTimePicker19.ShadowDecoration.CustomizableEdges = CustomizableEdges216
         Guna2DateTimePicker19.Size = New Size(167, 36)
         Guna2DateTimePicker19.TabIndex = 46
         Guna2DateTimePicker19.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5039,7 +5522,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker20
         ' 
         Guna2DateTimePicker20.Checked = True
-        Guna2DateTimePicker20.CustomizableEdges = CustomizableEdges189
+        Guna2DateTimePicker20.CustomizableEdges = CustomizableEdges217
         Guna2DateTimePicker20.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker20.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker20.Format = DateTimePickerFormat.Long
@@ -5047,7 +5530,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker20.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker20.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker20.Name = "Guna2DateTimePicker20"
-        Guna2DateTimePicker20.ShadowDecoration.CustomizableEdges = CustomizableEdges190
+        Guna2DateTimePicker20.ShadowDecoration.CustomizableEdges = CustomizableEdges218
         Guna2DateTimePicker20.Size = New Size(168, 36)
         Guna2DateTimePicker20.TabIndex = 45
         Guna2DateTimePicker20.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5063,7 +5546,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox60
         ' 
-        Guna2TextBox60.CustomizableEdges = CustomizableEdges191
+        Guna2TextBox60.CustomizableEdges = CustomizableEdges219
         Guna2TextBox60.DefaultText = ""
         Guna2TextBox60.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox60.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5077,7 +5560,7 @@ Partial Class EmployeeManagement
         Guna2TextBox60.PasswordChar = ChrW(0)
         Guna2TextBox60.PlaceholderText = ""
         Guna2TextBox60.SelectedText = ""
-        Guna2TextBox60.ShadowDecoration.CustomizableEdges = CustomizableEdges192
+        Guna2TextBox60.ShadowDecoration.CustomizableEdges = CustomizableEdges220
         Guna2TextBox60.Size = New Size(186, 36)
         Guna2TextBox60.TabIndex = 39
         ' 
@@ -5092,7 +5575,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox62
         ' 
-        Guna2TextBox62.CustomizableEdges = CustomizableEdges193
+        Guna2TextBox62.CustomizableEdges = CustomizableEdges221
         Guna2TextBox62.DefaultText = ""
         Guna2TextBox62.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox62.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5106,7 +5589,7 @@ Partial Class EmployeeManagement
         Guna2TextBox62.PasswordChar = ChrW(0)
         Guna2TextBox62.PlaceholderText = ""
         Guna2TextBox62.SelectedText = ""
-        Guna2TextBox62.ShadowDecoration.CustomizableEdges = CustomizableEdges194
+        Guna2TextBox62.ShadowDecoration.CustomizableEdges = CustomizableEdges222
         Guna2TextBox62.Size = New Size(212, 36)
         Guna2TextBox62.TabIndex = 35
         ' 
@@ -5131,7 +5614,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker17
         ' 
         Guna2DateTimePicker17.Checked = True
-        Guna2DateTimePicker17.CustomizableEdges = CustomizableEdges195
+        Guna2DateTimePicker17.CustomizableEdges = CustomizableEdges223
         Guna2DateTimePicker17.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker17.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker17.Format = DateTimePickerFormat.Long
@@ -5139,7 +5622,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker17.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker17.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker17.Name = "Guna2DateTimePicker17"
-        Guna2DateTimePicker17.ShadowDecoration.CustomizableEdges = CustomizableEdges196
+        Guna2DateTimePicker17.ShadowDecoration.CustomizableEdges = CustomizableEdges224
         Guna2DateTimePicker17.Size = New Size(167, 36)
         Guna2DateTimePicker17.TabIndex = 32
         Guna2DateTimePicker17.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5147,7 +5630,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker18
         ' 
         Guna2DateTimePicker18.Checked = True
-        Guna2DateTimePicker18.CustomizableEdges = CustomizableEdges197
+        Guna2DateTimePicker18.CustomizableEdges = CustomizableEdges225
         Guna2DateTimePicker18.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker18.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker18.Format = DateTimePickerFormat.Long
@@ -5155,7 +5638,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker18.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker18.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker18.Name = "Guna2DateTimePicker18"
-        Guna2DateTimePicker18.ShadowDecoration.CustomizableEdges = CustomizableEdges198
+        Guna2DateTimePicker18.ShadowDecoration.CustomizableEdges = CustomizableEdges226
         Guna2DateTimePicker18.Size = New Size(168, 36)
         Guna2DateTimePicker18.TabIndex = 31
         Guna2DateTimePicker18.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5163,7 +5646,7 @@ Partial Class EmployeeManagement
         ' Guna2ComboBox2
         ' 
         Guna2ComboBox2.BackColor = Color.Transparent
-        Guna2ComboBox2.CustomizableEdges = CustomizableEdges199
+        Guna2ComboBox2.CustomizableEdges = CustomizableEdges227
         Guna2ComboBox2.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox2.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox2.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -5174,14 +5657,14 @@ Partial Class EmployeeManagement
         Guna2ComboBox2.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Guna2ComboBox2.Location = New Point(384, 301)
         Guna2ComboBox2.Name = "Guna2ComboBox2"
-        Guna2ComboBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges200
+        Guna2ComboBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges228
         Guna2ComboBox2.Size = New Size(85, 36)
         Guna2ComboBox2.TabIndex = 30
         ' 
         ' Guna2ComboBox1
         ' 
         Guna2ComboBox1.BackColor = Color.Transparent
-        Guna2ComboBox1.CustomizableEdges = CustomizableEdges201
+        Guna2ComboBox1.CustomizableEdges = CustomizableEdges229
         Guna2ComboBox1.DrawMode = DrawMode.OwnerDrawFixed
         Guna2ComboBox1.DropDownStyle = ComboBoxStyle.DropDownList
         Guna2ComboBox1.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
@@ -5192,7 +5675,7 @@ Partial Class EmployeeManagement
         Guna2ComboBox1.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Guna2ComboBox1.Location = New Point(475, 301)
         Guna2ComboBox1.Name = "Guna2ComboBox1"
-        Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges202
+        Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges230
         Guna2ComboBox1.Size = New Size(161, 36)
         Guna2ComboBox1.TabIndex = 29
         ' 
@@ -5225,7 +5708,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox59
         ' 
-        Guna2TextBox59.CustomizableEdges = CustomizableEdges203
+        Guna2TextBox59.CustomizableEdges = CustomizableEdges231
         Guna2TextBox59.DefaultText = ""
         Guna2TextBox59.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox59.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5239,7 +5722,7 @@ Partial Class EmployeeManagement
         Guna2TextBox59.PasswordChar = ChrW(0)
         Guna2TextBox59.PlaceholderText = ""
         Guna2TextBox59.SelectedText = ""
-        Guna2TextBox59.ShadowDecoration.CustomizableEdges = CustomizableEdges204
+        Guna2TextBox59.ShadowDecoration.CustomizableEdges = CustomizableEdges232
         Guna2TextBox59.Size = New Size(186, 36)
         Guna2TextBox59.TabIndex = 23
         ' 
@@ -5255,7 +5738,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox58
         ' 
-        Guna2TextBox58.CustomizableEdges = CustomizableEdges205
+        Guna2TextBox58.CustomizableEdges = CustomizableEdges233
         Guna2TextBox58.DefaultText = ""
         Guna2TextBox58.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox58.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5269,7 +5752,7 @@ Partial Class EmployeeManagement
         Guna2TextBox58.PasswordChar = ChrW(0)
         Guna2TextBox58.PlaceholderText = ""
         Guna2TextBox58.SelectedText = ""
-        Guna2TextBox58.ShadowDecoration.CustomizableEdges = CustomizableEdges206
+        Guna2TextBox58.ShadowDecoration.CustomizableEdges = CustomizableEdges234
         Guna2TextBox58.Size = New Size(359, 36)
         Guna2TextBox58.TabIndex = 21
         ' 
@@ -5284,7 +5767,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox57
         ' 
-        Guna2TextBox57.CustomizableEdges = CustomizableEdges207
+        Guna2TextBox57.CustomizableEdges = CustomizableEdges235
         Guna2TextBox57.DefaultText = ""
         Guna2TextBox57.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox57.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5298,7 +5781,7 @@ Partial Class EmployeeManagement
         Guna2TextBox57.PasswordChar = ChrW(0)
         Guna2TextBox57.PlaceholderText = ""
         Guna2TextBox57.SelectedText = ""
-        Guna2TextBox57.ShadowDecoration.CustomizableEdges = CustomizableEdges208
+        Guna2TextBox57.ShadowDecoration.CustomizableEdges = CustomizableEdges236
         Guna2TextBox57.Size = New Size(212, 36)
         Guna2TextBox57.TabIndex = 19
         ' 
@@ -5323,7 +5806,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker16
         ' 
         Guna2DateTimePicker16.Checked = True
-        Guna2DateTimePicker16.CustomizableEdges = CustomizableEdges209
+        Guna2DateTimePicker16.CustomizableEdges = CustomizableEdges237
         Guna2DateTimePicker16.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker16.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker16.Format = DateTimePickerFormat.Long
@@ -5331,7 +5814,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker16.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker16.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker16.Name = "Guna2DateTimePicker16"
-        Guna2DateTimePicker16.ShadowDecoration.CustomizableEdges = CustomizableEdges210
+        Guna2DateTimePicker16.ShadowDecoration.CustomizableEdges = CustomizableEdges238
         Guna2DateTimePicker16.Size = New Size(167, 36)
         Guna2DateTimePicker16.TabIndex = 16
         Guna2DateTimePicker16.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5339,7 +5822,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker15
         ' 
         Guna2DateTimePicker15.Checked = True
-        Guna2DateTimePicker15.CustomizableEdges = CustomizableEdges211
+        Guna2DateTimePicker15.CustomizableEdges = CustomizableEdges239
         Guna2DateTimePicker15.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker15.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker15.Format = DateTimePickerFormat.Long
@@ -5347,7 +5830,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker15.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker15.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker15.Name = "Guna2DateTimePicker15"
-        Guna2DateTimePicker15.ShadowDecoration.CustomizableEdges = CustomizableEdges212
+        Guna2DateTimePicker15.ShadowDecoration.CustomizableEdges = CustomizableEdges240
         Guna2DateTimePicker15.Size = New Size(168, 36)
         Guna2DateTimePicker15.TabIndex = 15
         Guna2DateTimePicker15.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5356,10 +5839,10 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel6.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel6.Controls.Add(Guna2HtmlLabel118)
-        Guna2Panel6.CustomizableEdges = CustomizableEdges213
+        Guna2Panel6.CustomizableEdges = CustomizableEdges241
         Guna2Panel6.Location = New Point(2, 183)
         Guna2Panel6.Name = "Guna2Panel6"
-        Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges214
+        Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges242
         Guna2Panel6.Size = New Size(788, 35)
         Guna2Panel6.TabIndex = 14
         ' 
@@ -5378,7 +5861,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker14
         ' 
         Guna2DateTimePicker14.Checked = True
-        Guna2DateTimePicker14.CustomizableEdges = CustomizableEdges215
+        Guna2DateTimePicker14.CustomizableEdges = CustomizableEdges243
         Guna2DateTimePicker14.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker14.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker14.Format = DateTimePickerFormat.Long
@@ -5386,7 +5869,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker14.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker14.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker14.Name = "Guna2DateTimePicker14"
-        Guna2DateTimePicker14.ShadowDecoration.CustomizableEdges = CustomizableEdges216
+        Guna2DateTimePicker14.ShadowDecoration.CustomizableEdges = CustomizableEdges244
         Guna2DateTimePicker14.Size = New Size(200, 36)
         Guna2DateTimePicker14.TabIndex = 13
         Guna2DateTimePicker14.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5411,7 +5894,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox56
         ' 
-        Guna2TextBox56.CustomizableEdges = CustomizableEdges217
+        Guna2TextBox56.CustomizableEdges = CustomizableEdges245
         Guna2TextBox56.DefaultText = ""
         Guna2TextBox56.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox56.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5425,7 +5908,7 @@ Partial Class EmployeeManagement
         Guna2TextBox56.PasswordChar = ChrW(0)
         Guna2TextBox56.PlaceholderText = ""
         Guna2TextBox56.SelectedText = ""
-        Guna2TextBox56.ShadowDecoration.CustomizableEdges = CustomizableEdges218
+        Guna2TextBox56.ShadowDecoration.CustomizableEdges = CustomizableEdges246
         Guna2TextBox56.Size = New Size(248, 36)
         Guna2TextBox56.TabIndex = 10
         ' 
@@ -5440,7 +5923,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox55
         ' 
-        Guna2TextBox55.CustomizableEdges = CustomizableEdges219
+        Guna2TextBox55.CustomizableEdges = CustomizableEdges247
         Guna2TextBox55.DefaultText = ""
         Guna2TextBox55.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox55.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5454,14 +5937,14 @@ Partial Class EmployeeManagement
         Guna2TextBox55.PasswordChar = ChrW(0)
         Guna2TextBox55.PlaceholderText = ""
         Guna2TextBox55.SelectedText = ""
-        Guna2TextBox55.ShadowDecoration.CustomizableEdges = CustomizableEdges220
+        Guna2TextBox55.ShadowDecoration.CustomizableEdges = CustomizableEdges248
         Guna2TextBox55.Size = New Size(198, 36)
         Guna2TextBox55.TabIndex = 8
         ' 
         ' Guna2DateTimePicker13
         ' 
         Guna2DateTimePicker13.Checked = True
-        Guna2DateTimePicker13.CustomizableEdges = CustomizableEdges221
+        Guna2DateTimePicker13.CustomizableEdges = CustomizableEdges249
         Guna2DateTimePicker13.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker13.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker13.Format = DateTimePickerFormat.Long
@@ -5469,7 +5952,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker13.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker13.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker13.Name = "Guna2DateTimePicker13"
-        Guna2DateTimePicker13.ShadowDecoration.CustomizableEdges = CustomizableEdges222
+        Guna2DateTimePicker13.ShadowDecoration.CustomizableEdges = CustomizableEdges250
         Guna2DateTimePicker13.Size = New Size(200, 36)
         Guna2DateTimePicker13.TabIndex = 7
         Guna2DateTimePicker13.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5494,7 +5977,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox54
         ' 
-        Guna2TextBox54.CustomizableEdges = CustomizableEdges223
+        Guna2TextBox54.CustomizableEdges = CustomizableEdges251
         Guna2TextBox54.DefaultText = ""
         Guna2TextBox54.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox54.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5508,7 +5991,7 @@ Partial Class EmployeeManagement
         Guna2TextBox54.PasswordChar = ChrW(0)
         Guna2TextBox54.PlaceholderText = ""
         Guna2TextBox54.SelectedText = ""
-        Guna2TextBox54.ShadowDecoration.CustomizableEdges = CustomizableEdges224
+        Guna2TextBox54.ShadowDecoration.CustomizableEdges = CustomizableEdges252
         Guna2TextBox54.Size = New Size(81, 36)
         Guna2TextBox54.TabIndex = 4
         ' 
@@ -5523,7 +6006,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox53
         ' 
-        Guna2TextBox53.CustomizableEdges = CustomizableEdges225
+        Guna2TextBox53.CustomizableEdges = CustomizableEdges253
         Guna2TextBox53.DefaultText = ""
         Guna2TextBox53.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox53.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5537,7 +6020,7 @@ Partial Class EmployeeManagement
         Guna2TextBox53.PasswordChar = ChrW(0)
         Guna2TextBox53.PlaceholderText = ""
         Guna2TextBox53.SelectedText = ""
-        Guna2TextBox53.ShadowDecoration.CustomizableEdges = CustomizableEdges226
+        Guna2TextBox53.ShadowDecoration.CustomizableEdges = CustomizableEdges254
         Guna2TextBox53.Size = New Size(279, 36)
         Guna2TextBox53.TabIndex = 2
         ' 
@@ -5545,11 +6028,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel5.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel5.Controls.Add(Guna2HtmlLabel111)
-        Guna2Panel5.CustomizableEdges = CustomizableEdges227
+        Guna2Panel5.CustomizableEdges = CustomizableEdges255
         Guna2Panel5.Dock = DockStyle.Top
         Guna2Panel5.Location = New Point(3, 3)
         Guna2Panel5.Name = "Guna2Panel5"
-        Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges228
+        Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges256
         Guna2Panel5.Size = New Size(782, 35)
         Guna2Panel5.TabIndex = 1
         ' 
@@ -5605,7 +6088,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox75
         ' 
-        Guna2TextBox75.CustomizableEdges = CustomizableEdges229
+        Guna2TextBox75.CustomizableEdges = CustomizableEdges257
         Guna2TextBox75.DefaultText = ""
         Guna2TextBox75.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox75.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5619,7 +6102,7 @@ Partial Class EmployeeManagement
         Guna2TextBox75.PasswordChar = ChrW(0)
         Guna2TextBox75.PlaceholderText = ""
         Guna2TextBox75.SelectedText = ""
-        Guna2TextBox75.ShadowDecoration.CustomizableEdges = CustomizableEdges230
+        Guna2TextBox75.ShadowDecoration.CustomizableEdges = CustomizableEdges258
         Guna2TextBox75.Size = New Size(245, 36)
         Guna2TextBox75.TabIndex = 39
         ' 
@@ -5634,7 +6117,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox76
         ' 
-        Guna2TextBox76.CustomizableEdges = CustomizableEdges231
+        Guna2TextBox76.CustomizableEdges = CustomizableEdges259
         Guna2TextBox76.DefaultText = ""
         Guna2TextBox76.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox76.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5648,7 +6131,7 @@ Partial Class EmployeeManagement
         Guna2TextBox76.PasswordChar = ChrW(0)
         Guna2TextBox76.PlaceholderText = ""
         Guna2TextBox76.SelectedText = ""
-        Guna2TextBox76.ShadowDecoration.CustomizableEdges = CustomizableEdges232
+        Guna2TextBox76.ShadowDecoration.CustomizableEdges = CustomizableEdges260
         Guna2TextBox76.Size = New Size(104, 36)
         Guna2TextBox76.TabIndex = 37
         ' 
@@ -5663,7 +6146,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox77
         ' 
-        Guna2TextBox77.CustomizableEdges = CustomizableEdges233
+        Guna2TextBox77.CustomizableEdges = CustomizableEdges261
         Guna2TextBox77.DefaultText = ""
         Guna2TextBox77.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox77.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5677,7 +6160,7 @@ Partial Class EmployeeManagement
         Guna2TextBox77.PasswordChar = ChrW(0)
         Guna2TextBox77.PlaceholderText = ""
         Guna2TextBox77.SelectedText = ""
-        Guna2TextBox77.ShadowDecoration.CustomizableEdges = CustomizableEdges234
+        Guna2TextBox77.ShadowDecoration.CustomizableEdges = CustomizableEdges262
         Guna2TextBox77.Size = New Size(702, 36)
         Guna2TextBox77.TabIndex = 35
         ' 
@@ -5702,7 +6185,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker27
         ' 
         Guna2DateTimePicker27.Checked = True
-        Guna2DateTimePicker27.CustomizableEdges = CustomizableEdges235
+        Guna2DateTimePicker27.CustomizableEdges = CustomizableEdges263
         Guna2DateTimePicker27.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker27.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker27.Format = DateTimePickerFormat.Long
@@ -5710,7 +6193,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker27.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker27.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker27.Name = "Guna2DateTimePicker27"
-        Guna2DateTimePicker27.ShadowDecoration.CustomizableEdges = CustomizableEdges236
+        Guna2DateTimePicker27.ShadowDecoration.CustomizableEdges = CustomizableEdges264
         Guna2DateTimePicker27.Size = New Size(167, 36)
         Guna2DateTimePicker27.TabIndex = 32
         Guna2DateTimePicker27.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5718,7 +6201,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker28
         ' 
         Guna2DateTimePicker28.Checked = True
-        Guna2DateTimePicker28.CustomizableEdges = CustomizableEdges237
+        Guna2DateTimePicker28.CustomizableEdges = CustomizableEdges265
         Guna2DateTimePicker28.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker28.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker28.Format = DateTimePickerFormat.Long
@@ -5726,7 +6209,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker28.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker28.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker28.Name = "Guna2DateTimePicker28"
-        Guna2DateTimePicker28.ShadowDecoration.CustomizableEdges = CustomizableEdges238
+        Guna2DateTimePicker28.ShadowDecoration.CustomizableEdges = CustomizableEdges266
         Guna2DateTimePicker28.Size = New Size(168, 36)
         Guna2DateTimePicker28.TabIndex = 31
         Guna2DateTimePicker28.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5742,7 +6225,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox74
         ' 
-        Guna2TextBox74.CustomizableEdges = CustomizableEdges239
+        Guna2TextBox74.CustomizableEdges = CustomizableEdges267
         Guna2TextBox74.DefaultText = ""
         Guna2TextBox74.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox74.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5756,7 +6239,7 @@ Partial Class EmployeeManagement
         Guna2TextBox74.PasswordChar = ChrW(0)
         Guna2TextBox74.PlaceholderText = ""
         Guna2TextBox74.SelectedText = ""
-        Guna2TextBox74.ShadowDecoration.CustomizableEdges = CustomizableEdges240
+        Guna2TextBox74.ShadowDecoration.CustomizableEdges = CustomizableEdges268
         Guna2TextBox74.Size = New Size(245, 36)
         Guna2TextBox74.TabIndex = 29
         ' 
@@ -5771,7 +6254,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox73
         ' 
-        Guna2TextBox73.CustomizableEdges = CustomizableEdges241
+        Guna2TextBox73.CustomizableEdges = CustomizableEdges269
         Guna2TextBox73.DefaultText = ""
         Guna2TextBox73.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox73.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5785,7 +6268,7 @@ Partial Class EmployeeManagement
         Guna2TextBox73.PasswordChar = ChrW(0)
         Guna2TextBox73.PlaceholderText = ""
         Guna2TextBox73.SelectedText = ""
-        Guna2TextBox73.ShadowDecoration.CustomizableEdges = CustomizableEdges242
+        Guna2TextBox73.ShadowDecoration.CustomizableEdges = CustomizableEdges270
         Guna2TextBox73.Size = New Size(104, 36)
         Guna2TextBox73.TabIndex = 27
         ' 
@@ -5800,7 +6283,7 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox72
         ' 
-        Guna2TextBox72.CustomizableEdges = CustomizableEdges243
+        Guna2TextBox72.CustomizableEdges = CustomizableEdges271
         Guna2TextBox72.DefaultText = ""
         Guna2TextBox72.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox72.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -5814,7 +6297,7 @@ Partial Class EmployeeManagement
         Guna2TextBox72.PasswordChar = ChrW(0)
         Guna2TextBox72.PlaceholderText = ""
         Guna2TextBox72.SelectedText = ""
-        Guna2TextBox72.ShadowDecoration.CustomizableEdges = CustomizableEdges244
+        Guna2TextBox72.ShadowDecoration.CustomizableEdges = CustomizableEdges272
         Guna2TextBox72.Size = New Size(702, 36)
         Guna2TextBox72.TabIndex = 25
         ' 
@@ -5839,7 +6322,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker25
         ' 
         Guna2DateTimePicker25.Checked = True
-        Guna2DateTimePicker25.CustomizableEdges = CustomizableEdges245
+        Guna2DateTimePicker25.CustomizableEdges = CustomizableEdges273
         Guna2DateTimePicker25.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker25.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker25.Format = DateTimePickerFormat.Long
@@ -5847,7 +6330,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker25.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker25.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker25.Name = "Guna2DateTimePicker25"
-        Guna2DateTimePicker25.ShadowDecoration.CustomizableEdges = CustomizableEdges246
+        Guna2DateTimePicker25.ShadowDecoration.CustomizableEdges = CustomizableEdges274
         Guna2DateTimePicker25.Size = New Size(167, 36)
         Guna2DateTimePicker25.TabIndex = 22
         Guna2DateTimePicker25.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5855,7 +6338,7 @@ Partial Class EmployeeManagement
         ' Guna2DateTimePicker26
         ' 
         Guna2DateTimePicker26.Checked = True
-        Guna2DateTimePicker26.CustomizableEdges = CustomizableEdges247
+        Guna2DateTimePicker26.CustomizableEdges = CustomizableEdges275
         Guna2DateTimePicker26.FillColor = Color.FromArgb(CByte(221), CByte(221), CByte(221))
         Guna2DateTimePicker26.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker26.Format = DateTimePickerFormat.Long
@@ -5863,7 +6346,7 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker26.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker26.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker26.Name = "Guna2DateTimePicker26"
-        Guna2DateTimePicker26.ShadowDecoration.CustomizableEdges = CustomizableEdges248
+        Guna2DateTimePicker26.ShadowDecoration.CustomizableEdges = CustomizableEdges276
         Guna2DateTimePicker26.Size = New Size(168, 36)
         Guna2DateTimePicker26.TabIndex = 21
         Guna2DateTimePicker26.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5872,11 +6355,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel7.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel7.Controls.Add(Guna2HtmlLabel159)
-        Guna2Panel7.CustomizableEdges = CustomizableEdges249
+        Guna2Panel7.CustomizableEdges = CustomizableEdges277
         Guna2Panel7.Dock = DockStyle.Top
         Guna2Panel7.Location = New Point(0, 0)
         Guna2Panel7.Name = "Guna2Panel7"
-        Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges250
+        Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges278
         Guna2Panel7.Size = New Size(788, 35)
         Guna2Panel7.TabIndex = 15
         ' 
@@ -5924,11 +6407,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel1.AutoSize = True
         Guna2Panel1.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
-        Guna2Panel1.CustomizableEdges = CustomizableEdges93
+        Guna2Panel1.CustomizableEdges = CustomizableEdges121
         Guna2Panel1.Dock = DockStyle.Right
         Guna2Panel1.Location = New Point(1589, 60)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges94
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges122
         Guna2Panel1.Size = New Size(0, 929)
         Guna2Panel1.TabIndex = 2
         ' 
@@ -5936,11 +6419,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Panel2.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
         Guna2Panel2.Controls.Add(Guna2TabControl2)
-        Guna2Panel2.CustomizableEdges = CustomizableEdges95
+        Guna2Panel2.CustomizableEdges = CustomizableEdges123
         Guna2Panel2.Dock = DockStyle.Left
         Guna2Panel2.Location = New Point(3, 60)
         Guna2Panel2.Name = "Guna2Panel2"
-        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges96
+        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges124
         Guna2Panel2.Size = New Size(790, 929)
         Guna2Panel2.TabIndex = 3
         ' 
@@ -5991,30 +6474,30 @@ Partial Class EmployeeManagement
         ' 
         dgView.AllowUserToAddRows = False
         dgView.AllowUserToDeleteRows = False
-        DataGridViewCellStyle1.BackColor = Color.White
-        dgView.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle4.BackColor = Color.White
+        dgView.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle4
         dgView.AutoGenerateColumns = False
         dgView.BackgroundColor = Color.WhiteSmoke
-        DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
-        DataGridViewCellStyle2.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle2.ForeColor = Color.White
-        DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = DataGridViewTriState.True
-        dgView.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle5.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
+        DataGridViewCellStyle5.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle5.ForeColor = Color.White
+        DataGridViewCellStyle5.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle5.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle5.WrapMode = DataGridViewTriState.True
+        dgView.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle5
         dgView.ColumnHeadersHeight = 44
         dgView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
         dgView.Columns.AddRange(New DataGridViewColumn() {Column1, Column2, Column6, Column7})
         dgView.DataSource = bsEmp
-        DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = Color.White
-        DataGridViewCellStyle3.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle3.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
-        DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
-        DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
-        DataGridViewCellStyle3.WrapMode = DataGridViewTriState.False
-        dgView.DefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle6.BackColor = Color.White
+        DataGridViewCellStyle6.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point)
+        DataGridViewCellStyle6.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle6.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle6.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle6.WrapMode = DataGridViewTriState.False
+        dgView.DefaultCellStyle = DataGridViewCellStyle6
         dgView.Dock = DockStyle.Fill
         dgView.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         dgView.Location = New Point(3, 3)
@@ -6098,11 +6581,11 @@ Partial Class EmployeeManagement
         Guna2Panel3.Controls.Add(Guna2Button3)
         Guna2Panel3.Controls.Add(Guna2Button1)
         Guna2Panel3.Controls.Add(btnEdit)
-        Guna2Panel3.CustomizableEdges = CustomizableEdges103
+        Guna2Panel3.CustomizableEdges = CustomizableEdges131
         Guna2Panel3.Dock = DockStyle.Top
         Guna2Panel3.Location = New Point(3, 3)
         Guna2Panel3.Name = "Guna2Panel3"
-        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges104
+        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges132
         Guna2Panel3.Size = New Size(1586, 57)
         Guna2Panel3.TabIndex = 4
         ' 
@@ -6110,7 +6593,7 @@ Partial Class EmployeeManagement
         ' 
         tbtSearch.BackgroundImageLayout = ImageLayout.Center
         tbtSearch.BorderRadius = 3
-        tbtSearch.CustomizableEdges = CustomizableEdges251
+        tbtSearch.CustomizableEdges = CustomizableEdges279
         tbtSearch.DefaultText = ""
         tbtSearch.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         tbtSearch.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
@@ -6125,7 +6608,7 @@ Partial Class EmployeeManagement
         tbtSearch.PasswordChar = ChrW(0)
         tbtSearch.PlaceholderText = ""
         tbtSearch.SelectedText = ""
-        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges252
+        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges280
         tbtSearch.Size = New Size(197, 29)
         tbtSearch.TabIndex = 5
         ' 
@@ -6133,7 +6616,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button3.BorderColor = Color.Transparent
         Guna2Button3.CustomBorderColor = Color.Transparent
-        Guna2Button3.CustomizableEdges = CustomizableEdges97
+        Guna2Button3.CustomizableEdges = CustomizableEdges125
         Guna2Button3.DisabledState.BorderColor = Color.DarkGray
         Guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray
         Guna2Button3.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -6145,7 +6628,7 @@ Partial Class EmployeeManagement
         Guna2Button3.Image = trash
         Guna2Button3.Location = New Point(1010, 7)
         Guna2Button3.Name = "Guna2Button3"
-        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges98
+        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges126
         Guna2Button3.Size = New Size(20, 36)
         Guna2Button3.TabIndex = 4
         ' 
@@ -6153,7 +6636,7 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button1.BorderColor = Color.Transparent
         Guna2Button1.CustomBorderColor = Color.Transparent
-        Guna2Button1.CustomizableEdges = CustomizableEdges99
+        Guna2Button1.CustomizableEdges = CustomizableEdges127
         Guna2Button1.DisabledState.BorderColor = Color.DarkGray
         Guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray
         Guna2Button1.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -6169,7 +6652,7 @@ Partial Class EmployeeManagement
         Guna2Button1.Image = add__1_
         Guna2Button1.Location = New Point(914, 17)
         Guna2Button1.Name = "Guna2Button1"
-        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges100
+        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges128
         Guna2Button1.Size = New Size(23, 28)
         Guna2Button1.TabIndex = 2
         ' 
@@ -6177,7 +6660,7 @@ Partial Class EmployeeManagement
         ' 
         btnEdit.BorderColor = Color.Transparent
         btnEdit.CustomBorderColor = Color.Transparent
-        btnEdit.CustomizableEdges = CustomizableEdges101
+        btnEdit.CustomizableEdges = CustomizableEdges129
         btnEdit.DisabledState.BorderColor = Color.DarkGray
         btnEdit.DisabledState.CustomBorderColor = Color.DarkGray
         btnEdit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
@@ -6189,7 +6672,7 @@ Partial Class EmployeeManagement
         btnEdit.Image = pencil__1_
         btnEdit.Location = New Point(108, 11)
         btnEdit.Name = "btnEdit"
-        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges102
+        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges130
         btnEdit.Size = New Size(26, 36)
         btnEdit.TabIndex = 3
         ' 
@@ -6263,10 +6746,6 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel8.TabIndex = 14
         Guna2HtmlLabel8.Text = "Gender"
         ' 
-        ' BindingSourceBindingSource
-        ' 
-        BindingSourceBindingSource.DataSource = GetType(BindingSource)
-        ' 
         ' EmployeeManagement
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -6274,6 +6753,14 @@ Partial Class EmployeeManagement
         Controls.Add(Guna2TabControl1)
         Name = "EmployeeManagement"
         Size = New Size(1800, 1000)
+        TabPage2.ResumeLayout(False)
+        Guna2GradientPanel7.ResumeLayout(False)
+        Guna2GradientPanel9.ResumeLayout(False)
+        Guna2GradientPanel9.PerformLayout()
+        Guna2GradientPanel8.ResumeLayout(False)
+        CType(Guna2DataGridView1, ComponentModel.ISupportInitialize).EndInit()
+        CType(bsBankInfo, ComponentModel.ISupportInitialize).EndInit()
+        Guna2Panel9.ResumeLayout(False)
         TabPage1.ResumeLayout(False)
         TabPage1.PerformLayout()
         Guna2TabControl3.ResumeLayout(False)
@@ -6318,7 +6805,6 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).EndInit()
         Guna2Panel3.ResumeLayout(False)
         Guna2TabControl1.ResumeLayout(False)
-        CType(BindingSourceBindingSource, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -6702,5 +7188,31 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2HtmlLabel169 As Guna2HtmlLabel
     Friend WithEvents Guna2DateTimePicker27 As Guna2DateTimePicker
     Friend WithEvents Guna2DateTimePicker28 As Guna2DateTimePicker
-    Friend WithEvents BindingSourceBindingSource As BindingSource
+    Friend WithEvents Guna2GradientPanel7 As Guna2GradientPanel
+    Friend WithEvents Guna2Panel9 As Guna2Panel
+    Friend WithEvents Guna2TextBox78 As Guna2TextBox
+    Friend WithEvents Guna2Button2 As Guna2Button
+    Friend WithEvents Guna2Button4 As Guna2Button
+    Friend WithEvents Guna2Button5 As Guna2Button
+    Friend WithEvents Guna2GradientPanel8 As Guna2GradientPanel
+    Friend WithEvents Guna2DataGridView1 As Guna2DataGridView
+    Friend WithEvents Column3 As DataGridViewTextBoxColumn
+    Friend WithEvents Column4 As DataGridViewTextBoxColumn
+    Friend WithEvents Column5 As DataGridViewTextBoxColumn
+    Friend WithEvents bsBankInfo As BindingSource
+    Friend WithEvents Guna2GradientPanel9 As Guna2GradientPanel
+    Friend WithEvents Guna2HtmlLabel171 As Guna2HtmlLabel
+    Friend WithEvents Guna2ComboBox16 As Guna2ComboBox
+    Friend WithEvents Guna2HtmlLabel174 As Guna2HtmlLabel
+    Friend WithEvents Guna2TextBox81 As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel173 As Guna2HtmlLabel
+    Friend WithEvents Guna2TextBox80 As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel172 As Guna2HtmlLabel
+    Friend WithEvents Guna2HtmlLabel170 As Guna2HtmlLabel
+    Friend WithEvents Guna2DateTimePicker29 As Guna2DateTimePicker
+    Friend WithEvents Guna2HtmlLabel175 As Guna2HtmlLabel
+    Friend WithEvents Guna2TextBox79 As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel177 As Guna2HtmlLabel
+    Friend WithEvents Guna2TextBox82 As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel176 As Guna2HtmlLabel
 End Class
