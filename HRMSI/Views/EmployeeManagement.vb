@@ -4,10 +4,10 @@ Public Class EmployeeManagement
     Dim dataTbl As New DataTable
 
     Private Sub loadEmployeMngt()
-        Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
-            dataTbl.Clear() : sql.Fill(dataTbl)
-            bsEmp.DataSource = dataTbl
-        End Using
+        'Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
+        '    dataTbl.Clear() : sql.Fill(dataTbl)
+        '    bsEmp.DataSource = dataTbl
+        'End Using
     End Sub
 
     Private Sub EmployeeManagement_Load(sender As Object, e As EventArgs) Handles MyBase.Load
