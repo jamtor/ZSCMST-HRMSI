@@ -54,10 +54,6 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges24 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges25 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges26 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges163 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges164 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges165 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges166 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges167 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges168 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges169 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
@@ -112,19 +108,27 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges218 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges219 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges220 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim CustomizableEdges229 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges230 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges221 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges222 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges223 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges224 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim CustomizableEdges233 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges234 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges225 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges226 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges227 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges228 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges229 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges230 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges231 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges232 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges165 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges166 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges163 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges164 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges161 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges162 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges159 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
@@ -135,8 +139,6 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges156 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges153 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges154 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges151 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges152 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges149 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges150 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges147 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
@@ -181,8 +183,6 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges110 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges107 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim CustomizableEdges108 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges105 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
-        Dim CustomizableEdges106 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
@@ -265,6 +265,10 @@ Partial Class EmployeeManagement
         Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim CustomizableEdges105 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges106 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges151 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
+        Dim CustomizableEdges152 As Guna.UI2.WinForms.Suite.CustomizableEdges = New Guna.UI2.WinForms.Suite.CustomizableEdges()
         Me.TabPage10 = New System.Windows.Forms.TabPage()
         Me.TabPage9 = New System.Windows.Forms.TabPage()
         Me.TabPage8 = New System.Windows.Forms.TabPage()
@@ -317,25 +321,25 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel122 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2TextBox58 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2HtmlLabel121 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2TextBox57 = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.WEtbt1 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2HtmlLabel120 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2HtmlLabel119 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2DateTimePicker16 = New Guna.UI2.WinForms.Guna2DateTimePicker()
-        Me.Guna2DateTimePicker15 = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        Me.WEdtp2 = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        Me.WEdtp1 = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Me.Guna2Panel6 = New Guna.UI2.WinForms.Guna2Panel()
         Me.Guna2HtmlLabel118 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2DateTimePicker14 = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        Me.CSEdtp2 = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Me.Guna2HtmlLabel117 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2HtmlLabel116 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2TextBox56 = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.CSEtbt3 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2HtmlLabel115 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2TextBox55 = New Guna.UI2.WinForms.Guna2TextBox()
-        Me.Guna2DateTimePicker13 = New Guna.UI2.WinForms.Guna2DateTimePicker()
+        Me.CSEtbt4 = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.CSEdtp1 = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Me.Guna2HtmlLabel114 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2HtmlLabel113 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2TextBox54 = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.CSEtbt2 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2HtmlLabel112 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2TextBox53 = New Guna.UI2.WinForms.Guna2TextBox()
+        Me.CSEtbt1 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2Panel5 = New Guna.UI2.WinForms.Guna2Panel()
         Me.Guna2HtmlLabel111 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.TabPage15 = New System.Windows.Forms.TabPage()
@@ -537,6 +541,8 @@ Partial Class EmployeeManagement
         Me.Column16 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Column17 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Column18 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FBbtn = New Guna.UI2.WinForms.Guna2Button()
+        Me.EBbtn = New Guna.UI2.WinForms.Guna2Button()
         Me.TabPage2.SuspendLayout()
         Me.Guna2GradientPanel7.SuspendLayout()
         Me.Guna2GradientPanel9.SuspendLayout()
@@ -1154,24 +1160,24 @@ Partial Class EmployeeManagement
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel122)
         Me.TabPage14.Controls.Add(Me.Guna2TextBox58)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel121)
-        Me.TabPage14.Controls.Add(Me.Guna2TextBox57)
+        Me.TabPage14.Controls.Add(Me.WEtbt1)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel120)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel119)
-        Me.TabPage14.Controls.Add(Me.Guna2DateTimePicker16)
-        Me.TabPage14.Controls.Add(Me.Guna2DateTimePicker15)
+        Me.TabPage14.Controls.Add(Me.WEdtp2)
+        Me.TabPage14.Controls.Add(Me.WEdtp1)
         Me.TabPage14.Controls.Add(Me.Guna2Panel6)
-        Me.TabPage14.Controls.Add(Me.Guna2DateTimePicker14)
+        Me.TabPage14.Controls.Add(Me.CSEdtp2)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel117)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel116)
-        Me.TabPage14.Controls.Add(Me.Guna2TextBox56)
+        Me.TabPage14.Controls.Add(Me.CSEtbt3)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel115)
-        Me.TabPage14.Controls.Add(Me.Guna2TextBox55)
-        Me.TabPage14.Controls.Add(Me.Guna2DateTimePicker13)
+        Me.TabPage14.Controls.Add(Me.CSEtbt4)
+        Me.TabPage14.Controls.Add(Me.CSEdtp1)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel114)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel113)
-        Me.TabPage14.Controls.Add(Me.Guna2TextBox54)
+        Me.TabPage14.Controls.Add(Me.CSEtbt2)
         Me.TabPage14.Controls.Add(Me.Guna2HtmlLabel112)
-        Me.TabPage14.Controls.Add(Me.Guna2TextBox53)
+        Me.TabPage14.Controls.Add(Me.CSEtbt1)
         Me.TabPage14.Controls.Add(Me.Guna2Panel5)
         Me.TabPage14.Location = New System.Drawing.Point(4, 44)
         Me.TabPage14.Name = "TabPage14"
@@ -1184,7 +1190,7 @@ Partial Class EmployeeManagement
         'Guna2ComboBox11
         '
         Me.Guna2ComboBox11.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ComboBox11.CustomizableEdges = CustomizableEdges163
+        Me.Guna2ComboBox11.CustomizableEdges = CustomizableEdges167
         Me.Guna2ComboBox11.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
         Me.Guna2ComboBox11.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.Guna2ComboBox11.FocusedColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
@@ -1195,7 +1201,7 @@ Partial Class EmployeeManagement
         Me.Guna2ComboBox11.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Me.Guna2ComboBox11.Location = New System.Drawing.Point(642, 303)
         Me.Guna2ComboBox11.Name = "Guna2ComboBox11"
-        Me.Guna2ComboBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges164
+        Me.Guna2ComboBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges168
         Me.Guna2ComboBox11.Size = New System.Drawing.Size(123, 36)
         Me.Guna2ComboBox11.TabIndex = 92
         '
@@ -1218,7 +1224,7 @@ Partial Class EmployeeManagement
         'Guna2ComboBox2
         '
         Me.Guna2ComboBox2.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ComboBox2.CustomizableEdges = CustomizableEdges165
+        Me.Guna2ComboBox2.CustomizableEdges = CustomizableEdges169
         Me.Guna2ComboBox2.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
         Me.Guna2ComboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.Guna2ComboBox2.FocusedColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
@@ -1229,14 +1235,14 @@ Partial Class EmployeeManagement
         Me.Guna2ComboBox2.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         Me.Guna2ComboBox2.Location = New System.Drawing.Point(384, 301)
         Me.Guna2ComboBox2.Name = "Guna2ComboBox2"
-        Me.Guna2ComboBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges166
+        Me.Guna2ComboBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges170
         Me.Guna2ComboBox2.Size = New System.Drawing.Size(85, 36)
         Me.Guna2ComboBox2.TabIndex = 30
         '
         'Guna2ComboBox1
         '
         Me.Guna2ComboBox1.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2ComboBox1.CustomizableEdges = CustomizableEdges167
+        Me.Guna2ComboBox1.CustomizableEdges = CustomizableEdges171
         Me.Guna2ComboBox1.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
         Me.Guna2ComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.Guna2ComboBox1.FocusedColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
@@ -1247,7 +1253,7 @@ Partial Class EmployeeManagement
         Me.Guna2ComboBox1.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         Me.Guna2ComboBox1.Location = New System.Drawing.Point(475, 301)
         Me.Guna2ComboBox1.Name = "Guna2ComboBox1"
-        Me.Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges168
+        Me.Guna2ComboBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges172
         Me.Guna2ComboBox1.Size = New System.Drawing.Size(161, 36)
         Me.Guna2ComboBox1.TabIndex = 29
         '
@@ -1280,7 +1286,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox59
         '
-        Me.Guna2TextBox59.CustomizableEdges = CustomizableEdges169
+        Me.Guna2TextBox59.CustomizableEdges = CustomizableEdges173
         Me.Guna2TextBox59.DefaultText = ""
         Me.Guna2TextBox59.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox59.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1294,7 +1300,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox59.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox59.PlaceholderText = ""
         Me.Guna2TextBox59.SelectedText = ""
-        Me.Guna2TextBox59.ShadowDecoration.CustomizableEdges = CustomizableEdges170
+        Me.Guna2TextBox59.ShadowDecoration.CustomizableEdges = CustomizableEdges174
         Me.Guna2TextBox59.Size = New System.Drawing.Size(186, 36)
         Me.Guna2TextBox59.TabIndex = 23
         '
@@ -1310,7 +1316,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox58
         '
-        Me.Guna2TextBox58.CustomizableEdges = CustomizableEdges171
+        Me.Guna2TextBox58.CustomizableEdges = CustomizableEdges175
         Me.Guna2TextBox58.DefaultText = ""
         Me.Guna2TextBox58.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox58.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1324,7 +1330,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox58.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox58.PlaceholderText = ""
         Me.Guna2TextBox58.SelectedText = ""
-        Me.Guna2TextBox58.ShadowDecoration.CustomizableEdges = CustomizableEdges172
+        Me.Guna2TextBox58.ShadowDecoration.CustomizableEdges = CustomizableEdges176
         Me.Guna2TextBox58.Size = New System.Drawing.Size(359, 36)
         Me.Guna2TextBox58.TabIndex = 21
         '
@@ -1337,25 +1343,25 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel121.TabIndex = 20
         Me.Guna2HtmlLabel121.Text = "POSITION TITLE"
         '
-        'Guna2TextBox57
+        'WEtbt1
         '
-        Me.Guna2TextBox57.CustomizableEdges = CustomizableEdges173
-        Me.Guna2TextBox57.DefaultText = ""
-        Me.Guna2TextBox57.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.Guna2TextBox57.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
-        Me.Guna2TextBox57.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox57.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox57.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox57.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2TextBox57.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox57.Location = New System.Drawing.Point(366, 244)
-        Me.Guna2TextBox57.Name = "Guna2TextBox57"
-        Me.Guna2TextBox57.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.Guna2TextBox57.PlaceholderText = ""
-        Me.Guna2TextBox57.SelectedText = ""
-        Me.Guna2TextBox57.ShadowDecoration.CustomizableEdges = CustomizableEdges174
-        Me.Guna2TextBox57.Size = New System.Drawing.Size(212, 36)
-        Me.Guna2TextBox57.TabIndex = 19
+        Me.WEtbt1.CustomizableEdges = CustomizableEdges177
+        Me.WEtbt1.DefaultText = ""
+        Me.WEtbt1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.WEtbt1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.WEtbt1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.WEtbt1.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.WEtbt1.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.WEtbt1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.WEtbt1.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.WEtbt1.Location = New System.Drawing.Point(366, 244)
+        Me.WEtbt1.Name = "WEtbt1"
+        Me.WEtbt1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.WEtbt1.PlaceholderText = ""
+        Me.WEtbt1.SelectedText = ""
+        Me.WEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges178
+        Me.WEtbt1.Size = New System.Drawing.Size(212, 36)
+        Me.WEtbt1.TabIndex = 19
         '
         'Guna2HtmlLabel120
         '
@@ -1375,46 +1381,46 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel119.TabIndex = 17
         Me.Guna2HtmlLabel119.Text = "FROM"
         '
-        'Guna2DateTimePicker16
+        'WEdtp2
         '
-        Me.Guna2DateTimePicker16.Checked = True
-        Me.Guna2DateTimePicker16.CustomizableEdges = CustomizableEdges175
-        Me.Guna2DateTimePicker16.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
-        Me.Guna2DateTimePicker16.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2DateTimePicker16.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
-        Me.Guna2DateTimePicker16.Location = New System.Drawing.Point(193, 244)
-        Me.Guna2DateTimePicker16.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker16.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker16.Name = "Guna2DateTimePicker16"
-        Me.Guna2DateTimePicker16.ShadowDecoration.CustomizableEdges = CustomizableEdges176
-        Me.Guna2DateTimePicker16.Size = New System.Drawing.Size(167, 36)
-        Me.Guna2DateTimePicker16.TabIndex = 16
-        Me.Guna2DateTimePicker16.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
+        Me.WEdtp2.Checked = True
+        Me.WEdtp2.CustomizableEdges = CustomizableEdges179
+        Me.WEdtp2.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
+        Me.WEdtp2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.WEdtp2.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
+        Me.WEdtp2.Location = New System.Drawing.Point(193, 244)
+        Me.WEdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Me.WEdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Me.WEdtp2.Name = "WEdtp2"
+        Me.WEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges180
+        Me.WEdtp2.Size = New System.Drawing.Size(167, 36)
+        Me.WEdtp2.TabIndex = 16
+        Me.WEdtp2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
         '
-        'Guna2DateTimePicker15
+        'WEdtp1
         '
-        Me.Guna2DateTimePicker15.Checked = True
-        Me.Guna2DateTimePicker15.CustomizableEdges = CustomizableEdges177
-        Me.Guna2DateTimePicker15.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
-        Me.Guna2DateTimePicker15.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2DateTimePicker15.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
-        Me.Guna2DateTimePicker15.Location = New System.Drawing.Point(19, 244)
-        Me.Guna2DateTimePicker15.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker15.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker15.Name = "Guna2DateTimePicker15"
-        Me.Guna2DateTimePicker15.ShadowDecoration.CustomizableEdges = CustomizableEdges178
-        Me.Guna2DateTimePicker15.Size = New System.Drawing.Size(168, 36)
-        Me.Guna2DateTimePicker15.TabIndex = 15
-        Me.Guna2DateTimePicker15.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
+        Me.WEdtp1.Checked = True
+        Me.WEdtp1.CustomizableEdges = CustomizableEdges181
+        Me.WEdtp1.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
+        Me.WEdtp1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.WEdtp1.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
+        Me.WEdtp1.Location = New System.Drawing.Point(19, 244)
+        Me.WEdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Me.WEdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Me.WEdtp1.Name = "WEdtp1"
+        Me.WEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges182
+        Me.WEdtp1.Size = New System.Drawing.Size(168, 36)
+        Me.WEdtp1.TabIndex = 15
+        Me.WEdtp1.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
         '
         'Guna2Panel6
         '
         Me.Guna2Panel6.BackColor = System.Drawing.Color.FromArgb(CType(CType(33, Byte), Integer), CType(CType(42, Byte), Integer), CType(CType(57, Byte), Integer))
         Me.Guna2Panel6.Controls.Add(Me.Guna2HtmlLabel118)
-        Me.Guna2Panel6.CustomizableEdges = CustomizableEdges179
+        Me.Guna2Panel6.CustomizableEdges = CustomizableEdges183
         Me.Guna2Panel6.Location = New System.Drawing.Point(2, 183)
         Me.Guna2Panel6.Name = "Guna2Panel6"
-        Me.Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges180
+        Me.Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges184
         Me.Guna2Panel6.Size = New System.Drawing.Size(788, 35)
         Me.Guna2Panel6.TabIndex = 14
         '
@@ -1430,21 +1436,21 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel118.Text = "V. WORK EXPERIENCE"
         Me.Guna2HtmlLabel118.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Guna2DateTimePicker14
+        'CSEdtp2
         '
-        Me.Guna2DateTimePicker14.Checked = True
-        Me.Guna2DateTimePicker14.CustomizableEdges = CustomizableEdges181
-        Me.Guna2DateTimePicker14.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
-        Me.Guna2DateTimePicker14.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2DateTimePicker14.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
-        Me.Guna2DateTimePicker14.Location = New System.Drawing.Point(505, 129)
-        Me.Guna2DateTimePicker14.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker14.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker14.Name = "Guna2DateTimePicker14"
-        Me.Guna2DateTimePicker14.ShadowDecoration.CustomizableEdges = CustomizableEdges182
-        Me.Guna2DateTimePicker14.Size = New System.Drawing.Size(200, 36)
-        Me.Guna2DateTimePicker14.TabIndex = 13
-        Me.Guna2DateTimePicker14.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
+        Me.CSEdtp2.Checked = True
+        Me.CSEdtp2.CustomizableEdges = CustomizableEdges185
+        Me.CSEdtp2.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
+        Me.CSEdtp2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEdtp2.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
+        Me.CSEdtp2.Location = New System.Drawing.Point(505, 129)
+        Me.CSEdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Me.CSEdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Me.CSEdtp2.Name = "CSEdtp2"
+        Me.CSEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges186
+        Me.CSEdtp2.Size = New System.Drawing.Size(200, 36)
+        Me.CSEdtp2.TabIndex = 13
+        Me.CSEdtp2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
         '
         'Guna2HtmlLabel117
         '
@@ -1464,25 +1470,25 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel116.TabIndex = 11
         Me.Guna2HtmlLabel116.Text = "LICENSE NO."
         '
-        'Guna2TextBox56
+        'CSEtbt3
         '
-        Me.Guna2TextBox56.CustomizableEdges = CustomizableEdges183
-        Me.Guna2TextBox56.DefaultText = ""
-        Me.Guna2TextBox56.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.Guna2TextBox56.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
-        Me.Guna2TextBox56.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox56.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox56.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox56.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2TextBox56.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox56.Location = New System.Drawing.Point(468, 67)
-        Me.Guna2TextBox56.Name = "Guna2TextBox56"
-        Me.Guna2TextBox56.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.Guna2TextBox56.PlaceholderText = ""
-        Me.Guna2TextBox56.SelectedText = ""
-        Me.Guna2TextBox56.ShadowDecoration.CustomizableEdges = CustomizableEdges184
-        Me.Guna2TextBox56.Size = New System.Drawing.Size(248, 36)
-        Me.Guna2TextBox56.TabIndex = 10
+        Me.CSEtbt3.CustomizableEdges = CustomizableEdges187
+        Me.CSEtbt3.DefaultText = ""
+        Me.CSEtbt3.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.CSEtbt3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.CSEtbt3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt3.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt3.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt3.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEtbt3.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt3.Location = New System.Drawing.Point(468, 67)
+        Me.CSEtbt3.Name = "CSEtbt3"
+        Me.CSEtbt3.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.CSEtbt3.PlaceholderText = ""
+        Me.CSEtbt3.SelectedText = ""
+        Me.CSEtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges188
+        Me.CSEtbt3.Size = New System.Drawing.Size(248, 36)
+        Me.CSEtbt3.TabIndex = 10
         '
         'Guna2HtmlLabel115
         '
@@ -1493,41 +1499,41 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel115.TabIndex = 9
         Me.Guna2HtmlLabel115.Text = "PLACE OF EXAMINATION"
         '
-        'Guna2TextBox55
+        'CSEtbt4
         '
-        Me.Guna2TextBox55.CustomizableEdges = CustomizableEdges185
-        Me.Guna2TextBox55.DefaultText = ""
-        Me.Guna2TextBox55.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.Guna2TextBox55.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
-        Me.Guna2TextBox55.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox55.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox55.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox55.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2TextBox55.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox55.Location = New System.Drawing.Point(301, 129)
-        Me.Guna2TextBox55.Name = "Guna2TextBox55"
-        Me.Guna2TextBox55.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.Guna2TextBox55.PlaceholderText = ""
-        Me.Guna2TextBox55.SelectedText = ""
-        Me.Guna2TextBox55.ShadowDecoration.CustomizableEdges = CustomizableEdges186
-        Me.Guna2TextBox55.Size = New System.Drawing.Size(198, 36)
-        Me.Guna2TextBox55.TabIndex = 8
+        Me.CSEtbt4.CustomizableEdges = CustomizableEdges189
+        Me.CSEtbt4.DefaultText = ""
+        Me.CSEtbt4.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.CSEtbt4.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.CSEtbt4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt4.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt4.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt4.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEtbt4.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt4.Location = New System.Drawing.Point(301, 129)
+        Me.CSEtbt4.Name = "CSEtbt4"
+        Me.CSEtbt4.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.CSEtbt4.PlaceholderText = ""
+        Me.CSEtbt4.SelectedText = ""
+        Me.CSEtbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges190
+        Me.CSEtbt4.Size = New System.Drawing.Size(198, 36)
+        Me.CSEtbt4.TabIndex = 8
         '
-        'Guna2DateTimePicker13
+        'CSEdtp1
         '
-        Me.Guna2DateTimePicker13.Checked = True
-        Me.Guna2DateTimePicker13.CustomizableEdges = CustomizableEdges187
-        Me.Guna2DateTimePicker13.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
-        Me.Guna2DateTimePicker13.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2DateTimePicker13.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
-        Me.Guna2DateTimePicker13.Location = New System.Drawing.Point(95, 129)
-        Me.Guna2DateTimePicker13.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker13.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Me.Guna2DateTimePicker13.Name = "Guna2DateTimePicker13"
-        Me.Guna2DateTimePicker13.ShadowDecoration.CustomizableEdges = CustomizableEdges188
-        Me.Guna2DateTimePicker13.Size = New System.Drawing.Size(200, 36)
-        Me.Guna2DateTimePicker13.TabIndex = 7
-        Me.Guna2DateTimePicker13.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
+        Me.CSEdtp1.Checked = True
+        Me.CSEdtp1.CustomizableEdges = CustomizableEdges191
+        Me.CSEdtp1.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
+        Me.CSEdtp1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEdtp1.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
+        Me.CSEdtp1.Location = New System.Drawing.Point(95, 129)
+        Me.CSEdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Me.CSEdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Me.CSEdtp1.Name = "CSEdtp1"
+        Me.CSEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges192
+        Me.CSEdtp1.Size = New System.Drawing.Size(200, 36)
+        Me.CSEdtp1.TabIndex = 7
+        Me.CSEdtp1.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
         '
         'Guna2HtmlLabel114
         '
@@ -1547,25 +1553,25 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel113.TabIndex = 5
         Me.Guna2HtmlLabel113.Text = "RATING"
         '
-        'Guna2TextBox54
+        'CSEtbt2
         '
-        Me.Guna2TextBox54.CustomizableEdges = CustomizableEdges189
-        Me.Guna2TextBox54.DefaultText = ""
-        Me.Guna2TextBox54.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.Guna2TextBox54.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
-        Me.Guna2TextBox54.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox54.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox54.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox54.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2TextBox54.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox54.Location = New System.Drawing.Point(370, 67)
-        Me.Guna2TextBox54.Name = "Guna2TextBox54"
-        Me.Guna2TextBox54.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.Guna2TextBox54.PlaceholderText = ""
-        Me.Guna2TextBox54.SelectedText = ""
-        Me.Guna2TextBox54.ShadowDecoration.CustomizableEdges = CustomizableEdges190
-        Me.Guna2TextBox54.Size = New System.Drawing.Size(81, 36)
-        Me.Guna2TextBox54.TabIndex = 4
+        Me.CSEtbt2.CustomizableEdges = CustomizableEdges193
+        Me.CSEtbt2.DefaultText = ""
+        Me.CSEtbt2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.CSEtbt2.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.CSEtbt2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEtbt2.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt2.Location = New System.Drawing.Point(370, 67)
+        Me.CSEtbt2.Name = "CSEtbt2"
+        Me.CSEtbt2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.CSEtbt2.PlaceholderText = ""
+        Me.CSEtbt2.SelectedText = ""
+        Me.CSEtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges194
+        Me.CSEtbt2.Size = New System.Drawing.Size(81, 36)
+        Me.CSEtbt2.TabIndex = 4
         '
         'Guna2HtmlLabel112
         '
@@ -1576,35 +1582,35 @@ Partial Class EmployeeManagement
         Me.Guna2HtmlLabel112.TabIndex = 3
         Me.Guna2HtmlLabel112.Text = "CAREER SERVICE"
         '
-        'Guna2TextBox53
+        'CSEtbt1
         '
-        Me.Guna2TextBox53.CustomizableEdges = CustomizableEdges191
-        Me.Guna2TextBox53.DefaultText = ""
-        Me.Guna2TextBox53.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
-        Me.Guna2TextBox53.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
-        Me.Guna2TextBox53.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox53.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
-        Me.Guna2TextBox53.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox53.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Guna2TextBox53.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Guna2TextBox53.Location = New System.Drawing.Point(78, 67)
-        Me.Guna2TextBox53.Name = "Guna2TextBox53"
-        Me.Guna2TextBox53.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.Guna2TextBox53.PlaceholderText = ""
-        Me.Guna2TextBox53.SelectedText = ""
-        Me.Guna2TextBox53.ShadowDecoration.CustomizableEdges = CustomizableEdges192
-        Me.Guna2TextBox53.Size = New System.Drawing.Size(279, 36)
-        Me.Guna2TextBox53.TabIndex = 2
+        Me.CSEtbt1.CustomizableEdges = CustomizableEdges195
+        Me.CSEtbt1.DefaultText = ""
+        Me.CSEtbt1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
+        Me.CSEtbt1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.CSEtbt1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt1.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(138, Byte), Integer))
+        Me.CSEtbt1.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.CSEtbt1.HoverState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(94, Byte), Integer), CType(CType(148, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.CSEtbt1.Location = New System.Drawing.Point(78, 67)
+        Me.CSEtbt1.Name = "CSEtbt1"
+        Me.CSEtbt1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.CSEtbt1.PlaceholderText = ""
+        Me.CSEtbt1.SelectedText = ""
+        Me.CSEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges196
+        Me.CSEtbt1.Size = New System.Drawing.Size(279, 36)
+        Me.CSEtbt1.TabIndex = 2
         '
         'Guna2Panel5
         '
         Me.Guna2Panel5.BackColor = System.Drawing.Color.FromArgb(CType(CType(33, Byte), Integer), CType(CType(42, Byte), Integer), CType(CType(57, Byte), Integer))
         Me.Guna2Panel5.Controls.Add(Me.Guna2HtmlLabel111)
-        Me.Guna2Panel5.CustomizableEdges = CustomizableEdges193
+        Me.Guna2Panel5.CustomizableEdges = CustomizableEdges197
         Me.Guna2Panel5.Dock = System.Windows.Forms.DockStyle.Top
         Me.Guna2Panel5.Location = New System.Drawing.Point(3, 3)
         Me.Guna2Panel5.Name = "Guna2Panel5"
-        Me.Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges194
+        Me.Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges198
         Me.Guna2Panel5.Size = New System.Drawing.Size(782, 35)
         Me.Guna2Panel5.TabIndex = 1
         '
@@ -1660,7 +1666,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox75
         '
-        Me.Guna2TextBox75.CustomizableEdges = CustomizableEdges195
+        Me.Guna2TextBox75.CustomizableEdges = CustomizableEdges199
         Me.Guna2TextBox75.DefaultText = ""
         Me.Guna2TextBox75.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox75.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1674,7 +1680,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox75.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox75.PlaceholderText = ""
         Me.Guna2TextBox75.SelectedText = ""
-        Me.Guna2TextBox75.ShadowDecoration.CustomizableEdges = CustomizableEdges196
+        Me.Guna2TextBox75.ShadowDecoration.CustomizableEdges = CustomizableEdges200
         Me.Guna2TextBox75.Size = New System.Drawing.Size(245, 36)
         Me.Guna2TextBox75.TabIndex = 39
         '
@@ -1689,7 +1695,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox76
         '
-        Me.Guna2TextBox76.CustomizableEdges = CustomizableEdges197
+        Me.Guna2TextBox76.CustomizableEdges = CustomizableEdges201
         Me.Guna2TextBox76.DefaultText = ""
         Me.Guna2TextBox76.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox76.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1703,7 +1709,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox76.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox76.PlaceholderText = ""
         Me.Guna2TextBox76.SelectedText = ""
-        Me.Guna2TextBox76.ShadowDecoration.CustomizableEdges = CustomizableEdges198
+        Me.Guna2TextBox76.ShadowDecoration.CustomizableEdges = CustomizableEdges202
         Me.Guna2TextBox76.Size = New System.Drawing.Size(104, 36)
         Me.Guna2TextBox76.TabIndex = 37
         '
@@ -1718,7 +1724,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox77
         '
-        Me.Guna2TextBox77.CustomizableEdges = CustomizableEdges199
+        Me.Guna2TextBox77.CustomizableEdges = CustomizableEdges203
         Me.Guna2TextBox77.DefaultText = ""
         Me.Guna2TextBox77.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox77.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1732,7 +1738,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox77.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox77.PlaceholderText = ""
         Me.Guna2TextBox77.SelectedText = ""
-        Me.Guna2TextBox77.ShadowDecoration.CustomizableEdges = CustomizableEdges200
+        Me.Guna2TextBox77.ShadowDecoration.CustomizableEdges = CustomizableEdges204
         Me.Guna2TextBox77.Size = New System.Drawing.Size(702, 36)
         Me.Guna2TextBox77.TabIndex = 35
         '
@@ -1757,7 +1763,7 @@ Partial Class EmployeeManagement
         'Guna2DateTimePicker27
         '
         Me.Guna2DateTimePicker27.Checked = True
-        Me.Guna2DateTimePicker27.CustomizableEdges = CustomizableEdges201
+        Me.Guna2DateTimePicker27.CustomizableEdges = CustomizableEdges205
         Me.Guna2DateTimePicker27.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
         Me.Guna2DateTimePicker27.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Guna2DateTimePicker27.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
@@ -1765,7 +1771,7 @@ Partial Class EmployeeManagement
         Me.Guna2DateTimePicker27.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.Guna2DateTimePicker27.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.Guna2DateTimePicker27.Name = "Guna2DateTimePicker27"
-        Me.Guna2DateTimePicker27.ShadowDecoration.CustomizableEdges = CustomizableEdges202
+        Me.Guna2DateTimePicker27.ShadowDecoration.CustomizableEdges = CustomizableEdges206
         Me.Guna2DateTimePicker27.Size = New System.Drawing.Size(167, 36)
         Me.Guna2DateTimePicker27.TabIndex = 32
         Me.Guna2DateTimePicker27.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -1773,7 +1779,7 @@ Partial Class EmployeeManagement
         'Guna2DateTimePicker28
         '
         Me.Guna2DateTimePicker28.Checked = True
-        Me.Guna2DateTimePicker28.CustomizableEdges = CustomizableEdges203
+        Me.Guna2DateTimePicker28.CustomizableEdges = CustomizableEdges207
         Me.Guna2DateTimePicker28.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
         Me.Guna2DateTimePicker28.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Guna2DateTimePicker28.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
@@ -1781,7 +1787,7 @@ Partial Class EmployeeManagement
         Me.Guna2DateTimePicker28.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.Guna2DateTimePicker28.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.Guna2DateTimePicker28.Name = "Guna2DateTimePicker28"
-        Me.Guna2DateTimePicker28.ShadowDecoration.CustomizableEdges = CustomizableEdges204
+        Me.Guna2DateTimePicker28.ShadowDecoration.CustomizableEdges = CustomizableEdges208
         Me.Guna2DateTimePicker28.Size = New System.Drawing.Size(168, 36)
         Me.Guna2DateTimePicker28.TabIndex = 31
         Me.Guna2DateTimePicker28.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -1797,7 +1803,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox74
         '
-        Me.Guna2TextBox74.CustomizableEdges = CustomizableEdges205
+        Me.Guna2TextBox74.CustomizableEdges = CustomizableEdges209
         Me.Guna2TextBox74.DefaultText = ""
         Me.Guna2TextBox74.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox74.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1811,7 +1817,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox74.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox74.PlaceholderText = ""
         Me.Guna2TextBox74.SelectedText = ""
-        Me.Guna2TextBox74.ShadowDecoration.CustomizableEdges = CustomizableEdges206
+        Me.Guna2TextBox74.ShadowDecoration.CustomizableEdges = CustomizableEdges210
         Me.Guna2TextBox74.Size = New System.Drawing.Size(245, 36)
         Me.Guna2TextBox74.TabIndex = 29
         '
@@ -1826,7 +1832,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox73
         '
-        Me.Guna2TextBox73.CustomizableEdges = CustomizableEdges207
+        Me.Guna2TextBox73.CustomizableEdges = CustomizableEdges211
         Me.Guna2TextBox73.DefaultText = ""
         Me.Guna2TextBox73.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox73.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1840,7 +1846,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox73.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox73.PlaceholderText = ""
         Me.Guna2TextBox73.SelectedText = ""
-        Me.Guna2TextBox73.ShadowDecoration.CustomizableEdges = CustomizableEdges208
+        Me.Guna2TextBox73.ShadowDecoration.CustomizableEdges = CustomizableEdges212
         Me.Guna2TextBox73.Size = New System.Drawing.Size(104, 36)
         Me.Guna2TextBox73.TabIndex = 27
         '
@@ -1855,7 +1861,7 @@ Partial Class EmployeeManagement
         '
         'Guna2TextBox72
         '
-        Me.Guna2TextBox72.CustomizableEdges = CustomizableEdges209
+        Me.Guna2TextBox72.CustomizableEdges = CustomizableEdges213
         Me.Guna2TextBox72.DefaultText = ""
         Me.Guna2TextBox72.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox72.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -1869,7 +1875,7 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox72.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox72.PlaceholderText = ""
         Me.Guna2TextBox72.SelectedText = ""
-        Me.Guna2TextBox72.ShadowDecoration.CustomizableEdges = CustomizableEdges210
+        Me.Guna2TextBox72.ShadowDecoration.CustomizableEdges = CustomizableEdges214
         Me.Guna2TextBox72.Size = New System.Drawing.Size(702, 36)
         Me.Guna2TextBox72.TabIndex = 25
         '
@@ -1894,7 +1900,7 @@ Partial Class EmployeeManagement
         'Guna2DateTimePicker25
         '
         Me.Guna2DateTimePicker25.Checked = True
-        Me.Guna2DateTimePicker25.CustomizableEdges = CustomizableEdges211
+        Me.Guna2DateTimePicker25.CustomizableEdges = CustomizableEdges215
         Me.Guna2DateTimePicker25.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(237, Byte), Integer))
         Me.Guna2DateTimePicker25.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Guna2DateTimePicker25.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
@@ -1902,7 +1908,7 @@ Partial Class EmployeeManagement
         Me.Guna2DateTimePicker25.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.Guna2DateTimePicker25.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.Guna2DateTimePicker25.Name = "Guna2DateTimePicker25"
-        Me.Guna2DateTimePicker25.ShadowDecoration.CustomizableEdges = CustomizableEdges212
+        Me.Guna2DateTimePicker25.ShadowDecoration.CustomizableEdges = CustomizableEdges216
         Me.Guna2DateTimePicker25.Size = New System.Drawing.Size(167, 36)
         Me.Guna2DateTimePicker25.TabIndex = 22
         Me.Guna2DateTimePicker25.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -1910,7 +1916,7 @@ Partial Class EmployeeManagement
         'Guna2DateTimePicker26
         '
         Me.Guna2DateTimePicker26.Checked = True
-        Me.Guna2DateTimePicker26.CustomizableEdges = CustomizableEdges213
+        Me.Guna2DateTimePicker26.CustomizableEdges = CustomizableEdges217
         Me.Guna2DateTimePicker26.FillColor = System.Drawing.Color.FromArgb(CType(CType(221, Byte), Integer), CType(CType(221, Byte), Integer), CType(CType(221, Byte), Integer))
         Me.Guna2DateTimePicker26.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Guna2DateTimePicker26.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
@@ -1918,7 +1924,7 @@ Partial Class EmployeeManagement
         Me.Guna2DateTimePicker26.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.Guna2DateTimePicker26.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.Guna2DateTimePicker26.Name = "Guna2DateTimePicker26"
-        Me.Guna2DateTimePicker26.ShadowDecoration.CustomizableEdges = CustomizableEdges214
+        Me.Guna2DateTimePicker26.ShadowDecoration.CustomizableEdges = CustomizableEdges218
         Me.Guna2DateTimePicker26.Size = New System.Drawing.Size(168, 36)
         Me.Guna2DateTimePicker26.TabIndex = 21
         Me.Guna2DateTimePicker26.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -1927,11 +1933,11 @@ Partial Class EmployeeManagement
         '
         Me.Guna2Panel7.BackColor = System.Drawing.Color.FromArgb(CType(CType(33, Byte), Integer), CType(CType(42, Byte), Integer), CType(CType(57, Byte), Integer))
         Me.Guna2Panel7.Controls.Add(Me.Guna2HtmlLabel159)
-        Me.Guna2Panel7.CustomizableEdges = CustomizableEdges215
+        Me.Guna2Panel7.CustomizableEdges = CustomizableEdges219
         Me.Guna2Panel7.Dock = System.Windows.Forms.DockStyle.Top
         Me.Guna2Panel7.Location = New System.Drawing.Point(0, 0)
         Me.Guna2Panel7.Name = "Guna2Panel7"
-        Me.Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges216
+        Me.Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges220
         Me.Guna2Panel7.Size = New System.Drawing.Size(788, 35)
         Me.Guna2Panel7.TabIndex = 15
         '
@@ -1980,11 +1986,11 @@ Partial Class EmployeeManagement
         '
         Me.Guna2Panel1.AutoSize = True
         Me.Guna2Panel1.BackColor = System.Drawing.Color.FromArgb(CType(CType(67, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(119, Byte), Integer))
-        Me.Guna2Panel1.CustomizableEdges = CustomizableEdges217
+        Me.Guna2Panel1.CustomizableEdges = CustomizableEdges221
         Me.Guna2Panel1.Dock = System.Windows.Forms.DockStyle.Right
         Me.Guna2Panel1.Location = New System.Drawing.Point(1589, 60)
         Me.Guna2Panel1.Name = "Guna2Panel1"
-        Me.Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges218
+        Me.Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges222
         Me.Guna2Panel1.Size = New System.Drawing.Size(0, 929)
         Me.Guna2Panel1.TabIndex = 2
         '
@@ -1992,11 +1998,11 @@ Partial Class EmployeeManagement
         '
         Me.Guna2Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(67, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(119, Byte), Integer))
         Me.Guna2Panel2.Controls.Add(Me.Guna2TabControl2)
-        Me.Guna2Panel2.CustomizableEdges = CustomizableEdges219
+        Me.Guna2Panel2.CustomizableEdges = CustomizableEdges223
         Me.Guna2Panel2.Dock = System.Windows.Forms.DockStyle.Left
         Me.Guna2Panel2.Location = New System.Drawing.Point(3, 60)
         Me.Guna2Panel2.Name = "Guna2Panel2"
-        Me.Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges220
+        Me.Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges224
         Me.Guna2Panel2.Size = New System.Drawing.Size(790, 929)
         Me.Guna2Panel2.TabIndex = 3
         '
@@ -2154,11 +2160,11 @@ Partial Class EmployeeManagement
         Me.Guna2Panel3.Controls.Add(Me.Guna2Button3)
         Me.Guna2Panel3.Controls.Add(Me.Guna2Button1)
         Me.Guna2Panel3.Controls.Add(Me.btnEdit)
-        Me.Guna2Panel3.CustomizableEdges = CustomizableEdges229
+        Me.Guna2Panel3.CustomizableEdges = CustomizableEdges233
         Me.Guna2Panel3.Dock = System.Windows.Forms.DockStyle.Top
         Me.Guna2Panel3.Location = New System.Drawing.Point(3, 3)
         Me.Guna2Panel3.Name = "Guna2Panel3"
-        Me.Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges230
+        Me.Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges234
         Me.Guna2Panel3.Size = New System.Drawing.Size(1586, 57)
         Me.Guna2Panel3.TabIndex = 4
         '
@@ -2166,7 +2172,7 @@ Partial Class EmployeeManagement
         '
         Me.tbtSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.tbtSearch.BorderRadius = 3
-        Me.tbtSearch.CustomizableEdges = CustomizableEdges221
+        Me.tbtSearch.CustomizableEdges = CustomizableEdges225
         Me.tbtSearch.DefaultText = ""
         Me.tbtSearch.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.tbtSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2181,7 +2187,7 @@ Partial Class EmployeeManagement
         Me.tbtSearch.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.tbtSearch.PlaceholderText = ""
         Me.tbtSearch.SelectedText = ""
-        Me.tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges222
+        Me.tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges226
         Me.tbtSearch.Size = New System.Drawing.Size(197, 29)
         Me.tbtSearch.TabIndex = 5
         '
@@ -2189,7 +2195,7 @@ Partial Class EmployeeManagement
         '
         Me.Guna2Button3.BorderColor = System.Drawing.Color.Transparent
         Me.Guna2Button3.CustomBorderColor = System.Drawing.Color.Transparent
-        Me.Guna2Button3.CustomizableEdges = CustomizableEdges223
+        Me.Guna2Button3.CustomizableEdges = CustomizableEdges227
         Me.Guna2Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray
         Me.Guna2Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.Guna2Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
@@ -2201,7 +2207,7 @@ Partial Class EmployeeManagement
         Me.Guna2Button3.Image = Global.HRMSI.My.Resources.Resources.trash
         Me.Guna2Button3.Location = New System.Drawing.Point(1010, 7)
         Me.Guna2Button3.Name = "Guna2Button3"
-        Me.Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges224
+        Me.Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges228
         Me.Guna2Button3.Size = New System.Drawing.Size(20, 36)
         Me.Guna2Button3.TabIndex = 4
         '
@@ -2209,7 +2215,7 @@ Partial Class EmployeeManagement
         '
         Me.Guna2Button1.BorderColor = System.Drawing.Color.Transparent
         Me.Guna2Button1.CustomBorderColor = System.Drawing.Color.Transparent
-        Me.Guna2Button1.CustomizableEdges = CustomizableEdges225
+        Me.Guna2Button1.CustomizableEdges = CustomizableEdges229
         Me.Guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
         Me.Guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.Guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
@@ -2225,7 +2231,7 @@ Partial Class EmployeeManagement
         Me.Guna2Button1.Image = Global.HRMSI.My.Resources.Resources.add__1_
         Me.Guna2Button1.Location = New System.Drawing.Point(914, 17)
         Me.Guna2Button1.Name = "Guna2Button1"
-        Me.Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges226
+        Me.Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges230
         Me.Guna2Button1.Size = New System.Drawing.Size(23, 28)
         Me.Guna2Button1.TabIndex = 2
         '
@@ -2233,7 +2239,7 @@ Partial Class EmployeeManagement
         '
         Me.btnEdit.BorderColor = System.Drawing.Color.Transparent
         Me.btnEdit.CustomBorderColor = System.Drawing.Color.Transparent
-        Me.btnEdit.CustomizableEdges = CustomizableEdges227
+        Me.btnEdit.CustomizableEdges = CustomizableEdges231
         Me.btnEdit.DisabledState.BorderColor = System.Drawing.Color.DarkGray
         Me.btnEdit.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.btnEdit.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
@@ -2245,7 +2251,7 @@ Partial Class EmployeeManagement
         Me.btnEdit.Image = Global.HRMSI.My.Resources.Resources.pencil__1_
         Me.btnEdit.Location = New System.Drawing.Point(108, 11)
         Me.btnEdit.Name = "btnEdit"
-        Me.btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges228
+        Me.btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges232
         Me.btnEdit.Size = New System.Drawing.Size(26, 36)
         Me.btnEdit.TabIndex = 3
         '
@@ -2321,6 +2327,7 @@ Partial Class EmployeeManagement
         '
         'TabPage21
         '
+        Me.TabPage21.Controls.Add(Me.EBbtn)
         Me.TabPage21.Controls.Add(Me.EBdgv)
         Me.TabPage21.Controls.Add(Me.EBtbt57)
         Me.TabPage21.Controls.Add(Me.Guna2HtmlLabel65)
@@ -2346,7 +2353,7 @@ Partial Class EmployeeManagement
         '
         'EBtbt53
         '
-        Me.EBtbt53.CustomizableEdges = CustomizableEdges161
+        Me.EBtbt53.CustomizableEdges = CustomizableEdges165
         Me.EBtbt53.DefaultText = ""
         Me.EBtbt53.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.EBtbt53.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2360,13 +2367,13 @@ Partial Class EmployeeManagement
         Me.EBtbt53.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.EBtbt53.PlaceholderText = ""
         Me.EBtbt53.SelectedText = ""
-        Me.EBtbt53.ShadowDecoration.CustomizableEdges = CustomizableEdges162
+        Me.EBtbt53.ShadowDecoration.CustomizableEdges = CustomizableEdges166
         Me.EBtbt53.Size = New System.Drawing.Size(630, 27)
         Me.EBtbt53.TabIndex = 1
         '
         'EBtbt54
         '
-        Me.EBtbt54.CustomizableEdges = CustomizableEdges159
+        Me.EBtbt54.CustomizableEdges = CustomizableEdges163
         Me.EBtbt54.DefaultText = ""
         Me.EBtbt54.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.EBtbt54.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2380,21 +2387,21 @@ Partial Class EmployeeManagement
         Me.EBtbt54.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.EBtbt54.PlaceholderText = ""
         Me.EBtbt54.SelectedText = ""
-        Me.EBtbt54.ShadowDecoration.CustomizableEdges = CustomizableEdges160
+        Me.EBtbt54.ShadowDecoration.CustomizableEdges = CustomizableEdges164
         Me.EBtbt54.Size = New System.Drawing.Size(191, 27)
         Me.EBtbt54.TabIndex = 2
         '
         'EBdtp1
         '
         Me.EBdtp1.Checked = True
-        Me.EBdtp1.CustomizableEdges = CustomizableEdges157
+        Me.EBdtp1.CustomizableEdges = CustomizableEdges161
         Me.EBdtp1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.EBdtp1.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
         Me.EBdtp1.Location = New System.Drawing.Point(330, 104)
         Me.EBdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.EBdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.EBdtp1.Name = "EBdtp1"
-        Me.EBdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges158
+        Me.EBdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges162
         Me.EBdtp1.Size = New System.Drawing.Size(179, 36)
         Me.EBdtp1.TabIndex = 3
         Me.EBdtp1.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
@@ -2402,21 +2409,21 @@ Partial Class EmployeeManagement
         'EBdtp2
         '
         Me.EBdtp2.Checked = True
-        Me.EBdtp2.CustomizableEdges = CustomizableEdges155
+        Me.EBdtp2.CustomizableEdges = CustomizableEdges159
         Me.EBdtp2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.EBdtp2.Format = System.Windows.Forms.DateTimePickerFormat.[Long]
         Me.EBdtp2.Location = New System.Drawing.Point(537, 104)
         Me.EBdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Me.EBdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Me.EBdtp2.Name = "EBdtp2"
-        Me.EBdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges156
+        Me.EBdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges160
         Me.EBdtp2.Size = New System.Drawing.Size(182, 36)
         Me.EBdtp2.TabIndex = 4
         Me.EBdtp2.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
         '
         'EBtbt55
         '
-        Me.EBtbt55.CustomizableEdges = CustomizableEdges153
+        Me.EBtbt55.CustomizableEdges = CustomizableEdges157
         Me.EBtbt55.DefaultText = ""
         Me.EBtbt55.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.EBtbt55.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2430,13 +2437,13 @@ Partial Class EmployeeManagement
         Me.EBtbt55.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.EBtbt55.PlaceholderText = ""
         Me.EBtbt55.SelectedText = ""
-        Me.EBtbt55.ShadowDecoration.CustomizableEdges = CustomizableEdges154
+        Me.EBtbt55.ShadowDecoration.CustomizableEdges = CustomizableEdges158
         Me.EBtbt55.Size = New System.Drawing.Size(630, 27)
         Me.EBtbt55.TabIndex = 11
         '
         'EBtbt56
         '
-        Me.EBtbt56.CustomizableEdges = CustomizableEdges151
+        Me.EBtbt56.CustomizableEdges = CustomizableEdges155
         Me.EBtbt56.DefaultText = ""
         Me.EBtbt56.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.EBtbt56.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2450,13 +2457,13 @@ Partial Class EmployeeManagement
         Me.EBtbt56.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.EBtbt56.PlaceholderText = ""
         Me.EBtbt56.SelectedText = ""
-        Me.EBtbt56.ShadowDecoration.CustomizableEdges = CustomizableEdges152
+        Me.EBtbt56.ShadowDecoration.CustomizableEdges = CustomizableEdges156
         Me.EBtbt56.Size = New System.Drawing.Size(630, 27)
         Me.EBtbt56.TabIndex = 13
         '
         'EBtbt57
         '
-        Me.EBtbt57.CustomizableEdges = CustomizableEdges149
+        Me.EBtbt57.CustomizableEdges = CustomizableEdges153
         Me.EBtbt57.DefaultText = ""
         Me.EBtbt57.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.EBtbt57.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2470,7 +2477,7 @@ Partial Class EmployeeManagement
         Me.EBtbt57.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.EBtbt57.PlaceholderText = ""
         Me.EBtbt57.SelectedText = ""
-        Me.EBtbt57.ShadowDecoration.CustomizableEdges = CustomizableEdges150
+        Me.EBtbt57.ShadowDecoration.CustomizableEdges = CustomizableEdges154
         Me.EBtbt57.Size = New System.Drawing.Size(630, 27)
         Me.EBtbt57.TabIndex = 15
         '
@@ -2487,6 +2494,7 @@ Partial Class EmployeeManagement
         '
         'Guna2Panel4
         '
+        Me.Guna2Panel4.Controls.Add(Me.FBbtn)
         Me.Guna2Panel4.Controls.Add(Me.FBdgv)
         Me.Guna2Panel4.Controls.Add(Me.Guna2HtmlLabel178)
         Me.Guna2Panel4.Controls.Add(Me.Guna2HtmlLabel179)
@@ -2535,16 +2543,16 @@ Partial Class EmployeeManagement
         Me.Guna2Panel4.Controls.Add(Me.Guna2HtmlLabel39)
         Me.Guna2Panel4.Controls.Add(Me.FBtbt33)
         Me.Guna2Panel4.Controls.Add(Me.Guna2HtmlLabel38)
-        Me.Guna2Panel4.CustomizableEdges = CustomizableEdges147
+        Me.Guna2Panel4.CustomizableEdges = CustomizableEdges149
         Me.Guna2Panel4.Location = New System.Drawing.Point(6, 3)
         Me.Guna2Panel4.Name = "Guna2Panel4"
-        Me.Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges148
+        Me.Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges150
         Me.Guna2Panel4.Size = New System.Drawing.Size(765, 818)
         Me.Guna2Panel4.TabIndex = 0
         '
         'FBtbt33
         '
-        Me.FBtbt33.CustomizableEdges = CustomizableEdges145
+        Me.FBtbt33.CustomizableEdges = CustomizableEdges147
         Me.FBtbt33.DefaultText = ""
         Me.FBtbt33.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt33.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2558,13 +2566,13 @@ Partial Class EmployeeManagement
         Me.FBtbt33.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt33.PlaceholderText = ""
         Me.FBtbt33.SelectedText = ""
-        Me.FBtbt33.ShadowDecoration.CustomizableEdges = CustomizableEdges146
+        Me.FBtbt33.ShadowDecoration.CustomizableEdges = CustomizableEdges148
         Me.FBtbt33.Size = New System.Drawing.Size(200, 36)
         Me.FBtbt33.TabIndex = 1
         '
         'FBtbt34
         '
-        Me.FBtbt34.CustomizableEdges = CustomizableEdges143
+        Me.FBtbt34.CustomizableEdges = CustomizableEdges145
         Me.FBtbt34.DefaultText = ""
         Me.FBtbt34.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt34.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2578,7 +2586,7 @@ Partial Class EmployeeManagement
         Me.FBtbt34.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt34.PlaceholderText = ""
         Me.FBtbt34.SelectedText = ""
-        Me.FBtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges144
+        Me.FBtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges146
         Me.FBtbt34.Size = New System.Drawing.Size(200, 36)
         Me.FBtbt34.TabIndex = 3
         '
@@ -2586,7 +2594,7 @@ Partial Class EmployeeManagement
         '
         Me.Guna2TextBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.Guna2TextBox1.BorderRadius = 3
-        Me.Guna2TextBox1.CustomizableEdges = CustomizableEdges141
+        Me.Guna2TextBox1.CustomizableEdges = CustomizableEdges143
         Me.Guna2TextBox1.DefaultText = ""
         Me.Guna2TextBox1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.Guna2TextBox1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2601,13 +2609,13 @@ Partial Class EmployeeManagement
         Me.Guna2TextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.Guna2TextBox1.PlaceholderText = ""
         Me.Guna2TextBox1.SelectedText = ""
-        Me.Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges142
+        Me.Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges144
         Me.Guna2TextBox1.Size = New System.Drawing.Size(197, 29)
         Me.Guna2TextBox1.TabIndex = 5
         '
         'FBtbt36
         '
-        Me.FBtbt36.CustomizableEdges = CustomizableEdges139
+        Me.FBtbt36.CustomizableEdges = CustomizableEdges141
         Me.FBtbt36.DefaultText = ""
         Me.FBtbt36.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt36.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2621,13 +2629,13 @@ Partial Class EmployeeManagement
         Me.FBtbt36.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt36.PlaceholderText = ""
         Me.FBtbt36.SelectedText = ""
-        Me.FBtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges140
+        Me.FBtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges142
         Me.FBtbt36.Size = New System.Drawing.Size(100, 36)
         Me.FBtbt36.TabIndex = 7
         '
         'FBtbt37
         '
-        Me.FBtbt37.CustomizableEdges = CustomizableEdges137
+        Me.FBtbt37.CustomizableEdges = CustomizableEdges139
         Me.FBtbt37.DefaultText = ""
         Me.FBtbt37.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt37.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2641,13 +2649,13 @@ Partial Class EmployeeManagement
         Me.FBtbt37.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt37.PlaceholderText = ""
         Me.FBtbt37.SelectedText = ""
-        Me.FBtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges138
+        Me.FBtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges140
         Me.FBtbt37.Size = New System.Drawing.Size(277, 36)
         Me.FBtbt37.TabIndex = 9
         '
         'FBtbt38
         '
-        Me.FBtbt38.CustomizableEdges = CustomizableEdges135
+        Me.FBtbt38.CustomizableEdges = CustomizableEdges137
         Me.FBtbt38.DefaultText = ""
         Me.FBtbt38.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt38.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2661,13 +2669,13 @@ Partial Class EmployeeManagement
         Me.FBtbt38.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt38.PlaceholderText = ""
         Me.FBtbt38.SelectedText = ""
-        Me.FBtbt38.ShadowDecoration.CustomizableEdges = CustomizableEdges136
+        Me.FBtbt38.ShadowDecoration.CustomizableEdges = CustomizableEdges138
         Me.FBtbt38.Size = New System.Drawing.Size(435, 36)
         Me.FBtbt38.TabIndex = 11
         '
         'FBtbt39
         '
-        Me.FBtbt39.CustomizableEdges = CustomizableEdges133
+        Me.FBtbt39.CustomizableEdges = CustomizableEdges135
         Me.FBtbt39.DefaultText = ""
         Me.FBtbt39.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt39.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2681,13 +2689,13 @@ Partial Class EmployeeManagement
         Me.FBtbt39.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt39.PlaceholderText = ""
         Me.FBtbt39.SelectedText = ""
-        Me.FBtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges134
+        Me.FBtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges136
         Me.FBtbt39.Size = New System.Drawing.Size(355, 36)
         Me.FBtbt39.TabIndex = 13
         '
         'FBtbt40
         '
-        Me.FBtbt40.CustomizableEdges = CustomizableEdges131
+        Me.FBtbt40.CustomizableEdges = CustomizableEdges133
         Me.FBtbt40.DefaultText = ""
         Me.FBtbt40.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt40.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2701,13 +2709,13 @@ Partial Class EmployeeManagement
         Me.FBtbt40.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt40.PlaceholderText = ""
         Me.FBtbt40.SelectedText = ""
-        Me.FBtbt40.ShadowDecoration.CustomizableEdges = CustomizableEdges132
+        Me.FBtbt40.ShadowDecoration.CustomizableEdges = CustomizableEdges134
         Me.FBtbt40.Size = New System.Drawing.Size(357, 36)
         Me.FBtbt40.TabIndex = 14
         '
         'FBtbt45
         '
-        Me.FBtbt45.CustomizableEdges = CustomizableEdges129
+        Me.FBtbt45.CustomizableEdges = CustomizableEdges131
         Me.FBtbt45.DefaultText = ""
         Me.FBtbt45.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt45.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2721,13 +2729,13 @@ Partial Class EmployeeManagement
         Me.FBtbt45.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt45.PlaceholderText = ""
         Me.FBtbt45.SelectedText = ""
-        Me.FBtbt45.ShadowDecoration.CustomizableEdges = CustomizableEdges130
+        Me.FBtbt45.ShadowDecoration.CustomizableEdges = CustomizableEdges132
         Me.FBtbt45.Size = New System.Drawing.Size(221, 36)
         Me.FBtbt45.TabIndex = 38
         '
         'FBtbt46
         '
-        Me.FBtbt46.CustomizableEdges = CustomizableEdges127
+        Me.FBtbt46.CustomizableEdges = CustomizableEdges129
         Me.FBtbt46.DefaultText = ""
         Me.FBtbt46.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt46.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2741,13 +2749,13 @@ Partial Class EmployeeManagement
         Me.FBtbt46.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt46.PlaceholderText = ""
         Me.FBtbt46.SelectedText = ""
-        Me.FBtbt46.ShadowDecoration.CustomizableEdges = CustomizableEdges128
+        Me.FBtbt46.ShadowDecoration.CustomizableEdges = CustomizableEdges130
         Me.FBtbt46.Size = New System.Drawing.Size(226, 36)
         Me.FBtbt46.TabIndex = 40
         '
         'FBtbt47
         '
-        Me.FBtbt47.CustomizableEdges = CustomizableEdges125
+        Me.FBtbt47.CustomizableEdges = CustomizableEdges127
         Me.FBtbt47.DefaultText = ""
         Me.FBtbt47.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt47.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2761,13 +2769,13 @@ Partial Class EmployeeManagement
         Me.FBtbt47.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt47.PlaceholderText = ""
         Me.FBtbt47.SelectedText = ""
-        Me.FBtbt47.ShadowDecoration.CustomizableEdges = CustomizableEdges126
+        Me.FBtbt47.ShadowDecoration.CustomizableEdges = CustomizableEdges128
         Me.FBtbt47.Size = New System.Drawing.Size(198, 36)
         Me.FBtbt47.TabIndex = 43
         '
         'FBtbt48
         '
-        Me.FBtbt48.CustomizableEdges = CustomizableEdges123
+        Me.FBtbt48.CustomizableEdges = CustomizableEdges125
         Me.FBtbt48.DefaultText = ""
         Me.FBtbt48.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt48.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2781,13 +2789,13 @@ Partial Class EmployeeManagement
         Me.FBtbt48.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt48.PlaceholderText = ""
         Me.FBtbt48.SelectedText = ""
-        Me.FBtbt48.ShadowDecoration.CustomizableEdges = CustomizableEdges124
+        Me.FBtbt48.ShadowDecoration.CustomizableEdges = CustomizableEdges126
         Me.FBtbt48.Size = New System.Drawing.Size(60, 36)
         Me.FBtbt48.TabIndex = 45
         '
         'FBtbt49
         '
-        Me.FBtbt49.CustomizableEdges = CustomizableEdges121
+        Me.FBtbt49.CustomizableEdges = CustomizableEdges123
         Me.FBtbt49.DefaultText = ""
         Me.FBtbt49.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt49.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2801,13 +2809,13 @@ Partial Class EmployeeManagement
         Me.FBtbt49.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt49.PlaceholderText = ""
         Me.FBtbt49.SelectedText = ""
-        Me.FBtbt49.ShadowDecoration.CustomizableEdges = CustomizableEdges122
+        Me.FBtbt49.ShadowDecoration.CustomizableEdges = CustomizableEdges124
         Me.FBtbt49.Size = New System.Drawing.Size(221, 36)
         Me.FBtbt49.TabIndex = 48
         '
         'FBtbt50
         '
-        Me.FBtbt50.CustomizableEdges = CustomizableEdges119
+        Me.FBtbt50.CustomizableEdges = CustomizableEdges121
         Me.FBtbt50.DefaultText = ""
         Me.FBtbt50.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt50.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2821,13 +2829,13 @@ Partial Class EmployeeManagement
         Me.FBtbt50.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt50.PlaceholderText = ""
         Me.FBtbt50.SelectedText = ""
-        Me.FBtbt50.ShadowDecoration.CustomizableEdges = CustomizableEdges120
+        Me.FBtbt50.ShadowDecoration.CustomizableEdges = CustomizableEdges122
         Me.FBtbt50.Size = New System.Drawing.Size(226, 36)
         Me.FBtbt50.TabIndex = 49
         '
         'FBtbt51
         '
-        Me.FBtbt51.CustomizableEdges = CustomizableEdges117
+        Me.FBtbt51.CustomizableEdges = CustomizableEdges119
         Me.FBtbt51.DefaultText = ""
         Me.FBtbt51.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt51.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2841,13 +2849,13 @@ Partial Class EmployeeManagement
         Me.FBtbt51.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt51.PlaceholderText = ""
         Me.FBtbt51.SelectedText = ""
-        Me.FBtbt51.ShadowDecoration.CustomizableEdges = CustomizableEdges118
+        Me.FBtbt51.ShadowDecoration.CustomizableEdges = CustomizableEdges120
         Me.FBtbt51.Size = New System.Drawing.Size(198, 36)
         Me.FBtbt51.TabIndex = 50
         '
         'FBtbt52
         '
-        Me.FBtbt52.CustomizableEdges = CustomizableEdges115
+        Me.FBtbt52.CustomizableEdges = CustomizableEdges117
         Me.FBtbt52.DefaultText = ""
         Me.FBtbt52.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt52.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2861,7 +2869,7 @@ Partial Class EmployeeManagement
         Me.FBtbt52.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt52.PlaceholderText = ""
         Me.FBtbt52.SelectedText = ""
-        Me.FBtbt52.ShadowDecoration.CustomizableEdges = CustomizableEdges116
+        Me.FBtbt52.ShadowDecoration.CustomizableEdges = CustomizableEdges118
         Me.FBtbt52.Size = New System.Drawing.Size(60, 36)
         Me.FBtbt52.TabIndex = 54
         '
@@ -2891,7 +2899,7 @@ Partial Class EmployeeManagement
         '
         'FBtbt35
         '
-        Me.FBtbt35.CustomizableEdges = CustomizableEdges113
+        Me.FBtbt35.CustomizableEdges = CustomizableEdges115
         Me.FBtbt35.DefaultText = ""
         Me.FBtbt35.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt35.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2905,13 +2913,13 @@ Partial Class EmployeeManagement
         Me.FBtbt35.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt35.PlaceholderText = ""
         Me.FBtbt35.SelectedText = ""
-        Me.FBtbt35.ShadowDecoration.CustomizableEdges = CustomizableEdges114
+        Me.FBtbt35.ShadowDecoration.CustomizableEdges = CustomizableEdges116
         Me.FBtbt35.Size = New System.Drawing.Size(200, 36)
         Me.FBtbt35.TabIndex = 58
         '
         'FBtbt41
         '
-        Me.FBtbt41.CustomizableEdges = CustomizableEdges111
+        Me.FBtbt41.CustomizableEdges = CustomizableEdges113
         Me.FBtbt41.DefaultText = ""
         Me.FBtbt41.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt41.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2925,13 +2933,13 @@ Partial Class EmployeeManagement
         Me.FBtbt41.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt41.PlaceholderText = ""
         Me.FBtbt41.SelectedText = ""
-        Me.FBtbt41.ShadowDecoration.CustomizableEdges = CustomizableEdges112
+        Me.FBtbt41.ShadowDecoration.CustomizableEdges = CustomizableEdges114
         Me.FBtbt41.Size = New System.Drawing.Size(221, 36)
         Me.FBtbt41.TabIndex = 59
         '
         'FBtbt42
         '
-        Me.FBtbt42.CustomizableEdges = CustomizableEdges109
+        Me.FBtbt42.CustomizableEdges = CustomizableEdges111
         Me.FBtbt42.DefaultText = ""
         Me.FBtbt42.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt42.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2945,13 +2953,13 @@ Partial Class EmployeeManagement
         Me.FBtbt42.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt42.PlaceholderText = ""
         Me.FBtbt42.SelectedText = ""
-        Me.FBtbt42.ShadowDecoration.CustomizableEdges = CustomizableEdges110
+        Me.FBtbt42.ShadowDecoration.CustomizableEdges = CustomizableEdges112
         Me.FBtbt42.Size = New System.Drawing.Size(226, 36)
         Me.FBtbt42.TabIndex = 60
         '
         'FBtbt43
         '
-        Me.FBtbt43.CustomizableEdges = CustomizableEdges107
+        Me.FBtbt43.CustomizableEdges = CustomizableEdges109
         Me.FBtbt43.DefaultText = ""
         Me.FBtbt43.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt43.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2965,13 +2973,13 @@ Partial Class EmployeeManagement
         Me.FBtbt43.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt43.PlaceholderText = ""
         Me.FBtbt43.SelectedText = ""
-        Me.FBtbt43.ShadowDecoration.CustomizableEdges = CustomizableEdges108
+        Me.FBtbt43.ShadowDecoration.CustomizableEdges = CustomizableEdges110
         Me.FBtbt43.Size = New System.Drawing.Size(198, 36)
         Me.FBtbt43.TabIndex = 61
         '
         'FBtbt44
         '
-        Me.FBtbt44.CustomizableEdges = CustomizableEdges105
+        Me.FBtbt44.CustomizableEdges = CustomizableEdges107
         Me.FBtbt44.DefaultText = ""
         Me.FBtbt44.DisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer), CType(CType(208, Byte), Integer))
         Me.FBtbt44.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(226, Byte), Integer))
@@ -2985,7 +2993,7 @@ Partial Class EmployeeManagement
         Me.FBtbt44.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.FBtbt44.PlaceholderText = ""
         Me.FBtbt44.SelectedText = ""
-        Me.FBtbt44.ShadowDecoration.CustomizableEdges = CustomizableEdges106
+        Me.FBtbt44.ShadowDecoration.CustomizableEdges = CustomizableEdges108
         Me.FBtbt44.Size = New System.Drawing.Size(60, 36)
         Me.FBtbt44.TabIndex = 62
         '
@@ -3016,7 +3024,7 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.FBdgv.DefaultCellStyle = DataGridViewCellStyle6
         Me.FBdgv.GridColor = System.Drawing.Color.FromArgb(CType(CType(231, Byte), Integer), CType(CType(229, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.FBdgv.Location = New System.Drawing.Point(25, 329)
+        Me.FBdgv.Location = New System.Drawing.Point(25, 375)
         Me.FBdgv.Name = "FBdgv"
         Me.FBdgv.RowHeadersVisible = False
         Me.FBdgv.RowTemplate.Height = 25
@@ -4534,6 +4542,7 @@ Partial Class EmployeeManagement
         Me.EBdgv.AllowUserToDeleteRows = False
         DataGridViewCellStyle7.BackColor = System.Drawing.Color.White
         Me.EBdgv.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle7
+        Me.EBdgv.BackgroundColor = System.Drawing.Color.WhiteSmoke
         DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle8.BackColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
         DataGridViewCellStyle8.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
@@ -4553,19 +4562,19 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.EBdgv.DefaultCellStyle = DataGridViewCellStyle9
         Me.EBdgv.GridColor = System.Drawing.Color.FromArgb(CType(CType(231, Byte), Integer), CType(CType(229, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.EBdgv.Location = New System.Drawing.Point(25, 336)
+        Me.EBdgv.Location = New System.Drawing.Point(22, 369)
         Me.EBdgv.Name = "EBdgv"
         Me.EBdgv.ReadOnly = True
         Me.EBdgv.RowHeadersVisible = False
         Me.EBdgv.RowTemplate.Height = 25
-        Me.EBdgv.Size = New System.Drawing.Size(736, 150)
+        Me.EBdgv.Size = New System.Drawing.Size(736, 369)
         Me.EBdgv.TabIndex = 16
         Me.EBdgv.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White
         Me.EBdgv.ThemeStyle.AlternatingRowsStyle.Font = Nothing
         Me.EBdgv.ThemeStyle.AlternatingRowsStyle.ForeColor = System.Drawing.Color.Empty
         Me.EBdgv.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = System.Drawing.Color.Empty
         Me.EBdgv.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = System.Drawing.Color.Empty
-        Me.EBdgv.ThemeStyle.BackColor = System.Drawing.Color.White
+        Me.EBdgv.ThemeStyle.BackColor = System.Drawing.Color.WhiteSmoke
         Me.EBdgv.ThemeStyle.GridColor = System.Drawing.Color.FromArgb(CType(CType(231, Byte), Integer), CType(CType(229, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.EBdgv.ThemeStyle.HeaderStyle.BackColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.EBdgv.ThemeStyle.HeaderStyle.BorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
@@ -4623,6 +4632,38 @@ Partial Class EmployeeManagement
         Me.Column18.HeaderText = "Scholarship/Award"
         Me.Column18.Name = "Column18"
         Me.Column18.ReadOnly = True
+        '
+        'FBbtn
+        '
+        Me.FBbtn.CustomizableEdges = CustomizableEdges105
+        Me.FBbtn.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.FBbtn.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.FBbtn.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.FBbtn.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.FBbtn.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.FBbtn.ForeColor = System.Drawing.Color.White
+        Me.FBbtn.Location = New System.Drawing.Point(275, 318)
+        Me.FBbtn.Name = "FBbtn"
+        Me.FBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges106
+        Me.FBbtn.Size = New System.Drawing.Size(180, 45)
+        Me.FBbtn.TabIndex = 68
+        Me.FBbtn.Text = "ADD"
+        '
+        'EBbtn
+        '
+        Me.EBbtn.CustomizableEdges = CustomizableEdges151
+        Me.EBbtn.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.EBbtn.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.EBbtn.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.EBbtn.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.EBbtn.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.EBbtn.ForeColor = System.Drawing.Color.White
+        Me.EBbtn.Location = New System.Drawing.Point(293, 320)
+        Me.EBbtn.Name = "EBbtn"
+        Me.EBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges152
+        Me.EBbtn.Size = New System.Drawing.Size(180, 45)
+        Me.EBbtn.TabIndex = 17
+        Me.EBbtn.Text = "ADD"
         '
         'EmployeeManagement
         '
@@ -4725,18 +4766,18 @@ Partial Class EmployeeManagement
     Friend WithEvents Column7 As DataGridViewTextBoxColumn
     Friend WithEvents Guna2HtmlLabel111 As Guna2HtmlLabel
     Friend WithEvents Guna2Panel5 As Guna2Panel
-    Friend WithEvents Guna2TextBox53 As Guna2TextBox
-    Friend WithEvents Guna2TextBox55 As Guna2TextBox
-    Friend WithEvents Guna2DateTimePicker13 As Guna2DateTimePicker
+    Friend WithEvents CSEtbt1 As Guna2TextBox
+    Friend WithEvents CSEtbt4 As Guna2TextBox
+    Friend WithEvents CSEdtp1 As Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel114 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel113 As Guna2HtmlLabel
-    Friend WithEvents Guna2TextBox54 As Guna2TextBox
+    Friend WithEvents CSEtbt2 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel112 As Guna2HtmlLabel
     Friend WithEvents Guna2Panel6 As Guna2Panel
-    Friend WithEvents Guna2DateTimePicker14 As Guna2DateTimePicker
+    Friend WithEvents CSEdtp2 As Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel117 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel116 As Guna2HtmlLabel
-    Friend WithEvents Guna2TextBox56 As Guna2TextBox
+    Friend WithEvents CSEtbt3 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel115 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel118 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel123 As Guna2HtmlLabel
@@ -4744,11 +4785,11 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2HtmlLabel122 As Guna2HtmlLabel
     Friend WithEvents Guna2TextBox58 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel121 As Guna2HtmlLabel
-    Friend WithEvents Guna2TextBox57 As Guna2TextBox
+    Friend WithEvents WEtbt1 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel120 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel119 As Guna2HtmlLabel
-    Friend WithEvents Guna2DateTimePicker16 As Guna2DateTimePicker
-    Friend WithEvents Guna2DateTimePicker15 As Guna2DateTimePicker
+    Friend WithEvents WEdtp2 As Guna2DateTimePicker
+    Friend WithEvents WEdtp1 As Guna2DateTimePicker
     Friend WithEvents Guna2HtmlLabel125 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel124 As Guna2HtmlLabel
     Friend WithEvents Guna2ComboBox1 As Guna2ComboBox
@@ -4957,4 +4998,6 @@ Partial Class EmployeeManagement
     Friend WithEvents EBdtp1 As Guna2DateTimePicker
     Friend WithEvents EBtbt54 As Guna2TextBox
     Friend WithEvents EBtbt53 As Guna2TextBox
+    Friend WithEvents FBbtn As Guna2Button
+    Friend WithEvents EBbtn As Guna2Button
 End Class
