@@ -23,12 +23,12 @@ Partial Class EmployeeManagement
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         components = New ComponentModel.Container()
-        Dim CustomizableEdges37 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges38 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges33 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges34 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges29 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges30 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges17 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges18 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges27 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges28 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges19 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges20 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges21 As CustomizableEdges = New CustomizableEdges()
@@ -37,19 +37,18 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges24 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges25 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges26 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges27 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges28 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges29 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges30 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges31 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges32 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges53 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges54 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges49 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges50 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges33 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges34 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges35 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges36 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim CustomizableEdges47 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges48 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges37 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges38 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges39 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges40 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges41 As CustomizableEdges = New CustomizableEdges()
@@ -58,18 +57,15 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges44 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges45 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges46 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges123 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges124 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges83 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges84 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges65 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges66 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges49 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges50 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges47 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges48 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges51 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges52 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges53 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges54 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges63 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges64 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges55 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges56 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges57 As CustomizableEdges = New CustomizableEdges()
@@ -78,10 +74,14 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges60 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges61 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges62 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges63 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges64 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges139 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges140 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges99 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges100 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges81 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges82 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges65 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges66 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges67 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges68 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges69 As CustomizableEdges = New CustomizableEdges()
@@ -96,8 +96,10 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges78 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges79 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges80 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges109 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges110 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges97 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges98 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges83 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges84 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges85 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges86 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges87 As CustomizableEdges = New CustomizableEdges()
@@ -110,10 +112,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges94 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges95 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges96 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges97 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges98 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges99 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges100 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges125 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges126 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges101 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges102 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges103 As CustomizableEdges = New CustomizableEdges()
@@ -122,8 +122,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges106 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges107 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges108 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges121 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges122 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges109 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges110 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges111 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges112 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges113 As CustomizableEdges = New CustomizableEdges()
@@ -134,13 +134,14 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges118 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges119 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges120 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges171 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges172 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges121 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges122 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges123 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges124 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges137 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges138 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges127 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges128 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges129 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges130 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges131 As CustomizableEdges = New CustomizableEdges()
@@ -149,14 +150,15 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges134 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges135 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges136 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges137 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges138 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges139 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges140 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges187 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges188 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges141 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges142 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges143 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges144 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges145 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges146 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges147 As CustomizableEdges = New CustomizableEdges()
@@ -183,11 +185,10 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges168 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges169 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges170 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges171 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges172 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges173 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges174 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle7 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle8 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle9 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges175 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges176 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges177 As CustomizableEdges = New CustomizableEdges()
@@ -200,15 +201,11 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges184 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges185 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges186 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges187 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges188 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges209 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges210 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle10 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle11 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle12 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges189 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges190 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle7 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle9 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges191 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges192 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges193 As CustomizableEdges = New CustomizableEdges()
@@ -223,15 +220,17 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges202 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges203 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges204 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges225 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges226 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle10 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle11 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle12 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges205 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges206 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges207 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges208 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges227 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges228 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle13 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle14 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle15 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges209 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges210 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges211 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges212 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges213 As CustomizableEdges = New CustomizableEdges()
@@ -246,19 +245,19 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges222 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges223 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges224 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges225 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges226 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges243 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges244 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle13 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle14 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle15 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges227 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges228 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges229 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges230 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges245 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges246 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges231 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges232 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges233 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges234 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle16 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle17 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle18 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges235 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges236 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges237 As CustomizableEdges = New CustomizableEdges()
@@ -267,17 +266,17 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges240 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges241 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges242 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges243 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges244 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges245 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges246 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges261 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges262 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges247 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges248 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle19 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle20 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle21 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges249 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges250 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle16 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle17 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle18 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges251 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges252 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges253 As CustomizableEdges = New CustomizableEdges()
@@ -288,8 +287,13 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges258 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges259 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges260 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges277 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges278 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges263 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges264 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle19 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle20 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle21 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Dim CustomizableEdges265 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges266 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges267 As CustomizableEdges = New CustomizableEdges()
@@ -302,11 +306,8 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges274 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges275 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges276 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges277 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges278 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges279 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges280 As CustomizableEdges = New CustomizableEdges()
-        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(EmployeeManagement))
         Dim CustomizableEdges281 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges282 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges283 As CustomizableEdges = New CustomizableEdges()
@@ -319,37 +320,58 @@ Partial Class EmployeeManagement
         Dim CustomizableEdges290 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges291 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges292 As CustomizableEdges = New CustomizableEdges()
-        Dim DataGridViewCellStyle22 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle23 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle24 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim CustomizableEdges301 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges302 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges293 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges294 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges295 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges296 As CustomizableEdges = New CustomizableEdges()
+        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(EmployeeManagement))
         Dim CustomizableEdges297 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges298 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges299 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges300 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges301 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges302 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges303 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges304 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges305 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges306 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges307 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges308 As CustomizableEdges = New CustomizableEdges()
+        Dim DataGridViewCellStyle22 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle23 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle24 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim CustomizableEdges323 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges324 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges315 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges316 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges317 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges318 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges319 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges320 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges321 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges322 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges15 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges16 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges13 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges14 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges9 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges10 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges11 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges12 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges5 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges6 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges9 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges10 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges7 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges8 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges5 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges6 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges3 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges4 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges1 As CustomizableEdges = New CustomizableEdges()
         Dim CustomizableEdges2 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges125 As CustomizableEdges = New CustomizableEdges()
-        Dim CustomizableEdges126 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges313 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges314 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges311 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges312 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges309 As CustomizableEdges = New CustomizableEdges()
+        Dim CustomizableEdges310 As CustomizableEdges = New CustomizableEdges()
         TabPage10 = New TabPage()
         TabPage9 = New TabPage()
         TabPage8 = New TabPage()
@@ -358,6 +380,19 @@ Partial Class EmployeeManagement
         TabPage5 = New TabPage()
         TabPage4 = New TabPage()
         TabPage3 = New TabPage()
+        Guna2Panel16 = New Guna2Panel()
+        Guna2Panel18 = New Guna2Panel()
+        Guna2Panel17 = New Guna2Panel()
+        Guna2HtmlLabel108 = New Guna2HtmlLabel()
+        Guna2TextBox11 = New Guna2TextBox()
+        Guna2HtmlLabel106 = New Guna2HtmlLabel()
+        Guna2TextBox9 = New Guna2TextBox()
+        Guna2HtmlLabel105 = New Guna2HtmlLabel()
+        Guna2HtmlLabel107 = New Guna2HtmlLabel()
+        Guna2TextBox10 = New Guna2TextBox()
+        Guna2TextBox8 = New Guna2TextBox()
+        Guna2Panel15 = New Guna2Panel()
+        Guna2HtmlLabel109 = New Guna2HtmlLabel()
         TabPage2 = New TabPage()
         Guna2GradientPanel7 = New Guna2GradientPanel()
         Guna2GradientPanel9 = New Guna2GradientPanel()
@@ -467,6 +502,8 @@ Partial Class EmployeeManagement
         tbt4 = New Guna2TextBox()
         TabPage20 = New TabPage()
         Guna2Panel4 = New Guna2Panel()
+        Guna2HtmlLabel110 = New Guna2HtmlLabel()
+        Guna2DateTimePicker4 = New Guna2DateTimePicker()
         FBbtn = New Guna2Button()
         FBdgv = New Guna2DataGridView()
         Column8 = New DataGridViewTextBoxColumn()
@@ -738,22 +775,22 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel7 = New Guna2HtmlLabel()
         Guna2HtmlLabel8 = New Guna2HtmlLabel()
         Guna2HtmlLabel118 = New Guna2HtmlLabel()
-        Guna2Panel15 = New Guna2Panel()
-        Guna2Panel16 = New Guna2Panel()
-        Guna2TextBox8 = New Guna2TextBox()
-        Guna2Panel17 = New Guna2Panel()
-        Guna2TextBox9 = New Guna2TextBox()
-        Guna2HtmlLabel105 = New Guna2HtmlLabel()
-        Guna2HtmlLabel106 = New Guna2HtmlLabel()
-        Guna2HtmlLabel107 = New Guna2HtmlLabel()
-        Guna2TextBox10 = New Guna2TextBox()
-        Guna2HtmlLabel108 = New Guna2HtmlLabel()
-        Guna2TextBox11 = New Guna2TextBox()
-        Guna2HtmlLabel109 = New Guna2HtmlLabel()
-        Guna2Panel18 = New Guna2Panel()
-        Guna2DateTimePicker4 = New Guna2DateTimePicker()
-        Guna2HtmlLabel110 = New Guna2HtmlLabel()
+        Guna2HtmlLabel126 = New Guna2HtmlLabel()
+        Guna2TextBox12 = New Guna2TextBox()
+        Guna2TextBox13 = New Guna2TextBox()
+        Guna2TextBox14 = New Guna2TextBox()
+        Guna2TextBox15 = New Guna2TextBox()
+        Guna2TextBox16 = New Guna2TextBox()
+        Guna2TextBox17 = New Guna2TextBox()
+        Guna2TextBox18 = New Guna2TextBox()
+        Guna2TextBox19 = New Guna2TextBox()
+        EMbtnAdd = New Guna2Button()
+        EMbtnDel = New Guna2Button()
+        EMbtnEdit = New Guna2Button()
         TabPage3.SuspendLayout()
+        Guna2Panel16.SuspendLayout()
+        Guna2Panel18.SuspendLayout()
+        Guna2Panel17.SuspendLayout()
         TabPage2.SuspendLayout()
         Guna2GradientPanel7.SuspendLayout()
         Guna2GradientPanel9.SuspendLayout()
@@ -807,14 +844,11 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).BeginInit()
         Guna2Panel3.SuspendLayout()
         Guna2TabControl1.SuspendLayout()
-        Guna2Panel15.SuspendLayout()
-        Guna2Panel16.SuspendLayout()
-        Guna2Panel17.SuspendLayout()
         SuspendLayout()
         ' 
         ' TabPage10
         ' 
-        TabPage10.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage10.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage10.Location = New Point(204, 4)
         TabPage10.Name = "TabPage10"
         TabPage10.Size = New Size(1592, 992)
@@ -823,7 +857,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage9
         ' 
-        TabPage9.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage9.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage9.Location = New Point(204, 4)
         TabPage9.Name = "TabPage9"
         TabPage9.Size = New Size(1592, 992)
@@ -832,7 +866,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage8
         ' 
-        TabPage8.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage8.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage8.Location = New Point(204, 4)
         TabPage8.Name = "TabPage8"
         TabPage8.Size = New Size(1592, 992)
@@ -841,7 +875,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage7
         ' 
-        TabPage7.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage7.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage7.Location = New Point(204, 4)
         TabPage7.Name = "TabPage7"
         TabPage7.Size = New Size(1592, 992)
@@ -850,7 +884,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage6
         ' 
-        TabPage6.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage6.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage6.Location = New Point(204, 4)
         TabPage6.Name = "TabPage6"
         TabPage6.Size = New Size(1592, 992)
@@ -859,7 +893,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage5
         ' 
-        TabPage5.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage5.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage5.Location = New Point(204, 4)
         TabPage5.Name = "TabPage5"
         TabPage5.Size = New Size(1592, 992)
@@ -868,7 +902,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage4
         ' 
-        TabPage4.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage4.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage4.Location = New Point(204, 4)
         TabPage4.Name = "TabPage4"
         TabPage4.Size = New Size(1592, 992)
@@ -877,7 +911,7 @@ Partial Class EmployeeManagement
         ' 
         ' TabPage3
         ' 
-        TabPage3.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage3.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage3.Controls.Add(Guna2Panel16)
         TabPage3.Controls.Add(Guna2Panel15)
         TabPage3.Location = New Point(204, 4)
@@ -887,9 +921,198 @@ Partial Class EmployeeManagement
         TabPage3.TabIndex = 2
         TabPage3.Text = "SALN"
         ' 
+        ' Guna2Panel16
+        ' 
+        Guna2Panel16.Controls.Add(Guna2Panel18)
+        Guna2Panel16.Controls.Add(Guna2Panel17)
+        Guna2Panel16.CustomizableEdges = CustomizableEdges29
+        Guna2Panel16.Dock = DockStyle.Left
+        Guna2Panel16.Location = New Point(822, 3)
+        Guna2Panel16.Name = "Guna2Panel16"
+        Guna2Panel16.ShadowDecoration.CustomizableEdges = CustomizableEdges30
+        Guna2Panel16.Size = New Size(767, 986)
+        Guna2Panel16.TabIndex = 1
+        ' 
+        ' Guna2Panel18
+        ' 
+        Guna2Panel18.Controls.Add(Guna2TextBox19)
+        Guna2Panel18.Controls.Add(Guna2TextBox18)
+        Guna2Panel18.Controls.Add(Guna2TextBox17)
+        Guna2Panel18.Controls.Add(Guna2TextBox16)
+        Guna2Panel18.Controls.Add(Guna2TextBox15)
+        Guna2Panel18.Controls.Add(Guna2TextBox14)
+        Guna2Panel18.Controls.Add(Guna2TextBox13)
+        Guna2Panel18.Controls.Add(Guna2TextBox12)
+        Guna2Panel18.Controls.Add(Guna2HtmlLabel109)
+        Guna2Panel18.CustomizableEdges = CustomizableEdges17
+        Guna2Panel18.Dock = DockStyle.Top
+        Guna2Panel18.Location = New Point(0, 161)
+        Guna2Panel18.Name = "Guna2Panel18"
+        Guna2Panel18.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        Guna2Panel18.Size = New Size(767, 225)
+        Guna2Panel18.TabIndex = 1
+        ' 
+        ' Guna2Panel17
+        ' 
+        Guna2Panel17.Controls.Add(Guna2HtmlLabel108)
+        Guna2Panel17.Controls.Add(Guna2TextBox11)
+        Guna2Panel17.Controls.Add(Guna2HtmlLabel106)
+        Guna2Panel17.Controls.Add(Guna2TextBox9)
+        Guna2Panel17.Controls.Add(Guna2HtmlLabel105)
+        Guna2Panel17.Controls.Add(Guna2HtmlLabel107)
+        Guna2Panel17.Controls.Add(Guna2TextBox10)
+        Guna2Panel17.Controls.Add(Guna2TextBox8)
+        Guna2Panel17.CustomizableEdges = CustomizableEdges27
+        Guna2Panel17.Dock = DockStyle.Top
+        Guna2Panel17.Location = New Point(0, 0)
+        Guna2Panel17.Name = "Guna2Panel17"
+        Guna2Panel17.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        Guna2Panel17.Size = New Size(767, 161)
+        Guna2Panel17.TabIndex = 0
+        ' 
+        ' Guna2HtmlLabel108
+        ' 
+        Guna2HtmlLabel108.BackColor = Color.Transparent
+        Guna2HtmlLabel108.ForeColor = SystemColors.ButtonFace
+        Guna2HtmlLabel108.Location = New Point(388, 82)
+        Guna2HtmlLabel108.Name = "Guna2HtmlLabel108"
+        Guna2HtmlLabel108.Size = New Size(55, 17)
+        Guna2HtmlLabel108.TabIndex = 6
+        Guna2HtmlLabel108.Text = "Employee"
+        ' 
+        ' Guna2TextBox11
+        ' 
+        Guna2TextBox11.CustomizableEdges = CustomizableEdges19
+        Guna2TextBox11.DefaultText = ""
+        Guna2TextBox11.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox11.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox11.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox11.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox11.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox11.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox11.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox11.Location = New Point(388, 105)
+        Guna2TextBox11.Name = "Guna2TextBox11"
+        Guna2TextBox11.PasswordChar = ChrW(0)
+        Guna2TextBox11.PlaceholderText = ""
+        Guna2TextBox11.SelectedText = ""
+        Guna2TextBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        Guna2TextBox11.Size = New Size(320, 30)
+        Guna2TextBox11.TabIndex = 5
+        ' 
+        ' Guna2HtmlLabel106
+        ' 
+        Guna2HtmlLabel106.BackColor = Color.Transparent
+        Guna2HtmlLabel106.ForeColor = SystemColors.ButtonFace
+        Guna2HtmlLabel106.Location = New Point(388, 16)
+        Guna2HtmlLabel106.Name = "Guna2HtmlLabel106"
+        Guna2HtmlLabel106.Size = New Size(77, 17)
+        Guna2HtmlLabel106.TabIndex = 2
+        Guna2HtmlLabel106.Text = "Type of Filling"
+        ' 
+        ' Guna2TextBox9
+        ' 
+        Guna2TextBox9.CustomizableEdges = CustomizableEdges21
+        Guna2TextBox9.DefaultText = ""
+        Guna2TextBox9.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox9.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox9.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox9.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox9.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox9.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox9.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox9.Location = New Point(39, 39)
+        Guna2TextBox9.Name = "Guna2TextBox9"
+        Guna2TextBox9.PasswordChar = ChrW(0)
+        Guna2TextBox9.PlaceholderText = ""
+        Guna2TextBox9.SelectedText = ""
+        Guna2TextBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        Guna2TextBox9.Size = New Size(343, 30)
+        Guna2TextBox9.TabIndex = 0
+        ' 
+        ' Guna2HtmlLabel105
+        ' 
+        Guna2HtmlLabel105.BackColor = Color.Transparent
+        Guna2HtmlLabel105.ForeColor = SystemColors.ButtonFace
+        Guna2HtmlLabel105.Location = New Point(39, 16)
+        Guna2HtmlLabel105.Name = "Guna2HtmlLabel105"
+        Guna2HtmlLabel105.Size = New Size(55, 17)
+        Guna2HtmlLabel105.TabIndex = 1
+        Guna2HtmlLabel105.Text = "Reference"
+        ' 
+        ' Guna2HtmlLabel107
+        ' 
+        Guna2HtmlLabel107.BackColor = Color.Transparent
+        Guna2HtmlLabel107.ForeColor = SystemColors.ButtonFace
+        Guna2HtmlLabel107.Location = New Point(39, 82)
+        Guna2HtmlLabel107.Name = "Guna2HtmlLabel107"
+        Guna2HtmlLabel107.Size = New Size(93, 17)
+        Guna2HtmlLabel107.TabIndex = 4
+        Guna2HtmlLabel107.Text = "Search Employee"
+        ' 
+        ' Guna2TextBox10
+        ' 
+        Guna2TextBox10.CustomizableEdges = CustomizableEdges23
+        Guna2TextBox10.DefaultText = ""
+        Guna2TextBox10.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox10.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox10.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox10.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox10.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox10.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox10.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox10.Location = New Point(39, 105)
+        Guna2TextBox10.Name = "Guna2TextBox10"
+        Guna2TextBox10.PasswordChar = ChrW(0)
+        Guna2TextBox10.PlaceholderText = ""
+        Guna2TextBox10.SelectedText = ""
+        Guna2TextBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        Guna2TextBox10.Size = New Size(343, 30)
+        Guna2TextBox10.TabIndex = 3
+        ' 
+        ' Guna2TextBox8
+        ' 
+        Guna2TextBox8.CustomizableEdges = CustomizableEdges25
+        Guna2TextBox8.DefaultText = ""
+        Guna2TextBox8.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox8.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox8.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox8.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox8.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox8.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox8.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox8.Location = New Point(388, 39)
+        Guna2TextBox8.Name = "Guna2TextBox8"
+        Guna2TextBox8.PasswordChar = ChrW(0)
+        Guna2TextBox8.PlaceholderText = ""
+        Guna2TextBox8.SelectedText = ""
+        Guna2TextBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges26
+        Guna2TextBox8.Size = New Size(320, 30)
+        Guna2TextBox8.TabIndex = 0
+        ' 
+        ' Guna2Panel15
+        ' 
+        Guna2Panel15.CustomizableEdges = CustomizableEdges31
+        Guna2Panel15.Dock = DockStyle.Left
+        Guna2Panel15.Location = New Point(3, 3)
+        Guna2Panel15.Name = "Guna2Panel15"
+        Guna2Panel15.ShadowDecoration.CustomizableEdges = CustomizableEdges32
+        Guna2Panel15.Size = New Size(819, 986)
+        Guna2Panel15.TabIndex = 0
+        ' 
+        ' Guna2HtmlLabel109
+        ' 
+        Guna2HtmlLabel109.BackColor = Color.Transparent
+        Guna2HtmlLabel109.ForeColor = SystemColors.ButtonFace
+        Guna2HtmlLabel109.Location = New Point(21, 15)
+        Guna2HtmlLabel109.Name = "Guna2HtmlLabel109"
+        Guna2HtmlLabel109.Size = New Size(146, 17)
+        Guna2HtmlLabel109.TabIndex = 7
+        Guna2HtmlLabel109.Text = "ASSETS (REAL PROPERTIES)"
+        ' 
         ' TabPage2
         ' 
-        TabPage2.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage2.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage2.Controls.Add(Guna2GradientPanel7)
         TabPage2.Controls.Add(Guna2Panel9)
         TabPage2.Location = New Point(204, 4)
@@ -903,17 +1126,18 @@ Partial Class EmployeeManagement
         ' 
         Guna2GradientPanel7.Controls.Add(Guna2GradientPanel9)
         Guna2GradientPanel7.Controls.Add(Guna2GradientPanel8)
-        Guna2GradientPanel7.CustomizableEdges = CustomizableEdges37
+        Guna2GradientPanel7.CustomizableEdges = CustomizableEdges53
         Guna2GradientPanel7.Dock = DockStyle.Fill
         Guna2GradientPanel7.Location = New Point(3, 60)
         Guna2GradientPanel7.Name = "Guna2GradientPanel7"
-        Guna2GradientPanel7.ShadowDecoration.CustomizableEdges = CustomizableEdges38
+        Guna2GradientPanel7.ShadowDecoration.CustomizableEdges = CustomizableEdges54
         Guna2GradientPanel7.Size = New Size(1586, 929)
         Guna2GradientPanel7.TabIndex = 6
         ' 
         ' Guna2GradientPanel9
         ' 
         Guna2GradientPanel9.BackColor = Color.White
+        Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel126)
         Guna2GradientPanel9.Controls.Add(BAtbt2)
         Guna2GradientPanel9.Controls.Add(BAtbt1)
         Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel177)
@@ -930,51 +1154,51 @@ Partial Class EmployeeManagement
         Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel172)
         Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel170)
         Guna2GradientPanel9.Controls.Add(Guna2HtmlLabel171)
-        Guna2GradientPanel9.CustomizableEdges = CustomizableEdges33
+        Guna2GradientPanel9.CustomizableEdges = CustomizableEdges49
         Guna2GradientPanel9.Dock = DockStyle.Fill
         Guna2GradientPanel9.Location = New Point(783, 0)
         Guna2GradientPanel9.Name = "Guna2GradientPanel9"
-        Guna2GradientPanel9.ShadowDecoration.CustomizableEdges = CustomizableEdges34
+        Guna2GradientPanel9.ShadowDecoration.CustomizableEdges = CustomizableEdges50
         Guna2GradientPanel9.Size = New Size(803, 929)
         Guna2GradientPanel9.TabIndex = 1
         ' 
         ' BAtbt2
         ' 
-        BAtbt2.CustomizableEdges = CustomizableEdges17
+        BAtbt2.CustomizableEdges = CustomizableEdges33
         BAtbt2.DefaultText = ""
-        BAtbt2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt2.Location = New Point(470, 44)
         BAtbt2.Name = "BAtbt2"
         BAtbt2.PasswordChar = ChrW(0)
         BAtbt2.PlaceholderText = ""
         BAtbt2.SelectedText = ""
-        BAtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges18
+        BAtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges34
         BAtbt2.Size = New Size(264, 30)
         BAtbt2.TabIndex = 26
         ' 
         ' BAtbt1
         ' 
-        BAtbt1.CustomizableEdges = CustomizableEdges19
+        BAtbt1.CustomizableEdges = CustomizableEdges35
         BAtbt1.DefaultText = ""
-        BAtbt1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt1.Location = New Point(114, 47)
         BAtbt1.Name = "BAtbt1"
         BAtbt1.PasswordChar = ChrW(0)
         BAtbt1.PlaceholderText = ""
         BAtbt1.SelectedText = ""
-        BAtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges20
+        BAtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges36
         BAtbt1.Size = New Size(264, 30)
         BAtbt1.TabIndex = 25
         ' 
@@ -990,22 +1214,22 @@ Partial Class EmployeeManagement
         ' 
         ' BAtbt6
         ' 
-        BAtbt6.CustomizableEdges = CustomizableEdges21
+        BAtbt6.CustomizableEdges = CustomizableEdges37
         BAtbt6.DefaultText = ""
-        BAtbt6.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt6.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt6.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt6.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt6.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt6.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt6.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt6.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt6.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt6.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt6.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt6.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt6.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt6.Location = New Point(450, 312)
         BAtbt6.Multiline = True
         BAtbt6.Name = "BAtbt6"
         BAtbt6.PasswordChar = ChrW(0)
         BAtbt6.PlaceholderText = ""
         BAtbt6.SelectedText = ""
-        BAtbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges22
+        BAtbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges38
         BAtbt6.Size = New Size(321, 76)
         BAtbt6.TabIndex = 23
         ' 
@@ -1023,7 +1247,7 @@ Partial Class EmployeeManagement
         ' 
         BAdtp.Checked = True
         BAdtp.CustomFormat = "MMM dd, yyyy"
-        BAdtp.CustomizableEdges = CustomizableEdges23
+        BAdtp.CustomizableEdges = CustomizableEdges39
         BAdtp.Enabled = False
         BAdtp.FillColor = Color.White
         BAdtp.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
@@ -1032,7 +1256,7 @@ Partial Class EmployeeManagement
         BAdtp.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         BAdtp.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         BAdtp.Name = "BAdtp"
-        BAdtp.ShadowDecoration.CustomizableEdges = CustomizableEdges24
+        BAdtp.ShadowDecoration.CustomizableEdges = CustomizableEdges40
         BAdtp.Size = New Size(264, 30)
         BAdtp.TabIndex = 21
         BAdtp.Value = New Date(2023, 6, 26, 10, 5, 25, 914)
@@ -1049,39 +1273,39 @@ Partial Class EmployeeManagement
         ' 
         ' BAtbt5
         ' 
-        BAtbt5.CustomizableEdges = CustomizableEdges25
+        BAtbt5.CustomizableEdges = CustomizableEdges41
         BAtbt5.DefaultText = ""
-        BAtbt5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt5.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt5.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt5.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt5.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt5.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt5.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt5.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt5.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt5.Location = New Point(450, 213)
         BAtbt5.Name = "BAtbt5"
         BAtbt5.PasswordChar = ChrW(0)
         BAtbt5.PlaceholderText = ""
         BAtbt5.SelectedText = ""
-        BAtbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges26
+        BAtbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges42
         BAtbt5.Size = New Size(321, 30)
         BAtbt5.TabIndex = 19
         ' 
         ' BAcmb
         ' 
         BAcmb.BackColor = Color.Transparent
-        BAcmb.CustomizableEdges = CustomizableEdges27
+        BAcmb.CustomizableEdges = CustomizableEdges43
         BAcmb.DrawMode = DrawMode.OwnerDrawFixed
         BAcmb.DropDownStyle = ComboBoxStyle.DropDownList
-        BAcmb.FocusedColor = Color.FromArgb(94, 148, 255)
-        BAcmb.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAcmb.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        BAcmb.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAcmb.Font = New Font("Segoe UI", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAcmb.ForeColor = Color.FromArgb(68, 88, 112)
+        BAcmb.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         BAcmb.ItemHeight = 24
         BAcmb.Items.AddRange(New Object() {"Development Bank of the Philippines"})
         BAcmb.Location = New Point(85, 115)
         BAcmb.Name = "BAcmb"
-        BAcmb.ShadowDecoration.CustomizableEdges = CustomizableEdges28
+        BAcmb.ShadowDecoration.CustomizableEdges = CustomizableEdges44
         BAcmb.Size = New Size(264, 30)
         BAcmb.TabIndex = 18
         ' 
@@ -1097,21 +1321,21 @@ Partial Class EmployeeManagement
         ' 
         ' BAtbt4
         ' 
-        BAtbt4.CustomizableEdges = CustomizableEdges29
+        BAtbt4.CustomizableEdges = CustomizableEdges45
         BAtbt4.DefaultText = ""
-        BAtbt4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt4.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt4.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt4.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt4.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt4.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt4.Location = New Point(85, 213)
         BAtbt4.Name = "BAtbt4"
         BAtbt4.PasswordChar = ChrW(0)
         BAtbt4.PlaceholderText = ""
         BAtbt4.SelectedText = ""
-        BAtbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges30
+        BAtbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges46
         BAtbt4.Size = New Size(264, 30)
         BAtbt4.TabIndex = 16
         ' 
@@ -1127,21 +1351,21 @@ Partial Class EmployeeManagement
         ' 
         ' BAtbt3
         ' 
-        BAtbt3.CustomizableEdges = CustomizableEdges31
+        BAtbt3.CustomizableEdges = CustomizableEdges47
         BAtbt3.DefaultText = ""
-        BAtbt3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        BAtbt3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        BAtbt3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        BAtbt3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        BAtbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        BAtbt3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        BAtbt3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        BAtbt3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        BAtbt3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         BAtbt3.Location = New Point(450, 115)
         BAtbt3.Name = "BAtbt3"
         BAtbt3.PasswordChar = ChrW(0)
         BAtbt3.PlaceholderText = ""
         BAtbt3.SelectedText = ""
-        BAtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges32
+        BAtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges48
         BAtbt3.Size = New Size(321, 30)
         BAtbt3.TabIndex = 14
         ' 
@@ -1178,11 +1402,11 @@ Partial Class EmployeeManagement
         ' Guna2GradientPanel8
         ' 
         Guna2GradientPanel8.Controls.Add(Guna2DataGridView1)
-        Guna2GradientPanel8.CustomizableEdges = CustomizableEdges35
+        Guna2GradientPanel8.CustomizableEdges = CustomizableEdges51
         Guna2GradientPanel8.Dock = DockStyle.Left
         Guna2GradientPanel8.Location = New Point(0, 0)
         Guna2GradientPanel8.Name = "Guna2GradientPanel8"
-        Guna2GradientPanel8.ShadowDecoration.CustomizableEdges = CustomizableEdges36
+        Guna2GradientPanel8.ShadowDecoration.CustomizableEdges = CustomizableEdges52
         Guna2GradientPanel8.Size = New Size(783, 929)
         Guna2GradientPanel8.TabIndex = 0
         ' 
@@ -1192,7 +1416,7 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle1
         Guna2DataGridView1.AutoGenerateColumns = False
         DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle2.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle2.ForeColor = Color.White
         DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
@@ -1205,13 +1429,13 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle3.BackColor = Color.White
         DataGridViewCellStyle3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle3.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle3.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle3.WrapMode = DataGridViewTriState.False
         Guna2DataGridView1.DefaultCellStyle = DataGridViewCellStyle3
         Guna2DataGridView1.Dock = DockStyle.Fill
-        Guna2DataGridView1.GridColor = Color.FromArgb(231, 229, 255)
+        Guna2DataGridView1.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView1.Location = New Point(0, 0)
         Guna2DataGridView1.Name = "Guna2DataGridView1"
         Guna2DataGridView1.RowHeadersVisible = False
@@ -1224,8 +1448,8 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         Guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         Guna2DataGridView1.ThemeStyle.BackColor = Color.White
-        Guna2DataGridView1.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        Guna2DataGridView1.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         Guna2DataGridView1.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         Guna2DataGridView1.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView1.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -1235,10 +1459,10 @@ Partial Class EmployeeManagement
         Guna2DataGridView1.ThemeStyle.RowsStyle.BackColor = Color.White
         Guna2DataGridView1.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         Guna2DataGridView1.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView1.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         Guna2DataGridView1.ThemeStyle.RowsStyle.Height = 25
-        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column3
         ' 
@@ -1259,16 +1483,16 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2Panel9
         ' 
-        Guna2Panel9.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel9.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel9.Controls.Add(Guna2TextBox78)
         Guna2Panel9.Controls.Add(Guna2Button2)
         Guna2Panel9.Controls.Add(Guna2Button4)
         Guna2Panel9.Controls.Add(Guna2Button5)
-        Guna2Panel9.CustomizableEdges = CustomizableEdges47
+        Guna2Panel9.CustomizableEdges = CustomizableEdges63
         Guna2Panel9.Dock = DockStyle.Top
         Guna2Panel9.Location = New Point(3, 3)
         Guna2Panel9.Name = "Guna2Panel9"
-        Guna2Panel9.ShadowDecoration.CustomizableEdges = CustomizableEdges48
+        Guna2Panel9.ShadowDecoration.CustomizableEdges = CustomizableEdges64
         Guna2Panel9.Size = New Size(1586, 57)
         Guna2Panel9.TabIndex = 5
         ' 
@@ -1276,21 +1500,21 @@ Partial Class EmployeeManagement
         ' 
         Guna2TextBox78.BackgroundImageLayout = ImageLayout.Center
         Guna2TextBox78.BorderRadius = 3
-        Guna2TextBox78.CustomizableEdges = CustomizableEdges39
+        Guna2TextBox78.CustomizableEdges = CustomizableEdges55
         Guna2TextBox78.DefaultText = ""
-        Guna2TextBox78.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox78.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox78.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox78.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox78.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox78.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox78.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox78.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox78.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox78.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox78.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox78.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox78.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox78.Location = New Point(586, 17)
         Guna2TextBox78.Name = "Guna2TextBox78"
         Guna2TextBox78.PasswordChar = ChrW(0)
         Guna2TextBox78.PlaceholderText = ""
         Guna2TextBox78.SelectedText = ""
-        Guna2TextBox78.ShadowDecoration.CustomizableEdges = CustomizableEdges40
+        Guna2TextBox78.ShadowDecoration.CustomizableEdges = CustomizableEdges56
         Guna2TextBox78.Size = New Size(197, 29)
         Guna2TextBox78.TabIndex = 5
         ' 
@@ -1298,18 +1522,18 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button2.BorderColor = Color.Transparent
         Guna2Button2.CustomBorderColor = Color.Transparent
-        Guna2Button2.CustomizableEdges = CustomizableEdges41
+        Guna2Button2.CustomizableEdges = CustomizableEdges57
         Guna2Button2.DisabledState.BorderColor = Color.DarkGray
         Guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button2.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        Guna2Button2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        Guna2Button2.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button2.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button2.FillColor = Color.Transparent
         Guna2Button2.FocusedColor = Color.Transparent
         Guna2Button2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button2.ForeColor = Color.White
         Guna2Button2.Location = New Point(1010, 7)
         Guna2Button2.Name = "Guna2Button2"
-        Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges42
+        Guna2Button2.ShadowDecoration.CustomizableEdges = CustomizableEdges58
         Guna2Button2.Size = New Size(20, 36)
         Guna2Button2.TabIndex = 4
         ' 
@@ -1317,11 +1541,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button4.BorderColor = Color.Transparent
         Guna2Button4.CustomBorderColor = Color.Transparent
-        Guna2Button4.CustomizableEdges = CustomizableEdges43
+        Guna2Button4.CustomizableEdges = CustomizableEdges59
         Guna2Button4.DisabledState.BorderColor = Color.DarkGray
         Guna2Button4.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button4.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        Guna2Button4.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        Guna2Button4.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button4.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button4.FillColor = Color.Transparent
         Guna2Button4.FocusedColor = Color.Transparent
         Guna2Button4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
@@ -1332,7 +1556,7 @@ Partial Class EmployeeManagement
         Guna2Button4.HoverState.ForeColor = Color.Transparent
         Guna2Button4.Location = New Point(914, 17)
         Guna2Button4.Name = "Guna2Button4"
-        Guna2Button4.ShadowDecoration.CustomizableEdges = CustomizableEdges44
+        Guna2Button4.ShadowDecoration.CustomizableEdges = CustomizableEdges60
         Guna2Button4.Size = New Size(23, 28)
         Guna2Button4.TabIndex = 2
         ' 
@@ -1340,24 +1564,24 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button5.BorderColor = Color.Transparent
         Guna2Button5.CustomBorderColor = Color.Transparent
-        Guna2Button5.CustomizableEdges = CustomizableEdges45
+        Guna2Button5.CustomizableEdges = CustomizableEdges61
         Guna2Button5.DisabledState.BorderColor = Color.DarkGray
         Guna2Button5.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button5.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        Guna2Button5.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        Guna2Button5.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button5.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button5.FillColor = Color.Transparent
         Guna2Button5.FocusedColor = Color.Transparent
         Guna2Button5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button5.ForeColor = Color.White
         Guna2Button5.Location = New Point(108, 11)
         Guna2Button5.Name = "Guna2Button5"
-        Guna2Button5.ShadowDecoration.CustomizableEdges = CustomizableEdges46
+        Guna2Button5.ShadowDecoration.CustomizableEdges = CustomizableEdges62
         Guna2Button5.Size = New Size(26, 36)
         Guna2Button5.TabIndex = 3
         ' 
         ' TabPage1
         ' 
-        TabPage1.BackColor = Color.FromArgb(40, 52, 70)
+        TabPage1.BackColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         TabPage1.Controls.Add(Guna2TabControl3)
         TabPage1.Controls.Add(Guna2Panel1)
         TabPage1.Controls.Add(Guna2Panel2)
@@ -1384,23 +1608,23 @@ Partial Class EmployeeManagement
         Guna2TabControl3.SelectedIndex = 0
         Guna2TabControl3.Size = New Size(796, 929)
         Guna2TabControl3.TabButtonHoverState.BorderColor = Color.Empty
-        Guna2TabControl3.TabButtonHoverState.FillColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl3.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl3.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl3.TabButtonHoverState.ForeColor = Color.White
-        Guna2TabControl3.TabButtonHoverState.InnerColor = Color.FromArgb(40, 52, 70)
-        Guna2TabControl3.TabButtonIdleState.BorderColor = Color.FromArgb(33, 42, 57)
-        Guna2TabControl3.TabButtonIdleState.FillColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl3.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
+        Guna2TabControl3.TabButtonIdleState.BorderColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
+        Guna2TabControl3.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl3.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl3.TabButtonIdleState.ForeColor = Color.FromArgb(224, 224, 224)
-        Guna2TabControl3.TabButtonIdleState.InnerColor = Color.FromArgb(67, 86, 119)
+        Guna2TabControl3.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
+        Guna2TabControl3.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
         Guna2TabControl3.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl3.TabButtonSelectedState.FillColor = Color.LightSteelBlue
         Guna2TabControl3.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl3.TabButtonSelectedState.ForeColor = Color.FromArgb(33, 42, 57)
-        Guna2TabControl3.TabButtonSelectedState.InnerColor = Color.FromArgb(76, 132, 255)
+        Guna2TabControl3.TabButtonSelectedState.ForeColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
+        Guna2TabControl3.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl3.TabButtonSize = New Size(95, 40)
         Guna2TabControl3.TabIndex = 5
-        Guna2TabControl3.TabMenuBackColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl3.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl3.TabMenuOrientation = TabMenuOrientation.HorizontalTop
         ' 
         ' TabPage13
@@ -1428,23 +1652,23 @@ Partial Class EmployeeManagement
         Guna2TabControl4.SelectedIndex = 0
         Guna2TabControl4.Size = New Size(782, 875)
         Guna2TabControl4.TabButtonHoverState.BorderColor = Color.Empty
-        Guna2TabControl4.TabButtonHoverState.FillColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl4.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl4.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl4.TabButtonHoverState.ForeColor = Color.White
-        Guna2TabControl4.TabButtonHoverState.InnerColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl4.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl4.TabButtonIdleState.BorderColor = Color.Empty
-        Guna2TabControl4.TabButtonIdleState.FillColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl4.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl4.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl4.TabButtonIdleState.ForeColor = Color.FromArgb(156, 160, 167)
-        Guna2TabControl4.TabButtonIdleState.InnerColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl4.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(156), CByte(160), CByte(167))
+        Guna2TabControl4.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl4.TabButtonSelectedState.BorderColor = Color.Empty
-        Guna2TabControl4.TabButtonSelectedState.FillColor = Color.FromArgb(29, 37, 49)
+        Guna2TabControl4.TabButtonSelectedState.FillColor = Color.FromArgb(CByte(29), CByte(37), CByte(49))
         Guna2TabControl4.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl4.TabButtonSelectedState.ForeColor = Color.White
-        Guna2TabControl4.TabButtonSelectedState.InnerColor = Color.FromArgb(76, 132, 255)
+        Guna2TabControl4.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl4.TabButtonSize = New Size(150, 40)
         Guna2TabControl4.TabIndex = 0
-        Guna2TabControl4.TabMenuBackColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl4.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl4.TabMenuOrientation = TabMenuOrientation.HorizontalTop
         ' 
         ' TabPage19
@@ -1463,11 +1687,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel4)
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel3)
         Guna2GradientPanel1.Controls.Add(Guna2GradientPanel2)
-        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges123
+        Guna2GradientPanel1.CustomizableEdges = CustomizableEdges139
         Guna2GradientPanel1.Dock = DockStyle.Fill
         Guna2GradientPanel1.Location = New Point(3, 3)
         Guna2GradientPanel1.Name = "Guna2GradientPanel1"
-        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges124
+        Guna2GradientPanel1.ShadowDecoration.CustomizableEdges = CustomizableEdges140
         Guna2GradientPanel1.Size = New Size(768, 821)
         Guna2GradientPanel1.TabIndex = 15
         ' 
@@ -1475,11 +1699,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2GradientPanel4.Controls.Add(Guna2GradientPanel6)
         Guna2GradientPanel4.Controls.Add(Guna2GradientPanel5)
-        Guna2GradientPanel4.CustomizableEdges = CustomizableEdges83
+        Guna2GradientPanel4.CustomizableEdges = CustomizableEdges99
         Guna2GradientPanel4.Dock = DockStyle.Top
         Guna2GradientPanel4.Location = New Point(0, 509)
         Guna2GradientPanel4.Name = "Guna2GradientPanel4"
-        Guna2GradientPanel4.ShadowDecoration.CustomizableEdges = CustomizableEdges84
+        Guna2GradientPanel4.ShadowDecoration.CustomizableEdges = CustomizableEdges100
         Guna2GradientPanel4.Size = New Size(768, 312)
         Guna2GradientPanel4.TabIndex = 2
         ' 
@@ -1502,33 +1726,33 @@ Partial Class EmployeeManagement
         Guna2GradientPanel6.Controls.Add(Guna2HtmlLabel33)
         Guna2GradientPanel6.Controls.Add(tbt25)
         Guna2GradientPanel6.Controls.Add(Guna2HtmlLabel34)
-        Guna2GradientPanel6.CustomizableEdges = CustomizableEdges65
+        Guna2GradientPanel6.CustomizableEdges = CustomizableEdges81
         Guna2GradientPanel6.Dock = DockStyle.Left
         Guna2GradientPanel6.Location = New Point(390, 0)
         Guna2GradientPanel6.Name = "Guna2GradientPanel6"
-        Guna2GradientPanel6.ShadowDecoration.CustomizableEdges = CustomizableEdges66
+        Guna2GradientPanel6.ShadowDecoration.CustomizableEdges = CustomizableEdges82
         Guna2GradientPanel6.Size = New Size(378, 312)
         Guna2GradientPanel6.TabIndex = 1
         ' 
         ' tbt32
         ' 
-        tbt32.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt32.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt32.CheckedState.BorderRadius = 2
         tbt32.CheckedState.BorderThickness = 0
-        tbt32.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
-        tbt32.CustomizableEdges = CustomizableEdges49
+        tbt32.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        tbt32.CustomizableEdges = CustomizableEdges65
         tbt32.Enabled = False
         tbt32.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         tbt32.Location = New Point(296, 6)
         tbt32.Name = "tbt32"
-        tbt32.ShadowDecoration.CustomizableEdges = CustomizableEdges50
+        tbt32.ShadowDecoration.CustomizableEdges = CustomizableEdges66
         tbt32.Size = New Size(20, 20)
         tbt32.TabIndex = 62
         tbt32.Text = "Guna2CustomCheckBox1"
-        tbt32.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        tbt32.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         tbt32.UncheckedState.BorderRadius = 2
         tbt32.UncheckedState.BorderThickness = 0
-        tbt32.UncheckedState.FillColor = Color.FromArgb(125, 137, 149)
+        tbt32.UncheckedState.FillColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         ' 
         ' Guna2HtmlLabel37
         ' 
@@ -1562,43 +1786,43 @@ Partial Class EmployeeManagement
         ' 
         ' tbt30
         ' 
-        tbt30.CustomizableEdges = CustomizableEdges51
+        tbt30.CustomizableEdges = CustomizableEdges67
         tbt30.DefaultText = ""
-        tbt30.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt30.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt30.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt30.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt30.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt30.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt30.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt30.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt30.Enabled = False
-        tbt30.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt30.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt30.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt30.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt30.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt30.Location = New Point(275, 205)
         tbt30.Name = "tbt30"
         tbt30.PasswordChar = ChrW(0)
         tbt30.PlaceholderText = ""
         tbt30.SelectedText = ""
-        tbt30.ShadowDecoration.CustomizableEdges = CustomizableEdges52
+        tbt30.ShadowDecoration.CustomizableEdges = CustomizableEdges68
         tbt30.Size = New Size(93, 30)
         tbt30.TabIndex = 58
         ' 
         ' tbt31
         ' 
-        tbt31.CustomizableEdges = CustomizableEdges53
+        tbt31.CustomizableEdges = CustomizableEdges69
         tbt31.DefaultText = ""
-        tbt31.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt31.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt31.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt31.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt31.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt31.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt31.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt31.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt31.Enabled = False
-        tbt31.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt31.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt31.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt31.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt31.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt31.Location = New Point(20, 272)
         tbt31.Name = "tbt31"
         tbt31.PasswordChar = ChrW(0)
         tbt31.PlaceholderText = ""
         tbt31.SelectedText = ""
-        tbt31.ShadowDecoration.CustomizableEdges = CustomizableEdges54
+        tbt31.ShadowDecoration.CustomizableEdges = CustomizableEdges70
         tbt31.Size = New Size(348, 30)
         tbt31.TabIndex = 57
         ' 
@@ -1614,22 +1838,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt29
         ' 
-        tbt29.CustomizableEdges = CustomizableEdges55
+        tbt29.CustomizableEdges = CustomizableEdges71
         tbt29.DefaultText = ""
-        tbt29.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt29.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt29.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt29.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt29.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt29.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt29.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt29.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt29.Enabled = False
-        tbt29.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt29.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt29.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt29.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt29.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt29.Location = New Point(20, 205)
         tbt29.Name = "tbt29"
         tbt29.PasswordChar = ChrW(0)
         tbt29.PlaceholderText = ""
         tbt29.SelectedText = ""
-        tbt29.ShadowDecoration.CustomizableEdges = CustomizableEdges56
+        tbt29.ShadowDecoration.CustomizableEdges = CustomizableEdges72
         tbt29.Size = New Size(237, 30)
         tbt29.TabIndex = 55
         ' 
@@ -1645,22 +1869,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt28
         ' 
-        tbt28.CustomizableEdges = CustomizableEdges57
+        tbt28.CustomizableEdges = CustomizableEdges73
         tbt28.DefaultText = ""
-        tbt28.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt28.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt28.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt28.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt28.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt28.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt28.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt28.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt28.Enabled = False
-        tbt28.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt28.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt28.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt28.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt28.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt28.Location = New Point(218, 137)
         tbt28.Name = "tbt28"
         tbt28.PasswordChar = ChrW(0)
         tbt28.PlaceholderText = ""
         tbt28.SelectedText = ""
-        tbt28.ShadowDecoration.CustomizableEdges = CustomizableEdges58
+        tbt28.ShadowDecoration.CustomizableEdges = CustomizableEdges74
         tbt28.Size = New Size(150, 30)
         tbt28.TabIndex = 53
         ' 
@@ -1676,22 +1900,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt27
         ' 
-        tbt27.CustomizableEdges = CustomizableEdges59
+        tbt27.CustomizableEdges = CustomizableEdges75
         tbt27.DefaultText = ""
-        tbt27.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt27.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt27.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt27.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt27.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt27.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt27.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt27.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt27.Enabled = False
-        tbt27.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt27.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt27.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt27.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt27.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt27.Location = New Point(20, 137)
         tbt27.Name = "tbt27"
         tbt27.PasswordChar = ChrW(0)
         tbt27.PlaceholderText = ""
         tbt27.SelectedText = ""
-        tbt27.ShadowDecoration.CustomizableEdges = CustomizableEdges60
+        tbt27.ShadowDecoration.CustomizableEdges = CustomizableEdges76
         tbt27.Size = New Size(150, 30)
         tbt27.TabIndex = 51
         ' 
@@ -1707,22 +1931,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt26
         ' 
-        tbt26.CustomizableEdges = CustomizableEdges61
+        tbt26.CustomizableEdges = CustomizableEdges77
         tbt26.DefaultText = ""
-        tbt26.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt26.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt26.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt26.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt26.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt26.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt26.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt26.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt26.Enabled = False
-        tbt26.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt26.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt26.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt26.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt26.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt26.Location = New Point(218, 64)
         tbt26.Name = "tbt26"
         tbt26.PasswordChar = ChrW(0)
         tbt26.PlaceholderText = ""
         tbt26.SelectedText = ""
-        tbt26.ShadowDecoration.CustomizableEdges = CustomizableEdges62
+        tbt26.ShadowDecoration.CustomizableEdges = CustomizableEdges78
         tbt26.Size = New Size(150, 30)
         tbt26.TabIndex = 49
         ' 
@@ -1738,22 +1962,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt25
         ' 
-        tbt25.CustomizableEdges = CustomizableEdges63
+        tbt25.CustomizableEdges = CustomizableEdges79
         tbt25.DefaultText = ""
-        tbt25.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt25.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt25.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt25.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt25.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt25.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt25.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt25.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt25.Enabled = False
-        tbt25.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt25.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt25.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt25.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt25.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt25.Location = New Point(20, 64)
         tbt25.Name = "tbt25"
         tbt25.PasswordChar = ChrW(0)
         tbt25.PlaceholderText = ""
         tbt25.SelectedText = ""
-        tbt25.ShadowDecoration.CustomizableEdges = CustomizableEdges64
+        tbt25.ShadowDecoration.CustomizableEdges = CustomizableEdges80
         tbt25.Size = New Size(150, 30)
         tbt25.TabIndex = 47
         ' 
@@ -1784,11 +2008,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel5.Controls.Add(Guna2HtmlLabel22)
         Guna2GradientPanel5.Controls.Add(tbt18)
         Guna2GradientPanel5.Controls.Add(Guna2HtmlLabel21)
-        Guna2GradientPanel5.CustomizableEdges = CustomizableEdges81
+        Guna2GradientPanel5.CustomizableEdges = CustomizableEdges97
         Guna2GradientPanel5.Dock = DockStyle.Left
         Guna2GradientPanel5.Location = New Point(0, 0)
         Guna2GradientPanel5.Name = "Guna2GradientPanel5"
-        Guna2GradientPanel5.ShadowDecoration.CustomizableEdges = CustomizableEdges82
+        Guna2GradientPanel5.ShadowDecoration.CustomizableEdges = CustomizableEdges98
         Guna2GradientPanel5.Size = New Size(390, 312)
         Guna2GradientPanel5.TabIndex = 0
         ' 
@@ -1814,43 +2038,43 @@ Partial Class EmployeeManagement
         ' 
         ' tbt23
         ' 
-        tbt23.CustomizableEdges = CustomizableEdges67
+        tbt23.CustomizableEdges = CustomizableEdges83
         tbt23.DefaultText = ""
-        tbt23.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt23.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt23.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt23.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt23.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt23.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt23.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt23.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt23.Enabled = False
-        tbt23.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt23.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt23.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt23.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt23.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt23.Location = New Point(285, 205)
         tbt23.Name = "tbt23"
         tbt23.PasswordChar = ChrW(0)
         tbt23.PlaceholderText = ""
         tbt23.SelectedText = ""
-        tbt23.ShadowDecoration.CustomizableEdges = CustomizableEdges68
+        tbt23.ShadowDecoration.CustomizableEdges = CustomizableEdges84
         tbt23.Size = New Size(93, 30)
         tbt23.TabIndex = 44
         ' 
         ' tbt24
         ' 
-        tbt24.CustomizableEdges = CustomizableEdges69
+        tbt24.CustomizableEdges = CustomizableEdges85
         tbt24.DefaultText = ""
-        tbt24.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt24.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt24.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt24.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt24.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt24.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt24.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt24.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt24.Enabled = False
-        tbt24.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt24.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt24.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt24.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt24.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt24.Location = New Point(30, 272)
         tbt24.Name = "tbt24"
         tbt24.PasswordChar = ChrW(0)
         tbt24.PlaceholderText = ""
         tbt24.SelectedText = ""
-        tbt24.ShadowDecoration.CustomizableEdges = CustomizableEdges70
+        tbt24.ShadowDecoration.CustomizableEdges = CustomizableEdges86
         tbt24.Size = New Size(348, 30)
         tbt24.TabIndex = 43
         ' 
@@ -1866,22 +2090,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt22
         ' 
-        tbt22.CustomizableEdges = CustomizableEdges71
+        tbt22.CustomizableEdges = CustomizableEdges87
         tbt22.DefaultText = ""
-        tbt22.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt22.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt22.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt22.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt22.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt22.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt22.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt22.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt22.Enabled = False
-        tbt22.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt22.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt22.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt22.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt22.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt22.Location = New Point(30, 205)
         tbt22.Name = "tbt22"
         tbt22.PasswordChar = ChrW(0)
         tbt22.PlaceholderText = ""
         tbt22.SelectedText = ""
-        tbt22.ShadowDecoration.CustomizableEdges = CustomizableEdges72
+        tbt22.ShadowDecoration.CustomizableEdges = CustomizableEdges88
         tbt22.Size = New Size(237, 30)
         tbt22.TabIndex = 41
         ' 
@@ -1897,22 +2121,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt21
         ' 
-        tbt21.CustomizableEdges = CustomizableEdges73
+        tbt21.CustomizableEdges = CustomizableEdges89
         tbt21.DefaultText = ""
-        tbt21.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt21.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt21.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt21.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt21.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt21.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt21.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt21.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt21.Enabled = False
-        tbt21.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt21.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt21.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt21.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt21.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt21.Location = New Point(228, 137)
         tbt21.Name = "tbt21"
         tbt21.PasswordChar = ChrW(0)
         tbt21.PlaceholderText = ""
         tbt21.SelectedText = ""
-        tbt21.ShadowDecoration.CustomizableEdges = CustomizableEdges74
+        tbt21.ShadowDecoration.CustomizableEdges = CustomizableEdges90
         tbt21.Size = New Size(150, 30)
         tbt21.TabIndex = 39
         ' 
@@ -1928,22 +2152,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt20
         ' 
-        tbt20.CustomizableEdges = CustomizableEdges75
+        tbt20.CustomizableEdges = CustomizableEdges91
         tbt20.DefaultText = ""
-        tbt20.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt20.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt20.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt20.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt20.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt20.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt20.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt20.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt20.Enabled = False
-        tbt20.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt20.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt20.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt20.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt20.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt20.Location = New Point(30, 137)
         tbt20.Name = "tbt20"
         tbt20.PasswordChar = ChrW(0)
         tbt20.PlaceholderText = ""
         tbt20.SelectedText = ""
-        tbt20.ShadowDecoration.CustomizableEdges = CustomizableEdges76
+        tbt20.ShadowDecoration.CustomizableEdges = CustomizableEdges92
         tbt20.Size = New Size(150, 30)
         tbt20.TabIndex = 37
         ' 
@@ -1959,22 +2183,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt19
         ' 
-        tbt19.CustomizableEdges = CustomizableEdges77
+        tbt19.CustomizableEdges = CustomizableEdges93
         tbt19.DefaultText = ""
-        tbt19.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt19.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt19.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt19.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt19.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt19.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt19.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt19.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt19.Enabled = False
-        tbt19.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt19.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt19.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt19.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt19.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt19.Location = New Point(228, 64)
         tbt19.Name = "tbt19"
         tbt19.PasswordChar = ChrW(0)
         tbt19.PlaceholderText = ""
         tbt19.SelectedText = ""
-        tbt19.ShadowDecoration.CustomizableEdges = CustomizableEdges78
+        tbt19.ShadowDecoration.CustomizableEdges = CustomizableEdges94
         tbt19.Size = New Size(150, 30)
         tbt19.TabIndex = 35
         ' 
@@ -1990,22 +2214,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt18
         ' 
-        tbt18.CustomizableEdges = CustomizableEdges79
+        tbt18.CustomizableEdges = CustomizableEdges95
         tbt18.DefaultText = ""
-        tbt18.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt18.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt18.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt18.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt18.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt18.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt18.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt18.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt18.Enabled = False
-        tbt18.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt18.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt18.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt18.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt18.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt18.Location = New Point(30, 64)
         tbt18.Name = "tbt18"
         tbt18.PasswordChar = ChrW(0)
         tbt18.PlaceholderText = ""
         tbt18.SelectedText = ""
-        tbt18.ShadowDecoration.CustomizableEdges = CustomizableEdges80
+        tbt18.ShadowDecoration.CustomizableEdges = CustomizableEdges96
         tbt18.Size = New Size(150, 30)
         tbt18.TabIndex = 33
         ' 
@@ -2046,11 +2270,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel3.Controls.Add(tbt7)
         Guna2GradientPanel3.Controls.Add(tbt6)
         Guna2GradientPanel3.Controls.Add(Guna2HtmlLabel9)
-        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges109
+        Guna2GradientPanel3.CustomizableEdges = CustomizableEdges125
         Guna2GradientPanel3.Dock = DockStyle.Top
         Guna2GradientPanel3.Location = New Point(0, 229)
         Guna2GradientPanel3.Name = "Guna2GradientPanel3"
-        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges110
+        Guna2GradientPanel3.ShadowDecoration.CustomizableEdges = CustomizableEdges126
         Guna2GradientPanel3.Size = New Size(768, 280)
         Guna2GradientPanel3.TabIndex = 1
         ' 
@@ -2066,22 +2290,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt17
         ' 
-        tbt17.CustomizableEdges = CustomizableEdges85
+        tbt17.CustomizableEdges = CustomizableEdges101
         tbt17.DefaultText = ""
-        tbt17.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt17.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt17.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt17.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt17.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt17.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt17.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt17.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt17.Enabled = False
-        tbt17.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt17.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt17.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt17.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt17.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt17.Location = New Point(283, 237)
         tbt17.Name = "tbt17"
         tbt17.PasswordChar = ChrW(0)
         tbt17.PlaceholderText = ""
         tbt17.SelectedText = ""
-        tbt17.ShadowDecoration.CustomizableEdges = CustomizableEdges86
+        tbt17.ShadowDecoration.CustomizableEdges = CustomizableEdges102
         tbt17.Size = New Size(200, 30)
         tbt17.TabIndex = 34
         ' 
@@ -2097,22 +2321,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt16
         ' 
-        tbt16.CustomizableEdges = CustomizableEdges87
+        tbt16.CustomizableEdges = CustomizableEdges103
         tbt16.DefaultText = ""
-        tbt16.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt16.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt16.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt16.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt16.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt16.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt16.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt16.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt16.Enabled = False
-        tbt16.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt16.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt16.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt16.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt16.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt16.Location = New Point(30, 237)
         tbt16.Name = "tbt16"
         tbt16.PasswordChar = ChrW(0)
         tbt16.PlaceholderText = ""
         tbt16.SelectedText = ""
-        tbt16.ShadowDecoration.CustomizableEdges = CustomizableEdges88
+        tbt16.ShadowDecoration.CustomizableEdges = CustomizableEdges104
         tbt16.Size = New Size(200, 30)
         tbt16.TabIndex = 32
         ' 
@@ -2128,22 +2352,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt15
         ' 
-        tbt15.CustomizableEdges = CustomizableEdges89
+        tbt15.CustomizableEdges = CustomizableEdges105
         tbt15.DefaultText = ""
-        tbt15.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt15.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt15.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt15.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt15.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt15.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt15.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt15.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt15.Enabled = False
-        tbt15.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt15.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt15.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt15.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt15.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt15.Location = New Point(545, 174)
         tbt15.Name = "tbt15"
         tbt15.PasswordChar = ChrW(0)
         tbt15.PlaceholderText = ""
         tbt15.SelectedText = ""
-        tbt15.ShadowDecoration.CustomizableEdges = CustomizableEdges90
+        tbt15.ShadowDecoration.CustomizableEdges = CustomizableEdges106
         tbt15.Size = New Size(200, 30)
         tbt15.TabIndex = 30
         ' 
@@ -2159,22 +2383,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt14
         ' 
-        tbt14.CustomizableEdges = CustomizableEdges91
+        tbt14.CustomizableEdges = CustomizableEdges107
         tbt14.DefaultText = ""
-        tbt14.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt14.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt14.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt14.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt14.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt14.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt14.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt14.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt14.Enabled = False
-        tbt14.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt14.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt14.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt14.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt14.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt14.Location = New Point(283, 174)
         tbt14.Name = "tbt14"
         tbt14.PasswordChar = ChrW(0)
         tbt14.PlaceholderText = ""
         tbt14.SelectedText = ""
-        tbt14.ShadowDecoration.CustomizableEdges = CustomizableEdges92
+        tbt14.ShadowDecoration.CustomizableEdges = CustomizableEdges108
         tbt14.Size = New Size(200, 30)
         tbt14.TabIndex = 28
         ' 
@@ -2190,22 +2414,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt13
         ' 
-        tbt13.CustomizableEdges = CustomizableEdges93
+        tbt13.CustomizableEdges = CustomizableEdges109
         tbt13.DefaultText = ""
-        tbt13.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt13.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt13.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt13.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt13.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt13.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt13.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt13.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt13.Enabled = False
-        tbt13.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt13.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt13.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt13.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt13.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt13.Location = New Point(30, 174)
         tbt13.Name = "tbt13"
         tbt13.PasswordChar = ChrW(0)
         tbt13.PlaceholderText = ""
         tbt13.SelectedText = ""
-        tbt13.ShadowDecoration.CustomizableEdges = CustomizableEdges94
+        tbt13.ShadowDecoration.CustomizableEdges = CustomizableEdges110
         tbt13.Size = New Size(200, 30)
         tbt13.TabIndex = 26
         ' 
@@ -2222,33 +2446,33 @@ Partial Class EmployeeManagement
         ' tbt12
         ' 
         tbt12.BackColor = Color.Transparent
-        tbt12.CustomizableEdges = CustomizableEdges95
+        tbt12.CustomizableEdges = CustomizableEdges111
         tbt12.DrawMode = DrawMode.OwnerDrawFixed
         tbt12.DropDownStyle = ComboBoxStyle.DropDownList
         tbt12.Enabled = False
-        tbt12.FocusedColor = Color.FromArgb(94, 148, 255)
-        tbt12.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt12.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        tbt12.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt12.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt12.ForeColor = Color.FromArgb(68, 88, 112)
+        tbt12.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         tbt12.ItemHeight = 24
         tbt12.Items.AddRange(New Object() {"N/A", "A+", "B+", "O+", "AB+", "A-", "B-", "O-", "AB-"})
         tbt12.Location = New Point(605, 103)
         tbt12.Name = "tbt12"
-        tbt12.ShadowDecoration.CustomizableEdges = CustomizableEdges96
+        tbt12.ShadowDecoration.CustomizableEdges = CustomizableEdges112
         tbt12.Size = New Size(140, 30)
         tbt12.TabIndex = 12
         ' 
         ' tbt11
         ' 
         tbt11.BackColor = Color.Transparent
-        tbt11.CustomizableEdges = CustomizableEdges97
+        tbt11.CustomizableEdges = CustomizableEdges113
         tbt11.DecimalPlaces = 2
         tbt11.Enabled = False
         tbt11.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         tbt11.Location = New Point(428, 103)
         tbt11.Maximum = New Decimal(New Integer() {150, 0, 0, 0})
         tbt11.Name = "tbt11"
-        tbt11.ShadowDecoration.CustomizableEdges = CustomizableEdges98
+        tbt11.ShadowDecoration.CustomizableEdges = CustomizableEdges114
         tbt11.Size = New Size(150, 30)
         tbt11.TabIndex = 11
         ' 
@@ -2265,7 +2489,7 @@ Partial Class EmployeeManagement
         ' tbt10
         ' 
         tbt10.BackColor = Color.Transparent
-        tbt10.CustomizableEdges = CustomizableEdges99
+        tbt10.CustomizableEdges = CustomizableEdges115
         tbt10.DecimalPlaces = 2
         tbt10.Enabled = False
         tbt10.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
@@ -2273,7 +2497,7 @@ Partial Class EmployeeManagement
         tbt10.Location = New Point(240, 103)
         tbt10.Maximum = New Decimal(New Integer() {10, 0, 0, 0})
         tbt10.Name = "tbt10"
-        tbt10.ShadowDecoration.CustomizableEdges = CustomizableEdges100
+        tbt10.ShadowDecoration.CustomizableEdges = CustomizableEdges116
         tbt10.Size = New Size(150, 30)
         tbt10.TabIndex = 10
         ' 
@@ -2300,19 +2524,19 @@ Partial Class EmployeeManagement
         ' tbt9
         ' 
         tbt9.BackColor = Color.Transparent
-        tbt9.CustomizableEdges = CustomizableEdges101
+        tbt9.CustomizableEdges = CustomizableEdges117
         tbt9.DrawMode = DrawMode.OwnerDrawFixed
         tbt9.DropDownStyle = ComboBoxStyle.DropDownList
         tbt9.Enabled = False
-        tbt9.FocusedColor = Color.FromArgb(94, 148, 255)
-        tbt9.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt9.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        tbt9.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt9.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt9.ForeColor = Color.FromArgb(68, 88, 112)
+        tbt9.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         tbt9.ItemHeight = 24
         tbt9.Items.AddRange(New Object() {"N/A", "Single", "Married", "Widowed", "Separated"})
         tbt9.Location = New Point(32, 103)
         tbt9.Name = "tbt9"
-        tbt9.ShadowDecoration.CustomizableEdges = CustomizableEdges102
+        tbt9.ShadowDecoration.CustomizableEdges = CustomizableEdges118
         tbt9.Size = New Size(180, 30)
         tbt9.TabIndex = 9
         ' 
@@ -2329,19 +2553,19 @@ Partial Class EmployeeManagement
         ' tbt8
         ' 
         tbt8.BackColor = Color.Transparent
-        tbt8.CustomizableEdges = CustomizableEdges103
+        tbt8.CustomizableEdges = CustomizableEdges119
         tbt8.DrawMode = DrawMode.OwnerDrawFixed
         tbt8.DropDownStyle = ComboBoxStyle.DropDownList
         tbt8.Enabled = False
-        tbt8.FocusedColor = Color.FromArgb(94, 148, 255)
-        tbt8.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt8.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        tbt8.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt8.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt8.ForeColor = Color.FromArgb(68, 88, 112)
+        tbt8.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         tbt8.ItemHeight = 24
         tbt8.Items.AddRange(New Object() {"Male", "Female"})
         tbt8.Location = New Point(605, 31)
         tbt8.Name = "tbt8"
-        tbt8.ShadowDecoration.CustomizableEdges = CustomizableEdges104
+        tbt8.ShadowDecoration.CustomizableEdges = CustomizableEdges120
         tbt8.Size = New Size(140, 30)
         tbt8.TabIndex = 8
         ' 
@@ -2357,22 +2581,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt7
         ' 
-        tbt7.CustomizableEdges = CustomizableEdges105
+        tbt7.CustomizableEdges = CustomizableEdges121
         tbt7.DefaultText = ""
-        tbt7.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt7.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt7.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt7.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt7.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt7.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt7.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt7.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt7.Enabled = False
-        tbt7.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt7.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt7.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt7.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt7.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt7.Location = New Point(238, 31)
         tbt7.Name = "tbt7"
         tbt7.PasswordChar = ChrW(0)
         tbt7.PlaceholderText = ""
         tbt7.SelectedText = ""
-        tbt7.ShadowDecoration.CustomizableEdges = CustomizableEdges106
+        tbt7.ShadowDecoration.CustomizableEdges = CustomizableEdges122
         tbt7.Size = New Size(340, 30)
         tbt7.TabIndex = 7
         ' 
@@ -2380,7 +2604,7 @@ Partial Class EmployeeManagement
         ' 
         tbt6.Checked = True
         tbt6.CustomFormat = "MMM dd, yyyy"
-        tbt6.CustomizableEdges = CustomizableEdges107
+        tbt6.CustomizableEdges = CustomizableEdges123
         tbt6.Enabled = False
         tbt6.FillColor = Color.White
         tbt6.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
@@ -2389,7 +2613,7 @@ Partial Class EmployeeManagement
         tbt6.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         tbt6.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         tbt6.Name = "tbt6"
-        tbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges108
+        tbt6.ShadowDecoration.CustomizableEdges = CustomizableEdges124
         tbt6.Size = New Size(180, 30)
         tbt6.TabIndex = 6
         tbt6.Value = New Date(2023, 6, 26, 10, 5, 25, 914)
@@ -2416,11 +2640,11 @@ Partial Class EmployeeManagement
         Guna2GradientPanel2.Controls.Add(Guna2HtmlLabel3)
         Guna2GradientPanel2.Controls.Add(tbt1)
         Guna2GradientPanel2.Controls.Add(tbt4)
-        Guna2GradientPanel2.CustomizableEdges = CustomizableEdges121
+        Guna2GradientPanel2.CustomizableEdges = CustomizableEdges137
         Guna2GradientPanel2.Dock = DockStyle.Top
         Guna2GradientPanel2.Location = New Point(0, 0)
         Guna2GradientPanel2.Name = "Guna2GradientPanel2"
-        Guna2GradientPanel2.ShadowDecoration.CustomizableEdges = CustomizableEdges122
+        Guna2GradientPanel2.ShadowDecoration.CustomizableEdges = CustomizableEdges138
         Guna2GradientPanel2.Size = New Size(768, 229)
         Guna2GradientPanel2.TabIndex = 0
         ' 
@@ -2446,22 +2670,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt5
         ' 
-        tbt5.CustomizableEdges = CustomizableEdges111
+        tbt5.CustomizableEdges = CustomizableEdges127
         tbt5.DefaultText = ""
-        tbt5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt5.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt5.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt5.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt5.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt5.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt5.Enabled = False
-        tbt5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt5.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt5.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt5.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt5.Location = New Point(30, 174)
         tbt5.Name = "tbt5"
         tbt5.PasswordChar = ChrW(0)
         tbt5.PlaceholderText = ""
         tbt5.SelectedText = ""
-        tbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges112
+        tbt5.ShadowDecoration.CustomizableEdges = CustomizableEdges128
         tbt5.Size = New Size(348, 30)
         tbt5.TabIndex = 5
         ' 
@@ -2477,22 +2701,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt2
         ' 
-        tbt2.CustomizableEdges = CustomizableEdges113
+        tbt2.CustomizableEdges = CustomizableEdges129
         tbt2.DefaultText = ""
-        tbt2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt2.Enabled = False
-        tbt2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt2.Location = New Point(30, 49)
         tbt2.Name = "tbt2"
         tbt2.PasswordChar = ChrW(0)
         tbt2.PlaceholderText = ""
         tbt2.SelectedText = ""
-        tbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges114
+        tbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges130
         tbt2.Size = New Size(348, 30)
         tbt2.TabIndex = 2
         ' 
@@ -2508,22 +2732,22 @@ Partial Class EmployeeManagement
         ' 
         ' tbt3
         ' 
-        tbt3.CustomizableEdges = CustomizableEdges115
+        tbt3.CustomizableEdges = CustomizableEdges131
         tbt3.DefaultText = ""
-        tbt3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt3.Enabled = False
-        tbt3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt3.Location = New Point(30, 109)
         tbt3.Name = "tbt3"
         tbt3.PasswordChar = ChrW(0)
         tbt3.PlaceholderText = ""
         tbt3.SelectedText = ""
-        tbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges116
+        tbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges132
         tbt3.Size = New Size(348, 30)
         tbt3.TabIndex = 3
         ' 
@@ -2539,43 +2763,43 @@ Partial Class EmployeeManagement
         ' 
         ' tbt1
         ' 
-        tbt1.CustomizableEdges = CustomizableEdges117
+        tbt1.CustomizableEdges = CustomizableEdges133
         tbt1.DefaultText = ""
-        tbt1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt1.Enabled = False
-        tbt1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt1.Location = New Point(558, 6)
         tbt1.Name = "tbt1"
         tbt1.PasswordChar = ChrW(0)
         tbt1.PlaceholderText = ""
         tbt1.SelectedText = ""
-        tbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges118
+        tbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges134
         tbt1.Size = New Size(200, 36)
         tbt1.TabIndex = 1
         ' 
         ' tbt4
         ' 
-        tbt4.CustomizableEdges = CustomizableEdges119
+        tbt4.CustomizableEdges = CustomizableEdges135
         tbt4.DefaultText = ""
-        tbt4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbt4.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbt4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
+        tbt4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbt4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbt4.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
         tbt4.Enabled = False
-        tbt4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt4.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbt4.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbt4.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbt4.Location = New Point(414, 109)
         tbt4.Name = "tbt4"
         tbt4.PasswordChar = ChrW(0)
         tbt4.PlaceholderText = ""
         tbt4.SelectedText = ""
-        tbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges120
+        tbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges136
         tbt4.Size = New Size(275, 30)
         tbt4.TabIndex = 4
         ' 
@@ -2642,25 +2866,51 @@ Partial Class EmployeeManagement
         Guna2Panel4.Controls.Add(Guna2HtmlLabel39)
         Guna2Panel4.Controls.Add(FBtbt33)
         Guna2Panel4.Controls.Add(Guna2HtmlLabel38)
-        Guna2Panel4.CustomizableEdges = CustomizableEdges171
+        Guna2Panel4.CustomizableEdges = CustomizableEdges187
         Guna2Panel4.Location = New Point(6, 3)
         Guna2Panel4.Name = "Guna2Panel4"
-        Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges172
+        Guna2Panel4.ShadowDecoration.CustomizableEdges = CustomizableEdges188
         Guna2Panel4.Size = New Size(765, 818)
         Guna2Panel4.TabIndex = 0
         ' 
+        ' Guna2HtmlLabel110
+        ' 
+        Guna2HtmlLabel110.BackColor = Color.Transparent
+        Guna2HtmlLabel110.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2HtmlLabel110.Location = New Point(35, 345)
+        Guna2HtmlLabel110.Name = "Guna2HtmlLabel110"
+        Guna2HtmlLabel110.Size = New Size(69, 17)
+        Guna2HtmlLabel110.TabIndex = 70
+        Guna2HtmlLabel110.Text = "Date of Birth"
+        ' 
+        ' Guna2DateTimePicker4
+        ' 
+        Guna2DateTimePicker4.Checked = True
+        Guna2DateTimePicker4.CustomFormat = "MMMM dd, yyyy"
+        Guna2DateTimePicker4.CustomizableEdges = CustomizableEdges141
+        Guna2DateTimePicker4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2DateTimePicker4.Format = DateTimePickerFormat.Custom
+        Guna2DateTimePicker4.Location = New Point(110, 335)
+        Guna2DateTimePicker4.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
+        Guna2DateTimePicker4.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
+        Guna2DateTimePicker4.Name = "Guna2DateTimePicker4"
+        Guna2DateTimePicker4.ShadowDecoration.CustomizableEdges = CustomizableEdges142
+        Guna2DateTimePicker4.Size = New Size(150, 36)
+        Guna2DateTimePicker4.TabIndex = 69
+        Guna2DateTimePicker4.Value = New Date(2023, 7, 4, 15, 22, 8, 556)
+        ' 
         ' FBbtn
         ' 
-        FBbtn.CustomizableEdges = CustomizableEdges127
+        FBbtn.CustomizableEdges = CustomizableEdges143
         FBbtn.DisabledState.BorderColor = Color.DarkGray
         FBbtn.DisabledState.CustomBorderColor = Color.DarkGray
-        FBbtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        FBbtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        FBbtn.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        FBbtn.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         FBbtn.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         FBbtn.ForeColor = Color.White
         FBbtn.Location = New Point(409, 335)
         FBbtn.Name = "FBbtn"
-        FBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges128
+        FBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges144
         FBbtn.Size = New Size(180, 45)
         FBbtn.TabIndex = 68
         FBbtn.Text = "ADD"
@@ -2674,7 +2924,7 @@ Partial Class EmployeeManagement
         FBdgv.AutoGenerateColumns = False
         FBdgv.BackgroundColor = Color.FloralWhite
         DataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle5.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle5.ForeColor = Color.White
         DataGridViewCellStyle5.SelectionBackColor = SystemColors.Highlight
@@ -2688,12 +2938,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle6.BackColor = Color.White
         DataGridViewCellStyle6.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle6.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle6.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle6.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle6.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle6.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle6.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle6.WrapMode = DataGridViewTriState.False
         FBdgv.DefaultCellStyle = DataGridViewCellStyle6
-        FBdgv.GridColor = Color.FromArgb(231, 229, 255)
+        FBdgv.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         FBdgv.Location = New Point(25, 401)
         FBdgv.Name = "FBdgv"
         FBdgv.RowHeadersVisible = False
@@ -2706,8 +2956,8 @@ Partial Class EmployeeManagement
         FBdgv.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         FBdgv.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         FBdgv.ThemeStyle.BackColor = Color.FloralWhite
-        FBdgv.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        FBdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        FBdgv.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        FBdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         FBdgv.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         FBdgv.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         FBdgv.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -2717,10 +2967,10 @@ Partial Class EmployeeManagement
         FBdgv.ThemeStyle.RowsStyle.BackColor = Color.White
         FBdgv.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         FBdgv.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        FBdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         FBdgv.ThemeStyle.RowsStyle.Height = 25
-        FBdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        FBdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        FBdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        FBdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column8
         ' 
@@ -2791,101 +3041,101 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt44
         ' 
-        FBtbt44.CustomizableEdges = CustomizableEdges129
+        FBtbt44.CustomizableEdges = CustomizableEdges145
         FBtbt44.DefaultText = ""
-        FBtbt44.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt44.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt44.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt44.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt44.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt44.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt44.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt44.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt44.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt44.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt44.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt44.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt44.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt44.Location = New Point(688, 276)
         FBtbt44.Name = "FBtbt44"
         FBtbt44.PasswordChar = ChrW(0)
         FBtbt44.PlaceholderText = ""
         FBtbt44.SelectedText = ""
-        FBtbt44.ShadowDecoration.CustomizableEdges = CustomizableEdges130
+        FBtbt44.ShadowDecoration.CustomizableEdges = CustomizableEdges146
         FBtbt44.Size = New Size(60, 36)
         FBtbt44.TabIndex = 62
         ' 
         ' FBtbt43
         ' 
-        FBtbt43.CustomizableEdges = CustomizableEdges131
+        FBtbt43.CustomizableEdges = CustomizableEdges147
         FBtbt43.DefaultText = ""
-        FBtbt43.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt43.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt43.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt43.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt43.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt43.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt43.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt43.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt43.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt43.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt43.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt43.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt43.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt43.Location = New Point(484, 276)
         FBtbt43.Name = "FBtbt43"
         FBtbt43.PasswordChar = ChrW(0)
         FBtbt43.PlaceholderText = ""
         FBtbt43.SelectedText = ""
-        FBtbt43.ShadowDecoration.CustomizableEdges = CustomizableEdges132
+        FBtbt43.ShadowDecoration.CustomizableEdges = CustomizableEdges148
         FBtbt43.Size = New Size(198, 36)
         FBtbt43.TabIndex = 61
         ' 
         ' FBtbt42
         ' 
-        FBtbt42.CustomizableEdges = CustomizableEdges133
+        FBtbt42.CustomizableEdges = CustomizableEdges149
         FBtbt42.DefaultText = ""
-        FBtbt42.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt42.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt42.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt42.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt42.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt42.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt42.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt42.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt42.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt42.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt42.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt42.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt42.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt42.Location = New Point(252, 276)
         FBtbt42.Name = "FBtbt42"
         FBtbt42.PasswordChar = ChrW(0)
         FBtbt42.PlaceholderText = ""
         FBtbt42.SelectedText = ""
-        FBtbt42.ShadowDecoration.CustomizableEdges = CustomizableEdges134
+        FBtbt42.ShadowDecoration.CustomizableEdges = CustomizableEdges150
         FBtbt42.Size = New Size(226, 36)
         FBtbt42.TabIndex = 60
         ' 
         ' FBtbt41
         ' 
-        FBtbt41.CustomizableEdges = CustomizableEdges135
+        FBtbt41.CustomizableEdges = CustomizableEdges151
         FBtbt41.DefaultText = ""
-        FBtbt41.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt41.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt41.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt41.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt41.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt41.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt41.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt41.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt41.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt41.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt41.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt41.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt41.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt41.Location = New Point(25, 276)
         FBtbt41.Name = "FBtbt41"
         FBtbt41.PasswordChar = ChrW(0)
         FBtbt41.PlaceholderText = ""
         FBtbt41.SelectedText = ""
-        FBtbt41.ShadowDecoration.CustomizableEdges = CustomizableEdges136
+        FBtbt41.ShadowDecoration.CustomizableEdges = CustomizableEdges152
         FBtbt41.Size = New Size(221, 36)
         FBtbt41.TabIndex = 59
         ' 
         ' FBtbt35
         ' 
-        FBtbt35.CustomizableEdges = CustomizableEdges137
+        FBtbt35.CustomizableEdges = CustomizableEdges153
         FBtbt35.DefaultText = ""
-        FBtbt35.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt35.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt35.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt35.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt35.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt35.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt35.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt35.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt35.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt35.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt35.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt35.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt35.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt35.Location = New Point(437, 56)
         FBtbt35.Name = "FBtbt35"
         FBtbt35.PasswordChar = ChrW(0)
         FBtbt35.PlaceholderText = ""
         FBtbt35.SelectedText = ""
-        FBtbt35.ShadowDecoration.CustomizableEdges = CustomizableEdges138
+        FBtbt35.ShadowDecoration.CustomizableEdges = CustomizableEdges154
         FBtbt35.Size = New Size(200, 36)
         FBtbt35.TabIndex = 58
         ' 
@@ -2907,21 +3157,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt52
         ' 
-        FBtbt52.CustomizableEdges = CustomizableEdges139
+        FBtbt52.CustomizableEdges = CustomizableEdges155
         FBtbt52.DefaultText = ""
-        FBtbt52.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt52.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt52.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt52.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt52.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt52.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt52.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt52.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt52.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt52.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt52.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt52.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt52.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt52.Location = New Point(688, 697)
         FBtbt52.Name = "FBtbt52"
         FBtbt52.PasswordChar = ChrW(0)
         FBtbt52.PlaceholderText = ""
         FBtbt52.SelectedText = ""
-        FBtbt52.ShadowDecoration.CustomizableEdges = CustomizableEdges140
+        FBtbt52.ShadowDecoration.CustomizableEdges = CustomizableEdges156
         FBtbt52.Size = New Size(60, 36)
         FBtbt52.TabIndex = 54
         ' 
@@ -2957,61 +3207,61 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt51
         ' 
-        FBtbt51.CustomizableEdges = CustomizableEdges141
+        FBtbt51.CustomizableEdges = CustomizableEdges157
         FBtbt51.DefaultText = ""
-        FBtbt51.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt51.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt51.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt51.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt51.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt51.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt51.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt51.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt51.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt51.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt51.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt51.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt51.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt51.Location = New Point(484, 697)
         FBtbt51.Name = "FBtbt51"
         FBtbt51.PasswordChar = ChrW(0)
         FBtbt51.PlaceholderText = ""
         FBtbt51.SelectedText = ""
-        FBtbt51.ShadowDecoration.CustomizableEdges = CustomizableEdges142
+        FBtbt51.ShadowDecoration.CustomizableEdges = CustomizableEdges158
         FBtbt51.Size = New Size(198, 36)
         FBtbt51.TabIndex = 50
         ' 
         ' FBtbt50
         ' 
-        FBtbt50.CustomizableEdges = CustomizableEdges143
+        FBtbt50.CustomizableEdges = CustomizableEdges159
         FBtbt50.DefaultText = ""
-        FBtbt50.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt50.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt50.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt50.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt50.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt50.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt50.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt50.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt50.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt50.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt50.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt50.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt50.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt50.Location = New Point(252, 697)
         FBtbt50.Name = "FBtbt50"
         FBtbt50.PasswordChar = ChrW(0)
         FBtbt50.PlaceholderText = ""
         FBtbt50.SelectedText = ""
-        FBtbt50.ShadowDecoration.CustomizableEdges = CustomizableEdges144
+        FBtbt50.ShadowDecoration.CustomizableEdges = CustomizableEdges160
         FBtbt50.Size = New Size(226, 36)
         FBtbt50.TabIndex = 49
         ' 
         ' FBtbt49
         ' 
-        FBtbt49.CustomizableEdges = CustomizableEdges145
+        FBtbt49.CustomizableEdges = CustomizableEdges161
         FBtbt49.DefaultText = ""
-        FBtbt49.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt49.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt49.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt49.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt49.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt49.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt49.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt49.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt49.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt49.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt49.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt49.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt49.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt49.Location = New Point(25, 697)
         FBtbt49.Name = "FBtbt49"
         FBtbt49.PasswordChar = ChrW(0)
         FBtbt49.PlaceholderText = ""
         FBtbt49.SelectedText = ""
-        FBtbt49.ShadowDecoration.CustomizableEdges = CustomizableEdges146
+        FBtbt49.ShadowDecoration.CustomizableEdges = CustomizableEdges162
         FBtbt49.Size = New Size(221, 36)
         FBtbt49.TabIndex = 48
         ' 
@@ -3037,21 +3287,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt48
         ' 
-        FBtbt48.CustomizableEdges = CustomizableEdges147
+        FBtbt48.CustomizableEdges = CustomizableEdges163
         FBtbt48.DefaultText = ""
-        FBtbt48.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt48.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt48.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt48.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt48.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt48.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt48.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt48.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt48.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt48.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt48.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt48.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt48.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt48.Location = New Point(688, 587)
         FBtbt48.Name = "FBtbt48"
         FBtbt48.PasswordChar = ChrW(0)
         FBtbt48.PlaceholderText = ""
         FBtbt48.SelectedText = ""
-        FBtbt48.ShadowDecoration.CustomizableEdges = CustomizableEdges148
+        FBtbt48.ShadowDecoration.CustomizableEdges = CustomizableEdges164
         FBtbt48.Size = New Size(60, 36)
         FBtbt48.TabIndex = 45
         ' 
@@ -3067,21 +3317,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt47
         ' 
-        FBtbt47.CustomizableEdges = CustomizableEdges149
+        FBtbt47.CustomizableEdges = CustomizableEdges165
         FBtbt47.DefaultText = ""
-        FBtbt47.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt47.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt47.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt47.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt47.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt47.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt47.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt47.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt47.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt47.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt47.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt47.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt47.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt47.Location = New Point(484, 587)
         FBtbt47.Name = "FBtbt47"
         FBtbt47.PasswordChar = ChrW(0)
         FBtbt47.PlaceholderText = ""
         FBtbt47.SelectedText = ""
-        FBtbt47.ShadowDecoration.CustomizableEdges = CustomizableEdges150
+        FBtbt47.ShadowDecoration.CustomizableEdges = CustomizableEdges166
         FBtbt47.Size = New Size(198, 36)
         FBtbt47.TabIndex = 43
         ' 
@@ -3107,21 +3357,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt46
         ' 
-        FBtbt46.CustomizableEdges = CustomizableEdges151
+        FBtbt46.CustomizableEdges = CustomizableEdges167
         FBtbt46.DefaultText = ""
-        FBtbt46.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt46.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt46.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt46.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt46.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt46.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt46.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt46.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt46.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt46.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt46.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt46.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt46.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt46.Location = New Point(252, 587)
         FBtbt46.Name = "FBtbt46"
         FBtbt46.PasswordChar = ChrW(0)
         FBtbt46.PlaceholderText = ""
         FBtbt46.SelectedText = ""
-        FBtbt46.ShadowDecoration.CustomizableEdges = CustomizableEdges152
+        FBtbt46.ShadowDecoration.CustomizableEdges = CustomizableEdges168
         FBtbt46.Size = New Size(226, 36)
         FBtbt46.TabIndex = 40
         ' 
@@ -3137,21 +3387,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt45
         ' 
-        FBtbt45.CustomizableEdges = CustomizableEdges153
+        FBtbt45.CustomizableEdges = CustomizableEdges169
         FBtbt45.DefaultText = ""
-        FBtbt45.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt45.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt45.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt45.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt45.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt45.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt45.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt45.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt45.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt45.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt45.Font = New Font("Segoe UI Semibold", 9.0F, FontStyle.Bold, GraphicsUnit.Point)
-        FBtbt45.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt45.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt45.Location = New Point(25, 587)
         FBtbt45.Name = "FBtbt45"
         FBtbt45.PasswordChar = ChrW(0)
         FBtbt45.PlaceholderText = ""
         FBtbt45.SelectedText = ""
-        FBtbt45.ShadowDecoration.CustomizableEdges = CustomizableEdges154
+        FBtbt45.ShadowDecoration.CustomizableEdges = CustomizableEdges170
         FBtbt45.Size = New Size(221, 36)
         FBtbt45.TabIndex = 38
         ' 
@@ -3187,41 +3437,41 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt40
         ' 
-        FBtbt40.CustomizableEdges = CustomizableEdges155
+        FBtbt40.CustomizableEdges = CustomizableEdges171
         FBtbt40.DefaultText = ""
-        FBtbt40.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt40.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt40.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt40.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt40.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt40.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt40.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt40.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt40.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt40.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt40.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt40.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt40.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt40.Location = New Point(386, 186)
         FBtbt40.Name = "FBtbt40"
         FBtbt40.PasswordChar = ChrW(0)
         FBtbt40.PlaceholderText = ""
         FBtbt40.SelectedText = ""
-        FBtbt40.ShadowDecoration.CustomizableEdges = CustomizableEdges156
+        FBtbt40.ShadowDecoration.CustomizableEdges = CustomizableEdges172
         FBtbt40.Size = New Size(357, 36)
         FBtbt40.TabIndex = 14
         ' 
         ' FBtbt39
         ' 
-        FBtbt39.CustomizableEdges = CustomizableEdges157
+        FBtbt39.CustomizableEdges = CustomizableEdges173
         FBtbt39.DefaultText = ""
-        FBtbt39.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt39.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt39.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt39.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt39.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt39.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt39.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt39.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt39.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt39.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt39.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt39.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt39.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt39.Location = New Point(25, 186)
         FBtbt39.Name = "FBtbt39"
         FBtbt39.PasswordChar = ChrW(0)
         FBtbt39.PlaceholderText = ""
         FBtbt39.SelectedText = ""
-        FBtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges158
+        FBtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges174
         FBtbt39.Size = New Size(355, 36)
         FBtbt39.TabIndex = 13
         ' 
@@ -3237,21 +3487,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt38
         ' 
-        FBtbt38.CustomizableEdges = CustomizableEdges159
+        FBtbt38.CustomizableEdges = CustomizableEdges175
         FBtbt38.DefaultText = ""
-        FBtbt38.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt38.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt38.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt38.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt38.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt38.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt38.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt38.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt38.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt38.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt38.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt38.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt38.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt38.Location = New Point(308, 121)
         FBtbt38.Name = "FBtbt38"
         FBtbt38.PasswordChar = ChrW(0)
         FBtbt38.PlaceholderText = ""
         FBtbt38.SelectedText = ""
-        FBtbt38.ShadowDecoration.CustomizableEdges = CustomizableEdges160
+        FBtbt38.ShadowDecoration.CustomizableEdges = CustomizableEdges176
         FBtbt38.Size = New Size(435, 36)
         FBtbt38.TabIndex = 11
         ' 
@@ -3267,21 +3517,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt37
         ' 
-        FBtbt37.CustomizableEdges = CustomizableEdges161
+        FBtbt37.CustomizableEdges = CustomizableEdges177
         FBtbt37.DefaultText = ""
-        FBtbt37.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt37.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt37.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt37.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt37.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt37.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt37.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt37.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt37.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt37.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt37.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt37.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt37.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt37.Location = New Point(25, 121)
         FBtbt37.Name = "FBtbt37"
         FBtbt37.PasswordChar = ChrW(0)
         FBtbt37.PlaceholderText = ""
         FBtbt37.SelectedText = ""
-        FBtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges162
+        FBtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges178
         FBtbt37.Size = New Size(277, 36)
         FBtbt37.TabIndex = 9
         ' 
@@ -3297,21 +3547,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt36
         ' 
-        FBtbt36.CustomizableEdges = CustomizableEdges163
+        FBtbt36.CustomizableEdges = CustomizableEdges179
         FBtbt36.DefaultText = ""
-        FBtbt36.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt36.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt36.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt36.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt36.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt36.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt36.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt36.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt36.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt36.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt36.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt36.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt36.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt36.Location = New Point(643, 56)
         FBtbt36.Name = "FBtbt36"
         FBtbt36.PasswordChar = ChrW(0)
         FBtbt36.PlaceholderText = ""
         FBtbt36.SelectedText = ""
-        FBtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges164
+        FBtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges180
         FBtbt36.Size = New Size(100, 36)
         FBtbt36.TabIndex = 7
         ' 
@@ -3329,21 +3579,21 @@ Partial Class EmployeeManagement
         ' 
         Guna2TextBox1.BackgroundImageLayout = ImageLayout.Center
         Guna2TextBox1.BorderRadius = 3
-        Guna2TextBox1.CustomizableEdges = CustomizableEdges165
+        Guna2TextBox1.CustomizableEdges = CustomizableEdges181
         Guna2TextBox1.DefaultText = ""
-        Guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox1.Location = New Point(1373, 10)
         Guna2TextBox1.Name = "Guna2TextBox1"
         Guna2TextBox1.PasswordChar = ChrW(0)
         Guna2TextBox1.PlaceholderText = ""
         Guna2TextBox1.SelectedText = ""
-        Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges166
+        Guna2TextBox1.ShadowDecoration.CustomizableEdges = CustomizableEdges182
         Guna2TextBox1.Size = New Size(197, 29)
         Guna2TextBox1.TabIndex = 5
         ' 
@@ -3359,21 +3609,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt34
         ' 
-        FBtbt34.CustomizableEdges = CustomizableEdges167
+        FBtbt34.CustomizableEdges = CustomizableEdges183
         FBtbt34.DefaultText = ""
-        FBtbt34.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt34.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt34.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt34.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt34.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt34.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt34.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt34.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt34.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt34.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt34.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt34.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt34.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt34.Location = New Point(231, 56)
         FBtbt34.Name = "FBtbt34"
         FBtbt34.PasswordChar = ChrW(0)
         FBtbt34.PlaceholderText = ""
         FBtbt34.SelectedText = ""
-        FBtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges168
+        FBtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges184
         FBtbt34.Size = New Size(200, 36)
         FBtbt34.TabIndex = 3
         ' 
@@ -3389,21 +3639,21 @@ Partial Class EmployeeManagement
         ' 
         ' FBtbt33
         ' 
-        FBtbt33.CustomizableEdges = CustomizableEdges169
+        FBtbt33.CustomizableEdges = CustomizableEdges185
         FBtbt33.DefaultText = ""
-        FBtbt33.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        FBtbt33.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        FBtbt33.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt33.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        FBtbt33.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt33.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        FBtbt33.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        FBtbt33.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt33.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        FBtbt33.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt33.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        FBtbt33.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        FBtbt33.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt33.Location = New Point(25, 56)
         FBtbt33.Name = "FBtbt33"
         FBtbt33.PasswordChar = ChrW(0)
         FBtbt33.PlaceholderText = ""
         FBtbt33.SelectedText = ""
-        FBtbt33.ShadowDecoration.CustomizableEdges = CustomizableEdges170
+        FBtbt33.ShadowDecoration.CustomizableEdges = CustomizableEdges186
         FBtbt33.Size = New Size(200, 36)
         FBtbt33.TabIndex = 1
         ' 
@@ -3445,16 +3695,16 @@ Partial Class EmployeeManagement
         ' 
         ' EBbtn
         ' 
-        EBbtn.CustomizableEdges = CustomizableEdges173
+        EBbtn.CustomizableEdges = CustomizableEdges189
         EBbtn.DisabledState.BorderColor = Color.DarkGray
         EBbtn.DisabledState.CustomBorderColor = Color.DarkGray
-        EBbtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        EBbtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        EBbtn.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        EBbtn.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         EBbtn.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EBbtn.ForeColor = Color.White
         EBbtn.Location = New Point(293, 320)
         EBbtn.Name = "EBbtn"
-        EBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges174
+        EBbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges190
         EBbtn.Size = New Size(180, 45)
         EBbtn.TabIndex = 17
         EBbtn.Text = "ADD"
@@ -3468,7 +3718,7 @@ Partial Class EmployeeManagement
         EBdgv.AutoGenerateColumns = False
         EBdgv.BackgroundColor = Color.WhiteSmoke
         DataGridViewCellStyle8.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle8.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle8.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle8.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle8.ForeColor = Color.White
         DataGridViewCellStyle8.SelectionBackColor = SystemColors.Highlight
@@ -3482,12 +3732,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle9.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle9.BackColor = Color.White
         DataGridViewCellStyle9.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle9.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle9.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle9.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle9.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle9.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle9.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle9.WrapMode = DataGridViewTriState.False
         EBdgv.DefaultCellStyle = DataGridViewCellStyle9
-        EBdgv.GridColor = Color.FromArgb(231, 229, 255)
+        EBdgv.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         EBdgv.Location = New Point(22, 369)
         EBdgv.Name = "EBdgv"
         EBdgv.ReadOnly = True
@@ -3501,8 +3751,8 @@ Partial Class EmployeeManagement
         EBdgv.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         EBdgv.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         EBdgv.ThemeStyle.BackColor = Color.WhiteSmoke
-        EBdgv.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        EBdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        EBdgv.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        EBdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         EBdgv.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         EBdgv.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EBdgv.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -3512,10 +3762,10 @@ Partial Class EmployeeManagement
         EBdgv.ThemeStyle.RowsStyle.BackColor = Color.White
         EBdgv.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         EBdgv.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        EBdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         EBdgv.ThemeStyle.RowsStyle.Height = 25
-        EBdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        EBdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        EBdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        EBdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column12
         ' 
@@ -3552,21 +3802,21 @@ Partial Class EmployeeManagement
         ' 
         ' EBtbt57
         ' 
-        EBtbt57.CustomizableEdges = CustomizableEdges175
+        EBtbt57.CustomizableEdges = CustomizableEdges191
         EBtbt57.DefaultText = ""
-        EBtbt57.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        EBtbt57.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        EBtbt57.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt57.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt57.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt57.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        EBtbt57.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        EBtbt57.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt57.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt57.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt57.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBtbt57.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt57.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt57.Location = New Point(89, 287)
         EBtbt57.Name = "EBtbt57"
         EBtbt57.PasswordChar = ChrW(0)
         EBtbt57.PlaceholderText = ""
         EBtbt57.SelectedText = ""
-        EBtbt57.ShadowDecoration.CustomizableEdges = CustomizableEdges176
+        EBtbt57.ShadowDecoration.CustomizableEdges = CustomizableEdges192
         EBtbt57.Size = New Size(630, 27)
         EBtbt57.TabIndex = 15
         ' 
@@ -3644,41 +3894,41 @@ Partial Class EmployeeManagement
         ' 
         ' EBtbt56
         ' 
-        EBtbt56.CustomizableEdges = CustomizableEdges177
+        EBtbt56.CustomizableEdges = CustomizableEdges193
         EBtbt56.DefaultText = ""
-        EBtbt56.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        EBtbt56.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        EBtbt56.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt56.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt56.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt56.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        EBtbt56.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        EBtbt56.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt56.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt56.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt56.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBtbt56.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt56.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt56.Location = New Point(89, 227)
         EBtbt56.Name = "EBtbt56"
         EBtbt56.PasswordChar = ChrW(0)
         EBtbt56.PlaceholderText = ""
         EBtbt56.SelectedText = ""
-        EBtbt56.ShadowDecoration.CustomizableEdges = CustomizableEdges178
+        EBtbt56.ShadowDecoration.CustomizableEdges = CustomizableEdges194
         EBtbt56.Size = New Size(630, 27)
         EBtbt56.TabIndex = 13
         ' 
         ' EBtbt55
         ' 
-        EBtbt55.CustomizableEdges = CustomizableEdges179
+        EBtbt55.CustomizableEdges = CustomizableEdges195
         EBtbt55.DefaultText = ""
-        EBtbt55.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        EBtbt55.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        EBtbt55.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt55.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt55.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt55.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        EBtbt55.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        EBtbt55.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt55.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt55.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt55.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBtbt55.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt55.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt55.Location = New Point(89, 171)
         EBtbt55.Name = "EBtbt55"
         EBtbt55.PasswordChar = ChrW(0)
         EBtbt55.PlaceholderText = ""
         EBtbt55.SelectedText = ""
-        EBtbt55.ShadowDecoration.CustomizableEdges = CustomizableEdges180
+        EBtbt55.ShadowDecoration.CustomizableEdges = CustomizableEdges196
         EBtbt55.Size = New Size(630, 27)
         EBtbt55.TabIndex = 11
         ' 
@@ -3686,14 +3936,14 @@ Partial Class EmployeeManagement
         ' 
         EBdtp2.Checked = True
         EBdtp2.CustomFormat = "MMM dd, yyyy"
-        EBdtp2.CustomizableEdges = CustomizableEdges181
+        EBdtp2.CustomizableEdges = CustomizableEdges197
         EBdtp2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EBdtp2.Format = DateTimePickerFormat.Custom
         EBdtp2.Location = New Point(537, 104)
         EBdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         EBdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         EBdtp2.Name = "EBdtp2"
-        EBdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges182
+        EBdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges198
         EBdtp2.Size = New Size(182, 36)
         EBdtp2.TabIndex = 4
         EBdtp2.Value = New Date(2023, 6, 30, 0, 0, 0, 0)
@@ -3702,55 +3952,55 @@ Partial Class EmployeeManagement
         ' 
         EBdtp1.Checked = True
         EBdtp1.CustomFormat = "MMM dd, yyyy"
-        EBdtp1.CustomizableEdges = CustomizableEdges183
+        EBdtp1.CustomizableEdges = CustomizableEdges199
         EBdtp1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EBdtp1.Format = DateTimePickerFormat.Custom
         EBdtp1.Location = New Point(330, 104)
         EBdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         EBdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         EBdtp1.Name = "EBdtp1"
-        EBdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges184
+        EBdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges200
         EBdtp1.Size = New Size(179, 36)
         EBdtp1.TabIndex = 3
         EBdtp1.Value = New Date(2023, 6, 30, 9, 27, 13, 413)
         ' 
         ' EBtbt54
         ' 
-        EBtbt54.CustomizableEdges = CustomizableEdges185
+        EBtbt54.CustomizableEdges = CustomizableEdges201
         EBtbt54.DefaultText = ""
-        EBtbt54.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        EBtbt54.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        EBtbt54.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt54.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt54.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt54.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        EBtbt54.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        EBtbt54.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt54.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt54.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt54.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBtbt54.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt54.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt54.Location = New Point(89, 106)
         EBtbt54.Name = "EBtbt54"
         EBtbt54.PasswordChar = ChrW(0)
         EBtbt54.PlaceholderText = ""
         EBtbt54.SelectedText = ""
-        EBtbt54.ShadowDecoration.CustomizableEdges = CustomizableEdges186
+        EBtbt54.ShadowDecoration.CustomizableEdges = CustomizableEdges202
         EBtbt54.Size = New Size(191, 27)
         EBtbt54.TabIndex = 2
         ' 
         ' EBtbt53
         ' 
-        EBtbt53.CustomizableEdges = CustomizableEdges187
+        EBtbt53.CustomizableEdges = CustomizableEdges203
         EBtbt53.DefaultText = ""
-        EBtbt53.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        EBtbt53.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        EBtbt53.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt53.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        EBtbt53.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt53.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        EBtbt53.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        EBtbt53.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt53.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        EBtbt53.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt53.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EBtbt53.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        EBtbt53.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         EBtbt53.Location = New Point(89, 49)
         EBtbt53.Name = "EBtbt53"
         EBtbt53.PasswordChar = ChrW(0)
         EBtbt53.PlaceholderText = ""
         EBtbt53.SelectedText = ""
-        EBtbt53.ShadowDecoration.CustomizableEdges = CustomizableEdges188
+        EBtbt53.ShadowDecoration.CustomizableEdges = CustomizableEdges204
         EBtbt53.Size = New Size(630, 27)
         EBtbt53.TabIndex = 1
         ' 
@@ -3787,11 +4037,11 @@ Partial Class EmployeeManagement
         Guna2Panel14.Controls.Add(WEdtp2)
         Guna2Panel14.Controls.Add(WEtbt1)
         Guna2Panel14.Controls.Add(Guna2HtmlLabel120)
-        Guna2Panel14.CustomizableEdges = CustomizableEdges209
+        Guna2Panel14.CustomizableEdges = CustomizableEdges225
         Guna2Panel14.Dock = DockStyle.Top
         Guna2Panel14.Location = New Point(3, 430)
         Guna2Panel14.Name = "Guna2Panel14"
-        Guna2Panel14.ShadowDecoration.CustomizableEdges = CustomizableEdges210
+        Guna2Panel14.ShadowDecoration.CustomizableEdges = CustomizableEdges226
         Guna2Panel14.Size = New Size(782, 455)
         Guna2Panel14.TabIndex = 15
         ' 
@@ -3802,7 +4052,7 @@ Partial Class EmployeeManagement
         Guna2DataGridView2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         Guna2DataGridView2.BackgroundColor = Color.WhiteSmoke
         DataGridViewCellStyle11.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle11.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle11.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle11.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle11.ForeColor = Color.White
         DataGridViewCellStyle11.SelectionBackColor = SystemColors.Highlight
@@ -3815,12 +4065,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle12.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle12.BackColor = Color.White
         DataGridViewCellStyle12.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle12.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle12.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle12.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle12.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle12.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle12.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle12.WrapMode = DataGridViewTriState.False
         Guna2DataGridView2.DefaultCellStyle = DataGridViewCellStyle12
-        Guna2DataGridView2.GridColor = Color.FromArgb(231, 229, 255)
+        Guna2DataGridView2.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView2.Location = New Point(3, 189)
         Guna2DataGridView2.Name = "Guna2DataGridView2"
         Guna2DataGridView2.RowHeadersVisible = False
@@ -3833,8 +4083,8 @@ Partial Class EmployeeManagement
         Guna2DataGridView2.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         Guna2DataGridView2.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         Guna2DataGridView2.ThemeStyle.BackColor = Color.WhiteSmoke
-        Guna2DataGridView2.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView2.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        Guna2DataGridView2.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView2.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         Guna2DataGridView2.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         Guna2DataGridView2.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView2.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -3844,10 +4094,10 @@ Partial Class EmployeeManagement
         Guna2DataGridView2.ThemeStyle.RowsStyle.BackColor = Color.White
         Guna2DataGridView2.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         Guna2DataGridView2.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2DataGridView2.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView2.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         Guna2DataGridView2.ThemeStyle.RowsStyle.Height = 25
-        Guna2DataGridView2.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView2.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView2.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView2.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column19
         ' 
@@ -3891,13 +4141,13 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2Panel6
         ' 
-        Guna2Panel6.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel6.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel6.Controls.Add(Guna2HtmlLabel104)
-        Guna2Panel6.CustomizableEdges = CustomizableEdges189
+        Guna2Panel6.CustomizableEdges = CustomizableEdges205
         Guna2Panel6.Dock = DockStyle.Top
         Guna2Panel6.Location = New Point(0, 0)
         Guna2Panel6.Name = "Guna2Panel6"
-        Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges190
+        Guna2Panel6.ShadowDecoration.CustomizableEdges = CustomizableEdges206
         Guna2Panel6.Size = New Size(782, 49)
         Guna2Panel6.TabIndex = 14
         ' 
@@ -3927,18 +4177,18 @@ Partial Class EmployeeManagement
         ' 
         WEcmb1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         WEcmb1.BackColor = Color.Transparent
-        WEcmb1.CustomizableEdges = CustomizableEdges191
+        WEcmb1.CustomizableEdges = CustomizableEdges207
         WEcmb1.DrawMode = DrawMode.OwnerDrawFixed
         WEcmb1.DropDownStyle = ComboBoxStyle.DropDownList
-        WEcmb1.FocusedColor = Color.FromArgb(94, 148, 255)
-        WEcmb1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEcmb1.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        WEcmb1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEcmb1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEcmb1.ForeColor = Color.FromArgb(68, 88, 112)
+        WEcmb1.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         WEcmb1.ItemHeight = 30
         WEcmb1.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"})
         WEcmb1.Location = New Point(378, 116)
         WEcmb1.Name = "WEcmb1"
-        WEcmb1.ShadowDecoration.CustomizableEdges = CustomizableEdges192
+        WEcmb1.ShadowDecoration.CustomizableEdges = CustomizableEdges208
         WEcmb1.Size = New Size(85, 36)
         WEcmb1.TabIndex = 30
         ' 
@@ -3975,21 +4225,21 @@ Partial Class EmployeeManagement
         ' WEtbt3
         ' 
         WEtbt3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        WEtbt3.CustomizableEdges = CustomizableEdges193
+        WEtbt3.CustomizableEdges = CustomizableEdges209
         WEtbt3.DefaultText = ""
-        WEtbt3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        WEtbt3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        WEtbt3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        WEtbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        WEtbt3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEtbt3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt3.Location = New Point(13, 118)
         WEtbt3.Name = "WEtbt3"
         WEtbt3.PasswordChar = ChrW(0)
         WEtbt3.PlaceholderText = ""
         WEtbt3.SelectedText = ""
-        WEtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges194
+        WEtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges210
         WEtbt3.Size = New Size(359, 30)
         WEtbt3.TabIndex = 21
         ' 
@@ -4006,16 +4256,16 @@ Partial Class EmployeeManagement
         ' WEbtn
         ' 
         WEbtn.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        WEbtn.CustomizableEdges = CustomizableEdges195
+        WEbtn.CustomizableEdges = CustomizableEdges211
         WEbtn.DisabledState.BorderColor = Color.DarkGray
         WEbtn.DisabledState.CustomBorderColor = Color.DarkGray
-        WEbtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        WEbtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        WEbtn.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        WEbtn.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         WEbtn.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         WEbtn.ForeColor = Color.White
         WEbtn.Location = New Point(269, 155)
         WEbtn.Name = "WEbtn"
-        WEbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges196
+        WEbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges212
         WEbtn.Size = New Size(180, 30)
         WEbtn.TabIndex = 93
         WEbtn.Text = "ADD"
@@ -4024,39 +4274,39 @@ Partial Class EmployeeManagement
         ' 
         WEcmb2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         WEcmb2.BackColor = Color.Transparent
-        WEcmb2.CustomizableEdges = CustomizableEdges197
+        WEcmb2.CustomizableEdges = CustomizableEdges213
         WEcmb2.DrawMode = DrawMode.OwnerDrawFixed
         WEcmb2.DropDownStyle = ComboBoxStyle.DropDownList
-        WEcmb2.FocusedColor = Color.FromArgb(94, 148, 255)
-        WEcmb2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEcmb2.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        WEcmb2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEcmb2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEcmb2.ForeColor = Color.FromArgb(68, 88, 112)
+        WEcmb2.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         WEcmb2.ItemHeight = 30
         WEcmb2.Items.AddRange(New Object() {"CASUAL", "CONTRACTUAL", "COTERMINOUS", "JOB ORDER", "NON-FACULTY", "PART TIMER", "PERMANENT", "REGULAR", "RETIRED", "TEMPORARY"})
         WEcmb2.Location = New Point(469, 116)
         WEcmb2.Name = "WEcmb2"
-        WEcmb2.ShadowDecoration.CustomizableEdges = CustomizableEdges198
+        WEcmb2.ShadowDecoration.CustomizableEdges = CustomizableEdges214
         WEcmb2.Size = New Size(161, 36)
         WEcmb2.TabIndex = 29
         ' 
         ' WEtbt2
         ' 
         WEtbt2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        WEtbt2.CustomizableEdges = CustomizableEdges199
+        WEtbt2.CustomizableEdges = CustomizableEdges215
         WEtbt2.DefaultText = ""
-        WEtbt2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        WEtbt2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        WEtbt2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        WEtbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        WEtbt2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEtbt2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt2.Location = New Point(578, 67)
         WEtbt2.Name = "WEtbt2"
         WEtbt2.PasswordChar = ChrW(0)
         WEtbt2.PlaceholderText = ""
         WEtbt2.SelectedText = ""
-        WEtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges200
+        WEtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges216
         WEtbt2.Size = New Size(186, 30)
         WEtbt2.TabIndex = 23
         ' 
@@ -4075,18 +4325,18 @@ Partial Class EmployeeManagement
         ' 
         WEcmb3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         WEcmb3.BackColor = Color.Transparent
-        WEcmb3.CustomizableEdges = CustomizableEdges201
+        WEcmb3.CustomizableEdges = CustomizableEdges217
         WEcmb3.DrawMode = DrawMode.OwnerDrawFixed
         WEcmb3.DropDownStyle = ComboBoxStyle.DropDownList
-        WEcmb3.FocusedColor = Color.FromArgb(94, 148, 255)
-        WEcmb3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEcmb3.FocusedColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        WEcmb3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEcmb3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEcmb3.ForeColor = Color.FromArgb(68, 88, 112)
+        WEcmb3.ForeColor = Color.FromArgb(CByte(68), CByte(88), CByte(112))
         WEcmb3.ItemHeight = 30
         WEcmb3.Items.AddRange(New Object() {"Yes", "No"})
         WEcmb3.Location = New Point(635, 115)
         WEcmb3.Name = "WEcmb3"
-        WEcmb3.ShadowDecoration.CustomizableEdges = CustomizableEdges202
+        WEcmb3.ShadowDecoration.CustomizableEdges = CustomizableEdges218
         WEcmb3.Size = New Size(123, 36)
         WEcmb3.TabIndex = 92
         ' 
@@ -4095,15 +4345,15 @@ Partial Class EmployeeManagement
         WEdtp1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         WEdtp1.Checked = True
         WEdtp1.CustomFormat = "MMM dd, yyyy"
-        WEdtp1.CustomizableEdges = CustomizableEdges203
-        WEdtp1.FillColor = Color.FromArgb(221, 230, 237)
+        WEdtp1.CustomizableEdges = CustomizableEdges219
+        WEdtp1.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         WEdtp1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         WEdtp1.Format = DateTimePickerFormat.Custom
         WEdtp1.Location = New Point(13, 67)
         WEdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         WEdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         WEdtp1.Name = "WEdtp1"
-        WEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges204
+        WEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges220
         WEdtp1.Size = New Size(168, 30)
         WEdtp1.TabIndex = 15
         WEdtp1.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4123,15 +4373,15 @@ Partial Class EmployeeManagement
         WEdtp2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         WEdtp2.Checked = True
         WEdtp2.CustomFormat = "MMM dd, yyyy"
-        WEdtp2.CustomizableEdges = CustomizableEdges205
-        WEdtp2.FillColor = Color.FromArgb(221, 230, 237)
+        WEdtp2.CustomizableEdges = CustomizableEdges221
+        WEdtp2.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         WEdtp2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         WEdtp2.Format = DateTimePickerFormat.Custom
         WEdtp2.Location = New Point(187, 67)
         WEdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         WEdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         WEdtp2.Name = "WEdtp2"
-        WEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges206
+        WEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges222
         WEdtp2.Size = New Size(167, 30)
         WEdtp2.TabIndex = 16
         WEdtp2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4139,21 +4389,21 @@ Partial Class EmployeeManagement
         ' WEtbt1
         ' 
         WEtbt1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        WEtbt1.CustomizableEdges = CustomizableEdges207
+        WEtbt1.CustomizableEdges = CustomizableEdges223
         WEtbt1.DefaultText = ""
-        WEtbt1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        WEtbt1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        WEtbt1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        WEtbt1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        WEtbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        WEtbt1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        WEtbt1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        WEtbt1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        WEtbt1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         WEtbt1.Location = New Point(360, 67)
         WEtbt1.Name = "WEtbt1"
         WEtbt1.PasswordChar = ChrW(0)
         WEtbt1.PlaceholderText = ""
         WEtbt1.SelectedText = ""
-        WEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges208
+        WEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges224
         WEtbt1.Size = New Size(212, 30)
         WEtbt1.TabIndex = 19
         ' 
@@ -4184,11 +4434,11 @@ Partial Class EmployeeManagement
         Guna2Panel13.Controls.Add(CSEtbt4)
         Guna2Panel13.Controls.Add(Guna2HtmlLabel114)
         Guna2Panel13.Controls.Add(CSEdtp1)
-        Guna2Panel13.CustomizableEdges = CustomizableEdges227
+        Guna2Panel13.CustomizableEdges = CustomizableEdges243
         Guna2Panel13.Dock = DockStyle.Top
         Guna2Panel13.Location = New Point(3, 3)
         Guna2Panel13.Name = "Guna2Panel13"
-        Guna2Panel13.ShadowDecoration.CustomizableEdges = CustomizableEdges228
+        Guna2Panel13.ShadowDecoration.CustomizableEdges = CustomizableEdges244
         Guna2Panel13.Size = New Size(782, 427)
         Guna2Panel13.TabIndex = 14
         ' 
@@ -4201,7 +4451,7 @@ Partial Class EmployeeManagement
         CSEdgv.AutoGenerateColumns = False
         CSEdgv.BackgroundColor = Color.Gainsboro
         DataGridViewCellStyle14.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle14.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle14.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle14.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle14.ForeColor = Color.White
         DataGridViewCellStyle14.SelectionBackColor = SystemColors.Highlight
@@ -4215,13 +4465,13 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle15.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle15.BackColor = Color.White
         DataGridViewCellStyle15.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle15.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle15.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle15.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle15.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle15.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle15.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle15.WrapMode = DataGridViewTriState.False
         CSEdgv.DefaultCellStyle = DataGridViewCellStyle15
         CSEdgv.Dock = DockStyle.Bottom
-        CSEdgv.GridColor = Color.FromArgb(224, 224, 224)
+        CSEdgv.GridColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
         CSEdgv.Location = New Point(0, 226)
         CSEdgv.Name = "CSEdgv"
         CSEdgv.ReadOnly = True
@@ -4235,8 +4485,8 @@ Partial Class EmployeeManagement
         CSEdgv.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         CSEdgv.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         CSEdgv.ThemeStyle.BackColor = Color.Gainsboro
-        CSEdgv.ThemeStyle.GridColor = Color.FromArgb(224, 224, 224)
-        CSEdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        CSEdgv.ThemeStyle.GridColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
+        CSEdgv.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         CSEdgv.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         CSEdgv.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         CSEdgv.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -4246,10 +4496,10 @@ Partial Class EmployeeManagement
         CSEdgv.ThemeStyle.RowsStyle.BackColor = Color.White
         CSEdgv.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         CSEdgv.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        CSEdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        CSEdgv.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         CSEdgv.ThemeStyle.RowsStyle.Height = 25
-        CSEdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        CSEdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        CSEdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        CSEdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column33
         ' 
@@ -4298,29 +4548,29 @@ Partial Class EmployeeManagement
         ' 
         ' CSEbtn
         ' 
-        CSEbtn.CustomizableEdges = CustomizableEdges211
+        CSEbtn.CustomizableEdges = CustomizableEdges227
         CSEbtn.DisabledState.BorderColor = Color.DarkGray
         CSEbtn.DisabledState.CustomBorderColor = Color.DarkGray
-        CSEbtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        CSEbtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        CSEbtn.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        CSEbtn.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         CSEbtn.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         CSEbtn.ForeColor = Color.White
         CSEbtn.Location = New Point(297, 174)
         CSEbtn.Name = "CSEbtn"
-        CSEbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges212
+        CSEbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges228
         CSEbtn.Size = New Size(180, 33)
         CSEbtn.TabIndex = 14
         CSEbtn.Text = "ADD"
         ' 
         ' Guna2Panel5
         ' 
-        Guna2Panel5.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel5.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel5.Controls.Add(Guna2HtmlLabel111)
-        Guna2Panel5.CustomizableEdges = CustomizableEdges213
+        Guna2Panel5.CustomizableEdges = CustomizableEdges229
         Guna2Panel5.Dock = DockStyle.Top
         Guna2Panel5.Location = New Point(0, 0)
         Guna2Panel5.Name = "Guna2Panel5"
-        Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges214
+        Guna2Panel5.ShadowDecoration.CustomizableEdges = CustomizableEdges230
         Guna2Panel5.Size = New Size(782, 35)
         Guna2Panel5.TabIndex = 1
         ' 
@@ -4340,15 +4590,15 @@ Partial Class EmployeeManagement
         CSEdtp2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         CSEdtp2.Checked = True
         CSEdtp2.CustomFormat = "MMM dd, yyyy"
-        CSEdtp2.CustomizableEdges = CustomizableEdges215
-        CSEdtp2.FillColor = Color.FromArgb(221, 230, 237)
+        CSEdtp2.CustomizableEdges = CustomizableEdges231
+        CSEdtp2.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         CSEdtp2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         CSEdtp2.Format = DateTimePickerFormat.Custom
         CSEdtp2.Location = New Point(483, 138)
         CSEdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         CSEdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         CSEdtp2.Name = "CSEdtp2"
-        CSEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges216
+        CSEdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges232
         CSEdtp2.Size = New Size(200, 30)
         CSEdtp2.TabIndex = 13
         CSEdtp2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4366,21 +4616,21 @@ Partial Class EmployeeManagement
         ' CSEtbt1
         ' 
         CSEtbt1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        CSEtbt1.CustomizableEdges = CustomizableEdges217
+        CSEtbt1.CustomizableEdges = CustomizableEdges233
         CSEtbt1.DefaultText = ""
-        CSEtbt1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        CSEtbt1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        CSEtbt1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        CSEtbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        CSEtbt1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        CSEtbt1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt1.Location = New Point(56, 87)
         CSEtbt1.Name = "CSEtbt1"
         CSEtbt1.PasswordChar = ChrW(0)
         CSEtbt1.PlaceholderText = ""
         CSEtbt1.SelectedText = ""
-        CSEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges218
+        CSEtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges234
         CSEtbt1.Size = New Size(279, 30)
         CSEtbt1.TabIndex = 2
         ' 
@@ -4408,42 +4658,42 @@ Partial Class EmployeeManagement
         ' CSEtbt3
         ' 
         CSEtbt3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        CSEtbt3.CustomizableEdges = CustomizableEdges219
+        CSEtbt3.CustomizableEdges = CustomizableEdges235
         CSEtbt3.DefaultText = ""
-        CSEtbt3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        CSEtbt3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        CSEtbt3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        CSEtbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        CSEtbt3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        CSEtbt3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt3.Location = New Point(446, 87)
         CSEtbt3.Name = "CSEtbt3"
         CSEtbt3.PasswordChar = ChrW(0)
         CSEtbt3.PlaceholderText = ""
         CSEtbt3.SelectedText = ""
-        CSEtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges220
+        CSEtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges236
         CSEtbt3.Size = New Size(248, 30)
         CSEtbt3.TabIndex = 10
         ' 
         ' CSEtbt2
         ' 
         CSEtbt2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        CSEtbt2.CustomizableEdges = CustomizableEdges221
+        CSEtbt2.CustomizableEdges = CustomizableEdges237
         CSEtbt2.DefaultText = ""
-        CSEtbt2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        CSEtbt2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        CSEtbt2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        CSEtbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        CSEtbt2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        CSEtbt2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt2.Location = New Point(348, 87)
         CSEtbt2.Name = "CSEtbt2"
         CSEtbt2.PasswordChar = ChrW(0)
         CSEtbt2.PlaceholderText = ""
         CSEtbt2.SelectedText = ""
-        CSEtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges222
+        CSEtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges238
         CSEtbt2.Size = New Size(81, 30)
         CSEtbt2.TabIndex = 4
         ' 
@@ -4470,21 +4720,21 @@ Partial Class EmployeeManagement
         ' CSEtbt4
         ' 
         CSEtbt4.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        CSEtbt4.CustomizableEdges = CustomizableEdges223
+        CSEtbt4.CustomizableEdges = CustomizableEdges239
         CSEtbt4.DefaultText = ""
-        CSEtbt4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        CSEtbt4.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        CSEtbt4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        CSEtbt4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        CSEtbt4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        CSEtbt4.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt4.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        CSEtbt4.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        CSEtbt4.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        CSEtbt4.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         CSEtbt4.Location = New Point(279, 138)
         CSEtbt4.Name = "CSEtbt4"
         CSEtbt4.PasswordChar = ChrW(0)
         CSEtbt4.PlaceholderText = ""
         CSEtbt4.SelectedText = ""
-        CSEtbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges224
+        CSEtbt4.ShadowDecoration.CustomizableEdges = CustomizableEdges240
         CSEtbt4.Size = New Size(198, 30)
         CSEtbt4.TabIndex = 8
         ' 
@@ -4503,15 +4753,15 @@ Partial Class EmployeeManagement
         CSEdtp1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         CSEdtp1.Checked = True
         CSEdtp1.CustomFormat = "MMM dd, yyyy"
-        CSEdtp1.CustomizableEdges = CustomizableEdges225
-        CSEdtp1.FillColor = Color.FromArgb(221, 230, 237)
+        CSEdtp1.CustomizableEdges = CustomizableEdges241
+        CSEdtp1.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         CSEdtp1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         CSEdtp1.Format = DateTimePickerFormat.Custom
         CSEdtp1.Location = New Point(73, 138)
         CSEdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         CSEdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         CSEdtp1.Name = "CSEdtp1"
-        CSEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges226
+        CSEdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges242
         CSEdtp1.Size = New Size(200, 30)
         CSEdtp1.TabIndex = 7
         CSEdtp1.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4530,11 +4780,11 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2Panel12
         ' 
-        Guna2Panel12.CustomizableEdges = CustomizableEdges229
+        Guna2Panel12.CustomizableEdges = CustomizableEdges245
         Guna2Panel12.Dock = DockStyle.Top
         Guna2Panel12.Location = New Point(0, 603)
         Guna2Panel12.Name = "Guna2Panel12"
-        Guna2Panel12.ShadowDecoration.CustomizableEdges = CustomizableEdges230
+        Guna2Panel12.ShadowDecoration.CustomizableEdges = CustomizableEdges246
         Guna2Panel12.Size = New Size(788, 286)
         Guna2Panel12.TabIndex = 35
         ' 
@@ -4554,11 +4804,11 @@ Partial Class EmployeeManagement
         Guna2Panel11.Controls.Add(Guna2TextBox4)
         Guna2Panel11.Controls.Add(Guna2DateTimePicker3)
         Guna2Panel11.Controls.Add(Guna2HtmlLabel99)
-        Guna2Panel11.CustomizableEdges = CustomizableEdges245
+        Guna2Panel11.CustomizableEdges = CustomizableEdges261
         Guna2Panel11.Dock = DockStyle.Top
         Guna2Panel11.Location = New Point(0, 318)
         Guna2Panel11.Name = "Guna2Panel11"
-        Guna2Panel11.ShadowDecoration.CustomizableEdges = CustomizableEdges246
+        Guna2Panel11.ShadowDecoration.CustomizableEdges = CustomizableEdges262
         Guna2Panel11.Size = New Size(788, 285)
         Guna2Panel11.TabIndex = 34
         ' 
@@ -4574,13 +4824,13 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2Panel8
         ' 
-        Guna2Panel8.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel8.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel8.Controls.Add(Guna2HtmlLabel97)
-        Guna2Panel8.CustomizableEdges = CustomizableEdges231
+        Guna2Panel8.CustomizableEdges = CustomizableEdges247
         Guna2Panel8.Dock = DockStyle.Top
         Guna2Panel8.Location = New Point(0, 0)
         Guna2Panel8.Name = "Guna2Panel8"
-        Guna2Panel8.ShadowDecoration.CustomizableEdges = CustomizableEdges232
+        Guna2Panel8.ShadowDecoration.CustomizableEdges = CustomizableEdges248
         Guna2Panel8.Size = New Size(788, 35)
         Guna2Panel8.TabIndex = 16
         ' 
@@ -4599,21 +4849,21 @@ Partial Class EmployeeManagement
         ' Guna2TextBox5
         ' 
         Guna2TextBox5.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        Guna2TextBox5.CustomizableEdges = CustomizableEdges233
+        Guna2TextBox5.CustomizableEdges = CustomizableEdges249
         Guna2TextBox5.DefaultText = ""
-        Guna2TextBox5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox5.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox5.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox5.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox5.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox5.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox5.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox5.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox5.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox5.Location = New Point(45, 59)
         Guna2TextBox5.Name = "Guna2TextBox5"
         Guna2TextBox5.PasswordChar = ChrW(0)
         Guna2TextBox5.PlaceholderText = ""
         Guna2TextBox5.SelectedText = ""
-        Guna2TextBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges234
+        Guna2TextBox5.ShadowDecoration.CustomizableEdges = CustomizableEdges250
         Guna2TextBox5.Size = New Size(328, 30)
         Guna2TextBox5.TabIndex = 37
         ' 
@@ -4626,7 +4876,7 @@ Partial Class EmployeeManagement
         Guna2DataGridView4.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         Guna2DataGridView4.BackgroundColor = SystemColors.ButtonFace
         DataGridViewCellStyle17.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle17.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle17.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle17.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle17.ForeColor = Color.White
         DataGridViewCellStyle17.SelectionBackColor = SystemColors.Highlight
@@ -4639,12 +4889,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle18.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle18.BackColor = Color.White
         DataGridViewCellStyle18.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle18.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle18.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle18.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle18.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle18.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle18.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle18.WrapMode = DataGridViewTriState.False
         Guna2DataGridView4.DefaultCellStyle = DataGridViewCellStyle18
-        Guna2DataGridView4.GridColor = Color.FromArgb(231, 229, 255)
+        Guna2DataGridView4.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView4.Location = New Point(25, 145)
         Guna2DataGridView4.Name = "Guna2DataGridView4"
         Guna2DataGridView4.ReadOnly = True
@@ -4658,8 +4908,8 @@ Partial Class EmployeeManagement
         Guna2DataGridView4.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         Guna2DataGridView4.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         Guna2DataGridView4.ThemeStyle.BackColor = SystemColors.ButtonFace
-        Guna2DataGridView4.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView4.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        Guna2DataGridView4.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView4.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         Guna2DataGridView4.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         Guna2DataGridView4.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView4.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -4669,10 +4919,10 @@ Partial Class EmployeeManagement
         Guna2DataGridView4.ThemeStyle.RowsStyle.BackColor = Color.White
         Guna2DataGridView4.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         Guna2DataGridView4.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2DataGridView4.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView4.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         Guna2DataGridView4.ThemeStyle.RowsStyle.Height = 25
-        Guna2DataGridView4.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView4.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView4.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView4.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' DataGridViewTextBoxColumn1
         ' 
@@ -4733,21 +4983,21 @@ Partial Class EmployeeManagement
         ' Guna2TextBox6
         ' 
         Guna2TextBox6.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        Guna2TextBox6.CustomizableEdges = CustomizableEdges235
+        Guna2TextBox6.CustomizableEdges = CustomizableEdges251
         Guna2TextBox6.DefaultText = ""
-        Guna2TextBox6.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox6.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox6.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox6.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox6.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox6.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox6.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox6.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox6.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox6.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox6.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox6.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox6.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox6.Location = New Point(45, 110)
         Guna2TextBox6.Name = "Guna2TextBox6"
         Guna2TextBox6.PasswordChar = ChrW(0)
         Guna2TextBox6.PlaceholderText = ""
         Guna2TextBox6.SelectedText = ""
-        Guna2TextBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges236
+        Guna2TextBox6.ShadowDecoration.CustomizableEdges = CustomizableEdges252
         Guna2TextBox6.Size = New Size(104, 30)
         Guna2TextBox6.TabIndex = 39
         ' 
@@ -4774,21 +5024,21 @@ Partial Class EmployeeManagement
         ' Guna2TextBox7
         ' 
         Guna2TextBox7.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        Guna2TextBox7.CustomizableEdges = CustomizableEdges237
+        Guna2TextBox7.CustomizableEdges = CustomizableEdges253
         Guna2TextBox7.DefaultText = ""
-        Guna2TextBox7.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox7.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox7.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox7.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox7.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox7.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox7.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox7.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox7.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox7.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox7.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox7.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox7.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox7.Location = New Point(379, 110)
         Guna2TextBox7.Name = "Guna2TextBox7"
         Guna2TextBox7.PasswordChar = ChrW(0)
         Guna2TextBox7.PlaceholderText = ""
         Guna2TextBox7.SelectedText = ""
-        Guna2TextBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges238
+        Guna2TextBox7.ShadowDecoration.CustomizableEdges = CustomizableEdges254
         Guna2TextBox7.Size = New Size(344, 30)
         Guna2TextBox7.TabIndex = 43
         ' 
@@ -4797,15 +5047,15 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         Guna2DateTimePicker2.Checked = True
         Guna2DateTimePicker2.CustomFormat = "MMM dd, yyyy"
-        Guna2DateTimePicker2.CustomizableEdges = CustomizableEdges239
-        Guna2DateTimePicker2.FillColor = Color.FromArgb(221, 221, 221)
+        Guna2DateTimePicker2.CustomizableEdges = CustomizableEdges255
+        Guna2DateTimePicker2.FillColor = Color.FromArgb(CByte(221), CByte(221), CByte(221))
         Guna2DateTimePicker2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker2.Format = DateTimePickerFormat.Custom
         Guna2DateTimePicker2.Location = New Point(382, 59)
         Guna2DateTimePicker2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker2.Name = "Guna2DateTimePicker2"
-        Guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = CustomizableEdges240
+        Guna2DateTimePicker2.ShadowDecoration.CustomizableEdges = CustomizableEdges256
         Guna2DateTimePicker2.Size = New Size(168, 30)
         Guna2DateTimePicker2.TabIndex = 33
         Guna2DateTimePicker2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4813,21 +5063,21 @@ Partial Class EmployeeManagement
         ' Guna2TextBox4
         ' 
         Guna2TextBox4.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        Guna2TextBox4.CustomizableEdges = CustomizableEdges241
+        Guna2TextBox4.CustomizableEdges = CustomizableEdges257
         Guna2TextBox4.DefaultText = ""
-        Guna2TextBox4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox4.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox4.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox4.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox4.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox4.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox4.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox4.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox4.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox4.Location = New Point(156, 110)
         Guna2TextBox4.Name = "Guna2TextBox4"
         Guna2TextBox4.PasswordChar = ChrW(0)
         Guna2TextBox4.PlaceholderText = ""
         Guna2TextBox4.SelectedText = ""
-        Guna2TextBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges242
+        Guna2TextBox4.ShadowDecoration.CustomizableEdges = CustomizableEdges258
         Guna2TextBox4.Size = New Size(217, 30)
         Guna2TextBox4.TabIndex = 41
         ' 
@@ -4836,15 +5086,15 @@ Partial Class EmployeeManagement
         Guna2DateTimePicker3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         Guna2DateTimePicker3.Checked = True
         Guna2DateTimePicker3.CustomFormat = "MMM dd, yyyy"
-        Guna2DateTimePicker3.CustomizableEdges = CustomizableEdges243
-        Guna2DateTimePicker3.FillColor = Color.FromArgb(221, 230, 237)
+        Guna2DateTimePicker3.CustomizableEdges = CustomizableEdges259
+        Guna2DateTimePicker3.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         Guna2DateTimePicker3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker3.Format = DateTimePickerFormat.Custom
         Guna2DateTimePicker3.Location = New Point(556, 59)
         Guna2DateTimePicker3.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker3.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker3.Name = "Guna2DateTimePicker3"
-        Guna2DateTimePicker3.ShadowDecoration.CustomizableEdges = CustomizableEdges244
+        Guna2DateTimePicker3.ShadowDecoration.CustomizableEdges = CustomizableEdges260
         Guna2DateTimePicker3.Size = New Size(167, 30)
         Guna2DateTimePicker3.TabIndex = 34
         Guna2DateTimePicker3.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -4874,23 +5124,23 @@ Partial Class EmployeeManagement
         Guna2Panel10.Controls.Add(VWtbt1)
         Guna2Panel10.Controls.Add(Guna2HtmlLabel163)
         Guna2Panel10.Controls.Add(VWdtp2)
-        Guna2Panel10.CustomizableEdges = CustomizableEdges261
+        Guna2Panel10.CustomizableEdges = CustomizableEdges277
         Guna2Panel10.Dock = DockStyle.Top
         Guna2Panel10.Location = New Point(0, 0)
         Guna2Panel10.Name = "Guna2Panel10"
-        Guna2Panel10.ShadowDecoration.CustomizableEdges = CustomizableEdges262
+        Guna2Panel10.ShadowDecoration.CustomizableEdges = CustomizableEdges278
         Guna2Panel10.Size = New Size(788, 318)
         Guna2Panel10.TabIndex = 33
         ' 
         ' Guna2Panel7
         ' 
-        Guna2Panel7.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel7.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2Panel7.Controls.Add(Guna2HtmlLabel159)
-        Guna2Panel7.CustomizableEdges = CustomizableEdges247
+        Guna2Panel7.CustomizableEdges = CustomizableEdges263
         Guna2Panel7.Dock = DockStyle.Top
         Guna2Panel7.Location = New Point(0, 0)
         Guna2Panel7.Name = "Guna2Panel7"
-        Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges248
+        Guna2Panel7.ShadowDecoration.CustomizableEdges = CustomizableEdges264
         Guna2Panel7.Size = New Size(788, 35)
         Guna2Panel7.TabIndex = 15
         ' 
@@ -4915,7 +5165,7 @@ Partial Class EmployeeManagement
         Guna2DataGridView3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         Guna2DataGridView3.BackgroundColor = SystemColors.ButtonFace
         DataGridViewCellStyle20.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle20.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle20.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle20.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle20.ForeColor = Color.White
         DataGridViewCellStyle20.SelectionBackColor = SystemColors.Highlight
@@ -4928,12 +5178,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle21.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle21.BackColor = Color.White
         DataGridViewCellStyle21.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle21.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle21.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle21.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle21.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle21.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle21.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle21.WrapMode = DataGridViewTriState.False
         Guna2DataGridView3.DefaultCellStyle = DataGridViewCellStyle21
-        Guna2DataGridView3.GridColor = Color.FromArgb(231, 229, 255)
+        Guna2DataGridView3.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         Guna2DataGridView3.Location = New Point(25, 178)
         Guna2DataGridView3.Name = "Guna2DataGridView3"
         Guna2DataGridView3.ReadOnly = True
@@ -4947,8 +5197,8 @@ Partial Class EmployeeManagement
         Guna2DataGridView3.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         Guna2DataGridView3.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         Guna2DataGridView3.ThemeStyle.BackColor = SystemColors.ButtonFace
-        Guna2DataGridView3.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView3.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        Guna2DataGridView3.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView3.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         Guna2DataGridView3.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         Guna2DataGridView3.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DataGridView3.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -4958,10 +5208,10 @@ Partial Class EmployeeManagement
         Guna2DataGridView3.ThemeStyle.RowsStyle.BackColor = Color.White
         Guna2DataGridView3.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         Guna2DataGridView3.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2DataGridView3.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView3.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         Guna2DataGridView3.ThemeStyle.RowsStyle.Height = 25
-        Guna2DataGridView3.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        Guna2DataGridView3.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        Guna2DataGridView3.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        Guna2DataGridView3.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column27
         ' 
@@ -5006,21 +5256,21 @@ Partial Class EmployeeManagement
         ' VWtbt3
         ' 
         VWtbt3.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        VWtbt3.CustomizableEdges = CustomizableEdges249
+        VWtbt3.CustomizableEdges = CustomizableEdges265
         VWtbt3.DefaultText = ""
-        VWtbt3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        VWtbt3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        VWtbt3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        VWtbt3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        VWtbt3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        VWtbt3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt3.Location = New Point(502, 104)
         VWtbt3.Name = "VWtbt3"
         VWtbt3.PasswordChar = ChrW(0)
         VWtbt3.PlaceholderText = ""
         VWtbt3.SelectedText = ""
-        VWtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges250
+        VWtbt3.ShadowDecoration.CustomizableEdges = CustomizableEdges266
         VWtbt3.Size = New Size(245, 30)
         VWtbt3.TabIndex = 29
         ' 
@@ -5029,15 +5279,15 @@ Partial Class EmployeeManagement
         VWdtp1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         VWdtp1.Checked = True
         VWdtp1.CustomFormat = "MMM dd, yyyy"
-        VWdtp1.CustomizableEdges = CustomizableEdges251
-        VWdtp1.FillColor = Color.FromArgb(221, 221, 221)
+        VWdtp1.CustomizableEdges = CustomizableEdges267
+        VWdtp1.FillColor = Color.FromArgb(CByte(221), CByte(221), CByte(221))
         VWdtp1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         VWdtp1.Format = DateTimePickerFormat.Custom
         VWdtp1.Location = New Point(45, 104)
         VWdtp1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         VWdtp1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         VWdtp1.Name = "VWdtp1"
-        VWdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges252
+        VWdtp1.ShadowDecoration.CustomizableEdges = CustomizableEdges268
         VWdtp1.Size = New Size(168, 30)
         VWdtp1.TabIndex = 21
         VWdtp1.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5055,21 +5305,21 @@ Partial Class EmployeeManagement
         ' VWtbt2
         ' 
         VWtbt2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        VWtbt2.CustomizableEdges = CustomizableEdges253
+        VWtbt2.CustomizableEdges = CustomizableEdges269
         VWtbt2.DefaultText = ""
-        VWtbt2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        VWtbt2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        VWtbt2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        VWtbt2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        VWtbt2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        VWtbt2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt2.Location = New Point(392, 104)
         VWtbt2.Name = "VWtbt2"
         VWtbt2.PasswordChar = ChrW(0)
         VWtbt2.PlaceholderText = ""
         VWtbt2.SelectedText = ""
-        VWtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges254
+        VWtbt2.ShadowDecoration.CustomizableEdges = CustomizableEdges270
         VWtbt2.Size = New Size(104, 30)
         VWtbt2.TabIndex = 27
         ' 
@@ -5086,16 +5336,16 @@ Partial Class EmployeeManagement
         ' VWbtn
         ' 
         VWbtn.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        VWbtn.CustomizableEdges = CustomizableEdges255
+        VWbtn.CustomizableEdges = CustomizableEdges271
         VWbtn.DisabledState.BorderColor = Color.DarkGray
         VWbtn.DisabledState.CustomBorderColor = Color.DarkGray
-        VWbtn.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        VWbtn.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        VWbtn.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        VWbtn.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         VWbtn.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         VWbtn.ForeColor = Color.White
         VWbtn.Location = New Point(316, 140)
         VWbtn.Name = "VWbtn"
-        VWbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges256
+        VWbtn.ShadowDecoration.CustomizableEdges = CustomizableEdges272
         VWbtn.Size = New Size(180, 36)
         VWbtn.TabIndex = 31
         VWbtn.Text = "ADD"
@@ -5113,21 +5363,21 @@ Partial Class EmployeeManagement
         ' VWtbt1
         ' 
         VWtbt1.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
-        VWtbt1.CustomizableEdges = CustomizableEdges257
+        VWtbt1.CustomizableEdges = CustomizableEdges273
         VWtbt1.DefaultText = ""
-        VWtbt1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        VWtbt1.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        VWtbt1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        VWtbt1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        VWtbt1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        VWtbt1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt1.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        VWtbt1.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        VWtbt1.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        VWtbt1.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         VWtbt1.Location = New Point(45, 53)
         VWtbt1.Name = "VWtbt1"
         VWtbt1.PasswordChar = ChrW(0)
         VWtbt1.PlaceholderText = ""
         VWtbt1.SelectedText = ""
-        VWtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges258
+        VWtbt1.ShadowDecoration.CustomizableEdges = CustomizableEdges274
         VWtbt1.Size = New Size(702, 30)
         VWtbt1.TabIndex = 25
         ' 
@@ -5146,15 +5396,15 @@ Partial Class EmployeeManagement
         VWdtp2.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom
         VWdtp2.Checked = True
         VWdtp2.CustomFormat = "MMM dd, yyyy"
-        VWdtp2.CustomizableEdges = CustomizableEdges259
-        VWdtp2.FillColor = Color.FromArgb(221, 230, 237)
+        VWdtp2.CustomizableEdges = CustomizableEdges275
+        VWdtp2.FillColor = Color.FromArgb(CByte(221), CByte(230), CByte(237))
         VWdtp2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         VWdtp2.Format = DateTimePickerFormat.Custom
         VWdtp2.Location = New Point(219, 104)
         VWdtp2.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         VWdtp2.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         VWdtp2.Name = "VWdtp2"
-        VWdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges260
+        VWdtp2.ShadowDecoration.CustomizableEdges = CustomizableEdges276
         VWdtp2.Size = New Size(167, 30)
         VWdtp2.TabIndex = 22
         VWdtp2.Value = New Date(2023, 6, 30, 12, 44, 34, 433)
@@ -5180,23 +5430,23 @@ Partial Class EmployeeManagement
         Guna2TabControl5.SelectedIndex = 0
         Guna2TabControl5.Size = New Size(788, 881)
         Guna2TabControl5.TabButtonHoverState.BorderColor = Color.Empty
-        Guna2TabControl5.TabButtonHoverState.FillColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl5.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl5.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl5.TabButtonHoverState.ForeColor = Color.White
-        Guna2TabControl5.TabButtonHoverState.InnerColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl5.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl5.TabButtonIdleState.BorderColor = Color.Empty
-        Guna2TabControl5.TabButtonIdleState.FillColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl5.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl5.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl5.TabButtonIdleState.ForeColor = Color.FromArgb(156, 160, 167)
-        Guna2TabControl5.TabButtonIdleState.InnerColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl5.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(156), CByte(160), CByte(167))
+        Guna2TabControl5.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl5.TabButtonSelectedState.BorderColor = Color.Empty
-        Guna2TabControl5.TabButtonSelectedState.FillColor = Color.FromArgb(29, 37, 49)
+        Guna2TabControl5.TabButtonSelectedState.FillColor = Color.FromArgb(CByte(29), CByte(37), CByte(49))
         Guna2TabControl5.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl5.TabButtonSelectedState.ForeColor = Color.White
-        Guna2TabControl5.TabButtonSelectedState.InnerColor = Color.FromArgb(76, 132, 255)
+        Guna2TabControl5.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl5.TabButtonSize = New Size(180, 40)
         Guna2TabControl5.TabIndex = 0
-        Guna2TabControl5.TabMenuBackColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl5.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl5.TabMenuOrientation = TabMenuOrientation.HorizontalTop
         ' 
         ' TabPage22
@@ -5275,9 +5525,9 @@ Partial Class EmployeeManagement
         ' Qrb40cNo
         ' 
         Qrb40cNo.AutoSize = True
-        Qrb40cNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40cNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40cNo.CheckedState.BorderThickness = 0
-        Qrb40cNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40cNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40cNo.CheckedState.InnerColor = Color.White
         Qrb40cNo.CheckedState.InnerOffset = -4
         Qrb40cNo.Location = New Point(678, 713)
@@ -5285,7 +5535,7 @@ Partial Class EmployeeManagement
         Qrb40cNo.Size = New Size(41, 19)
         Qrb40cNo.TabIndex = 120
         Qrb40cNo.Text = "No"
-        Qrb40cNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40cNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40cNo.UncheckedState.BorderThickness = 2
         Qrb40cNo.UncheckedState.FillColor = Color.Transparent
         Qrb40cNo.UncheckedState.InnerColor = Color.Transparent
@@ -5293,9 +5543,9 @@ Partial Class EmployeeManagement
         ' Qrb40cYes
         ' 
         Qrb40cYes.AutoSize = True
-        Qrb40cYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40cYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40cYes.CheckedState.BorderThickness = 0
-        Qrb40cYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40cYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40cYes.CheckedState.InnerColor = Color.White
         Qrb40cYes.CheckedState.InnerOffset = -4
         Qrb40cYes.Location = New Point(617, 713)
@@ -5303,7 +5553,7 @@ Partial Class EmployeeManagement
         Qrb40cYes.Size = New Size(42, 19)
         Qrb40cYes.TabIndex = 119
         Qrb40cYes.Text = "Yes"
-        Qrb40cYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40cYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40cYes.UncheckedState.BorderThickness = 2
         Qrb40cYes.UncheckedState.FillColor = Color.Transparent
         Qrb40cYes.UncheckedState.InnerColor = Color.Transparent
@@ -5311,9 +5561,9 @@ Partial Class EmployeeManagement
         ' Qrb40bNo
         ' 
         Qrb40bNo.AutoSize = True
-        Qrb40bNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40bNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40bNo.CheckedState.BorderThickness = 0
-        Qrb40bNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40bNo.CheckedState.InnerColor = Color.White
         Qrb40bNo.CheckedState.InnerOffset = -4
         Qrb40bNo.Location = New Point(434, 713)
@@ -5321,7 +5571,7 @@ Partial Class EmployeeManagement
         Qrb40bNo.Size = New Size(41, 19)
         Qrb40bNo.TabIndex = 118
         Qrb40bNo.Text = "No"
-        Qrb40bNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40bNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40bNo.UncheckedState.BorderThickness = 2
         Qrb40bNo.UncheckedState.FillColor = Color.Transparent
         Qrb40bNo.UncheckedState.InnerColor = Color.Transparent
@@ -5329,9 +5579,9 @@ Partial Class EmployeeManagement
         ' Qrb40bYes
         ' 
         Qrb40bYes.AutoSize = True
-        Qrb40bYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40bYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40bYes.CheckedState.BorderThickness = 0
-        Qrb40bYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40bYes.CheckedState.InnerColor = Color.White
         Qrb40bYes.CheckedState.InnerOffset = -4
         Qrb40bYes.Location = New Point(373, 713)
@@ -5339,7 +5589,7 @@ Partial Class EmployeeManagement
         Qrb40bYes.Size = New Size(42, 19)
         Qrb40bYes.TabIndex = 117
         Qrb40bYes.Text = "Yes"
-        Qrb40bYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40bYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40bYes.UncheckedState.BorderThickness = 2
         Qrb40bYes.UncheckedState.FillColor = Color.Transparent
         Qrb40bYes.UncheckedState.InnerColor = Color.Transparent
@@ -5347,9 +5597,9 @@ Partial Class EmployeeManagement
         ' Qrb40aNo
         ' 
         Qrb40aNo.AutoSize = True
-        Qrb40aNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40aNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40aNo.CheckedState.BorderThickness = 0
-        Qrb40aNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40aNo.CheckedState.InnerColor = Color.White
         Qrb40aNo.CheckedState.InnerOffset = -4
         Qrb40aNo.Location = New Point(196, 713)
@@ -5357,7 +5607,7 @@ Partial Class EmployeeManagement
         Qrb40aNo.Size = New Size(41, 19)
         Qrb40aNo.TabIndex = 116
         Qrb40aNo.Text = "No"
-        Qrb40aNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40aNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40aNo.UncheckedState.BorderThickness = 2
         Qrb40aNo.UncheckedState.FillColor = Color.Transparent
         Qrb40aNo.UncheckedState.InnerColor = Color.Transparent
@@ -5365,9 +5615,9 @@ Partial Class EmployeeManagement
         ' Qrb40aYes
         ' 
         Qrb40aYes.AutoSize = True
-        Qrb40aYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb40aYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40aYes.CheckedState.BorderThickness = 0
-        Qrb40aYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb40aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb40aYes.CheckedState.InnerColor = Color.White
         Qrb40aYes.CheckedState.InnerOffset = -4
         Qrb40aYes.Location = New Point(135, 713)
@@ -5375,7 +5625,7 @@ Partial Class EmployeeManagement
         Qrb40aYes.Size = New Size(42, 19)
         Qrb40aYes.TabIndex = 115
         Qrb40aYes.Text = "Yes"
-        Qrb40aYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb40aYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb40aYes.UncheckedState.BorderThickness = 2
         Qrb40aYes.UncheckedState.FillColor = Color.Transparent
         Qrb40aYes.UncheckedState.InnerColor = Color.Transparent
@@ -5383,9 +5633,9 @@ Partial Class EmployeeManagement
         ' Qrb39No
         ' 
         Qrb39No.AutoSize = True
-        Qrb39No.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb39No.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb39No.CheckedState.BorderThickness = 0
-        Qrb39No.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb39No.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb39No.CheckedState.InnerColor = Color.White
         Qrb39No.CheckedState.InnerOffset = -4
         Qrb39No.Location = New Point(592, 621)
@@ -5393,7 +5643,7 @@ Partial Class EmployeeManagement
         Qrb39No.Size = New Size(41, 19)
         Qrb39No.TabIndex = 106
         Qrb39No.Text = "No"
-        Qrb39No.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb39No.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb39No.UncheckedState.BorderThickness = 2
         Qrb39No.UncheckedState.FillColor = Color.Transparent
         Qrb39No.UncheckedState.InnerColor = Color.Transparent
@@ -5401,9 +5651,9 @@ Partial Class EmployeeManagement
         ' Qrb39Yes
         ' 
         Qrb39Yes.AutoSize = True
-        Qrb39Yes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb39Yes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb39Yes.CheckedState.BorderThickness = 0
-        Qrb39Yes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb39Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb39Yes.CheckedState.InnerColor = Color.White
         Qrb39Yes.CheckedState.InnerOffset = -4
         Qrb39Yes.Location = New Point(531, 621)
@@ -5411,7 +5661,7 @@ Partial Class EmployeeManagement
         Qrb39Yes.Size = New Size(42, 19)
         Qrb39Yes.TabIndex = 105
         Qrb39Yes.Text = "Yes"
-        Qrb39Yes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb39Yes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb39Yes.UncheckedState.BorderThickness = 2
         Qrb39Yes.UncheckedState.FillColor = Color.Transparent
         Qrb39Yes.UncheckedState.InnerColor = Color.Transparent
@@ -5419,9 +5669,9 @@ Partial Class EmployeeManagement
         ' Qrb38bNo
         ' 
         Qrb38bNo.AutoSize = True
-        Qrb38bNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb38bNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38bNo.CheckedState.BorderThickness = 0
-        Qrb38bNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb38bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38bNo.CheckedState.InnerColor = Color.White
         Qrb38bNo.CheckedState.InnerOffset = -4
         Qrb38bNo.Location = New Point(592, 555)
@@ -5429,7 +5679,7 @@ Partial Class EmployeeManagement
         Qrb38bNo.Size = New Size(41, 19)
         Qrb38bNo.TabIndex = 114
         Qrb38bNo.Text = "No"
-        Qrb38bNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb38bNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb38bNo.UncheckedState.BorderThickness = 2
         Qrb38bNo.UncheckedState.FillColor = Color.Transparent
         Qrb38bNo.UncheckedState.InnerColor = Color.Transparent
@@ -5437,9 +5687,9 @@ Partial Class EmployeeManagement
         ' Qrb38bYes
         ' 
         Qrb38bYes.AutoSize = True
-        Qrb38bYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb38bYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38bYes.CheckedState.BorderThickness = 0
-        Qrb38bYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb38bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38bYes.CheckedState.InnerColor = Color.White
         Qrb38bYes.CheckedState.InnerOffset = -4
         Qrb38bYes.Location = New Point(531, 555)
@@ -5447,7 +5697,7 @@ Partial Class EmployeeManagement
         Qrb38bYes.Size = New Size(42, 19)
         Qrb38bYes.TabIndex = 113
         Qrb38bYes.Text = "Yes"
-        Qrb38bYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb38bYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb38bYes.UncheckedState.BorderThickness = 2
         Qrb38bYes.UncheckedState.FillColor = Color.Transparent
         Qrb38bYes.UncheckedState.InnerColor = Color.Transparent
@@ -5455,9 +5705,9 @@ Partial Class EmployeeManagement
         ' Qrb38aNo
         ' 
         Qrb38aNo.AutoSize = True
-        Qrb38aNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb38aNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38aNo.CheckedState.BorderThickness = 0
-        Qrb38aNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb38aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38aNo.CheckedState.InnerColor = Color.White
         Qrb38aNo.CheckedState.InnerOffset = -4
         Qrb38aNo.Location = New Point(592, 470)
@@ -5465,7 +5715,7 @@ Partial Class EmployeeManagement
         Qrb38aNo.Size = New Size(41, 19)
         Qrb38aNo.TabIndex = 112
         Qrb38aNo.Text = "No"
-        Qrb38aNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb38aNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb38aNo.UncheckedState.BorderThickness = 2
         Qrb38aNo.UncheckedState.FillColor = Color.Transparent
         Qrb38aNo.UncheckedState.InnerColor = Color.Transparent
@@ -5473,9 +5723,9 @@ Partial Class EmployeeManagement
         ' Qrb38aYes
         ' 
         Qrb38aYes.AutoSize = True
-        Qrb38aYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb38aYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38aYes.CheckedState.BorderThickness = 0
-        Qrb38aYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb38aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb38aYes.CheckedState.InnerColor = Color.White
         Qrb38aYes.CheckedState.InnerOffset = -4
         Qrb38aYes.Location = New Point(531, 470)
@@ -5483,7 +5733,7 @@ Partial Class EmployeeManagement
         Qrb38aYes.Size = New Size(42, 19)
         Qrb38aYes.TabIndex = 111
         Qrb38aYes.Text = "Yes"
-        Qrb38aYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb38aYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb38aYes.UncheckedState.BorderThickness = 2
         Qrb38aYes.UncheckedState.FillColor = Color.Transparent
         Qrb38aYes.UncheckedState.InnerColor = Color.Transparent
@@ -5491,9 +5741,9 @@ Partial Class EmployeeManagement
         ' Qrb37No
         ' 
         Qrb37No.AutoSize = True
-        Qrb37No.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb37No.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb37No.CheckedState.BorderThickness = 0
-        Qrb37No.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb37No.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb37No.CheckedState.InnerColor = Color.White
         Qrb37No.CheckedState.InnerOffset = -4
         Qrb37No.Location = New Point(592, 387)
@@ -5501,7 +5751,7 @@ Partial Class EmployeeManagement
         Qrb37No.Size = New Size(41, 19)
         Qrb37No.TabIndex = 110
         Qrb37No.Text = "No"
-        Qrb37No.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb37No.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb37No.UncheckedState.BorderThickness = 2
         Qrb37No.UncheckedState.FillColor = Color.Transparent
         Qrb37No.UncheckedState.InnerColor = Color.Transparent
@@ -5509,9 +5759,9 @@ Partial Class EmployeeManagement
         ' Qrb37Yes
         ' 
         Qrb37Yes.AutoSize = True
-        Qrb37Yes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb37Yes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb37Yes.CheckedState.BorderThickness = 0
-        Qrb37Yes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb37Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb37Yes.CheckedState.InnerColor = Color.White
         Qrb37Yes.CheckedState.InnerOffset = -4
         Qrb37Yes.Location = New Point(531, 387)
@@ -5519,7 +5769,7 @@ Partial Class EmployeeManagement
         Qrb37Yes.Size = New Size(42, 19)
         Qrb37Yes.TabIndex = 109
         Qrb37Yes.Text = "Yes"
-        Qrb37Yes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb37Yes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb37Yes.UncheckedState.BorderThickness = 2
         Qrb37Yes.UncheckedState.FillColor = Color.Transparent
         Qrb37Yes.UncheckedState.InnerColor = Color.Transparent
@@ -5527,9 +5777,9 @@ Partial Class EmployeeManagement
         ' Qrb36No
         ' 
         Qrb36No.AutoSize = True
-        Qrb36No.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb36No.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb36No.CheckedState.BorderThickness = 0
-        Qrb36No.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb36No.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb36No.CheckedState.InnerColor = Color.White
         Qrb36No.CheckedState.InnerOffset = -4
         Qrb36No.Location = New Point(592, 284)
@@ -5537,7 +5787,7 @@ Partial Class EmployeeManagement
         Qrb36No.Size = New Size(41, 19)
         Qrb36No.TabIndex = 108
         Qrb36No.Text = "No"
-        Qrb36No.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb36No.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb36No.UncheckedState.BorderThickness = 2
         Qrb36No.UncheckedState.FillColor = Color.Transparent
         Qrb36No.UncheckedState.InnerColor = Color.Transparent
@@ -5545,9 +5795,9 @@ Partial Class EmployeeManagement
         ' Qrb36Yes
         ' 
         Qrb36Yes.AutoSize = True
-        Qrb36Yes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb36Yes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb36Yes.CheckedState.BorderThickness = 0
-        Qrb36Yes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb36Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb36Yes.CheckedState.InnerColor = Color.White
         Qrb36Yes.CheckedState.InnerOffset = -4
         Qrb36Yes.Location = New Point(531, 284)
@@ -5555,7 +5805,7 @@ Partial Class EmployeeManagement
         Qrb36Yes.Size = New Size(42, 19)
         Qrb36Yes.TabIndex = 107
         Qrb36Yes.Text = "Yes"
-        Qrb36Yes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb36Yes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb36Yes.UncheckedState.BorderThickness = 2
         Qrb36Yes.UncheckedState.FillColor = Color.Transparent
         Qrb36Yes.UncheckedState.InnerColor = Color.Transparent
@@ -5563,9 +5813,9 @@ Partial Class EmployeeManagement
         ' Qrb35Yes
         ' 
         Qrb35Yes.AutoSize = True
-        Qrb35Yes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb35Yes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35Yes.CheckedState.BorderThickness = 0
-        Qrb35Yes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb35Yes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35Yes.CheckedState.InnerColor = Color.White
         Qrb35Yes.CheckedState.InnerOffset = -4
         Qrb35Yes.Location = New Point(592, 217)
@@ -5573,7 +5823,7 @@ Partial Class EmployeeManagement
         Qrb35Yes.Size = New Size(41, 19)
         Qrb35Yes.TabIndex = 106
         Qrb35Yes.Text = "No"
-        Qrb35Yes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb35Yes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb35Yes.UncheckedState.BorderThickness = 2
         Qrb35Yes.UncheckedState.FillColor = Color.Transparent
         Qrb35Yes.UncheckedState.InnerColor = Color.Transparent
@@ -5581,9 +5831,9 @@ Partial Class EmployeeManagement
         ' Qrb35bYes
         ' 
         Qrb35bYes.AutoSize = True
-        Qrb35bYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb35bYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35bYes.CheckedState.BorderThickness = 0
-        Qrb35bYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb35bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35bYes.CheckedState.InnerColor = Color.White
         Qrb35bYes.CheckedState.InnerOffset = -4
         Qrb35bYes.Location = New Point(531, 217)
@@ -5591,7 +5841,7 @@ Partial Class EmployeeManagement
         Qrb35bYes.Size = New Size(42, 19)
         Qrb35bYes.TabIndex = 105
         Qrb35bYes.Text = "Yes"
-        Qrb35bYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb35bYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb35bYes.UncheckedState.BorderThickness = 2
         Qrb35bYes.UncheckedState.FillColor = Color.Transparent
         Qrb35bYes.UncheckedState.InnerColor = Color.Transparent
@@ -5599,9 +5849,9 @@ Partial Class EmployeeManagement
         ' Qrb35aNo
         ' 
         Qrb35aNo.AutoSize = True
-        Qrb35aNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb35aNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35aNo.CheckedState.BorderThickness = 0
-        Qrb35aNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb35aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35aNo.CheckedState.InnerColor = Color.White
         Qrb35aNo.CheckedState.InnerOffset = -4
         Qrb35aNo.Location = New Point(592, 150)
@@ -5609,7 +5859,7 @@ Partial Class EmployeeManagement
         Qrb35aNo.Size = New Size(41, 19)
         Qrb35aNo.TabIndex = 104
         Qrb35aNo.Text = "No"
-        Qrb35aNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb35aNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb35aNo.UncheckedState.BorderThickness = 2
         Qrb35aNo.UncheckedState.FillColor = Color.Transparent
         Qrb35aNo.UncheckedState.InnerColor = Color.Transparent
@@ -5617,9 +5867,9 @@ Partial Class EmployeeManagement
         ' Qrb35aYes
         ' 
         Qrb35aYes.AutoSize = True
-        Qrb35aYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb35aYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35aYes.CheckedState.BorderThickness = 0
-        Qrb35aYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb35aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb35aYes.CheckedState.InnerColor = Color.White
         Qrb35aYes.CheckedState.InnerOffset = -4
         Qrb35aYes.Location = New Point(531, 150)
@@ -5627,7 +5877,7 @@ Partial Class EmployeeManagement
         Qrb35aYes.Size = New Size(42, 19)
         Qrb35aYes.TabIndex = 103
         Qrb35aYes.Text = "Yes"
-        Qrb35aYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb35aYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb35aYes.UncheckedState.BorderThickness = 2
         Qrb35aYes.UncheckedState.FillColor = Color.Transparent
         Qrb35aYes.UncheckedState.InnerColor = Color.Transparent
@@ -5635,9 +5885,9 @@ Partial Class EmployeeManagement
         ' Qrb34bNo
         ' 
         Qrb34bNo.AutoSize = True
-        Qrb34bNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb34bNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34bNo.CheckedState.BorderThickness = 0
-        Qrb34bNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb34bNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34bNo.CheckedState.InnerColor = Color.White
         Qrb34bNo.CheckedState.InnerOffset = -4
         Qrb34bNo.Location = New Point(592, 80)
@@ -5645,7 +5895,7 @@ Partial Class EmployeeManagement
         Qrb34bNo.Size = New Size(41, 19)
         Qrb34bNo.TabIndex = 102
         Qrb34bNo.Text = "No"
-        Qrb34bNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb34bNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb34bNo.UncheckedState.BorderThickness = 2
         Qrb34bNo.UncheckedState.FillColor = Color.Transparent
         Qrb34bNo.UncheckedState.InnerColor = Color.Transparent
@@ -5653,9 +5903,9 @@ Partial Class EmployeeManagement
         ' Qrb34bYes
         ' 
         Qrb34bYes.AutoSize = True
-        Qrb34bYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb34bYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34bYes.CheckedState.BorderThickness = 0
-        Qrb34bYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb34bYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34bYes.CheckedState.InnerColor = Color.White
         Qrb34bYes.CheckedState.InnerOffset = -4
         Qrb34bYes.Location = New Point(531, 80)
@@ -5663,7 +5913,7 @@ Partial Class EmployeeManagement
         Qrb34bYes.Size = New Size(42, 19)
         Qrb34bYes.TabIndex = 101
         Qrb34bYes.Text = "Yes"
-        Qrb34bYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb34bYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb34bYes.UncheckedState.BorderThickness = 2
         Qrb34bYes.UncheckedState.FillColor = Color.Transparent
         Qrb34bYes.UncheckedState.InnerColor = Color.Transparent
@@ -5671,9 +5921,9 @@ Partial Class EmployeeManagement
         ' Qrb34aNo
         ' 
         Qrb34aNo.AutoSize = True
-        Qrb34aNo.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb34aNo.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34aNo.CheckedState.BorderThickness = 0
-        Qrb34aNo.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb34aNo.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34aNo.CheckedState.InnerColor = Color.White
         Qrb34aNo.CheckedState.InnerOffset = -4
         Qrb34aNo.Location = New Point(592, 60)
@@ -5681,7 +5931,7 @@ Partial Class EmployeeManagement
         Qrb34aNo.Size = New Size(41, 19)
         Qrb34aNo.TabIndex = 100
         Qrb34aNo.Text = "No"
-        Qrb34aNo.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb34aNo.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb34aNo.UncheckedState.BorderThickness = 2
         Qrb34aNo.UncheckedState.FillColor = Color.Transparent
         Qrb34aNo.UncheckedState.InnerColor = Color.Transparent
@@ -5689,9 +5939,9 @@ Partial Class EmployeeManagement
         ' Qrb34aYes
         ' 
         Qrb34aYes.AutoSize = True
-        Qrb34aYes.CheckedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qrb34aYes.CheckedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34aYes.CheckedState.BorderThickness = 0
-        Qrb34aYes.CheckedState.FillColor = Color.FromArgb(94, 148, 255)
+        Qrb34aYes.CheckedState.FillColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qrb34aYes.CheckedState.InnerColor = Color.White
         Qrb34aYes.CheckedState.InnerOffset = -4
         Qrb34aYes.Location = New Point(531, 60)
@@ -5699,7 +5949,7 @@ Partial Class EmployeeManagement
         Qrb34aYes.Size = New Size(42, 19)
         Qrb34aYes.TabIndex = 99
         Qrb34aYes.Text = "Yes"
-        Qrb34aYes.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149)
+        Qrb34aYes.UncheckedState.BorderColor = Color.FromArgb(CByte(125), CByte(137), CByte(149))
         Qrb34aYes.UncheckedState.BorderThickness = 2
         Qrb34aYes.UncheckedState.FillColor = Color.Transparent
         Qrb34aYes.UncheckedState.InnerColor = Color.Transparent
@@ -5716,22 +5966,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt40c
         ' 
-        Qtbt40c.CustomizableEdges = CustomizableEdges263
+        Qtbt40c.CustomizableEdges = CustomizableEdges279
         Qtbt40c.DefaultText = ""
-        Qtbt40c.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt40c.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt40c.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40c.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40c.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40c.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt40c.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt40c.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40c.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40c.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40c.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt40c.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40c.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40c.Location = New Point(617, 766)
         Qtbt40c.Multiline = True
         Qtbt40c.Name = "Qtbt40c"
         Qtbt40c.PasswordChar = ChrW(0)
         Qtbt40c.PlaceholderText = ""
         Qtbt40c.SelectedText = ""
-        Qtbt40c.ShadowDecoration.CustomizableEdges = CustomizableEdges264
+        Qtbt40c.ShadowDecoration.CustomizableEdges = CustomizableEdges280
         Qtbt40c.Size = New Size(128, 30)
         Qtbt40c.TabIndex = 95
         ' 
@@ -5743,7 +5993,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel91.Name = "Guna2HtmlLabel91"
         Guna2HtmlLabel91.Size = New Size(90, 52)
         Guna2HtmlLabel91.TabIndex = 94
-        Guna2HtmlLabel91.Text = vbTab + "c. Are you a solo parent?"
+        Guna2HtmlLabel91.Text = vbTab & "c. Are you a solo parent?"
         ' 
         ' Guna2HtmlLabel88
         ' 
@@ -5757,22 +6007,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt40b
         ' 
-        Qtbt40b.CustomizableEdges = CustomizableEdges265
+        Qtbt40b.CustomizableEdges = CustomizableEdges281
         Qtbt40b.DefaultText = ""
-        Qtbt40b.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt40b.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt40b.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40b.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40b.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40b.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt40b.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt40b.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40b.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40b.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40b.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt40b.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40b.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40b.Location = New Point(373, 766)
         Qtbt40b.Multiline = True
         Qtbt40b.Name = "Qtbt40b"
         Qtbt40b.PasswordChar = ChrW(0)
         Qtbt40b.PlaceholderText = ""
         Qtbt40b.SelectedText = ""
-        Qtbt40b.ShadowDecoration.CustomizableEdges = CustomizableEdges266
+        Qtbt40b.ShadowDecoration.CustomizableEdges = CustomizableEdges282
         Qtbt40b.Size = New Size(128, 30)
         Qtbt40b.TabIndex = 90
         ' 
@@ -5798,22 +6048,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt40a
         ' 
-        Qtbt40a.CustomizableEdges = CustomizableEdges267
+        Qtbt40a.CustomizableEdges = CustomizableEdges283
         Qtbt40a.DefaultText = ""
-        Qtbt40a.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt40a.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt40a.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40a.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt40a.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt40a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt40a.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40a.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt40a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40a.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt40a.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt40a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt40a.Location = New Point(135, 766)
         Qtbt40a.Multiline = True
         Qtbt40a.Name = "Qtbt40a"
         Qtbt40a.PasswordChar = ChrW(0)
         Qtbt40a.PlaceholderText = ""
         Qtbt40a.SelectedText = ""
-        Qtbt40a.ShadowDecoration.CustomizableEdges = CustomizableEdges268
+        Qtbt40a.ShadowDecoration.CustomizableEdges = CustomizableEdges284
         Qtbt40a.Size = New Size(128, 30)
         Qtbt40a.TabIndex = 85
         ' 
@@ -5825,7 +6075,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel85.Name = "Guna2HtmlLabel85"
         Guna2HtmlLabel85.Size = New Size(105, 52)
         Guna2HtmlLabel85.TabIndex = 84
-        Guna2HtmlLabel85.Text = vbTab + "a. Are you a member of any indigenous group?"
+        Guna2HtmlLabel85.Text = vbTab & "a. Are you a member of any indigenous group?"
         ' 
         ' Guna2HtmlLabel86
         ' 
@@ -5839,22 +6089,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt39
         ' 
-        Qtbt39.CustomizableEdges = CustomizableEdges269
+        Qtbt39.CustomizableEdges = CustomizableEdges285
         Qtbt39.DefaultText = ""
-        Qtbt39.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt39.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt39.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt39.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt39.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt39.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt39.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt39.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt39.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt39.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt39.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt39.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt39.Location = New Point(158, 642)
         Qtbt39.Multiline = True
         Qtbt39.Name = "Qtbt39"
         Qtbt39.PasswordChar = ChrW(0)
         Qtbt39.PlaceholderText = ""
         Qtbt39.SelectedText = ""
-        Qtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges270
+        Qtbt39.ShadowDecoration.CustomizableEdges = CustomizableEdges286
         Qtbt39.Size = New Size(592, 40)
         Qtbt39.TabIndex = 82
         ' 
@@ -5880,22 +6130,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt38b
         ' 
-        Qtbt38b.CustomizableEdges = CustomizableEdges271
+        Qtbt38b.CustomizableEdges = CustomizableEdges287
         Qtbt38b.DefaultText = ""
-        Qtbt38b.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt38b.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt38b.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt38b.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt38b.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt38b.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt38b.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt38b.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt38b.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt38b.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38b.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt38b.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt38b.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38b.Location = New Point(158, 575)
         Qtbt38b.Multiline = True
         Qtbt38b.Name = "Qtbt38b"
         Qtbt38b.PasswordChar = ChrW(0)
         Qtbt38b.PlaceholderText = ""
         Qtbt38b.SelectedText = ""
-        Qtbt38b.ShadowDecoration.CustomizableEdges = CustomizableEdges272
+        Qtbt38b.ShadowDecoration.CustomizableEdges = CustomizableEdges288
         Qtbt38b.Size = New Size(592, 40)
         Qtbt38b.TabIndex = 77
         ' 
@@ -5917,7 +6167,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel83.Name = "Guna2HtmlLabel83"
         Guna2HtmlLabel83.Size = New Size(470, 37)
         Guna2HtmlLabel83.TabIndex = 72
-        Guna2HtmlLabel83.Text = "b. Have you resigned from the government service during the three (3)-month period before the " + vbTab + "last election to promote/actively campaign for a national or local candidate?"
+        Guna2HtmlLabel83.Text = "b. Have you resigned from the government service during the three (3)-month period before the " & vbTab & "last election to promote/actively campaign for a national or local candidate?"
         ' 
         ' Guna2HtmlLabel80
         ' 
@@ -5943,57 +6193,57 @@ Partial Class EmployeeManagement
         ' 
         Guna2DateTimePicker1.Checked = True
         Guna2DateTimePicker1.CustomFormat = "MMM dd, yyyy"
-        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges273
+        Guna2DateTimePicker1.CustomizableEdges = CustomizableEdges289
         Guna2DateTimePicker1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2DateTimePicker1.Format = DateTimePickerFormat.Custom
         Guna2DateTimePicker1.Location = New Point(158, 238)
         Guna2DateTimePicker1.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
         Guna2DateTimePicker1.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
         Guna2DateTimePicker1.Name = "Guna2DateTimePicker1"
-        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges274
+        Guna2DateTimePicker1.ShadowDecoration.CustomizableEdges = CustomizableEdges290
         Guna2DateTimePicker1.Size = New Size(144, 30)
         Guna2DateTimePicker1.TabIndex = 69
         Guna2DateTimePicker1.Value = New Date(2023, 7, 3, 17, 0, 20, 413)
         ' 
         ' Guna2TextBox2
         ' 
-        Guna2TextBox2.CustomizableEdges = CustomizableEdges275
+        Guna2TextBox2.CustomizableEdges = CustomizableEdges291
         Guna2TextBox2.DefaultText = ""
-        Guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox2.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox2.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox2.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox2.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox2.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox2.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox2.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox2.Location = New Point(423, 238)
         Guna2TextBox2.Multiline = True
         Guna2TextBox2.Name = "Guna2TextBox2"
         Guna2TextBox2.PasswordChar = ChrW(0)
         Guna2TextBox2.PlaceholderText = ""
         Guna2TextBox2.SelectedText = ""
-        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges276
+        Guna2TextBox2.ShadowDecoration.CustomizableEdges = CustomizableEdges292
         Guna2TextBox2.Size = New Size(327, 30)
         Guna2TextBox2.TabIndex = 68
         ' 
         ' Qtbt38a
         ' 
-        Qtbt38a.CustomizableEdges = CustomizableEdges277
+        Qtbt38a.CustomizableEdges = CustomizableEdges293
         Qtbt38a.DefaultText = ""
-        Qtbt38a.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt38a.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt38a.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt38a.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt38a.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt38a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt38a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt38a.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt38a.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt38a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38a.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt38a.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt38a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt38a.Location = New Point(158, 495)
         Qtbt38a.Multiline = True
         Qtbt38a.Name = "Qtbt38a"
         Qtbt38a.PasswordChar = ChrW(0)
         Qtbt38a.PlaceholderText = ""
         Qtbt38a.SelectedText = ""
-        Qtbt38a.ShadowDecoration.CustomizableEdges = CustomizableEdges278
+        Qtbt38a.ShadowDecoration.CustomizableEdges = CustomizableEdges294
         Qtbt38a.Size = New Size(592, 40)
         Qtbt38a.TabIndex = 67
         ' 
@@ -6015,26 +6265,26 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel78.Name = "Guna2HtmlLabel78"
         Guna2HtmlLabel78.Size = New Size(501, 36)
         Guna2HtmlLabel78.TabIndex = 63
-        Guna2HtmlLabel78.Text = "38  a. Have you ever been a candidate in a national or local election held within the last year (except " + vbTab + "Barangay election)?"
+        Guna2HtmlLabel78.Text = "38  a. Have you ever been a candidate in a national or local election held within the last year (except " & vbTab & "Barangay election)?"
         ' 
         ' Qtbt37
         ' 
-        Qtbt37.CustomizableEdges = CustomizableEdges279
+        Qtbt37.CustomizableEdges = CustomizableEdges295
         Qtbt37.DefaultText = ""
-        Qtbt37.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt37.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt37.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt37.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt37.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt37.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt37.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt37.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt37.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt37.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt37.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt37.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt37.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt37.Location = New Point(158, 412)
         Qtbt37.Multiline = True
         Qtbt37.Name = "Qtbt37"
         Qtbt37.PasswordChar = ChrW(0)
         Qtbt37.PlaceholderText = ""
         Qtbt37.SelectedText = ""
-        Qtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges280
+        Qtbt37.ShadowDecoration.CustomizableEdges = CustomizableEdges296
         Qtbt37.Size = New Size(592, 40)
         Qtbt37.TabIndex = 62
         ' 
@@ -6060,22 +6310,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt36
         ' 
-        Qtbt36.CustomizableEdges = CustomizableEdges281
+        Qtbt36.CustomizableEdges = CustomizableEdges297
         Qtbt36.DefaultText = ""
-        Qtbt36.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt36.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt36.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt36.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt36.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt36.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt36.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt36.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt36.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt36.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt36.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt36.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt36.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt36.Location = New Point(158, 309)
         Qtbt36.Multiline = True
         Qtbt36.Name = "Qtbt36"
         Qtbt36.PasswordChar = ChrW(0)
         Qtbt36.PlaceholderText = ""
         Qtbt36.SelectedText = ""
-        Qtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges282
+        Qtbt36.ShadowDecoration.CustomizableEdges = CustomizableEdges298
         Qtbt36.Size = New Size(592, 40)
         Qtbt36.TabIndex = 57
         ' 
@@ -6097,7 +6347,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel74.Name = "Guna2HtmlLabel74"
         Guna2HtmlLabel74.Size = New Size(487, 36)
         Guna2HtmlLabel74.TabIndex = 53
-        Guna2HtmlLabel74.Text = "36. Have you ever been convicted of any crime or violation of any law, decree, ordinance or " + vbTab + "regulation by any court or tribunal?"
+        Guna2HtmlLabel74.Text = "36. Have you ever been convicted of any crime or violation of any law, decree, ordinance or " & vbTab & "regulation by any court or tribunal?"
         ' 
         ' Guna2HtmlLabel72
         ' 
@@ -6111,22 +6361,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt35a
         ' 
-        Qtbt35a.CustomizableEdges = CustomizableEdges283
+        Qtbt35a.CustomizableEdges = CustomizableEdges299
         Qtbt35a.DefaultText = ""
-        Qtbt35a.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt35a.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt35a.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt35a.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt35a.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt35a.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt35a.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt35a.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt35a.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt35a.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt35a.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt35a.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt35a.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt35a.Location = New Point(158, 171)
         Qtbt35a.Multiline = True
         Qtbt35a.Name = "Qtbt35a"
         Qtbt35a.PasswordChar = ChrW(0)
         Qtbt35a.PlaceholderText = ""
         Qtbt35a.SelectedText = ""
-        Qtbt35a.ShadowDecoration.CustomizableEdges = CustomizableEdges284
+        Qtbt35a.ShadowDecoration.CustomizableEdges = CustomizableEdges300
         Qtbt35a.Size = New Size(592, 40)
         Qtbt35a.TabIndex = 48
         ' 
@@ -6162,22 +6412,22 @@ Partial Class EmployeeManagement
         ' 
         ' Qtbt34
         ' 
-        Qtbt34.CustomizableEdges = CustomizableEdges285
+        Qtbt34.CustomizableEdges = CustomizableEdges301
         Qtbt34.DefaultText = ""
-        Qtbt34.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Qtbt34.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Qtbt34.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt34.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Qtbt34.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt34.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Qtbt34.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Qtbt34.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt34.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Qtbt34.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt34.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Qtbt34.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Qtbt34.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Qtbt34.Location = New Point(158, 100)
         Qtbt34.Multiline = True
         Qtbt34.Name = "Qtbt34"
         Qtbt34.PasswordChar = ChrW(0)
         Qtbt34.PlaceholderText = ""
         Qtbt34.SelectedText = ""
-        Qtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges286
+        Qtbt34.ShadowDecoration.CustomizableEdges = CustomizableEdges302
         Qtbt34.Size = New Size(592, 40)
         Qtbt34.TabIndex = 42
         ' 
@@ -6199,7 +6449,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel67.Name = "Guna2HtmlLabel67"
         Guna2HtmlLabel67.Size = New Size(421, 19)
         Guna2HtmlLabel67.TabIndex = 36
-        Guna2HtmlLabel67.Text = vbTab + "b. within the fourth degree (for Local Government Unit - Career Employees)?"
+        Guna2HtmlLabel67.Text = vbTab & "b. within the fourth degree (for Local Government Unit - Career Employees)?"
         ' 
         ' Guna2HtmlLabel66
         ' 
@@ -6209,7 +6459,7 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel66.Name = "Guna2HtmlLabel66"
         Guna2HtmlLabel66.Size = New Size(178, 25)
         Guna2HtmlLabel66.TabIndex = 35
-        Guna2HtmlLabel66.Text = vbTab + "a. within the third degree?"
+        Guna2HtmlLabel66.Text = vbTab & "a. within the third degree?"
         ' 
         ' Guna2HtmlLabel57
         ' 
@@ -6239,21 +6489,21 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2TextBox3
         ' 
-        Guna2TextBox3.CustomizableEdges = CustomizableEdges287
+        Guna2TextBox3.CustomizableEdges = CustomizableEdges303
         Guna2TextBox3.DefaultText = ""
-        Guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox3.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox3.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox3.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox3.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox3.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox3.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        Guna2TextBox3.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         Guna2TextBox3.Location = New Point(32, 71)
         Guna2TextBox3.Name = "Guna2TextBox3"
         Guna2TextBox3.PasswordChar = ChrW(0)
         Guna2TextBox3.PlaceholderText = ""
         Guna2TextBox3.SelectedText = ""
-        Guna2TextBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges288
+        Guna2TextBox3.ShadowDecoration.CustomizableEdges = CustomizableEdges304
         Guna2TextBox3.Size = New Size(200, 36)
         Guna2TextBox3.TabIndex = 5
         ' 
@@ -6324,24 +6574,24 @@ Partial Class EmployeeManagement
         ' Guna2Panel1
         ' 
         Guna2Panel1.AutoSize = True
-        Guna2Panel1.BackColor = Color.FromArgb(67, 86, 119)
-        Guna2Panel1.CustomizableEdges = CustomizableEdges289
+        Guna2Panel1.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
+        Guna2Panel1.CustomizableEdges = CustomizableEdges305
         Guna2Panel1.Dock = DockStyle.Right
         Guna2Panel1.Location = New Point(1589, 60)
         Guna2Panel1.Name = "Guna2Panel1"
-        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges290
+        Guna2Panel1.ShadowDecoration.CustomizableEdges = CustomizableEdges306
         Guna2Panel1.Size = New Size(0, 929)
         Guna2Panel1.TabIndex = 2
         ' 
         ' Guna2Panel2
         ' 
-        Guna2Panel2.BackColor = Color.FromArgb(67, 86, 119)
+        Guna2Panel2.BackColor = Color.FromArgb(CByte(67), CByte(86), CByte(119))
         Guna2Panel2.Controls.Add(Guna2TabControl2)
-        Guna2Panel2.CustomizableEdges = CustomizableEdges291
+        Guna2Panel2.CustomizableEdges = CustomizableEdges307
         Guna2Panel2.Dock = DockStyle.Left
         Guna2Panel2.Location = New Point(3, 60)
         Guna2Panel2.Name = "Guna2Panel2"
-        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges292
+        Guna2Panel2.ShadowDecoration.CustomizableEdges = CustomizableEdges308
         Guna2Panel2.Size = New Size(790, 929)
         Guna2Panel2.TabIndex = 3
         ' 
@@ -6360,20 +6610,20 @@ Partial Class EmployeeManagement
         Guna2TabControl2.TabButtonHoverState.FillColor = Color.SteelBlue
         Guna2TabControl2.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl2.TabButtonHoverState.ForeColor = Color.White
-        Guna2TabControl2.TabButtonHoverState.InnerColor = Color.FromArgb(192, 255, 255)
+        Guna2TabControl2.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(192), CByte(255), CByte(255))
         Guna2TabControl2.TabButtonIdleState.BorderColor = Color.Empty
-        Guna2TabControl2.TabButtonIdleState.FillColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl2.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl2.TabButtonIdleState.ForeColor = Color.FromArgb(224, 224, 224)
-        Guna2TabControl2.TabButtonIdleState.InnerColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl2.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
+        Guna2TabControl2.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabButtonSelectedState.BorderColor = Color.Empty
         Guna2TabControl2.TabButtonSelectedState.FillColor = Color.LightSteelBlue
         Guna2TabControl2.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl2.TabButtonSelectedState.ForeColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl2.TabButtonSelectedState.ForeColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabButtonSelectedState.InnerColor = Color.MidnightBlue
         Guna2TabControl2.TabButtonSize = New Size(180, 40)
         Guna2TabControl2.TabIndex = 1
-        Guna2TabControl2.TabMenuBackColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl2.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl2.TabMenuOrientation = TabMenuOrientation.HorizontalBottom
         ' 
         ' TabPage11
@@ -6397,7 +6647,7 @@ Partial Class EmployeeManagement
         dgView.AutoGenerateColumns = False
         dgView.BackgroundColor = Color.WhiteSmoke
         DataGridViewCellStyle23.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle23.BackColor = Color.FromArgb(100, 88, 255)
+        DataGridViewCellStyle23.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         DataGridViewCellStyle23.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
         DataGridViewCellStyle23.ForeColor = Color.White
         DataGridViewCellStyle23.SelectionBackColor = SystemColors.Highlight
@@ -6411,12 +6661,12 @@ Partial Class EmployeeManagement
         DataGridViewCellStyle24.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle24.BackColor = Color.White
         DataGridViewCellStyle24.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point)
-        DataGridViewCellStyle24.ForeColor = Color.FromArgb(71, 69, 94)
-        DataGridViewCellStyle24.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        DataGridViewCellStyle24.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        DataGridViewCellStyle24.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
+        DataGridViewCellStyle24.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        DataGridViewCellStyle24.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         DataGridViewCellStyle24.WrapMode = DataGridViewTriState.False
         dgView.DefaultCellStyle = DataGridViewCellStyle24
-        dgView.GridColor = Color.FromArgb(231, 229, 255)
+        dgView.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         dgView.Location = New Point(3, 3)
         dgView.Name = "dgView"
         dgView.ReadOnly = True
@@ -6430,8 +6680,8 @@ Partial Class EmployeeManagement
         dgView.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty
         dgView.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty
         dgView.ThemeStyle.BackColor = Color.WhiteSmoke
-        dgView.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255)
-        dgView.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255)
+        dgView.ThemeStyle.GridColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        dgView.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
         dgView.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None
         dgView.ThemeStyle.HeaderStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         dgView.ThemeStyle.HeaderStyle.ForeColor = Color.White
@@ -6441,10 +6691,10 @@ Partial Class EmployeeManagement
         dgView.ThemeStyle.RowsStyle.BackColor = Color.White
         dgView.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal
         dgView.ThemeStyle.RowsStyle.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        dgView.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94)
+        dgView.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         dgView.ThemeStyle.RowsStyle.Height = 25
-        dgView.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255)
-        dgView.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94)
+        dgView.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
+        dgView.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
         ' 
         ' Column1
         ' 
@@ -6493,16 +6743,19 @@ Partial Class EmployeeManagement
         ' 
         ' Guna2Panel3
         ' 
-        Guna2Panel3.BackColor = Color.FromArgb(33, 42, 57)
+        Guna2Panel3.BackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
+        Guna2Panel3.Controls.Add(EMbtnEdit)
+        Guna2Panel3.Controls.Add(EMbtnDel)
+        Guna2Panel3.Controls.Add(EMbtnAdd)
         Guna2Panel3.Controls.Add(tbtSearch)
         Guna2Panel3.Controls.Add(Guna2Button3)
         Guna2Panel3.Controls.Add(Guna2Button1)
         Guna2Panel3.Controls.Add(btnEdit)
-        Guna2Panel3.CustomizableEdges = CustomizableEdges301
+        Guna2Panel3.CustomizableEdges = CustomizableEdges323
         Guna2Panel3.Dock = DockStyle.Top
         Guna2Panel3.Location = New Point(3, 3)
         Guna2Panel3.Name = "Guna2Panel3"
-        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges302
+        Guna2Panel3.ShadowDecoration.CustomizableEdges = CustomizableEdges324
         Guna2Panel3.Size = New Size(1586, 57)
         Guna2Panel3.TabIndex = 4
         ' 
@@ -6510,21 +6763,21 @@ Partial Class EmployeeManagement
         ' 
         tbtSearch.BackgroundImageLayout = ImageLayout.Center
         tbtSearch.BorderRadius = 3
-        tbtSearch.CustomizableEdges = CustomizableEdges293
+        tbtSearch.CustomizableEdges = CustomizableEdges315
         tbtSearch.DefaultText = ""
-        tbtSearch.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        tbtSearch.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        tbtSearch.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        tbtSearch.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        tbtSearch.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbtSearch.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        tbtSearch.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        tbtSearch.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbtSearch.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        tbtSearch.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbtSearch.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        tbtSearch.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
+        tbtSearch.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         tbtSearch.Location = New Point(586, 17)
         tbtSearch.Name = "tbtSearch"
         tbtSearch.PasswordChar = ChrW(0)
         tbtSearch.PlaceholderText = ""
         tbtSearch.SelectedText = ""
-        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges294
+        tbtSearch.ShadowDecoration.CustomizableEdges = CustomizableEdges316
         tbtSearch.Size = New Size(197, 29)
         tbtSearch.TabIndex = 5
         ' 
@@ -6532,18 +6785,18 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button3.BorderColor = Color.Transparent
         Guna2Button3.CustomBorderColor = Color.Transparent
-        Guna2Button3.CustomizableEdges = CustomizableEdges295
+        Guna2Button3.CustomizableEdges = CustomizableEdges317
         Guna2Button3.DisabledState.BorderColor = Color.DarkGray
         Guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button3.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        Guna2Button3.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        Guna2Button3.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button3.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button3.FillColor = Color.Transparent
         Guna2Button3.FocusedColor = Color.Transparent
         Guna2Button3.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2Button3.ForeColor = Color.White
         Guna2Button3.Location = New Point(1010, 7)
         Guna2Button3.Name = "Guna2Button3"
-        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges296
+        Guna2Button3.ShadowDecoration.CustomizableEdges = CustomizableEdges318
         Guna2Button3.Size = New Size(20, 36)
         Guna2Button3.TabIndex = 4
         ' 
@@ -6551,11 +6804,11 @@ Partial Class EmployeeManagement
         ' 
         Guna2Button1.BorderColor = Color.Transparent
         Guna2Button1.CustomBorderColor = Color.Transparent
-        Guna2Button1.CustomizableEdges = CustomizableEdges297
+        Guna2Button1.CustomizableEdges = CustomizableEdges319
         Guna2Button1.DisabledState.BorderColor = Color.DarkGray
         Guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray
-        Guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        Guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        Guna2Button1.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        Guna2Button1.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         Guna2Button1.FillColor = Color.Transparent
         Guna2Button1.FocusedColor = Color.Transparent
         Guna2Button1.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
@@ -6566,7 +6819,7 @@ Partial Class EmployeeManagement
         Guna2Button1.HoverState.ForeColor = Color.Transparent
         Guna2Button1.Location = New Point(914, 17)
         Guna2Button1.Name = "Guna2Button1"
-        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges298
+        Guna2Button1.ShadowDecoration.CustomizableEdges = CustomizableEdges320
         Guna2Button1.Size = New Size(23, 28)
         Guna2Button1.TabIndex = 2
         ' 
@@ -6574,18 +6827,18 @@ Partial Class EmployeeManagement
         ' 
         btnEdit.BorderColor = Color.Transparent
         btnEdit.CustomBorderColor = Color.Transparent
-        btnEdit.CustomizableEdges = CustomizableEdges299
+        btnEdit.CustomizableEdges = CustomizableEdges321
         btnEdit.DisabledState.BorderColor = Color.DarkGray
         btnEdit.DisabledState.CustomBorderColor = Color.DarkGray
-        btnEdit.DisabledState.FillColor = Color.FromArgb(169, 169, 169)
-        btnEdit.DisabledState.ForeColor = Color.FromArgb(141, 141, 141)
+        btnEdit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        btnEdit.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
         btnEdit.FillColor = Color.Transparent
         btnEdit.FocusedColor = Color.Transparent
         btnEdit.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         btnEdit.ForeColor = Color.White
         btnEdit.Location = New Point(108, 11)
         btnEdit.Name = "btnEdit"
-        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges300
+        btnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges322
         btnEdit.Size = New Size(26, 36)
         btnEdit.TabIndex = 3
         ' 
@@ -6609,25 +6862,25 @@ Partial Class EmployeeManagement
         Guna2TabControl1.SelectedIndex = 0
         Guna2TabControl1.Size = New Size(1800, 1000)
         Guna2TabControl1.TabButtonHoverState.BorderColor = Color.Empty
-        Guna2TabControl1.TabButtonHoverState.FillColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl1.TabButtonHoverState.FillColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl1.TabButtonHoverState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl1.TabButtonHoverState.ForeColor = Color.White
-        Guna2TabControl1.TabButtonHoverState.InnerColor = Color.FromArgb(40, 52, 70)
+        Guna2TabControl1.TabButtonHoverState.InnerColor = Color.FromArgb(CByte(40), CByte(52), CByte(70))
         Guna2TabControl1.TabButtonIdleState.BorderColor = Color.Empty
-        Guna2TabControl1.TabButtonIdleState.FillColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl1.TabButtonIdleState.FillColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl1.TabButtonIdleState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TabControl1.TabButtonIdleState.ForeColor = Color.FromArgb(156, 160, 167)
-        Guna2TabControl1.TabButtonIdleState.InnerColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl1.TabButtonIdleState.ForeColor = Color.FromArgb(CByte(156), CByte(160), CByte(167))
+        Guna2TabControl1.TabButtonIdleState.InnerColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         Guna2TabControl1.TabButtonImageAlign = HorizontalAlignment.Left
         Guna2TabControl1.TabButtonSelectedState.BorderColor = Color.Empty
-        Guna2TabControl1.TabButtonSelectedState.FillColor = Color.FromArgb(29, 37, 49)
+        Guna2TabControl1.TabButtonSelectedState.FillColor = Color.FromArgb(CByte(29), CByte(37), CByte(49))
         Guna2TabControl1.TabButtonSelectedState.Font = New Font("Segoe UI Semibold", 10.0F, FontStyle.Regular, GraphicsUnit.Point)
         Guna2TabControl1.TabButtonSelectedState.ForeColor = Color.White
-        Guna2TabControl1.TabButtonSelectedState.InnerColor = Color.FromArgb(76, 132, 255)
+        Guna2TabControl1.TabButtonSelectedState.InnerColor = Color.FromArgb(CByte(76), CByte(132), CByte(255))
         Guna2TabControl1.TabButtonSize = New Size(200, 40)
         Guna2TabControl1.TabButtonTextAlign = HorizontalAlignment.Left
         Guna2TabControl1.TabIndex = 0
-        Guna2TabControl1.TabMenuBackColor = Color.FromArgb(33, 42, 57)
+        Guna2TabControl1.TabMenuBackColor = Color.FromArgb(CByte(33), CByte(42), CByte(57))
         ' 
         ' Guna2HtmlLabel6
         ' 
@@ -6671,210 +6924,229 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel118.Text = "V. WORK EXPERIENCE"
         Guna2HtmlLabel118.TextAlignment = ContentAlignment.MiddleLeft
         ' 
-        ' Guna2Panel15
+        ' Guna2HtmlLabel126
         ' 
-        Guna2Panel15.Controls.Add(Guna2HtmlLabel109)
-        Guna2Panel15.CustomizableEdges = CustomizableEdges15
-        Guna2Panel15.Dock = DockStyle.Left
-        Guna2Panel15.Location = New Point(3, 3)
-        Guna2Panel15.Name = "Guna2Panel15"
-        Guna2Panel15.ShadowDecoration.CustomizableEdges = CustomizableEdges16
-        Guna2Panel15.Size = New Size(819, 986)
-        Guna2Panel15.TabIndex = 0
+        Guna2HtmlLabel126.BackColor = Color.Transparent
+        Guna2HtmlLabel126.Font = New Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point)
+        Guna2HtmlLabel126.Location = New Point(114, 420)
+        Guna2HtmlLabel126.Name = "Guna2HtmlLabel126"
+        Guna2HtmlLabel126.Size = New Size(70, 19)
+        Guna2HtmlLabel126.TabIndex = 27
+        Guna2HtmlLabel126.Text = "Upload File"
         ' 
-        ' Guna2Panel16
+        ' Guna2TextBox12
         ' 
-        Guna2Panel16.Controls.Add(Guna2Panel18)
-        Guna2Panel16.Controls.Add(Guna2Panel17)
-        Guna2Panel16.CustomizableEdges = CustomizableEdges13
-        Guna2Panel16.Dock = DockStyle.Left
-        Guna2Panel16.Location = New Point(822, 3)
-        Guna2Panel16.Name = "Guna2Panel16"
-        Guna2Panel16.ShadowDecoration.CustomizableEdges = CustomizableEdges14
-        Guna2Panel16.Size = New Size(767, 986)
-        Guna2Panel16.TabIndex = 1
+        Guna2TextBox12.CustomizableEdges = CustomizableEdges15
+        Guna2TextBox12.DefaultText = ""
+        Guna2TextBox12.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox12.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox12.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox12.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox12.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox12.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox12.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox12.Location = New Point(52, 49)
+        Guna2TextBox12.Name = "Guna2TextBox12"
+        Guna2TextBox12.PasswordChar = ChrW(0)
+        Guna2TextBox12.PlaceholderText = ""
+        Guna2TextBox12.SelectedText = ""
+        Guna2TextBox12.ShadowDecoration.CustomizableEdges = CustomizableEdges16
+        Guna2TextBox12.Size = New Size(200, 30)
+        Guna2TextBox12.TabIndex = 8
         ' 
-        ' Guna2TextBox8
+        ' Guna2TextBox13
         ' 
-        Guna2TextBox8.CustomizableEdges = CustomizableEdges9
-        Guna2TextBox8.DefaultText = ""
-        Guna2TextBox8.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox8.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox8.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox8.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox8.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox8.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox8.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox8.Location = New Point(388, 39)
-        Guna2TextBox8.Name = "Guna2TextBox8"
-        Guna2TextBox8.PasswordChar = ChrW(0)
-        Guna2TextBox8.PlaceholderText = ""
-        Guna2TextBox8.SelectedText = ""
-        Guna2TextBox8.ShadowDecoration.CustomizableEdges = CustomizableEdges10
-        Guna2TextBox8.Size = New Size(320, 30)
-        Guna2TextBox8.TabIndex = 0
+        Guna2TextBox13.CustomizableEdges = CustomizableEdges13
+        Guna2TextBox13.DefaultText = ""
+        Guna2TextBox13.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox13.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox13.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox13.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox13.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox13.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox13.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox13.Location = New Point(69, 94)
+        Guna2TextBox13.Name = "Guna2TextBox13"
+        Guna2TextBox13.PasswordChar = ChrW(0)
+        Guna2TextBox13.PlaceholderText = ""
+        Guna2TextBox13.SelectedText = ""
+        Guna2TextBox13.ShadowDecoration.CustomizableEdges = CustomizableEdges14
+        Guna2TextBox13.Size = New Size(200, 30)
+        Guna2TextBox13.TabIndex = 9
         ' 
-        ' Guna2Panel17
+        ' Guna2TextBox14
         ' 
-        Guna2Panel17.Controls.Add(Guna2HtmlLabel108)
-        Guna2Panel17.Controls.Add(Guna2TextBox11)
-        Guna2Panel17.Controls.Add(Guna2HtmlLabel106)
-        Guna2Panel17.Controls.Add(Guna2TextBox9)
-        Guna2Panel17.Controls.Add(Guna2HtmlLabel105)
-        Guna2Panel17.Controls.Add(Guna2HtmlLabel107)
-        Guna2Panel17.Controls.Add(Guna2TextBox10)
-        Guna2Panel17.Controls.Add(Guna2TextBox8)
-        Guna2Panel17.CustomizableEdges = CustomizableEdges11
-        Guna2Panel17.Dock = DockStyle.Top
-        Guna2Panel17.Location = New Point(0, 0)
-        Guna2Panel17.Name = "Guna2Panel17"
-        Guna2Panel17.ShadowDecoration.CustomizableEdges = CustomizableEdges12
-        Guna2Panel17.Size = New Size(767, 161)
-        Guna2Panel17.TabIndex = 0
+        Guna2TextBox14.CustomizableEdges = CustomizableEdges11
+        Guna2TextBox14.DefaultText = ""
+        Guna2TextBox14.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox14.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox14.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox14.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox14.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox14.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox14.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox14.Location = New Point(283, 49)
+        Guna2TextBox14.Name = "Guna2TextBox14"
+        Guna2TextBox14.PasswordChar = ChrW(0)
+        Guna2TextBox14.PlaceholderText = ""
+        Guna2TextBox14.SelectedText = ""
+        Guna2TextBox14.ShadowDecoration.CustomizableEdges = CustomizableEdges12
+        Guna2TextBox14.Size = New Size(200, 30)
+        Guna2TextBox14.TabIndex = 10
         ' 
-        ' Guna2TextBox9
+        ' Guna2TextBox15
         ' 
-        Guna2TextBox9.CustomizableEdges = CustomizableEdges5
-        Guna2TextBox9.DefaultText = ""
-        Guna2TextBox9.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox9.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox9.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox9.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox9.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox9.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox9.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox9.Location = New Point(39, 39)
-        Guna2TextBox9.Name = "Guna2TextBox9"
-        Guna2TextBox9.PasswordChar = ChrW(0)
-        Guna2TextBox9.PlaceholderText = ""
-        Guna2TextBox9.SelectedText = ""
-        Guna2TextBox9.ShadowDecoration.CustomizableEdges = CustomizableEdges6
-        Guna2TextBox9.Size = New Size(343, 30)
-        Guna2TextBox9.TabIndex = 0
+        Guna2TextBox15.CustomizableEdges = CustomizableEdges9
+        Guna2TextBox15.DefaultText = ""
+        Guna2TextBox15.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox15.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox15.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox15.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox15.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox15.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox15.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox15.Location = New Point(283, 97)
+        Guna2TextBox15.Name = "Guna2TextBox15"
+        Guna2TextBox15.PasswordChar = ChrW(0)
+        Guna2TextBox15.PlaceholderText = ""
+        Guna2TextBox15.SelectedText = ""
+        Guna2TextBox15.ShadowDecoration.CustomizableEdges = CustomizableEdges10
+        Guna2TextBox15.Size = New Size(200, 30)
+        Guna2TextBox15.TabIndex = 11
         ' 
-        ' Guna2HtmlLabel105
+        ' Guna2TextBox16
         ' 
-        Guna2HtmlLabel105.BackColor = Color.Transparent
-        Guna2HtmlLabel105.ForeColor = SystemColors.ButtonFace
-        Guna2HtmlLabel105.Location = New Point(39, 16)
-        Guna2HtmlLabel105.Name = "Guna2HtmlLabel105"
-        Guna2HtmlLabel105.Size = New Size(55, 17)
-        Guna2HtmlLabel105.TabIndex = 1
-        Guna2HtmlLabel105.Text = "Reference"
+        Guna2TextBox16.CustomizableEdges = CustomizableEdges7
+        Guna2TextBox16.DefaultText = ""
+        Guna2TextBox16.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox16.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox16.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox16.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox16.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox16.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox16.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox16.Location = New Point(489, 49)
+        Guna2TextBox16.Name = "Guna2TextBox16"
+        Guna2TextBox16.PasswordChar = ChrW(0)
+        Guna2TextBox16.PlaceholderText = ""
+        Guna2TextBox16.SelectedText = ""
+        Guna2TextBox16.ShadowDecoration.CustomizableEdges = CustomizableEdges8
+        Guna2TextBox16.Size = New Size(200, 30)
+        Guna2TextBox16.TabIndex = 12
         ' 
-        ' Guna2HtmlLabel106
+        ' Guna2TextBox17
         ' 
-        Guna2HtmlLabel106.BackColor = Color.Transparent
-        Guna2HtmlLabel106.ForeColor = SystemColors.ButtonFace
-        Guna2HtmlLabel106.Location = New Point(388, 16)
-        Guna2HtmlLabel106.Name = "Guna2HtmlLabel106"
-        Guna2HtmlLabel106.Size = New Size(77, 17)
-        Guna2HtmlLabel106.TabIndex = 2
-        Guna2HtmlLabel106.Text = "Type of Filling"
+        Guna2TextBox17.CustomizableEdges = CustomizableEdges5
+        Guna2TextBox17.DefaultText = ""
+        Guna2TextBox17.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox17.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox17.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox17.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox17.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox17.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox17.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox17.Location = New Point(508, 94)
+        Guna2TextBox17.Name = "Guna2TextBox17"
+        Guna2TextBox17.PasswordChar = ChrW(0)
+        Guna2TextBox17.PlaceholderText = ""
+        Guna2TextBox17.SelectedText = ""
+        Guna2TextBox17.ShadowDecoration.CustomizableEdges = CustomizableEdges6
+        Guna2TextBox17.Size = New Size(200, 30)
+        Guna2TextBox17.TabIndex = 13
         ' 
-        ' Guna2HtmlLabel107
+        ' Guna2TextBox18
         ' 
-        Guna2HtmlLabel107.BackColor = Color.Transparent
-        Guna2HtmlLabel107.ForeColor = SystemColors.ButtonFace
-        Guna2HtmlLabel107.Location = New Point(39, 82)
-        Guna2HtmlLabel107.Name = "Guna2HtmlLabel107"
-        Guna2HtmlLabel107.Size = New Size(93, 17)
-        Guna2HtmlLabel107.TabIndex = 4
-        Guna2HtmlLabel107.Text = "Search Employee"
+        Guna2TextBox18.CustomizableEdges = CustomizableEdges3
+        Guna2TextBox18.DefaultText = ""
+        Guna2TextBox18.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox18.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox18.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox18.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox18.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox18.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox18.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox18.Location = New Point(226, 142)
+        Guna2TextBox18.Name = "Guna2TextBox18"
+        Guna2TextBox18.PasswordChar = ChrW(0)
+        Guna2TextBox18.PlaceholderText = ""
+        Guna2TextBox18.SelectedText = ""
+        Guna2TextBox18.ShadowDecoration.CustomizableEdges = CustomizableEdges4
+        Guna2TextBox18.Size = New Size(200, 30)
+        Guna2TextBox18.TabIndex = 14
         ' 
-        ' Guna2TextBox10
+        ' Guna2TextBox19
         ' 
-        Guna2TextBox10.CustomizableEdges = CustomizableEdges7
-        Guna2TextBox10.DefaultText = ""
-        Guna2TextBox10.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox10.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox10.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox10.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox10.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox10.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox10.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox10.Location = New Point(39, 105)
-        Guna2TextBox10.Name = "Guna2TextBox10"
-        Guna2TextBox10.PasswordChar = ChrW(0)
-        Guna2TextBox10.PlaceholderText = ""
-        Guna2TextBox10.SelectedText = ""
-        Guna2TextBox10.ShadowDecoration.CustomizableEdges = CustomizableEdges8
-        Guna2TextBox10.Size = New Size(343, 30)
-        Guna2TextBox10.TabIndex = 3
+        Guna2TextBox19.CustomizableEdges = CustomizableEdges1
+        Guna2TextBox19.DefaultText = ""
+        Guna2TextBox19.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
+        Guna2TextBox19.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
+        Guna2TextBox19.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox19.DisabledState.PlaceholderForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))
+        Guna2TextBox19.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox19.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Guna2TextBox19.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
+        Guna2TextBox19.Location = New Point(432, 142)
+        Guna2TextBox19.Name = "Guna2TextBox19"
+        Guna2TextBox19.PasswordChar = ChrW(0)
+        Guna2TextBox19.PlaceholderText = ""
+        Guna2TextBox19.SelectedText = ""
+        Guna2TextBox19.ShadowDecoration.CustomizableEdges = CustomizableEdges2
+        Guna2TextBox19.Size = New Size(200, 30)
+        Guna2TextBox19.TabIndex = 15
         ' 
-        ' Guna2HtmlLabel108
+        ' EMbtnAdd
         ' 
-        Guna2HtmlLabel108.BackColor = Color.Transparent
-        Guna2HtmlLabel108.ForeColor = SystemColors.ButtonFace
-        Guna2HtmlLabel108.Location = New Point(388, 82)
-        Guna2HtmlLabel108.Name = "Guna2HtmlLabel108"
-        Guna2HtmlLabel108.Size = New Size(55, 17)
-        Guna2HtmlLabel108.TabIndex = 6
-        Guna2HtmlLabel108.Text = "Employee"
+        EMbtnAdd.CustomizableEdges = CustomizableEdges313
+        EMbtnAdd.DisabledState.BorderColor = Color.DarkGray
+        EMbtnAdd.DisabledState.CustomBorderColor = Color.DarkGray
+        EMbtnAdd.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        EMbtnAdd.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        EMbtnAdd.FillColor = Color.Transparent
+        EMbtnAdd.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        EMbtnAdd.ForeColor = Color.White
+        EMbtnAdd.Image = Resources.add__1_
+        EMbtnAdd.Location = New Point(7, 9)
+        EMbtnAdd.Name = "EMbtnAdd"
+        EMbtnAdd.PressedColor = Color.WhiteSmoke
+        EMbtnAdd.ShadowDecoration.CustomizableEdges = CustomizableEdges314
+        EMbtnAdd.Size = New Size(51, 45)
+        EMbtnAdd.TabIndex = 6
         ' 
-        ' Guna2TextBox11
+        ' EMbtnDel
         ' 
-        Guna2TextBox11.CustomizableEdges = CustomizableEdges3
-        Guna2TextBox11.DefaultText = ""
-        Guna2TextBox11.DisabledState.BorderColor = Color.FromArgb(208, 208, 208)
-        Guna2TextBox11.DisabledState.FillColor = Color.FromArgb(226, 226, 226)
-        Guna2TextBox11.DisabledState.ForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox11.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138)
-        Guna2TextBox11.FocusedState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox11.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2TextBox11.HoverState.BorderColor = Color.FromArgb(94, 148, 255)
-        Guna2TextBox11.Location = New Point(388, 105)
-        Guna2TextBox11.Name = "Guna2TextBox11"
-        Guna2TextBox11.PasswordChar = ChrW(0)
-        Guna2TextBox11.PlaceholderText = ""
-        Guna2TextBox11.SelectedText = ""
-        Guna2TextBox11.ShadowDecoration.CustomizableEdges = CustomizableEdges4
-        Guna2TextBox11.Size = New Size(320, 30)
-        Guna2TextBox11.TabIndex = 5
+        EMbtnDel.CustomizableEdges = CustomizableEdges311
+        EMbtnDel.DisabledState.BorderColor = Color.DarkGray
+        EMbtnDel.DisabledState.CustomBorderColor = Color.DarkGray
+        EMbtnDel.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        EMbtnDel.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        EMbtnDel.FillColor = Color.Transparent
+        EMbtnDel.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        EMbtnDel.ForeColor = Color.White
+        EMbtnDel.Image = Resources.pencil__1_
+        EMbtnDel.Location = New Point(64, 6)
+        EMbtnDel.Name = "EMbtnDel"
+        EMbtnDel.PressedColor = Color.WhiteSmoke
+        EMbtnDel.ShadowDecoration.CustomizableEdges = CustomizableEdges312
+        EMbtnDel.Size = New Size(51, 45)
+        EMbtnDel.TabIndex = 7
         ' 
-        ' Guna2HtmlLabel109
+        ' EMbtnEdit
         ' 
-        Guna2HtmlLabel109.BackColor = Color.Transparent
-        Guna2HtmlLabel109.ForeColor = SystemColors.ButtonFace
-        Guna2HtmlLabel109.Location = New Point(139, 169)
-        Guna2HtmlLabel109.Name = "Guna2HtmlLabel109"
-        Guna2HtmlLabel109.Size = New Size(535, 17)
-        Guna2HtmlLabel109.TabIndex = 7
-        Guna2HtmlLabel109.Text = "UNMARRIED CHILDREN BELOW EIGHTEEN (18) YEARS OF AGE LIVING IN DECLARANT’S HOUSEHOLD"
-        ' 
-        ' Guna2Panel18
-        ' 
-        Guna2Panel18.CustomizableEdges = CustomizableEdges1
-        Guna2Panel18.Location = New Point(66, 197)
-        Guna2Panel18.Name = "Guna2Panel18"
-        Guna2Panel18.ShadowDecoration.CustomizableEdges = CustomizableEdges2
-        Guna2Panel18.Size = New Size(200, 100)
-        Guna2Panel18.TabIndex = 1
-        ' 
-        ' Guna2DateTimePicker4
-        ' 
-        Guna2DateTimePicker4.Checked = True
-        Guna2DateTimePicker4.CustomizableEdges = CustomizableEdges125
-        Guna2DateTimePicker4.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2DateTimePicker4.Format = DateTimePickerFormat.Long
-        Guna2DateTimePicker4.Location = New Point(99, 335)
-        Guna2DateTimePicker4.MaxDate = New Date(9998, 12, 31, 0, 0, 0, 0)
-        Guna2DateTimePicker4.MinDate = New Date(1753, 1, 1, 0, 0, 0, 0)
-        Guna2DateTimePicker4.Name = "Guna2DateTimePicker4"
-        Guna2DateTimePicker4.ShadowDecoration.CustomizableEdges = CustomizableEdges126
-        Guna2DateTimePicker4.Size = New Size(200, 36)
-        Guna2DateTimePicker4.TabIndex = 69
-        Guna2DateTimePicker4.Value = New Date(2023, 7, 4, 15, 22, 8, 556)
-        ' 
-        ' Guna2HtmlLabel110
-        ' 
-        Guna2HtmlLabel110.BackColor = Color.Transparent
-        Guna2HtmlLabel110.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        Guna2HtmlLabel110.Location = New Point(35, 345)
-        Guna2HtmlLabel110.Name = "Guna2HtmlLabel110"
-        Guna2HtmlLabel110.Size = New Size(58, 17)
-        Guna2HtmlLabel110.TabIndex = 70
-        Guna2HtmlLabel110.Text = "SURNAME"
+        EMbtnEdit.CustomizableEdges = CustomizableEdges309
+        EMbtnEdit.DisabledState.BorderColor = Color.DarkGray
+        EMbtnEdit.DisabledState.CustomBorderColor = Color.DarkGray
+        EMbtnEdit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
+        EMbtnEdit.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
+        EMbtnEdit.FillColor = Color.Transparent
+        EMbtnEdit.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+        EMbtnEdit.ForeColor = Color.White
+        EMbtnEdit.Image = Resources.trash
+        EMbtnEdit.Location = New Point(1520, 9)
+        EMbtnEdit.Name = "EMbtnEdit"
+        EMbtnEdit.PressedColor = Color.WhiteSmoke
+        EMbtnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges310
+        EMbtnEdit.Size = New Size(51, 45)
+        EMbtnEdit.TabIndex = 8
         ' 
         ' EmployeeManagement
         ' 
@@ -6884,6 +7156,11 @@ Partial Class EmployeeManagement
         Name = "EmployeeManagement"
         Size = New Size(1800, 1000)
         TabPage3.ResumeLayout(False)
+        Guna2Panel16.ResumeLayout(False)
+        Guna2Panel18.ResumeLayout(False)
+        Guna2Panel18.PerformLayout()
+        Guna2Panel17.ResumeLayout(False)
+        Guna2Panel17.PerformLayout()
         TabPage2.ResumeLayout(False)
         Guna2GradientPanel7.ResumeLayout(False)
         Guna2GradientPanel9.ResumeLayout(False)
@@ -6954,11 +7231,6 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).EndInit()
         Guna2Panel3.ResumeLayout(False)
         Guna2TabControl1.ResumeLayout(False)
-        Guna2Panel15.ResumeLayout(False)
-        Guna2Panel15.PerformLayout()
-        Guna2Panel16.ResumeLayout(False)
-        Guna2Panel17.ResumeLayout(False)
-        Guna2Panel17.PerformLayout()
         ResumeLayout(False)
     End Sub
 
@@ -7365,4 +7637,16 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2Panel18 As Guna2Panel
     Friend WithEvents Guna2HtmlLabel110 As Guna2HtmlLabel
     Friend WithEvents Guna2DateTimePicker4 As Guna2DateTimePicker
+    Friend WithEvents Guna2TextBox19 As Guna2TextBox
+    Friend WithEvents Guna2TextBox18 As Guna2TextBox
+    Friend WithEvents Guna2TextBox17 As Guna2TextBox
+    Friend WithEvents Guna2TextBox16 As Guna2TextBox
+    Friend WithEvents Guna2TextBox15 As Guna2TextBox
+    Friend WithEvents Guna2TextBox14 As Guna2TextBox
+    Friend WithEvents Guna2TextBox13 As Guna2TextBox
+    Friend WithEvents Guna2TextBox12 As Guna2TextBox
+    Friend WithEvents Guna2HtmlLabel126 As Guna2HtmlLabel
+    Friend WithEvents EMbtnEdit As Guna2Button
+    Friend WithEvents EMbtnDel As Guna2Button
+    Friend WithEvents EMbtnAdd As Guna2Button
 End Class
