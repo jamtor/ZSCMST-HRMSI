@@ -449,6 +449,7 @@ Partial Class EmployeeManagement
         Column9 = New DataGridViewTextBoxColumn()
         Column10 = New DataGridViewTextBoxColumn()
         Column11 = New DataGridViewTextBoxColumn()
+        bsChild = New BindingSource(components)
         Guna2HtmlLabel178 = New Guna2HtmlLabel()
         Guna2HtmlLabel179 = New Guna2HtmlLabel()
         Guna2HtmlLabel180 = New Guna2HtmlLabel()
@@ -498,13 +499,6 @@ Partial Class EmployeeManagement
         TabPage21 = New TabPage()
         EBbtn = New Guna2Button()
         EBdgv = New Guna2DataGridView()
-        Column12 = New DataGridViewTextBoxColumn()
-        Column13 = New DataGridViewTextBoxColumn()
-        Column14 = New DataGridViewTextBoxColumn()
-        Column15 = New DataGridViewTextBoxColumn()
-        Column16 = New DataGridViewTextBoxColumn()
-        Column17 = New DataGridViewTextBoxColumn()
-        Column18 = New DataGridViewTextBoxColumn()
         EBtbt57 = New Guna2TextBox()
         Guna2HtmlLabel65 = New Guna2HtmlLabel()
         Guna2HtmlLabel64 = New Guna2HtmlLabel()
@@ -715,6 +709,11 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel7 = New Guna2HtmlLabel()
         Guna2HtmlLabel8 = New Guna2HtmlLabel()
         Guna2HtmlLabel118 = New Guna2HtmlLabel()
+        bsEdu = New BindingSource(components)
+        Column12 = New DataGridViewTextBoxColumn()
+        Column13 = New DataGridViewTextBoxColumn()
+        Column14 = New DataGridViewTextBoxColumn()
+        Column15 = New DataGridViewTextBoxColumn()
         TabPage2.SuspendLayout()
         Guna2GradientPanel7.SuspendLayout()
         Guna2GradientPanel9.SuspendLayout()
@@ -738,6 +737,7 @@ Partial Class EmployeeManagement
         TabPage20.SuspendLayout()
         Guna2Panel4.SuspendLayout()
         CType(FBdgv, ComponentModel.ISupportInitialize).BeginInit()
+        CType(bsChild, ComponentModel.ISupportInitialize).BeginInit()
         TabPage21.SuspendLayout()
         CType(EBdgv, ComponentModel.ISupportInitialize).BeginInit()
         TabPage14.SuspendLayout()
@@ -766,6 +766,7 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).BeginInit()
         Guna2Panel3.SuspendLayout()
         Guna2TabControl1.SuspendLayout()
+        CType(bsEdu, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' TabPage10
@@ -2581,6 +2582,7 @@ Partial Class EmployeeManagement
         FBdgv.AllowUserToDeleteRows = False
         DataGridViewCellStyle4.BackColor = Color.White
         FBdgv.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle4
+        FBdgv.AutoGenerateColumns = False
         FBdgv.BackgroundColor = Color.FloralWhite
         DataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle5.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
@@ -2593,6 +2595,7 @@ Partial Class EmployeeManagement
         FBdgv.ColumnHeadersHeight = 17
         FBdgv.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
         FBdgv.Columns.AddRange(New DataGridViewColumn() {Column8, Column9, Column10, Column11})
+        FBdgv.DataSource = bsChild
         DataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle6.BackColor = Color.White
         DataGridViewCellStyle6.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
@@ -2632,23 +2635,30 @@ Partial Class EmployeeManagement
         ' 
         ' Column8
         ' 
+        Column8.DataPropertyName = "child_lastname"
         Column8.HeaderText = "SURNAME"
         Column8.Name = "Column8"
         ' 
         ' Column9
         ' 
+        Column9.DataPropertyName = "child_firstname"
         Column9.HeaderText = "FIRST NAME"
         Column9.Name = "Column9"
         ' 
         ' Column10
         ' 
+        Column10.DataPropertyName = "child_midname"
         Column10.HeaderText = "MIDDLE NAME"
         Column10.Name = "Column10"
         ' 
         ' Column11
         ' 
+        Column11.DataPropertyName = "child_ext"
         Column11.HeaderText = "EXTENSION"
         Column11.Name = "Column11"
+        ' 
+        ' bsChild
+        ' 
         ' 
         ' Guna2HtmlLabel178
         ' 
@@ -3017,7 +3027,7 @@ Partial Class EmployeeManagement
         FBtbt46.FocusedState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
         FBtbt46.Font = New Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point)
         FBtbt46.HoverState.BorderColor = Color.FromArgb(CByte(94), CByte(148), CByte(255))
-        FBtbt46.Location = New Point(241, 587)
+        FBtbt46.Location = New Point(252, 587)
         FBtbt46.Name = "FBtbt46"
         FBtbt46.PasswordChar = ChrW(0)
         FBtbt46.PlaceholderText = ""
@@ -3366,6 +3376,7 @@ Partial Class EmployeeManagement
         EBdgv.AllowUserToDeleteRows = False
         DataGridViewCellStyle7.BackColor = Color.White
         EBdgv.AlternatingRowsDefaultCellStyle = DataGridViewCellStyle7
+        EBdgv.AutoGenerateColumns = False
         EBdgv.BackgroundColor = Color.WhiteSmoke
         DataGridViewCellStyle8.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle8.BackColor = Color.FromArgb(CByte(100), CByte(88), CByte(255))
@@ -3377,7 +3388,8 @@ Partial Class EmployeeManagement
         EBdgv.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle8
         EBdgv.ColumnHeadersHeight = 32
         EBdgv.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing
-        EBdgv.Columns.AddRange(New DataGridViewColumn() {Column12, Column13, Column14, Column15, Column16, Column17, Column18})
+        EBdgv.Columns.AddRange(New DataGridViewColumn() {Column12, Column13, Column14, Column15})
+        EBdgv.DataSource = bsEdu
         DataGridViewCellStyle9.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle9.BackColor = Color.White
         DataGridViewCellStyle9.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
@@ -3415,48 +3427,6 @@ Partial Class EmployeeManagement
         EBdgv.ThemeStyle.RowsStyle.Height = 25
         EBdgv.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(CByte(231), CByte(229), CByte(255))
         EBdgv.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(CByte(71), CByte(69), CByte(94))
-        ' 
-        ' Column12
-        ' 
-        Column12.HeaderText = "Name of School"
-        Column12.Name = "Column12"
-        Column12.ReadOnly = True
-        ' 
-        ' Column13
-        ' 
-        Column13.HeaderText = "Education"
-        Column13.Name = "Column13"
-        Column13.ReadOnly = True
-        ' 
-        ' Column14
-        ' 
-        Column14.HeaderText = "From"
-        Column14.Name = "Column14"
-        Column14.ReadOnly = True
-        ' 
-        ' Column15
-        ' 
-        Column15.HeaderText = "To"
-        Column15.Name = "Column15"
-        Column15.ReadOnly = True
-        ' 
-        ' Column16
-        ' 
-        Column16.HeaderText = "Highest Grade/Units"
-        Column16.Name = "Column16"
-        Column16.ReadOnly = True
-        ' 
-        ' Column17
-        ' 
-        Column17.HeaderText = "Year Graduated"
-        Column17.Name = "Column17"
-        Column17.ReadOnly = True
-        ' 
-        ' Column18
-        ' 
-        Column18.HeaderText = "Scholarship/Award"
-        Column18.Name = "Column18"
-        Column18.ReadOnly = True
         ' 
         ' EBtbt57
         ' 
@@ -4200,6 +4170,9 @@ Partial Class EmployeeManagement
         Column38.HeaderText = "Date Validity"
         Column38.Name = "Column38"
         Column38.ReadOnly = True
+        ' 
+        ' bsEligibility
+        ' 
         ' 
         ' CSEbtn
         ' 
@@ -6576,6 +6549,36 @@ Partial Class EmployeeManagement
         Guna2HtmlLabel118.Text = "V. WORK EXPERIENCE"
         Guna2HtmlLabel118.TextAlignment = ContentAlignment.MiddleLeft
         ' 
+        ' Column12
+        ' 
+        Column12.DataPropertyName = "name_school"
+        Column12.HeaderText = "Name of School"
+        Column12.Name = "Column12"
+        Column12.ReadOnly = True
+        ' 
+        ' Column13
+        ' 
+        Column13.DataPropertyName = "basic_edu"
+        Column13.HeaderText = "Education"
+        Column13.Name = "Column13"
+        Column13.ReadOnly = True
+        ' 
+        ' Column14
+        ' 
+        Column14.DataPropertyName = "start_date"
+        Column14.FillWeight = 60F
+        Column14.HeaderText = "From"
+        Column14.Name = "Column14"
+        Column14.ReadOnly = True
+        ' 
+        ' Column15
+        ' 
+        Column15.DataPropertyName = "end_date"
+        Column15.FillWeight = 60F
+        Column15.HeaderText = "To"
+        Column15.Name = "Column15"
+        Column15.ReadOnly = True
+        ' 
         ' EmployeeManagement
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -6613,6 +6616,7 @@ Partial Class EmployeeManagement
         Guna2Panel4.ResumeLayout(False)
         Guna2Panel4.PerformLayout()
         CType(FBdgv, ComponentModel.ISupportInitialize).EndInit()
+        CType(bsChild, ComponentModel.ISupportInitialize).EndInit()
         TabPage21.ResumeLayout(False)
         TabPage21.PerformLayout()
         CType(EBdgv, ComponentModel.ISupportInitialize).EndInit()
@@ -6651,6 +6655,7 @@ Partial Class EmployeeManagement
         CType(bsEmp, ComponentModel.ISupportInitialize).EndInit()
         Guna2Panel3.ResumeLayout(False)
         Guna2TabControl1.ResumeLayout(False)
+        CType(bsEdu, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -6822,10 +6827,6 @@ Partial Class EmployeeManagement
     Friend WithEvents TabPage20 As TabPage
     Friend WithEvents Guna2Panel4 As Guna2Panel
     Friend WithEvents FBdgv As Guna2DataGridView
-    Friend WithEvents Column8 As DataGridViewTextBoxColumn
-    Friend WithEvents Column9 As DataGridViewTextBoxColumn
-    Friend WithEvents Column10 As DataGridViewTextBoxColumn
-    Friend WithEvents Column11 As DataGridViewTextBoxColumn
     Friend WithEvents Guna2HtmlLabel178 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel179 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel180 As Guna2HtmlLabel
@@ -6874,13 +6875,6 @@ Partial Class EmployeeManagement
     Friend WithEvents Guna2HtmlLabel38 As Guna2HtmlLabel
     Friend WithEvents TabPage21 As TabPage
     Friend WithEvents EBdgv As Guna2DataGridView
-    Friend WithEvents Column12 As DataGridViewTextBoxColumn
-    Friend WithEvents Column13 As DataGridViewTextBoxColumn
-    Friend WithEvents Column14 As DataGridViewTextBoxColumn
-    Friend WithEvents Column15 As DataGridViewTextBoxColumn
-    Friend WithEvents Column16 As DataGridViewTextBoxColumn
-    Friend WithEvents Column17 As DataGridViewTextBoxColumn
-    Friend WithEvents Column18 As DataGridViewTextBoxColumn
     Friend WithEvents EBtbt57 As Guna2TextBox
     Friend WithEvents Guna2HtmlLabel65 As Guna2HtmlLabel
     Friend WithEvents Guna2HtmlLabel64 As Guna2HtmlLabel
@@ -7041,4 +7035,14 @@ Partial Class EmployeeManagement
     Friend WithEvents Column36 As DataGridViewTextBoxColumn
     Friend WithEvents Column37 As DataGridViewTextBoxColumn
     Friend WithEvents Column38 As DataGridViewTextBoxColumn
+    Friend WithEvents bsChild As BindingSource
+    Friend WithEvents Column8 As DataGridViewTextBoxColumn
+    Friend WithEvents Column9 As DataGridViewTextBoxColumn
+    Friend WithEvents Column10 As DataGridViewTextBoxColumn
+    Friend WithEvents Column11 As DataGridViewTextBoxColumn
+    Friend WithEvents bsEdu As BindingSource
+    Friend WithEvents Column12 As DataGridViewTextBoxColumn
+    Friend WithEvents Column13 As DataGridViewTextBoxColumn
+    Friend WithEvents Column14 As DataGridViewTextBoxColumn
+    Friend WithEvents Column15 As DataGridViewTextBoxColumn
 End Class

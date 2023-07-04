@@ -47,16 +47,50 @@ Public Class EmployeeManagement
             tbt29.Text = NullText(bsEmp.Current("permanent_city"))
             tbt30.Text = NullText(bsEmp.Current("permanent_province"))
             tbt31.Text = NullText(bsEmp.Current("permanent_zip"))
+
+            getC1Employee_spouse(bsEmp.Current("id"))
+            getC1Employee_children(bsEmp.Current("id"))
+            getC1Employee_parents(bsEmp.Current("id"))
+            getC1Employee_education(bsEmp.Current("id"))
             getC2Employee_Eligibility(bsEmp.Current("id"))
         End If
     End Sub
-    Private Function getC2Employee_Eligibility(ByVal x As String)
+    Private Sub getC1Employee_education(ByVal empId As String)
+        Dim dt As New DataTable
+        Using qry As New SqlDataAdapter("SELECT * FROM CI_EMP_EDU WHERE employeeId = '" & empId & "'", msCon)
+            dt.Clear() : qry.Fill(dt)
+            bsEdu.DataSource = dt
+        End Using
+    End Sub
+    Private Sub getC1Employee_parents(ByVal empId As String)
+        Dim dt As New DataTable
+        Using qry As New SqlDataAdapter("SELECT * FROM CI_EMP_PARENTS WHERE employeeId = '" & empId & "'", msCon)
+            dt.Clear() : qry.Fill(dt)
+            If dt.Rows.Count > 0 Then
+                If dt.Rows(0).Item("parent_type") = "Father" Then
+                    FBtbt45.Text = NullText(dt.Rows(0).Item("lastName"))
+                    FBtbt46.Text = NullText(dt.Rows(0).Item("firstName"))
+                    FBtbt47.Text = NullText(dt.Rows(0).Item("midName"))
+                    FBtbt48.Text = NullText(dt.Rows(0).Item("nameExt"))
+                End If
+                If dt.Rows(1).Item("parent_type") = "Mother" Then
+                    FBtbt49.Text = NullText(dt.Rows(1).Item("lastName"))
+                    FBtbt50.Text = NullText(dt.Rows(1).Item("firstName"))
+                    FBtbt51.Text = NullText(dt.Rows(1).Item("midName"))
+                    FBtbt52.Text = NullText(dt.Rows(1).Item("nameExt"))
+                End If
+            Else
+                custom_tbt("FBtbt", 45, 52)
+            End If
+        End Using
+    End Sub
+    Private Sub getC2Employee_Eligibility(ByVal x As String)
         Dim dt As New DataTable
         Using qry As New SqlDataAdapter("select * from getC2Employee_Eligibility('" & x & "')", msCon)
             dt.Clear() : qry.Fill(dt)
             bsEligibility.DataSource = dt
         End Using
-    End Function
+    End Sub
     Private Sub btnEdit_Click(sender As Object, e As EventArgs) Handles btnEdit.Click
         textBoxEnabled()
     End Sub
@@ -73,6 +107,65 @@ Public Class EmployeeManagement
     Private Sub bsEligibility_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsEligibility.CurrentItemChanged
         If bsEligibility.Count > 0 Then
             CSEtbt1.Text = NullText(bsEligibility.Current("career_service"))
+        End If
+    End Sub
+    Private Sub getC1Employee_children(ByVal empId As String)
+        Dim dt As New DataTable
+        Using qry As New SqlDataAdapter("SELECT * FROM CI_EMP_CHILD WHERE employeeId = '" & empId & "'", msCon)
+            dt.Clear() : qry.Fill(dt)
+            If dt.Rows.Count > 0 Then
+                bsChild.DataSource = dt
+            Else
+                bsChild.DataSource = Nothing
+            End If
+        End Using
+    End Sub
+    Private Sub getC1Employee_spouse(ByVal empId As String)
+        Dim dt As New DataTable
+        Using qry As New SqlDataAdapter("select * from CI_EMP_SPOUSE where employeeId = '" & empId & "' ", msCon)
+            dt.Clear() : qry.Fill(dt)
+            If dt.Rows.Count > 0 Then
+                FBtbt33.Text = NullText(dt.Rows(0).Item("spouse_lastName"))
+                FBtbt34.Text = NullText(dt.Rows(0).Item("spouse_firstName"))
+                FBtbt35.Text = NullText(dt.Rows(0).Item("spouse_middleName"))
+                FBtbt36.Text = NullText(dt.Rows(0).Item("spouse_extension"))
+                FBtbt37.Text = NullText(dt.Rows(0).Item("spouse_occupation"))
+                FBtbt38.Text = NullText(dt.Rows(0).Item("spouse_employer"))
+                FBtbt39.Text = NullText(dt.Rows(0).Item("spouse_employer_add"))
+                FBtbt40.Text = NullText(dt.Rows(0).Item("spouse_employer_tel"))
+            Else
+                custom_tbt("FBtbt", 33, 40)
+            End If
+        End Using
+    End Sub
+    Private Sub custom_tbt(ByVal controlName As String, startInt As Integer, endInt As Integer)
+        For i = startInt To endInt
+            Dim tb = Me.Controls.Find(controlName & i, True)
+            If tb.Length > 0 Then
+                tb(0).Text = Nothing
+            End If
+        Next
+    End Sub
+
+    Private Sub bsChild_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsChild.CurrentItemChanged
+        If bsChild.Count > 0 Then
+            FBtbt41.Text = NullText(bsChild.Current("child_lastname"))
+            FBtbt42.Text = NullText(bsChild.Current("child_firstname"))
+            FBtbt43.Text = NullText(bsChild.Current("child_midname"))
+            FBtbt44.Text = NullText(bsChild.Current("child_ext"))
+        Else
+            custom_tbt("FBtbt", 41, 44)
+        End If
+    End Sub
+
+    Private Sub bsEdu_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsEdu.CurrentItemChanged
+        If bsEdu.Count > 0 Then
+            EBtbt53.Text = NullText(bsEdu.Current(""))
+            EBtbt53.Text = NullText(bsEdu.Current(""))
+            EBtbt53.Text = NullText(bsEdu.Current(""))
+            EBtbt53.Text = NullText(bsEdu.Current(""))
+            EBtbt53.Text = NullText(bsEdu.Current(""))
+            EBtbt53.Text = NullText(bsEdu.Current(""))
         End If
     End Sub
 End Class
