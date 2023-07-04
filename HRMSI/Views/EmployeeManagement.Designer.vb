@@ -7104,7 +7104,7 @@ Partial Class EmployeeManagement
         EMbtnAdd.FillColor = Color.Transparent
         EMbtnAdd.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EMbtnAdd.ForeColor = Color.White
-        EMbtnAdd.Image = Resources.add__1_
+        EMbtnAdd.Image = resources.addW
         EMbtnAdd.Location = New Point(7, 9)
         EMbtnAdd.Name = "EMbtnAdd"
         EMbtnAdd.PressedColor = Color.WhiteSmoke
@@ -7122,7 +7122,7 @@ Partial Class EmployeeManagement
         EMbtnDel.FillColor = Color.Transparent
         EMbtnDel.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EMbtnDel.ForeColor = Color.White
-        EMbtnDel.Image = Resources.pencil__1_
+        EMbtnDel.Image = resources.pencilW
         EMbtnDel.Location = New Point(64, 6)
         EMbtnDel.Name = "EMbtnDel"
         EMbtnDel.PressedColor = Color.WhiteSmoke
@@ -7140,7 +7140,7 @@ Partial Class EmployeeManagement
         EMbtnEdit.FillColor = Color.Transparent
         EMbtnEdit.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
         EMbtnEdit.ForeColor = Color.White
-        EMbtnEdit.Image = Resources.trash
+        EMbtnEdit.Image = resources.trashW
         EMbtnEdit.Location = New Point(1520, 9)
         EMbtnEdit.Name = "EMbtnEdit"
         EMbtnEdit.PressedColor = Color.WhiteSmoke
