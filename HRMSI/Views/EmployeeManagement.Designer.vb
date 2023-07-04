@@ -7094,60 +7094,6 @@ Partial Class EmployeeManagement
         Guna2TextBox19.Size = New Size(200, 30)
         Guna2TextBox19.TabIndex = 15
         ' 
-        ' EMbtnAdd
-        ' 
-        EMbtnAdd.CustomizableEdges = CustomizableEdges313
-        EMbtnAdd.DisabledState.BorderColor = Color.DarkGray
-        EMbtnAdd.DisabledState.CustomBorderColor = Color.DarkGray
-        EMbtnAdd.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        EMbtnAdd.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        EMbtnAdd.FillColor = Color.Transparent
-        EMbtnAdd.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EMbtnAdd.ForeColor = Color.White
-        EMbtnAdd.Image = resources.addW
-        EMbtnAdd.Location = New Point(7, 9)
-        EMbtnAdd.Name = "EMbtnAdd"
-        EMbtnAdd.PressedColor = Color.WhiteSmoke
-        EMbtnAdd.ShadowDecoration.CustomizableEdges = CustomizableEdges314
-        EMbtnAdd.Size = New Size(51, 45)
-        EMbtnAdd.TabIndex = 6
-        ' 
-        ' EMbtnDel
-        ' 
-        EMbtnDel.CustomizableEdges = CustomizableEdges311
-        EMbtnDel.DisabledState.BorderColor = Color.DarkGray
-        EMbtnDel.DisabledState.CustomBorderColor = Color.DarkGray
-        EMbtnDel.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        EMbtnDel.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        EMbtnDel.FillColor = Color.Transparent
-        EMbtnDel.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EMbtnDel.ForeColor = Color.White
-        EMbtnDel.Image = resources.pencilW
-        EMbtnDel.Location = New Point(64, 6)
-        EMbtnDel.Name = "EMbtnDel"
-        EMbtnDel.PressedColor = Color.WhiteSmoke
-        EMbtnDel.ShadowDecoration.CustomizableEdges = CustomizableEdges312
-        EMbtnDel.Size = New Size(51, 45)
-        EMbtnDel.TabIndex = 7
-        ' 
-        ' EMbtnEdit
-        ' 
-        EMbtnEdit.CustomizableEdges = CustomizableEdges309
-        EMbtnEdit.DisabledState.BorderColor = Color.DarkGray
-        EMbtnEdit.DisabledState.CustomBorderColor = Color.DarkGray
-        EMbtnEdit.DisabledState.FillColor = Color.FromArgb(CByte(169), CByte(169), CByte(169))
-        EMbtnEdit.DisabledState.ForeColor = Color.FromArgb(CByte(141), CByte(141), CByte(141))
-        EMbtnEdit.FillColor = Color.Transparent
-        EMbtnEdit.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
-        EMbtnEdit.ForeColor = Color.White
-        EMbtnEdit.Image = resources.trashW
-        EMbtnEdit.Location = New Point(1520, 9)
-        EMbtnEdit.Name = "EMbtnEdit"
-        EMbtnEdit.PressedColor = Color.WhiteSmoke
-        EMbtnEdit.ShadowDecoration.CustomizableEdges = CustomizableEdges310
-        EMbtnEdit.Size = New Size(51, 45)
-        EMbtnEdit.TabIndex = 8
-        ' 
         ' EmployeeManagement
         ' 
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
