@@ -4,10 +4,10 @@ Public Class EmployeeManagement
     Dim dataTbl As New DataTable
 
     Private Sub loadEmployeMngt()
-        'Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
-        '    dataTbl.Clear() : sql.Fill(dataTbl)
-        '    bsEmp.DataSource = dataTbl
-        'End Using
+        Using sql As New SqlDataAdapter("SELECT * FROM F1_EMPLOYEE", msCon)
+            dataTbl.Clear() : sql.Fill(dataTbl)
+            bsEmp.DataSource = dataTbl
+        End Using
     End Sub
 
     Private Sub EmployeeManagement_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -47,9 +47,16 @@ Public Class EmployeeManagement
             tbt29.Text = NullText(bsEmp.Current("permanent_city"))
             tbt30.Text = NullText(bsEmp.Current("permanent_province"))
             tbt31.Text = NullText(bsEmp.Current("permanent_zip"))
+            getC2Employee_Eligibility(bsEmp.Current("id"))
         End If
     End Sub
-
+    Private Function getC2Employee_Eligibility(ByVal x As String)
+        Dim dt As New DataTable
+        Using qry As New SqlDataAdapter("select * from getC2Employee_Eligibility('" & x & "')", msCon)
+            dt.Clear() : qry.Fill(dt)
+            bsEligibility.DataSource = dt
+        End Using
+    End Function
     Private Sub btnEdit_Click(sender As Object, e As EventArgs) Handles btnEdit.Click
         textBoxEnabled()
     End Sub
@@ -63,15 +70,9 @@ Public Class EmployeeManagement
         dgView.Enabled = False
     End Sub
 
-    Private Sub Guna2GradientPanel9_Paint(sender As Object, e As PaintEventArgs)
-
-    End Sub
-
-    Private Sub Guna2GradientPanel9_Paint_1(sender As Object, e As PaintEventArgs) Handles Guna2GradientPanel9.Paint
-
-    End Sub
-
-    Private Sub TabPage22_Click(sender As Object, e As EventArgs) Handles TabPage22.Click
-
+    Private Sub bsEligibility_CurrentItemChanged(sender As Object, e As EventArgs) Handles bsEligibility.CurrentItemChanged
+        If bsEligibility.Count > 0 Then
+            CSEtbt1.Text = NullText(bsEligibility.Current("career_service"))
+        End If
     End Sub
 End Class

@@ -4,7 +4,7 @@ Imports Microsoft.VisualBasic.Logging
 Public Class Mainform
 
     Private Sub Mainform_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'dbopen()
+        dbopen()
     End Sub
 
     Private Sub Guna2TileButton2_Click(sender As Object, e As EventArgs) Handles Guna2TileButton2.Click
