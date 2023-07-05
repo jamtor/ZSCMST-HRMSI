@@ -2,11 +2,11 @@
     Public con As New MySqlConnection
     Public msCon As New SqlConnection
 
-    Public Sub dbopen()
-        If msCon.State = ConnectionState.Open Then msCon.Close()
-        msCon.ConnectionString = My.Settings.mssqlCon
-        msCon.Open()
-    End Sub
+    'Public Sub dbopen()
+    'If msCon.State = ConnectionState.Open Then msCon.Close()
+    '  msCon.ConnectionString = My.Settings.mssqlCon
+    ' msCon.Open()
+    'End Sub
 
     Public Function NullText(ByVal x As Object) As Object
         On Error GoTo errhanler
