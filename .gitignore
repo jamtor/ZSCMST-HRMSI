@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/HRMSI/Views/EmployeeManagement.vb
+/HRMSI/MainMod.vb
+/HRMSI/Mainform.vb
+/HRMSI/Views/EmployeeManagement.Designer.vb
+/HRMSI/Views/EmployeeManagement.resx
+/HRMSI/Views/EmployeeManagement.vb
+/HRMSI/Mainform.vb
+/HRMSI/MainMod.vb
